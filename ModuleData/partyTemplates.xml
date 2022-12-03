@@ -472,6 +472,22 @@
 
     </stacks>
   </MBPartyTemplate>
+
+	<MBPartyTemplate id="kingdom_hero_party_cimbri_template" >
+		<stacks>
+			<PartyTemplateStack min_value="16" max_value="30" troop="NPCCharacter.cimbri_tribesmen" />
+			<PartyTemplateStack min_value="8" max_value="16" troop="NPCCharacter.cimbri_raider" />
+			<PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.cimbri_nobles_son" />
+		</stacks>
+	</MBPartyTemplate>
+
+	<MBPartyTemplate id="kingdom_hero_party_scordisci_template" >
+		<stacks>
+			<PartyTemplateStack min_value="16" max_value="30" troop="NPCCharacter.scordisci_levy" />
+			<PartyTemplateStack min_value="8" max_value="16" troop="NPCCharacter.scordisci_tribesmen" />
+			<PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.scordisci_noble_warrior" />
+		</stacks>
+	</MBPartyTemplate>
   
   <!-- party templates for mercenary minor factions (4) -->
   <MBPartyTemplate id="kingdom_hero_party_mercenary_aserai_template" >

@@ -517,28 +517,25 @@
 	and diligent in their execution of warfare against the Empire's enemies."	
 		-->
   
-  <!--
-	Unsympathetic: close-minded
-	Patriarch (1_5) is imperial blowhard
-	Heir 23 - is younger imperial blowhard
-	Lieutenant	
-	-->
+  <!-- Cimbri -->
   
   <Faction id="clan_empire_north_5"
            name="{=4rr3d8hY}Dolentos"
            tier="3"
            owner="Hero.lord_1_50"
-           culture="Culture.empire"
-           super_faction="Kingdom.empire"
-           banner_key="11.71.4.8690.8690.590.796.1.0.0.202.5.0.368.368.854.864.0.0.55.202.5.0.370.389.674.864.0.1.303.331.5.0.368.368.764.699.0.0.0" />
+           culture="Culture.cimbri"
+           super_faction="Kingdom.Cimbri"
+           banner_key="34.135.100.2240.2217.760.782.0.0.0.500.136.142.789.784.750.782.0.1.-1.203.92.135.439.491.586.770.0.1.-1.148.116.135.355.382.738.885.0.1.0.203.92.135.439.491.915.788.0.1.-1.427.126.135.439.116.750.1007.0.0.180.503.122.135.474.159.742.1048.0.0.180.437.116.135.167.139.740.1043.0.0.-1.115.116.135.120.100.694.560.0.0.-1" />
+	
   <Faction id="clan_empire_north_6"
            name="{=9ORFG9l4}Chonis"
            tier="2"
            owner="Hero.lord_1_51"
-           culture="Culture.empire"
-           super_faction="Kingdom.empire"
+           culture="Culture.cimbri"
+           super_faction="Kingdom.Cimbri"
            banner_key="11.71.4.4345.4345.764.764.1.0.0.502.5.0.487.487.764.764.0.0.0.300.5.0.447.447.764.764.0.0.0" />
   
+	
   <Faction id="clan_empire_north_8"
            name="{=SCTf5cay}Vatatzes"
            tier="3"
@@ -1074,7 +1071,7 @@
            tier="6"
            owner="Hero.lord_6_1"
            culture="Culture.khuzait"
-           super_faction="Kingdom.khuzait"
+           super_faction="Kingdom.Macedon"
            banner_key="11.25.10.4345.4345.764.764.1.0.0.449.11.0.327.349.764.649.0.0.0.449.11.0.319.339.764.879.0.0.180.510.11.0.351.240.634.764.0.0.180.510.11.0.351.240.894.764.0.0.180" />
   <!--
 		The Urkhunait are ruling clan of the Khuzaits, named after the Khagan Urkhun who transformed them from squabbling bands of fierce but undisciplined nomads into a formidable machine of war. The current Khan, Tulag, is cut from this cloth. Grim, humorless, as demanding of his followers as he is of himself, he has an unblemished record on the battlefield. But the Khuzaits are no longer a hungry people, desperate for a iron-handed warlord to lead them to richer pastures, and from the comfort of their palaces many clan leaders are beginning to wonder if they too could serve as Khagan.
@@ -1089,7 +1086,7 @@
            tier="4"
            owner="Hero.lord_6_4"
            culture="Culture.khuzait"
-           super_faction="Kingdom.khuzait"
+           super_faction="Kingdom.Macedon"
            banner_key="11.25.10.4345.4345.764.764.1.0.0.128.11.0.454.454.764.764.0.0.0" />
   <!--
 		The Khergit, or Roan Horses, were one of the first peoples to be subjugated by Urkhun. Although assimilated into his confederacy by force, they proved themselves some of his most valuable warriors, and were rewarded with extensive lands in his new conquests. War however took a heavy toll of the clan's males, and ten years ago the Arkit made a bid for their territories. Mesui, sister of a slain noyan and part of a long tradition of steppe warrior-women, led the Khergit's counter-attack. She continues to rule a clan nervous about its brush with extinction, and resentful of the Urkhunait for doing little to help them.
@@ -1103,7 +1100,7 @@
            tier="5"
            owner="Hero.lord_6_5"
            culture="Culture.khuzait"
-           super_faction="Kingdom.khuzait"
+           super_faction="Kingdom.Macedon"
            banner_key="11.25.10.4345.4345.764.764.1.0.0.446.11.0.438.438.764.764.0.0.269.503.11.0.164.164.754.767.0.0.315.509.11.0.133.133.767.915.0.0.315.503.11.0.95.95.948.760.0.0.315.503.11.0.95.95.581.763.0.0.315.509.11.0.133.133.762.613.0.0.315" />
   <!--
 		The Arkit, the Children of the Sky, were formerly the richest and most prestigious of the tribes in the Khuzait homelands, of which Urkhun and his followers were at first merely a humble offshoot. They followed the Khuzait hordes to the west but are not happy about living in the shadow of a less ancient lineage. Their patriarch, the noyan Monchug, models himself on Tulag but is somewhat less competent.
@@ -1117,42 +1114,48 @@
            tier="3"
            owner="Hero.lord_6_16"
            culture="Culture.khuzait"
-           super_faction="Kingdom.khuzait"
+           super_faction="Kingdom.Macedon"
            banner_key="11.25.10.4345.4345.780.802.1.0.0.503.11.0.164.164.904.913.0.0.0.314.11.0.508.508.764.764.0.0.0.503.11.0.164.164.624.913.0.0.0" />
   <Faction id="clan_khuzait_5"
            name="{=gXeF1yKn}Harfit"
            tier="3"
            owner="Hero.lord_6_17"
            culture="Culture.khuzait"
-           super_faction="Kingdom.khuzait"
+           super_faction="Kingdom.Macedon"
            banner_key="11.25.10.4345.4345.780.802.1.0.0.427.11.0.401.401.764.822.0.0.359.503.11.0.193.193.764.781.0.0.358.218.11.0.222.222.764.612.0.0.0" />
+
+	<!-- Scordisci -->
+	
   <Faction id="clan_khuzait_6"
            name="{=kbGk2so8}Baltait"
            tier="4"
            owner="Hero.lord_6_18"
-           culture="Culture.khuzait"
-           super_faction="Kingdom.khuzait"
-           banner_key="11.25.10.4345.4345.764.764.1.0.0.218.11.0.194.194.807.631.0.0.359.150.11.0.444.444.764.775.0.0.0" />
+           culture="Culture.scordisci"
+           super_faction="Kingdom.Scordisci"
+           banner_key="11.71.4.4922.4922.764.764.1.0.0.529.5.0.152.152.872.873.0.0.0.419.5.0.510.510.764.764.0.0.0.526.5.0.152.152.656.873.0.0.0.527.5.0.152.152.651.654.0.0.0.528.5.0.152.152.877.654.0.0.0" />
   <Faction id="clan_khuzait_7"
            name="{=b6SEM6Ab}Koltit"
            tier="3"
            owner="Hero.lord_6_19"
-           culture="Culture.khuzait"
-           super_faction="Kingdom.khuzait"
+           culture="Culture.scordisci"
+           super_faction="Kingdom.Scordisci"
            banner_key="11.25.10.4345.4345.764.764.1.0.0.117.11.0.346.346.841.838.0.0.179.508.11.0.110.110.638.876.0.0.0.117.11.0.342.342.692.687.0.0.0.508.11.0.108.108.890.648.0.0.0" />
+	
+	<!-- Ardiaei -->
+	
   <Faction id="clan_khuzait_8"
            name="{=W9n5iPbB}Yanserit"
-           tier="1"
+           tier="5"
            owner="Hero.lord_6_20"
            culture="Culture.khuzait"
-           super_faction="Kingdom.khuzait"
+           super_faction="Kingdom.Ardiaei"
            banner_key="11.25.10.4345.4345.764.764.1.0.0.427.11.0.236.236.726.768.0.0.273.427.11.0.236.236.802.760.0.0.93.503.11.0.80.80.764.764.0.0.0.510.11.0.236.165.869.644.0.0.0.510.11.0.236.165.869.884.0.0.0.510.11.0.236.165.656.884.0.0.0.510.11.0.236.165.656.644.0.0.0" />
   <Faction id="clan_khuzait_9"
            name="{=cYTdzMQ4}Oburit"
-           tier="2"
+           tier="3"
            owner="Hero.lord_K9_l"
            culture="Culture.khuzait"
-           super_faction="Kingdom.khuzait"
+           super_faction="Kingdom.Ardiaei"
            banner_key="11.25.10.4345.4345.764.764.1.0.0.427.11.0.206.176.764.667.0.0.0.503.11.0.92.87.764.642.0.0.0.218.11.0.109.90.764.572.0.0.0.510.11.0.250.300.641.862.0.0.90.504.11.0.155.92.764.769.0.0.180.510.11.0.249.300.887.862.0.0.90.504.11.0.155.92.764.957.0.0.180.503.11.0.92.87.764.859.0.0.0.510.11.0.136.131.764.814.0.0.0.510.11.0.136.131.764.907.0.0.0" />
   <!--
 	STURGIA

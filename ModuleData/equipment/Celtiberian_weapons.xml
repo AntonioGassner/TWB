@@ -5,7 +5,7 @@
   <CraftedItem id="Phallic_javelin"
                name="{=Phallica}Phallic Javelin"
                crafting_template="Celtic_Javelin"
-               culture="Culture.battania"
+               culture="Culture.celtiberian"
                modifier_group="spear_dart_throwing">
 		<Pieces>
 			<Piece id="spear_blade_16"
@@ -26,7 +26,7 @@
 	<CraftedItem id="soliferrum_javelin"
                name="{=Soliferrums}Soliferrum Javelin"
                crafting_template="Celtic_Javelin"
-               culture="Culture.battania"
+               culture="Culture.celtiberian"
                modifier_group="spear_dart_throwing">
 		<Pieces>
 			<Piece id="spear_blade_38"
@@ -47,7 +47,7 @@
 	<CraftedItem id="hans_espada_short_sword"
                name="{=Espada}Celtiberian Short Sword"
                crafting_template="OneHandedSword"
-               culture="Culture.empire">
+               culture="Culture.celtiberian">
     <Pieces>
       <Piece id="battania_blade_2"
              Type="Blade"
@@ -67,7 +67,7 @@
   <CraftedItem id="falcata_a"
                name="{=Irofalca}Iron falcata"
                crafting_template="OneHandedGreekSword"
-               culture="Culture.empire">
+               culture="Culture.celtiberian">
     <Pieces>
       <Piece id="kopis_blade_a"
              Type="Blade"
