@@ -12,7 +12,7 @@
         <face>
             <face_key_template value="BodyProperty.fighter_north_african"/>
         </face>
-        <skills>
+        <skills >
             <skill id="Athletics" value="140"/>
             <skill id="Riding" value="20"/>
             <skill id="OneHanded" value="50"/>
@@ -75,7 +75,7 @@
         <face>
             <face_key_template value="BodyProperty.fighter_carthage"/>
         </face>
-        <skills>
+        <skills >
             <skill id="Athletics" value="80"/>
             <skill id="Riding" value="90"/>
             <skill id="OneHanded" value="210"/>
@@ -139,7 +139,7 @@
         <face>
             <face_key_template value="BodyProperty.fighter_carthage"/>
         </face>
-        <skills>
+        <skills >
             <skill id="Athletics" value="80"/>
             <skill id="Riding" value="130"/>
             <skill id="OneHanded" value="230"/>
@@ -205,7 +205,7 @@
         <face>
             <face_key_template value="BodyProperty.fighter_carthage"/>
         </face>
-        <skills>
+        <skills >
             <skill id="Athletics" value="100"/>
             <skill id="Riding" value="80"/>
             <skill id="OneHanded" value="80"/>
@@ -267,7 +267,7 @@
         <face>
             <face_key_template value="BodyProperty.fighter_carthage"/>
         </face>
-        <skills>
+        <skills >
             <skill id="Athletics" value="100"/>
             <skill id="Riding" value="80"/>
             <skill id="OneHanded" value="90"/>
@@ -286,7 +286,7 @@
                 <equipment slot="Item2" id="Item.hoplon_face"/>
                 <equipment slot="Head" id="Item.crested_chalcidian"/>
                 <equipment slot="Cape" id="Item.AR_leopard_pelt"/>
-                <equipment slot="Body" id="Item.punic_musculata_pteruges"/>
+                <equipment slot="Body" id="Item.carthage_linothorax_a"/>
                 <equipment slot="Leg" id="Item.armoured_legs_1_5_thighs"/>
             </EquipmentRoster>
             <EquipmentRoster>
@@ -302,7 +302,7 @@
                 <equipment slot="Item2" id="Item.hoplon_face"/>
                 <equipment slot="Head" id="Item.crested_chalcidian"/>
                 <equipment slot="Cape" id="Item.AR_aserai_shoulder_i"/>
-                <equipment slot="Body" id="Item.punic_musculata_pteruges"/>
+                <equipment slot="Body" id="Item.carthage_linothorax_a"/>
                 <equipment slot="Leg" id="Item.armoured_legs_1_5_thighs"/>
             </EquipmentRoster>
             <EquipmentRoster>
@@ -330,7 +330,7 @@
         <face>
             <face_key_template value="BodyProperty.fighter_carthage"/>
         </face>
-        <skills>
+        <skills >
             <skill id="Athletics" value="100"/>
             <skill id="Riding" value="80"/>
             <skill id="OneHanded" value="100"/>
@@ -346,7 +346,7 @@
                 <equipment slot="Item2" id="Item.hoplon_face"/>
                 <equipment slot="Head" id="Item.phrygian_helm_2"/>
                 <equipment slot="Cape" id="Item.AR_aserai_shoulder_i"/>
-                <equipment slot="Body" id="Item.punic_musculata_pteruges"/>
+                <equipment slot="Body" id="Item.carthage_linothorax_a"/>
                 <equipment slot="Leg" id="Item.armoured_legs_2_6_full"/>
             </EquipmentRoster>
             <EquipmentRoster>
@@ -362,7 +362,7 @@
                 <equipment slot="Item2" id="Item.hoplon_squid"/>
                 <equipment slot="Head" id="Item.phrygian_helm_2"/>
                 <equipment slot="Cape" id="Item.AR_aserai_shoulder_i"/>
-                <equipment slot="Body" id="Item.punic_musculata_pteruges"/>
+                <equipment slot="Body" id="Item.carthage_linothorax_a"/>
                 <equipment slot="Leg" id="Item.armoured_legs_2_6_full"/>
             </EquipmentRoster>
             <EquipmentRoster>
@@ -390,7 +390,7 @@
         <face>
             <face_key_template value="BodyProperty.fighter_gaul"/>
         </face>
-        <skills>
+        <skills >
             <skill id="Athletics" value="130"/>
             <skill id="Riding" value="50"/>
             <skill id="OneHanded" value="80"/>
@@ -417,7 +417,7 @@
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.hans_punic_hoplite_spear_b"/>
                 <equipment slot="Item1" id="Item.kopis_a"/>
-                <equipment slot="Item2" id="Item.hoplon_scorpion"/>
+                <equipment slot="Item2" id="Item.aspis_shield_1"/>
                 <equipment slot="Head" id="Item.punic_helm_plain"/>
                 <equipment slot="Cape" id="Item.etruscan_chestpiece"/>
                 <equipment slot="Body" id="Item.thick_punic_chiton_no_faction"/>
@@ -436,7 +436,7 @@
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.hans_punic_hoplite_spear_b"/>
                 <equipment slot="Item1" id="Item.kopis_a"/>
-                <equipment slot="Item2" id="Item.hoplon_spiral"/>
+                <equipment slot="Item2" id="Item.aspis_shield_1"/>
                 <equipment slot="Head" id="Item.punic_helm_plain"/>
                 <equipment slot="Cape" id="Item.etruscan_chestpiece"/>
                 <equipment slot="Body" id="Item.thick_punic_chiton_no_faction"/>
@@ -459,7 +459,7 @@
         <face>
             <face_key_template value="BodyProperty.fighter_garamantian"/>
         </face>
-        <skills>
+        <skills >
             <skill id="Athletics" value="150"/>
             <skill id="Riding" value="50"/>
             <skill id="OneHanded" value="90"/>
@@ -527,7 +527,7 @@
         <face>
             <face_key_template value="BodyProperty.fighter_aserai"/>
         </face>
-        <skills>
+        <skills >
             <skill id="Athletics" value="100"/>
             <skill id="Riding" value="50"/>
             <skill id="OneHanded" value="170"/>
@@ -595,7 +595,7 @@
         <face>
             <face_key_template value="BodyProperty.villager_empire"/>
         </face>
-        <skills>
+        <skills >
             <skill id="Athletics" value="100"/>
             <skill id="Riding" value="50"/>
             <skill id="OneHanded" value="130"/>
@@ -666,7 +666,7 @@
         <face>
             <face_key_template value="BodyProperty.fighter_celtic"/>
         </face>
-        <skills>
+        <skills >
             <skill id="Athletics" value="100"/>
             <skill id="Riding" value="50"/>
             <skill id="OneHanded" value="130"/>
@@ -733,7 +733,7 @@
         <face>
             <face_key_template value="BodyProperty.fighter_empire"/>
         </face>
-        <skills>
+        <skills >
             <skill id="Athletics" value="100"/>
             <skill id="Riding" value="50"/>
             <skill id="OneHanded" value="140"/>
@@ -797,7 +797,7 @@
         <face>
             <face_key_template value="BodyProperty.fighter_aserai"/>
         </face>
-        <skills>
+        <skills >
             <skill id="Athletics" value="100"/>
             <skill id="Riding" value="60"/>
             <skill id="OneHanded" value="140"/>
@@ -863,7 +863,7 @@
         <face>
             <face_key_template value="BodyProperty.fighter_north_african"/>
         </face>
-        <skills>
+        <skills >
             <skill id="Athletics" value="130"/>
             <skill id="Riding" value="10"/>
             <skill id="OneHanded" value="90"/>
@@ -920,7 +920,7 @@
         <face>
             <face_key_template value="BodyProperty.villager_aserai"/>
         </face>
-        <skills>
+        <skills >
             <skill id="Athletics" value="130"/>
             <skill id="Riding" value="10"/>
             <skill id="OneHanded" value="30"/>
@@ -978,7 +978,7 @@
         <face>
             <face_key_template value="BodyProperty.villager_aserai"/>
         </face>
-        <skills>
+        <skills >
             <skill id="Athletics" value="130"/>
             <skill id="Riding" value="20"/>
             <skill id="OneHanded" value="60"/>
@@ -1041,7 +1041,7 @@
         <face>
             <face_key_template value="BodyProperty.fighter_garamantian"/>
         </face>
-        <skills>
+        <skills >
             <skill id="Athletics" value="90"/>
             <skill id="Riding" value="10"/>
             <skill id="OneHanded" value="90"/>
@@ -1100,7 +1100,7 @@
         <face>
             <face_key_template value="BodyProperty.fighter_north_african"/>
         </face>
-        <skills>
+        <skills >
             <skill id="Athletics" value="100"/>
             <skill id="Riding" value="30"/>
             <skill id="OneHanded" value="150"/>
@@ -1156,7 +1156,7 @@
         <face>
             <face_key_template value="BodyProperty.villager_aserai"/>
         </face>
-        <skills>
+        <skills >
             <skill id="Athletics" value="100"/>
             <skill id="Riding" value="25"/>
             <skill id="OneHanded" value="130"/>
@@ -1220,7 +1220,7 @@
         <face>
             <face_key_template value="BodyProperty.fighter_north_african"/>
         </face>
-        <skills>
+        <skills >
             <skill id="Athletics" value="60"/>
             <skill id="Riding" value="80"/>
             <skill id="OneHanded" value="150"/>
@@ -1287,7 +1287,7 @@
         <face>
             <face_key_template value="BodyProperty.fighter_garamantian"/>
         </face>
-        <skills>
+        <skills >
             <skill id="Athletics" value="130"/>
             <skill id="Riding" value="20"/>
             <skill id="OneHanded" value="130"/>
@@ -1349,7 +1349,7 @@
         <face>
             <face_key_template value="BodyProperty.villager_aserai"/>
         </face>
-        <skills>
+        <skills >
             <skill id="Athletics" value="120"/>
             <skill id="Riding" value="40"/>
             <skill id="OneHanded" value="170"/>
@@ -1405,6 +1405,7 @@
     </NPCCharacter>
 
 
+
     <!-- Libyan Troops -->
     <NPCCharacter id="garamantian_tribesmen"
                   default_group="Infantry"
@@ -1416,7 +1417,7 @@
         <face>
             <face_key_template value="BodyProperty.fighter_garamantian"/>
         </face>
-        <skills>
+        <skills >
             <skill id="Athletics" value="160"/>
             <skill id="Riding" value="50"/>
             <skill id="OneHanded" value="40"/>
@@ -1488,7 +1489,7 @@
         <face>
             <face_key_template value="BodyProperty.fighter_garamantian"/>
         </face>
-        <skills>
+        <skills >
             <skill id="Athletics" value="140"/>
             <skill id="Riding" value="60"/>
             <skill id="OneHanded" value="40"/>
@@ -1562,7 +1563,7 @@
         <face>
             <face_key_template value="BodyProperty.fighter_garamantian"/>
         </face>
-        <skills>
+        <skills >
             <skill id="Athletics" value="100"/>
             <skill id="Riding" value="110"/>
             <skill id="OneHanded" value="95"/>
@@ -1643,7 +1644,7 @@
         <face>
             <face_key_template value="BodyProperty.fighter_garamantian_female"/>
         </face>
-        <skills>
+        <skills >
             <skill id="Athletics" value="140"/>
             <skill id="Riding" value="80"/>
             <skill id="OneHanded" value="180"/>
@@ -1715,7 +1716,7 @@
         <face>
             <face_key_template value="BodyProperty.fighter_garamantian_female"/>
         </face>
-        <skills>
+        <skills >
             <skill id="Athletics" value="130"/>
             <skill id="Riding" value="80"/>
             <skill id="OneHanded" value="220"/>
@@ -1787,7 +1788,7 @@
         <face>
             <face_key_template value="BodyProperty.fighter_garamantian_female"/>
         </face>
-        <skills>
+        <skills >
             <skill id="Athletics" value="140"/>
             <skill id="Riding" value="80"/>
             <skill id="OneHanded" value="260"/>
@@ -1855,7 +1856,7 @@
         <face>
             <face_key_template value="BodyProperty.fighter_garamantian"/>
         </face>
-        <skills>
+        <skills >
             <skill id="Athletics" value="100"/>
             <skill id="Riding" value="100"/>
             <skill id="OneHanded" value="180"/>
@@ -1938,7 +1939,7 @@
         <face>
             <face_key_template value="BodyProperty.fighter_garamantian"/>
         </face>
-        <skills>
+        <skills >
             <skill id="Athletics" value="100"/>
             <skill id="Riding" value="220"/>
             <skill id="OneHanded" value="240"/>
@@ -2020,7 +2021,7 @@
         <face>
             <face_key_template value="BodyProperty.fighter_garamantian"/>
         </face>
-        <skills>
+        <skills >
             <skill id="Athletics" value="150"/>
             <skill id="Riding" value="60"/>
             <skill id="OneHanded" value="85"/>
@@ -2090,7 +2091,7 @@
         <face>
             <face_key_template value="BodyProperty.fighter_garamantian"/>
         </face>
-        <skills>
+        <skills >
             <skill id="Athletics" value="150"/>
             <skill id="Riding" value="60"/>
             <skill id="OneHanded" value="60"/>
@@ -2164,7 +2165,7 @@
         <face>
             <face_key_template value="BodyProperty.fighter_garamantian"/>
         </face>
-        <skills>
+        <skills >
             <skill id="Athletics" value="150"/>
             <skill id="Riding" value="70"/>
             <skill id="OneHanded" value="75"/>
@@ -2231,7 +2232,7 @@
         <face>
             <face_key_template value="BodyProperty.fighter_garamantian"/>
         </face>
-        <skills>
+        <skills >
             <skill id="Athletics" value="140"/>
             <skill id="Riding" value="70"/>
             <skill id="OneHanded" value="75"/>
@@ -2302,7 +2303,7 @@
         <face>
             <face_key_template value="BodyProperty.fighter_garamantian"/>
         </face>
-        <skills>
+        <skills >
             <skill id="Athletics" value="150"/>
             <skill id="Riding" value="70"/>
             <skill id="OneHanded" value="85"/>
@@ -2318,7 +2319,7 @@
                 <equipment slot="Item1" id="Item.libyan_throwing_spear3"/>
                 <equipment slot="Item2" id="Item.AR_shield_infantry_zl"/>
                 <equipment slot="Head" id="Item.ao_mabili_feathered_headband"/>
-                <equipment slot="Cape" id="Item.AR_aserai_shoulder_q"/>
+                <equipment slot="Cape" id="Item.AR_lion_head_a"/>
                 <equipment slot="Body" id="Item.exomis_cloak_2"/>
                 <equipment slot="Gloves" id="Item.guarded_padded_vambrace"/>
                 <equipment slot="Leg" id="Item.tassels_barefoot"/>
@@ -2328,7 +2329,7 @@
                 <equipment slot="Item1" id="Item.libyan_throwing_spear3"/>
                 <equipment slot="Item2" id="Item.AR_shield_infantry_zl"/>
                 <equipment slot="Head" id="Item.ao_mabili_leather_headband"/>
-                <equipment slot="Cape" id="Item.AR_aserai_shoulder_p"/>
+                <equipment slot="Cape" id="Item.AR_lion_head_a"/>
                 <equipment slot="Body" id="Item.exomis_cloak_2"/>
                 <equipment slot="Gloves" id="Item.guarded_padded_vambrace"/>
                 <equipment slot="Leg" id="Item.sandals_1"/>
@@ -2338,7 +2339,7 @@
                 <equipment slot="Item1" id="Item.libyan_throwing_spear3"/>
                 <equipment slot="Item2" id="Item.AR_shield_infantry_zl"/>
                 <equipment slot="Head" id="Item.ao_mabili_feathered_headband"/>
-                <equipment slot="Cape" id="Item.AR_aserai_shoulder_q"/>
+                <equipment slot="Cape" id="Item.AR_lion_head_a"/>
                 <equipment slot="Body" id="Item.exomis_cloak_2"/>
                 <equipment slot="Gloves" id="Item.guarded_padded_vambrace"/>
                 <equipment slot="Leg" id="Item.tassels_barefoot"/>
@@ -2348,7 +2349,7 @@
                 <equipment slot="Item1" id="Item.libyan_throwing_spear3"/>
                 <equipment slot="Item2" id="Item.AR_shield_infantry_zl"/>
                 <equipment slot="Head" id="Item.ao_mabili_leather_headband"/>
-                <equipment slot="Cape" id="Item.AR_aserai_shoulder_p"/>
+                <equipment slot="Cape" id="Item.AR_lion_head_a"/>
                 <equipment slot="Body" id="Item.exomis_cloak_2"/>
                 <equipment slot="Gloves" id="Item.guarded_padded_vambrace"/>
                 <equipment slot="Leg" id="Item.sandals_1"/>
@@ -2370,7 +2371,7 @@
         <face>
             <face_key_template value="BodyProperty.fighter_garamantian"/>
         </face>
-        <skills>
+        <skills >
             <skill id="Athletics" value="150"/>
             <skill id="Riding" value="75"/>
             <skill id="OneHanded" value="85"/>
@@ -2434,7 +2435,7 @@
         <face>
             <face_key_template value="BodyProperty.fighter_garamantian"/>
         </face>
-        <skills>
+        <skills >
             <skill id="Athletics" value="160"/>
             <skill id="Riding" value="70"/>
             <skill id="OneHanded" value="165"/>
@@ -2500,7 +2501,7 @@
         <face>
             <face_key_template value="BodyProperty.fighter_garamantian"/>
         </face>
-        <skills>
+        <skills >
             <skill id="Athletics" value="150"/>
             <skill id="Riding" value="70"/>
             <skill id="OneHanded" value="125"/>
@@ -2575,7 +2576,7 @@
         <face>
             <face_key_template value="BodyProperty.fighter_garamantian"/>
         </face>
-        <skills>
+        <skills >
             <skill id="Athletics" value="150"/>
             <skill id="Riding" value="70"/>
             <skill id="OneHanded" value="165"/>
@@ -2650,7 +2651,7 @@
         <face>
             <face_key_template value="BodyProperty.fighter_north_african"/>
         </face>
-        <skills>
+        <skills >
             <skill id="Athletics" value="100"/>
             <skill id="Riding" value="25"/>
             <skill id="OneHanded" value="50"/>
@@ -2715,7 +2716,7 @@
         <face>
             <face_key_template value="BodyProperty.fighter_north_african"/>
         </face>
-        <skills>
+        <skills >
             <skill id="Athletics" value="90"/>
             <skill id="Riding" value="100"/>
             <skill id="OneHanded" value="120"/>
@@ -2784,7 +2785,7 @@
         <face>
             <face_key_template value="BodyProperty.fighter_north_african"/>
         </face>
-        <skills>
+        <skills >
             <skill id="Athletics" value="100"/>
             <skill id="Riding" value="130"/>
             <skill id="OneHanded" value="160"/>
@@ -2856,7 +2857,7 @@
         <face>
             <face_key_template value="BodyProperty.fighter_north_african"/>
         </face>
-        <skills>
+        <skills >
             <skill id="Athletics" value="110"/>
             <skill id="Riding" value="140"/>
             <skill id="OneHanded" value="140"/>
@@ -2924,7 +2925,7 @@
         <face>
             <face_key_template value="BodyProperty.fighter_north_african"/>
         </face>
-        <skills>
+        <skills >
             <skill id="Athletics" value="120"/>
             <skill id="Riding" value="140"/>
             <skill id="OneHanded" value="210"/>
@@ -2996,7 +2997,7 @@
         <face>
             <face_key_template value="BodyProperty.fighter_north_african"/>
         </face>
-        <skills>
+        <skills >
             <skill id="Athletics" value="125"/>
             <skill id="Riding" value="170"/>
             <skill id="OneHanded" value="250"/>
@@ -3065,7 +3066,7 @@
         <face>
             <face_key_template value="BodyProperty.fighter_north_african"/>
         </face>
-        <skills>
+        <skills >
             <skill id="Athletics" value="95"/>
             <skill id="Riding" value="140"/>
             <skill id="OneHanded" value="210"/>
@@ -3136,7 +3137,7 @@
         <face>
             <face_key_template value="BodyProperty.fighter_north_african"/>
         </face>
-        <skills>
+        <skills >
             <skill id="Athletics" value="110"/>
             <skill id="Riding" value="150"/>
             <skill id="OneHanded" value="245"/>
@@ -3208,7 +3209,7 @@
         <face>
             <face_key_template value="BodyProperty.fighter_north_african"/>
         </face>
-        <skills>
+        <skills >
             <skill id="Athletics" value="150"/>
             <skill id="Riding" value="25"/>
             <skill id="OneHanded" value="40"/>
@@ -3276,7 +3277,7 @@
         <face>
             <face_key_template value="BodyProperty.fighter_north_african"/>
         </face>
-        <skills>
+        <skills >
             <skill id="Athletics" value="130"/>
             <skill id="Riding" value="50"/>
             <skill id="OneHanded" value="100"/>
@@ -3343,7 +3344,7 @@
         <face>
             <face_key_template value="BodyProperty.fighter_north_african"/>
         </face>
-        <skills>
+        <skills >
             <skill id="Athletics" value="130"/>
             <skill id="Riding" value="60"/>
             <skill id="OneHanded" value="140"/>
@@ -3407,7 +3408,7 @@
         <face>
             <face_key_template value="BodyProperty.fighter_north_african"/>
         </face>
-        <skills>
+        <skills >
             <skill id="Athletics" value="150"/>
             <skill id="Riding" value="25"/>
             <skill id="OneHanded" value="120"/>
@@ -3476,7 +3477,7 @@
         <face>
             <face_key_template value="BodyProperty.fighter_north_african"/>
         </face>
-        <skills>
+        <skills >
             <skill id="Athletics" value="85"/>
             <skill id="Riding" value="140"/>
             <skill id="OneHanded" value="120"/>
@@ -3547,7 +3548,7 @@
         <face>
             <face_key_template value="BodyProperty.fighter_north_african"/>
         </face>
-        <skills>
+        <skills >
             <skill id="Athletics" value="95"/>
             <skill id="Riding" value="130"/>
             <skill id="OneHanded" value="170"/>
@@ -3618,7 +3619,7 @@
         <face>
             <face_key_template value="BodyProperty.fighter_north_african"/>
         </face>
-        <skills>
+        <skills >
             <skill id="Athletics" value="100"/>
             <skill id="Riding" value="30"/>
             <skill id="OneHanded" value="35"/>
@@ -3679,7 +3680,7 @@
         <face>
             <face_key_template value="BodyProperty.villager_aserai"/>
         </face>
-        <skills>
+        <skills >
             <skill id="Athletics" value="100"/>
             <skill id="Riding" value="40"/>
             <skill id="OneHanded" value="75"/>
@@ -3739,7 +3740,7 @@
         <face>
             <face_key_template value="BodyProperty.villager_aserai"/>
         </face>
-        <skills>
+        <skills >
             <skill id="Athletics" value="100"/>
             <skill id="Riding" value="90"/>
             <skill id="OneHanded" value="100"/>
@@ -3804,7 +3805,7 @@
         <face>
             <face_key_template value="BodyProperty.villager_aserai"/>
         </face>
-        <skills>
+        <skills >
             <skill id="Athletics" value="120"/>
             <skill id="Riding" value="100"/>
             <skill id="OneHanded" value="130"/>
@@ -3872,7 +3873,7 @@
         <face>
             <face_key_template value="BodyProperty.fighter_north_african"/>
         </face>
-        <skills>
+        <skills >
             <skill id="Athletics" value="120"/>
             <skill id="Riding" value="90"/>
             <skill id="OneHanded" value="220"/>
@@ -3940,7 +3941,7 @@
         <face>
             <face_key_template value="BodyProperty.fighter_north_african"/>
         </face>
-        <skills>
+        <skills >
             <skill id="Athletics" value="140"/>
             <skill id="Riding" value="90"/>
             <skill id="OneHanded" value="260"/>
@@ -4005,7 +4006,7 @@
         <face>
             <face_key_template value="BodyProperty.fighter_north_african"/>
         </face>
-        <skills>
+        <skills >
             <skill id="Athletics" value="120"/>
             <skill id="Riding" value="100"/>
             <skill id="OneHanded" value="130"/>
@@ -4070,7 +4071,7 @@
         <face>
             <face_key_template value="BodyProperty.fighter_north_african"/>
         </face>
-        <skills>
+        <skills >
             <skill id="Athletics" value="150"/>
             <skill id="Riding" value="50"/>
             <skill id="OneHanded" value="55"/>
@@ -4138,7 +4139,7 @@
         <face>
             <face_key_template value="BodyProperty.villager_aserai"/>
         </face>
-        <skills>
+        <skills >
             <skill id="Athletics" value="140"/>
             <skill id="Riding" value="40"/>
             <skill id="OneHanded" value="55"/>
@@ -4198,7 +4199,7 @@
         <face>
             <face_key_template value="BodyProperty.villager_aserai"/>
         </face>
-        <skills>
+        <skills >
             <skill id="Athletics" value="135"/>
             <skill id="Riding" value="40"/>
             <skill id="OneHanded" value="70"/>
@@ -4262,7 +4263,7 @@
         <face>
             <face_key_template value="BodyProperty.fighter_north_african"/>
         </face>
-        <skills>
+        <skills >
             <skill id="Athletics" value="135"/>
             <skill id="Riding" value="55"/>
             <skill id="OneHanded" value="130"/>
@@ -4322,7 +4323,7 @@
         <face>
             <face_key_template value="BodyProperty.fighter_north_african"/>
         </face>
-        <skills>
+        <skills >
             <skill id="Athletics" value="150"/>
             <skill id="Riding" value="70"/>
             <skill id="OneHanded" value="75"/>
@@ -4387,7 +4388,7 @@
         <face>
             <face_key_template value="BodyProperty.fighter_north_african"/>
         </face>
-        <skills>
+        <skills >
             <skill id="Athletics" value="120"/>
             <skill id="Riding" value="120"/>
             <skill id="OneHanded" value="75"/>
