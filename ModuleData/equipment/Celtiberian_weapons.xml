@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Items>
+
+  <!-- Celtiberian Weapons-->
+  <CraftedItem id="Phallic_javelin"
+               name="{=Phallica}Phallic Javelin"
+               crafting_template="Celtic_Javelin"
+               culture="Culture.celtiberian"
+               modifier_group="spear_dart_throwing">
+		<Pieces>
+			<Piece id="spear_blade_16"
+				   Type="Blade"
+				   scale_factor="100" />
+			<Piece id="default_polearm_guard"
+				   Type="Guard"
+				   scale_factor="100" />
+			<Piece id="spear_handle_2"
+				   Type="Handle"
+				   scale_factor="100" />
+			<Piece id="default_polearm_pommel"
+				   Type="Pommel"
+				   scale_factor="100" />
+		</Pieces>
+	</CraftedItem>
+	
+	<CraftedItem id="soliferrum_javelin"
+               name="{=Soliferrums}Soliferrum Javelin"
+               crafting_template="Celtic_Javelin"
+               culture="Culture.celtiberian"
+               modifier_group="spear_dart_throwing">
+		<Pieces>
+			<Piece id="spear_blade_38"
+				   Type="Blade"
+				   scale_factor="100" />
+			<Piece id="default_polearm_guard"
+				   Type="Guard"
+				   scale_factor="100" />
+			<Piece id="spear_handle_2"
+				   Type="Handle"
+				   scale_factor="100" />
+			<Piece id="default_polearm_pommel"
+				   Type="Pommel"
+				   scale_factor="100" />
+		</Pieces>
+	</CraftedItem>
+	
+	<CraftedItem id="hans_espada_short_sword"
+               name="{=Espada}Celtiberian Short Sword"
+               crafting_template="OneHandedSword"
+               culture="Culture.celtiberian">
+    <Pieces>
+      <Piece id="battania_blade_2"
+             Type="Blade"
+             scale_factor="100" />
+      <Piece id="battania_guard_8"
+             Type="Guard"
+             scale_factor="100" />
+      <Piece id="battania_grip_3"
+             Type="Handle"
+             scale_factor="100" />
+      <Piece id="battania_noble_pommel_1"
+             Type="Pommel"
+             scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  
+  <CraftedItem id="falcata_a"
+               name="{=Irofalca}Iron falcata"
+               crafting_template="OneHandedGreekSword"
+               culture="Culture.celtiberian">
+    <Pieces>
+      <Piece id="kopis_blade_a"
+             Type="Blade"
+             scale_factor="100" />
+      <Piece id="kopis_guard_a"
+             Type="Guard"
+             scale_factor="100" />
+	  <Piece id="kopis_handle_a"
+             Type="Handle"
+             scale_factor="100" />
+      <Piece id="kopis_pommel_a"
+             Type="Pommel"
+             scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  
+</Items>
