@@ -72,6 +72,25 @@
         </XmlNode>
 
         <XmlNode>
+            <XmlName id="EquipmentRosters" path="TWB_equipment_sets"/>
+            <IncludedGameTypes>
+                <GameType value = "Campaign"/>
+                <GameType value = "CampaignStoryMode"/>
+                <GameType value = "CustomGame"/>
+                <GameType value = "EditorGame"/>
+            </IncludedGameTypes>
+        </XmlNode>
+        <XmlNode>
+            <XmlName id="SkillSets" path="TWB_skill_sets"/>
+            <IncludedGameTypes>
+                <GameType value = "Campaign"/>
+                <GameType value = "CampaignStoryMode"/>
+                <GameType value = "CustomGame"/>
+                <GameType value = "EditorGame"/>
+            </IncludedGameTypes>
+        </XmlNode>
+
+        <XmlNode>
             <XmlName id="CraftingPieces" path="crafting_pieces"/>
             <IncludedGameTypes>
                 <GameType value="Campaign"/>
