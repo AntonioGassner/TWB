@@ -171,7 +171,7 @@
 		<Equipments>
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.sarissa_a"/>
-				<equipment slot="Item1" id="Item.pelta_twb_shield_1"/>
+				<equipment slot="Item1" id="Item.battania_targe_b"/>
 				<equipment slot="Head" id="Item.corinthian_4_plain"/>
 				<equipment slot="Body" id="Item.linothorax_2_Checker_pattern"/>
 				<equipment slot="Gloves" id="Item.linothorax_chiton_ua"/>
@@ -179,7 +179,7 @@
 			</EquipmentRoster>
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.sarissa_a"/>
-				<equipment slot="Item1" id="Item.pelta_twb_shield_1"/>
+				<equipment slot="Item1" id="Item.battania_targe_b"/>
 				<equipment slot="Head" id="Item.chalcidian_1"/>
 				<equipment slot="Body" id="Item.linothorax_2_Checker_pattern"/>
 				<equipment slot="Gloves" id="Item.linothorax_chiton_ua"/>
@@ -187,7 +187,7 @@
 			</EquipmentRoster>
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.sarissa_a"/>
-				<equipment slot="Item1" id="Item.pelta_twb_shield_1"/>
+				<equipment slot="Item1" id="Item.battania_targe_b"/>
 				<equipment slot="Head" id="Item.pilos_3_guarded"/>
 				<equipment slot="Body" id="Item.linothorax_1"/>
 				<equipment slot="Gloves" id="Item.linothorax_chiton_ua"/>
@@ -195,7 +195,7 @@
 			</EquipmentRoster>
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.sarissa_a"/>
-				<equipment slot="Item1" id="Item.pelta_twb_shield_1"/>
+				<equipment slot="Item1" id="Item.battania_targe_b"/>
 				<equipment slot="Head" id="Item.boeotian_2"/>
 				<equipment slot="Body" id="Item.musculata_1_1b"/>
 				<equipment slot="Gloves" id="Item.arm_guard_1_3_bracer_shoulder"/>
@@ -230,7 +230,7 @@
 		<Equipments>
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.sarissa_a"/>
-				<equipment slot="Item1" id="Item.pelta_twb_shield_1"/>
+				<equipment slot="Item1" id="Item.battania_targe_b"/>
 				<equipment slot="Head" id="Item.phrygian_helm_2"/>
 				<equipment slot="Body" id="Item.musculata_1_1a"/>
 				<equipment slot="Gloves" id="Item.arm_guard_1_4_shoulder_upper"/>
@@ -238,7 +238,7 @@
 			</EquipmentRoster>
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.sarissa_a"/>
-				<equipment slot="Item1" id="Item.pelta_twb_shield_1"/>
+				<equipment slot="Item1" id="Item.battania_targe_b"/>
 				<equipment slot="Head" id="Item.pilos_4_crested_guarded"/>
 				<equipment slot="Body" id="Item.musculata_2_1a"/>
 				<equipment slot="Gloves" id="Item.arm_guard_2_3_bracer_shoulder"/>
@@ -246,7 +246,7 @@
 			</EquipmentRoster>
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.sarissa_a"/>
-				<equipment slot="Item1" id="Item.pelta_twb_shield_1"/>
+				<equipment slot="Item1" id="Item.battania_targe_b"/>
 				<equipment slot="Head" id="Item.corinthian_2"/>
 				<equipment slot="Body" id="Item.musculata_2_1a"/>
 				<equipment slot="Gloves" id="Item.arm_guard_2_4_shoulder_upper"/>
@@ -254,7 +254,7 @@
 			</EquipmentRoster>
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.sarissa_a"/>
-				<equipment slot="Item1" id="Item.pelta_twb_shield_1"/>
+				<equipment slot="Item1" id="Item.battania_targe_b"/>
 				<equipment slot="Head" id="Item.boeotian_4_1_argosi"/>
 				<equipment slot="Body" id="Item.musculata_4_1_argosi"/>
 				<equipment slot="Leg" id="Item.armoured_legs_2_1_left"/>

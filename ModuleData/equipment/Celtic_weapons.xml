@@ -50,7 +50,26 @@
              scale_factor="100" />
     </Pieces>
   </CraftedItem>
- <!-- Celtic Noble Sword T5-->
+  <CraftedItem id="hans_espada_short_sword"
+               name="{=Espada}Celtiberian Short Sword"
+               crafting_template="OneHandedSword"
+               culture="Culture.empire">
+    <Pieces>
+      <Piece id="battania_blade_2"
+             Type="Blade"
+             scale_factor="100" />
+      <Piece id="battania_guard_8"
+             Type="Guard"
+             scale_factor="100" />
+      <Piece id="battania_grip_3"
+             Type="Handle"
+             scale_factor="100" />
+      <Piece id="battania_noble_pommel_1"
+             Type="Pommel"
+             scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <!-- Celtic Noble Sword T5-->
  <CraftedItem id="hans_noble_celtic_sword"
                name="{=CelticTWB84}Noble Celtic Iron Sword"
                crafting_template="OneHandedSword"

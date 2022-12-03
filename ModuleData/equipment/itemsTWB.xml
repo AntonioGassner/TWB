@@ -4,7 +4,7 @@
  
  
  <!-- Chest Armour-->
-    <Item id="chiton_girdle_1_1" name="Chiton with girdle faction 1" mesh="chiton_girdle_1_1" is_merchandise="true" subtype="body_armor" culture="Culture.neutral" value="1000" weight="3.0" difficulty="0" appearance="3"  Type="BodyArmor">
+    <Item id="chiton_girdle_1_1" name="Chiton with girdle faction 1" mesh="chiton_girdle_1_1" is_merchandise="true" subtype="body_armor" culture="Culture.empire" value="1000" weight="3.0" difficulty="0" appearance="3"  Type="BodyArmor">
         <ItemComponent>
          <Armor head_armor="0" arm_armor="0" body_armor="24" leg_armor="4" covers_body="false" covers_legs="false"
                 modifier_group="Cloth" material_type="Cloth" has_gender_variations="true" />
@@ -12,7 +12,7 @@
         <Flags UseTeamColor="true" Civilian="true" /> 
     </Item>
 	
-	<Item id="chiton_girdle_1_2" name="Chiton with girdle faction 2" mesh="chiton_girdle_1_2" is_merchandise="true" subtype="body_armor" culture="Culture.neutral" value="1000" weight="3.0" difficulty="0" appearance="3"  Type="BodyArmor">
+	<Item id="chiton_girdle_1_2" name="Chiton with girdle faction 2" mesh="chiton_girdle_1_2" is_merchandise="true" subtype="body_armor" culture="Culture.empire" value="1000" weight="3.0" difficulty="0" appearance="3"  Type="BodyArmor">
         <ItemComponent>
          <Armor head_armor="0" arm_armor="0" body_armor="24" leg_armor="4" covers_body="false" covers_legs="false"
                 modifier_group="Cloth" material_type="Cloth" has_gender_variations="true" />
@@ -20,7 +20,7 @@
         <Flags UseTeamColor="true" Civilian="true" /> 
     </Item>
 	
-	<Item id="chiton_girdle_1_3" name="Chiton with girdle beige" mesh="chiton_girdle_1_3" is_merchandise="true" subtype="body_armor" culture="Culture.neutral" value="1000" weight="3.0" difficulty="0" appearance="3"  Type="BodyArmor">
+	<Item id="chiton_girdle_1_3" name="Chiton with girdle beige" mesh="chiton_girdle_1_3" is_merchandise="true" subtype="body_armor" culture="Culture.empire" value="1000" weight="3.0" difficulty="0" appearance="3"  Type="BodyArmor">
         <ItemComponent>
          <Armor head_armor="0" arm_armor="0" body_armor="24" leg_armor="4" covers_body="false" covers_legs="false"
                 modifier_group="Cloth" material_type="Cloth" has_gender_variations="true" />
@@ -28,7 +28,7 @@
         <Flags UseTeamColor="true" Civilian="true" /> 
     </Item>
  
-    <Item id="chiton_no_sleeves_1_1" name="Chiton no sleeves" mesh="chiton_no_sleeves_1_1" is_merchandise="true" subtype="body_armor" culture="Culture.neutral" value="750" weight="3.0" difficulty="0" appearance="3"  Type="BodyArmor">
+    <Item id="chiton_no_sleeves_1_1" name="Chiton no sleeves" mesh="chiton_no_sleeves_1_1" is_merchandise="true" subtype="body_armor" culture="Culture.empire" value="750" weight="3.0" difficulty="0" appearance="3"  Type="BodyArmor">
         <ItemComponent>
          <Armor head_armor="0" arm_armor="0" body_armor="18" leg_armor="2" covers_body="false" covers_legs="false"
                 modifier_group="Cloth" material_type="Cloth" has_gender_variations="true" />
@@ -36,7 +36,7 @@
         <Flags UseTeamColor="true" Civilian="true" /> 
     </Item>
 	
-	<Item id="chiton_no_sleeves_1_2" name="Chiton no sleeves faction" mesh="chiton_no_sleeves_1_2" is_merchandise="true" subtype="body_armor" culture="Culture.neutral" value="750" weight="3.0" difficulty="0" appearance="3"  Type="BodyArmor">
+	<Item id="chiton_no_sleeves_1_2" name="Chiton no sleeves faction" mesh="chiton_no_sleeves_1_2" is_merchandise="true" subtype="body_armor" culture="Culture.empire" value="750" weight="3.0" difficulty="0" appearance="3"  Type="BodyArmor">
         <ItemComponent>
          <Armor head_armor="0" arm_armor="0" body_armor="18" leg_armor="2" covers_body="false" covers_legs="false"
                 modifier_group="Cloth" material_type="Cloth" has_gender_variations="true" />
@@ -44,7 +44,7 @@
         <Flags UseTeamColor="true" Civilian="true" /> 
     </Item>
 
-	<Item id="chiton_no_sleeves_t3_1_2" name="Thick Chiton no sleeves faction" mesh="chiton_no_sleeves_1_2" is_merchandise="false" subtype="body_armor" culture="Culture.neutral" value="750" weight="3.0" difficulty="0" appearance="3"  Type="BodyArmor">
+	<Item id="chiton_no_sleeves_t3_1_2" name="Thick Chiton no sleeves faction" mesh="chiton_no_sleeves_1_2" is_merchandise="false" subtype="body_armor" culture="Culture.empire" value="750" weight="3.0" difficulty="0" appearance="3"  Type="BodyArmor">
 		<ItemComponent>
 			<Armor head_armor="0" arm_armor="2" body_armor="28" leg_armor="8" covers_body="false" covers_legs="false"
 				   modifier_group="Cloth" material_type="Cloth" has_gender_variations="true" />
@@ -52,7 +52,7 @@
 		<Flags UseTeamColor="true" Civilian="true" />
 	</Item>
     
-	<Item id="chiton_sleeves_1" name="Chiton sleeves" mesh="chiton_sleeves_1" is_merchandise="true" subtype="body_armor" culture="Culture.neutral" value="750" weight="3.0" difficulty="0" appearance="3"  Type="BodyArmor">
+	<Item id="chiton_sleeves_1" name="Chiton sleeves" mesh="chiton_sleeves_1" is_merchandise="true" subtype="body_armor" culture="Culture.empire" value="750" weight="3.0" difficulty="0" appearance="3"  Type="BodyArmor">
         <ItemComponent>
          <Armor head_armor="0" arm_armor="0" body_armor="18" leg_armor="2" covers_body="false" covers_legs="false"
                 modifier_group="Cloth" material_type="Cloth" has_gender_variations="true" />
@@ -60,7 +60,7 @@
         <Flags UseTeamColor="true" Civilian="true" /> 
     </Item>
 	
-    <Item id="exomis_1_1" name="Exomis" mesh="exomis_1_1" is_merchandise="true" subtype="body_armor" culture="Culture.neutral" value="600" weight="2.0" difficulty="0" appearance="3"  Type="BodyArmor">
+    <Item id="exomis_1_1" name="Exomis" mesh="exomis_1_1" is_merchandise="true" subtype="body_armor" culture="Culture.empire" value="600" weight="2.0" difficulty="0" appearance="3"  Type="BodyArmor">
         <ItemComponent>
          <Armor head_armor="0" arm_armor="0" body_armor="16" leg_armor="2" covers_body="false" covers_legs="false"
                 modifier_group="Cloth" material_type="Cloth" has_gender_variations="true" />
@@ -84,7 +84,7 @@
 		<Flags UseTeamColor="true" Civilian="true" />
 	</Item>
 
-	<Item id="exomis_cloak_3" name="Wolf Pelt Cloak" mesh="exomis_cloak_3" is_merchandise="true" subtype="body_armor" culture="Culture.neutral" value="900" weight="4.0" difficulty="0" appearance="3"  Type="BodyArmor">
+	<Item id="exomis_cloak_3" name="Wolf Pelt Cloak" mesh="exomis_cloak_3" is_merchandise="true" subtype="body_armor" culture="Culture.aserai" value="900" weight="4.0" difficulty="0" appearance="3"  Type="BodyArmor">
 		<ItemComponent>
 			<Armor head_armor="0" arm_armor="6" body_armor="16" leg_armor="8" covers_body="false" covers_legs="false"
 				   modifier_group="Cloth" material_type="Cloth" has_gender_variations="true" />
@@ -108,7 +108,7 @@
 		<Flags UseTeamColor="true" Civilian="true" />
 	</Item>
 	
-	<Item id="exomis_1_2" name="Exomis Faction" mesh="exomis_1_2" is_merchandise="true" subtype="body_armor" culture="Culture.neutral" value="600" weight="2.0" difficulty="0" appearance="3"  Type="BodyArmor">
+	<Item id="exomis_1_2" name="Exomis Faction" mesh="exomis_1_2" is_merchandise="true" subtype="body_armor" culture="Culture.empire" value="600" weight="2.0" difficulty="0" appearance="3"  Type="BodyArmor">
         <ItemComponent>
          <Armor head_armor="0" arm_armor="0" body_armor="16" leg_armor="2" covers_body="false" covers_legs="false"
                 modifier_group="Cloth" material_type="Cloth" has_gender_variations="true" />
@@ -116,7 +116,7 @@
         <Flags UseTeamColor="true" Civilian="true" /> 
     </Item>
 
-	<Item id="thick_exomis_1_2" name="Thick Exomis Faction" mesh="exomis_1_2" is_merchandise="true" subtype="body_armor" culture="Culture.neutral" value="700" weight="2.0" difficulty="0" appearance="3"  Type="BodyArmor">
+	<Item id="thick_exomis_1_2" name="Thick Exomis Faction" mesh="exomis_1_2" is_merchandise="true" subtype="body_armor" culture="Culture.empire" value="700" weight="2.0" difficulty="0" appearance="3"  Type="BodyArmor">
 		<ItemComponent>
 			<Armor head_armor="0" arm_armor="0" body_armor="26" leg_armor="10" covers_body="false" covers_legs="false"
 				   modifier_group="Cloth" material_type="Cloth" has_gender_variations="true" />
@@ -132,7 +132,7 @@
         <Flags UseTeamColor="true" Civilian="true" /> 
     </Item>
 
-	<Item id="round_plate_tunic" name="Cardiophylax over Tunic with Girdle" mesh="round_plate_tunic" is_merchandise="true" subtype="body_armor" culture="Culture.neutral" value="2000" weight="3.0" difficulty="0" appearance="3"  Type="BodyArmor">
+	<Item id="round_plate_tunic" name="Cardiophylax over Tunic with Girdle" mesh="round_plate_tunic" is_merchandise="true" subtype="body_armor" culture="Culture.empire" value="2000" weight="3.0" difficulty="0" appearance="3"  Type="BodyArmor">
 		<ItemComponent>
 			<Armor head_armor="0" arm_armor="5" body_armor="40" leg_armor="5" covers_body="false" covers_legs="false"
 				   modifier_group="Plate" material_type="Plate" />
@@ -268,7 +268,7 @@
 		<Flags UseTeamColor="true" Civilian="true" />
 	</Item>
 
-	<Item id="scorilo_leather_lino_2" name="[celtic] Celtic Leather Linothorax" mesh="scorilo_leather_lino_2" is_merchandise="true" subtype="body_armor" culture="Culture.neutral" value="3500" weight="4.0" difficulty="0" appearance="3"  Type="BodyArmor">
+	<Item id="scorilo_leather_lino_2" name="[celtic] Celtic Leather Linothorax" mesh="scorilo_leather_lino_2" is_merchandise="true" subtype="body_armor" culture="Culture.empire" value="3500" weight="4.0" difficulty="0" appearance="3"  Type="BodyArmor">
 		<ItemComponent>
 			<Armor head_armor="0" arm_armor="10" body_armor="40" leg_armor="15" covers_body="false" covers_legs="false"
 				   modifier_group="Leather" material_type="Leather" />
@@ -578,7 +578,7 @@
         <Flags UseTeamColor="true" Civilian="true" /> 
     </Item>
 	
-	<Item id="sandals_1" name="Sandals" mesh="sandals_1" is_merchandise="true" subtype="leg_armor" culture="Culture.neutral" value="600" weight="1.0" difficulty="0" appearance="3"  Type="LegArmor">
+	<Item id="sandals_1" name="Sandals" mesh="sandals_1" is_merchandise="true" subtype="leg_armor" culture="Culture.empire" value="600" weight="1.0" difficulty="0" appearance="3"  Type="LegArmor">
         <ItemComponent>
          <Armor head_armor="0" arm_armor="0" body_armor="0" leg_armor="10" covers_legs="false"
                 modifier_group="Leather" material_type="Leather" />
@@ -643,7 +643,7 @@
         <Flags UseTeamColor="true" Civilian="true" /> 
     </Item>
 	
-	<Item id="band_1" name="Cloth headband" mesh="band_1" is_merchandise="true" subtype="head_armor" culture="Culture.neutral" value="750" weight="1.0" difficulty="0" appearance="3"  Type="HeadArmor">
+	<Item id="band_1" name="Cloth headband" mesh="band_1" is_merchandise="true" subtype="head_armor" culture="Culture.empire" value="750" weight="1.0" difficulty="0" appearance="3"  Type="HeadArmor">
         <ItemComponent>
          <Armor head_armor="10" arm_armor="0" body_armor="0" leg_armor="00" covers_head="false"
                 hair_cover_type="none" beard_cover_type="none" modifier_group="Cloth" material_type="Cloth" />
@@ -651,7 +651,7 @@
         <Flags UseTeamColor="true" Civilian="true" /> 
     </Item>
 	
-    <Item id="boeotian_1" name="[hellenic] Bronze Boeotian" mesh="boeotian_1" is_merchandise="true" subtype="head_armor" culture="Culture.neutral" value="3500" weight="2.0" difficulty="0" appearance="3"  Type="HeadArmor">
+    <Item id="boeotian_1" name="[hellenic] Bronze Boeotian" mesh="boeotian_1" is_merchandise="true" subtype="head_armor" culture="Culture.empire" value="3500" weight="2.0" difficulty="0" appearance="3"  Type="HeadArmor">
         <ItemComponent>
           <Armor head_armor="74" arm_armor="0" body_armor="0" leg_armor="00" covers_head="false"
                  hair_cover_type="type2" beard_cover_type="none" modifier_group="plate" material_type="Plate" />
@@ -683,7 +683,7 @@
         <Flags UseTeamColor="true" Civilian="true" /> 
     </Item>
 	
-    <Item id="chalcidian_1" name="[hellenic] Bronze Chalcidian" mesh="chalcidian_1" is_merchandise="true" subtype="head_armor" culture="Culture.neutral" value="3500" weight="4.0" difficulty="0" appearance="3"  Type="HeadArmor">
+    <Item id="chalcidian_1" name="[hellenic] Bronze Chalcidian" mesh="chalcidian_1" is_merchandise="true" subtype="head_armor" culture="Culture.empire" value="3500" weight="4.0" difficulty="0" appearance="3"  Type="HeadArmor">
         <ItemComponent>
           <Armor head_armor="80" arm_armor="0" body_armor="0" leg_armor="00" covers_head="false"
                  hair_cover_type="type2" beard_cover_type="none" modifier_group="plate" material_type="Plate" />
@@ -763,7 +763,7 @@
         <Flags UseTeamColor="true" Civilian="true" /> 
     </Item>
 	
-	<Item id="petasos_1" name="[hellenic] Petasos" mesh="petasos_1" is_merchandise="true" subtype="head_armor" culture="Culture.neutral" value="600" weight="2.0" difficulty="0" appearance="3"  Type="HeadArmor">
+	<Item id="petasos_1" name="[hellenic] Petasos" mesh="petasos_1" is_merchandise="true" subtype="head_armor" culture="Culture.empire" value="600" weight="2.0" difficulty="0" appearance="3"  Type="HeadArmor">
         <ItemComponent>
          <Armor head_armor="18" arm_armor="0" body_armor="0" leg_armor="00" covers_head="false"
                 hair_cover_type="type1" beard_cover_type="none" modifier_group="Cloth" material_type="Cloth" />
@@ -771,7 +771,7 @@
         <Flags UseTeamColor="true" Civilian="true" /> 
     </Item>
 	
-	<Item id="petasos_2" name="[hellenic] Petasos slung" mesh="petasos_2" is_merchandise="false" subtype="head_armor" culture="Culture.neutral" value="600" weight="2.0" difficulty="0" appearance="3"  Type="HeadArmor">
+	<Item id="petasos_2" name="[hellenic] Petasos slung" mesh="petasos_2" is_merchandise="false" subtype="head_armor" culture="Culture.empire" value="600" weight="2.0" difficulty="0" appearance="3"  Type="HeadArmor">
         <ItemComponent>
          <Armor head_armor="16" arm_armor="0" body_armor="5" leg_armor="00" covers_head="false"
                 hair_cover_type="none" beard_cover_type="none" modifier_group="Cloth" material_type="Cloth" />
@@ -779,7 +779,7 @@
         <Flags UseTeamColor="true" Civilian="true" /> 
     </Item>
 	
-	<Item id="phrygian_cap_1" name="[hellenic] Phrygian cap" mesh="phrygian_cap_1" is_merchandise="true" subtype="head_armor" culture="Culture.neutral" value="1000" weight="2.0" difficulty="0" appearance="3"  Type="HeadArmor">
+	<Item id="phrygian_cap_1" name="[hellenic] Phrygian cap" mesh="phrygian_cap_1" is_merchandise="true" subtype="head_armor" culture="Culture.empire" value="1000" weight="2.0" difficulty="0" appearance="3"  Type="HeadArmor">
         <ItemComponent>
          <Armor head_armor="18" arm_armor="0" body_armor="0" leg_armor="00" covers_head="false"
                 hair_cover_type="type1" beard_cover_type="none" modifier_group="Cloth" material_type="Cloth" />
@@ -787,7 +787,7 @@
         <Flags UseTeamColor="true" Civilian="true" /> 
     </Item>
 	
-	<Item id="phrygian_cap_2_ears" name="[hellenic] Eared Phrygian cap" mesh="phrygian_cap_2_ears" is_merchandise="true" subtype="head_armor" culture="Culture.neutral" value="1100" weight="2.0" difficulty="0" appearance="3"  Type="HeadArmor">
+	<Item id="phrygian_cap_2_ears" name="[hellenic] Eared Phrygian cap" mesh="phrygian_cap_2_ears" is_merchandise="true" subtype="head_armor" culture="Culture.empire" value="1100" weight="2.0" difficulty="0" appearance="3"  Type="HeadArmor">
         <ItemComponent>
          <Armor head_armor="19" arm_armor="0" body_armor="0" leg_armor="00" covers_head="false"
                 hair_cover_type="type1" beard_cover_type="none" modifier_group="Cloth" material_type="Cloth" />
@@ -795,7 +795,7 @@
         <Flags UseTeamColor="true" Civilian="true" /> 
     </Item>
 	
-	<Item id="phrygian_cap_3_tail" name="[hellenic] tailed Phrygian cap" mesh="phrygian_cap_3_tail" is_merchandise="true" subtype="head_armor" culture="Culture.neutral" value="1100" weight="4.0" difficulty="0" appearance="3"  Type="HeadArmor">
+	<Item id="phrygian_cap_3_tail" name="[hellenic] tailed Phrygian cap" mesh="phrygian_cap_3_tail" is_merchandise="true" subtype="head_armor" culture="Culture.empire" value="1100" weight="4.0" difficulty="0" appearance="3"  Type="HeadArmor">
         <ItemComponent>
          <Armor head_armor="20" arm_armor="0" body_armor="0" leg_armor="00" covers_head="false"
                 hair_cover_type="type1" beard_cover_type="none" modifier_group="Cloth" material_type="Cloth" />
@@ -819,7 +819,7 @@
         <Flags UseTeamColor="true" Civilian="true" /> 
     </Item>
 	
-	<Item id="pilos_1" name="[hellenic] Pilos Plain" mesh="pilos_1" is_merchandise="true" subtype="head_armor" culture="Culture.neutral" value="1500" weight="2.0" difficulty="0" appearance="3"  Type="HeadArmor">
+	<Item id="pilos_1" name="[hellenic] Pilos Plain" mesh="pilos_1" is_merchandise="true" subtype="head_armor" culture="Culture.empire" value="1500" weight="2.0" difficulty="0" appearance="3"  Type="HeadArmor">
         <ItemComponent>
          <Armor head_armor="60" arm_armor="0" body_armor="0" leg_armor="00" covers_head="false"
                 hair_cover_type="type1" beard_cover_type="none" modifier_group="plate" material_type="Plate" />
