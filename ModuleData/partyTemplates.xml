@@ -3,46 +3,48 @@
     <MBPartyTemplate id="main_hero_party_template" >
       <stacks>
         <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.main_hero" />
-		  <PartyTemplateStack min_value="16" max_value="16" troop="NPCCharacter.slegowiri" />
-		  <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.caledonian_maiden" />
-		  <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.caledonian_raider" />
-		  <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.caledonian_blood_sworn" />
-		  <PartyTemplateStack min_value="16" max_value="16" troop="NPCCharacter.akrowiri_kaledonkoi" />
-		  <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.caledonian_vetren_maiden" />
-		  <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.scordisci_levy" />
-		  <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.scordisci_noble_warrior" />
-		  <PartyTemplateStack min_value="16" max_value="16" troop="NPCCharacter.scordisci_noble_swordman" />
-		  <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.scordisci_noble_lancer" />
-		  <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.scordisci_noble_heavy_lancer" />
-		  <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.scordisci_noble_mounted_warrior" />
-		  <PartyTemplateStack min_value="16" max_value="16" troop="NPCCharacter.scordisci_falk_rider" />
-		  <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.scordisci_elite_noble_lancer" />
-		  <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.scordisci_noble_swordman_band" />
-		  <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.scordisci_noble_war_band" />
+		  <!--  
+		  <PartyTemplateStack min_value="16" max_value="16" troop="NPCCharacter.Makedon_Recruit" />
+		  <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.Makedon_Hoplite_01" />
+		  <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.Makedon_Archer_01" />
+		  <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.Makedon_Pike_01" />
+		  <PartyTemplateStack min_value="16" max_value="16" troop="NPCCharacter.Makedon_Hoplite_02" />
+		  <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.Makedon_Pike_02" />
+		  <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.Makedon_Noble" />
+		  <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.Makedon_Noble_Cavalry_01" />
+		  <PartyTemplateStack min_value="16" max_value="16" troop="NPCCharacter.Makedon_Noble_Hoplite_01" />
+		  <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.Makedon_Noble_Pike_01" />
+		  <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.Makedon_Noble_Cavalry_02" />
+		  <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.Epirus_Recruit" />
+		  <PartyTemplateStack min_value="16" max_value="16" troop="NPCCharacter.Epirus_Slinger_01" />
+		  <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.Epirus_Peltast_01" />
+		  <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.Epirus_Spear_01" />
+		  <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.Epirus_Spear_02" />
 
-		  <PartyTemplateStack min_value="16" max_value="16" troop="NPCCharacter.scordisci_tribesmen" />
-		  <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.scordisci_slinger" />
-		  <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.scordisci_heavy_slinger" />
-		  <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.scordisci_light_slinger" />
-		  <PartyTemplateStack min_value="16" max_value="16" troop="NPCCharacter.scordisci_tribal_warrior" />
-		  <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.scordisci_levy_spearman" />
-		  <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.scordisci_spearman" />
-		  <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.scordisci_tribal_vetren_warrior" />
-		  <PartyTemplateStack min_value="16" max_value="16" troop="NPCCharacter.slowgoi_skammo" />
+		  <PartyTemplateStack min_value="16" max_value="16" troop="NPCCharacter.Epirus_Cavalry_01" />
+		  <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.Epirus_Peltast_02" />
+		  <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.Epirus_sword_01" />
+		  <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.epirus_noble_recruit" />
+		  <PartyTemplateStack min_value="16" max_value="16" troop="NPCCharacter.epirus_noble_01" />
+		  <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.epirus_noble_spear_01" />
+		  <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.epirus_noble_sword_01" />
+		  <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.epirus_noble_sword_02" />
+		  <PartyTemplateStack min_value="16" max_value="16" troop="NPCCharacter.greek_recruit" />
 
-		  <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.cwmyr" />
-		  <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.caledonian_noble_1" />
-		  <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.caledonian_noble_rider" />
-		  <PartyTemplateStack min_value="16" max_value="16" troop="NPCCharacter.highland_noble_rider" />
-		  <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.highland_noble_horsemen" />
-		  <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.albio_kluddobros" />
-		  <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.caledonian_warlord" />
-		  <PartyTemplateStack min_value="16" max_value="16" troop="NPCCharacter.caledonian_chosen_warlord" />
-		  <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.kombrogoi" />
-		  <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.arkwioi" />
-		  <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.albio_arkwioi_laxsnas" />
-		  <!--PartyTemplateStack min_value="5" max_value="5" troop="NPCCharacter.vlandian_sharpshooter" />
-        <PartyTemplateStack min_value="30" max_value="30" troop="NPCCharacter.vlandian_sergeant" />
+		  <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.greek_peltast" />
+		  <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.greek_archer" />
+		  <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.greek_noble_recruit" />
+		  <PartyTemplateStack min_value="16" max_value="16" troop="NPCCharacter.greek_noble_hoplite" />
+		  <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.greek_noble_cavalry" />
+		  <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.greek_noble_hoplite_veteran" />
+		  <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.greek_elite_hoplite" />
+		  <PartyTemplateStack min_value="16" max_value="16" troop="NPCCharacter.greek_infantry" />
+		  <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.greek_slinger" />
+		  <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.greek_veteran_slinger" />
+		  <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.greek_hoplite" />
+		  <PartyTemplateStack min_value="5" max_value="5" troop="NPCCharacter.greek_pikeman" />
+          <PartyTemplateStack min_value="30" max_value="30" troop="NPCCharacter.greek_veteran_hoplite" />
+		
         <PartyTemplateStack min_value="20" max_value="20" troop="NPCCharacter.vlandian_sharpshooter" />
         <PartyTemplateStack min_value="30" max_value="30" troop="NPCCharacter.sturgian_recruit" />
         <PartyTemplateStack min_value="30" max_value="30" troop="NPCCharacter.aserai_tribesman" />
