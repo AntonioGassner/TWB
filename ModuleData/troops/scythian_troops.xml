@@ -453,8 +453,8 @@
 			<skill id="Throwing" value="5"/>
 		</skills>
 		<upgrade_targets>
-			<upgrade_target id="NPCCharacter.Scythian_basic_root10"/>
-			<upgrade_target id="NPCCharacter.Scythian_basic_root11"/>
+			<upgrade_target id="NPCCharacter.scythian_slinger"/>
+			<upgrade_target id="NPCCharacter.scythian_horse_bowmen"/>
 		</upgrade_targets>
 		<Equipments>
 			<EquipmentRoster>
