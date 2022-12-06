@@ -9588,7 +9588,6 @@
 		</Equipments>
 	</NPCCharacter>
 
-
 	<!-- Baltic -->
 	<NPCCharacter id="spc_notable_Baltic_0" name="{=!}Cautious imperial merchant" is_template="true" voice="ironic" default_group="Infantry" is_hero="false" culture="Culture.Baltic" occupation="Merchant">
 		<face>
@@ -10273,6 +10272,354 @@
 			</EquipmentRoster>
 		</Equipments>
 	</NPCCharacter>
-	
+
+  <!-- URBAN CHARACTERS OF KVEN -->
+  <NPCCharacter id="spc_notable_kven_0" name="{=!}Cautious Kven merchant" voice="ironic" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.kven" occupation="Merchant">
+    <face>
+      <face_key_template value="BodyProperty.villager_sturgia" />
+    </face>
+    <!--<Hero id="spc_notable_kven_0" faction="Kingdom.kven" />-->
+    <skills></skills>
+    <Traits>
+      <Trait id="RusHair" value="1" />
+      <!-- Add skill groups -->
+      <Trait id="Valor" value="-1" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_sturgia" />
+      <EquipmentSet id="npc_wanderer_equipment_template_sturgia" civilian="true" />
+      <EquipmentSet id="spc_notable_sturgia_0" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_notable_kven_0b" name="{=!}Caustic kven merchant" voice="ironic" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.kven" occupation="Merchant">
+    <face>
+      <face_key_template value="BodyProperty.villager_sturgia" />
+    </face>
+    <!--<Hero id="spc_notable_kven_0b" faction="Kingdom.kven" />-->
+    <skills></skills>
+    <Traits>
+      <Trait id="RusHair" value="1" />
+      <!-- Add skill groups -->
+      <Trait id="Commander" value="1" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_sturgia" />
+      <EquipmentSet id="npc_wanderer_equipment_template_sturgia" civilian="true" />
+      <EquipmentSet id="spc_notable_sturgia_0b" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_notable_kven_1" name="{=!}curt kven merchant" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.kven" occupation="Merchant">
+    <face>
+      <face_key_template value="BodyProperty.villager_sturgia" />
+    </face>
+    <!--<Hero id="spc_notable_kven_1" faction="Kingdom.kven" />-->
+    <skills></skills>
+    <Traits>
+      <Trait id="RusHair" value="1" />
+      <!-- Add skill groups -->
+      <Trait id="Valor" value="-1" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_sturgia" />
+      <EquipmentSet id="npc_wanderer_equipment_template_sturgia" civilian="true" />
+      <EquipmentSet id="spc_notable_sturgia_1" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_notable_kven_2" name="{=!}Adventurous kven merchant" voice="earnest" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.kven" occupation="Merchant">
+    <face>
+      <face_key_template value="BodyProperty.villager_sturgia" />
+    </face>
+    <!--<Hero id="spc_notable_kven_2" faction="Kingdom.kven" />-->
+    <skills></skills>
+    <Traits>
+      <!-- TEMPLATE INFO -->
+      <Trait id="RusHair" value="1" />
+      <!-- Add skill groups -->
+      <!-- CHARACTER -->
+      <Trait id="Valor" value="1" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_sturgia" />
+      <EquipmentSet id="npc_wanderer_equipment_template_sturgia" civilian="true" />
+      <EquipmentSet id="spc_notable_sturgia_2" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_notable_kven_2b" name="{=!}Honest Kven merchant" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.kven" occupation="Merchant">
+    <face>
+      <face_key_template value="BodyProperty.villager_sturgia" />
+    </face>
+    <!--<Hero id="spc_notable_kven_2b" faction="Kingdom.kven" />-->
+    <skills></skills>
+    <Traits>
+      <Trait id="RusHair" value="1" />
+      <!-- Add skill groups -->
+      <Trait id="Commander" value="3" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_sturgia" />
+      <EquipmentSet id="npc_wanderer_equipment_template_sturgia" civilian="true" />
+      <EquipmentSet id="spc_notable_sturgia_2b" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_notable_kven_3b" name="{=!}Affable kven merchant" voice="earnest" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.kven" occupation="Merchant">
+    <face>
+      <face_key_template value="BodyProperty.villager_sturgia" />
+    </face>
+    <!--<Hero id="spc_notable_kven_3b" faction="Kingdom.kven" />-->
+    <Traits>
+      <Trait id="RusHair" value="1" />
+      <!-- Add skill groups -->
+      <Trait id="Commander" value="1" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_sturgia" />
+      <EquipmentSet id="npc_wanderer_equipment_template_sturgia" civilian="true" />
+      <EquipmentSet id="spc_notable_sturgia_3b" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_notable_kven_3" name="{=!}Honorable female kven merchant" voice="earnest" is_template="true" is_female="true" default_group="Infantry" is_hero="false" culture="Culture.kven" occupation="Merchant">
+    <face>
+      <face_key_template value="BodyProperty.townswoman_sturgia" />
+    </face>
+    <!--<Hero id="spc_notable_kven_3" faction="Kingdom.kven" />-->
+    <Traits>
+      <Trait id="RusHair" value="1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_sturgia" />
+      <EquipmentSet id="npc_wanderer_equipment_template_sturgia" civilian="true" />
+      <EquipmentSet id="spc_notable_sturgia_3" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_notable_kven_3c" name="{=!}Devious female kven merchant" voice="ironic" is_template="true" is_female="true" default_group="Infantry" is_hero="false" culture="Culture.kven" occupation="Merchant">
+    <face>
+      <face_key_template value="BodyProperty.townswoman_sturgia" />
+    </face>
+    <!--<Hero id="spc_notable_kven_3c" faction="Kingdom.kven" />-->
+    <Traits>
+      <Trait id="RusHair" value="1" />
+      <!-- Add skill groups -->
+      <Trait id="Commander" value="1" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_sturgia" />
+      <EquipmentSet id="npc_wanderer_equipment_template_sturgia" civilian="true" />
+      <EquipmentSet id="spc_notable_sturgia_3c" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_notable_kven_4" name="{=!}Kven seer" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.kven" occupation="Preacher">
+    <face>
+      <face_key_template value="BodyProperty.villager_sturgia" />
+    </face>
+    <!--<Hero id="spc_notable_kven_4" faction="Kingdom.kven" />-->
+    <Traits>
+      <Trait id="RusHair" value="1" />
+      <Trait id="Honor" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_sturgia" />
+      <EquipmentSet id="npc_wanderer_equipment_template_sturgia" civilian="true" />
+      <EquipmentSet id="spc_notable_sturgia_4" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_notable_kven_5" name="{=!}Kven female mystic" voice="softspoken" is_template="true" default_group="Infantry" is_female="true" culture="Culture.kven" occupation="Preacher">
+    <face>
+      <face_key_template value="BodyProperty.townswoman_sturgia" />
+    </face>
+    <!--<Hero id="spc_notable_kven_5" faction="Kingdom.kven" />-->
+    <skills></skills>
+    <Traits>
+      <Trait id="RusHair" value="1" />
+      <Trait id="Honor" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_sturgia" />
+      <EquipmentSet id="npc_wanderer_equipment_template_sturgia" civilian="true" />
+      <EquipmentSet id="spc_notable_sturgia_5" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_notable_kven_6" name="{=!}Kven gang leader" voice="ironic" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.kven" occupation="GangLeader">
+    <face>
+      <face_key_template value="BodyProperty.fighter_sturgia" />
+    </face>
+    <!--<Hero id="spc_notable_kven_6" faction="Kingdom.kven" />-->
+    <Traits>
+      <Trait id="RusHair" value="1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Mercy" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_sturgia" />
+      <EquipmentSet id="npc_wanderer_equipment_template_sturgia" civilian="true" />
+      <EquipmentSet id="spc_notable_sturgia_6" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_notable_kven_7" name="{=!}Kven female gang leader" voice="ironic" is_template="true" default_group="Infantry" is_female="true" culture="Culture.kven" occupation="GangLeader">
+    <face>
+      <face_key_template value="BodyProperty.townswoman_sturgia" />
+    </face>
+    <!--<Hero id="spc_notable_kven_7" faction="Kingdom.kven" />-->
+    <skills></skills>
+    <Traits>
+      <Trait id="RusHair" value="1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Mercy" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_sturgia" />
+      <EquipmentSet id="npc_wanderer_equipment_template_sturgia" civilian="true" />
+      <EquipmentSet id="spc_notable_sturgia_7" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_notable_kven_8" name="{=!}Kven artisan" voice="curt" is_template="true" default_group="Infantry" culture="Culture.kven" occupation="Artisan">
+    <face>
+      <face_key_template value="BodyProperty.villager_sturgia" />
+    </face>
+    <!--<Hero id="spc_notable_kven_8" faction="Kingdom.kven" />-->
+    <Traits>
+      <Trait id="RusHair" value="1" />
+      <Trait id="Generosity" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_sturgia" />
+      <EquipmentSet id="npc_wanderer_equipment_template_sturgia" civilian="true" />
+      <EquipmentSet id="spc_notable_sturgia_8" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_notable_kven_9" name="{=!}Kven land captain gruff notable" voice="curt" is_template="true" default_group="Infantry" culture="Culture.kven" occupation="RuralNotable">
+    <face>
+      <face_key_template value="BodyProperty.villager_sturgia" />
+    </face>
+    <!--<Hero id="spc_notable_kven_9" faction="Kingdom.kven" />-->
+    <Traits>
+      <Trait id="RusHair" value="1" />
+      <Trait id="Generosity" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_sturgia" />
+      <EquipmentSet id="npc_wanderer_equipment_template_sturgia" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_notable_kven_10" name="{=!}Kven land captain helpful notable" voice="softspoken" is_template="true" default_group="Infantry" culture="Culture.kven" occupation="RuralNotable">
+    <face>
+      <face_key_template value="BodyProperty.villager_sturgia" />
+    </face>
+    <!--<Hero id="spc_notable_kven_10" faction="Kingdom.kven" />-->
+    <Traits>
+      <Trait id="RusHair" value="1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Generosity" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_sturgia" />
+      <EquipmentSet id="npc_wanderer_equipment_template_sturgia" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_kven_headman_1" name="{=!}kven rebellious headman" voice="earnest" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.kven" occupation="Headman">
+    <face>
+      <face_key_template value="BodyProperty.villager_sturgia" />
+    </face>
+    <!--<Hero id="spc_notable_kven_4" faction="Kingdom.kven" />-->
+    <skills></skills>
+    <Traits>
+      <Trait id="RusHair" value="1" />
+      <Trait id="BalancedFightingSkills" value="5" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Calculating" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_sturgia" />
+      <EquipmentSet id="npc_wanderer_equipment_template_sturgia" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_kven_headman_2" name="{=!}kven conservative headman" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.kven" occupation="Headman">
+    <face>
+      <face_key_template value="BodyProperty.villager_sturgia" />
+    </face>
+    <!--<Hero id="spc_notable_kven_4" faction="Kingdom.kven" />-->
+    <skills></skills>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="4" />
+      <Trait id="RusHair" value="1" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Generosity" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_sturgia" />
+      <EquipmentSet id="npc_wanderer_equipment_template_sturgia" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_kven_headman_3" name="{=!}kven devious headman" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.kven" occupation="Headman">
+    <face>
+      <face_key_template value="BodyProperty.villager_sturgia" />
+    </face>
+    <!--<Hero id="spc_notable_kven_4" faction="Kingdom.kven" />-->
+    <skills></skills>
+    <Traits>
+      <Trait id="RusHair" value="1" />
+      <Trait id="BalancedFightingSkills" value="3" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Honor" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_sturgia" />
+      <EquipmentSet id="npc_wanderer_equipment_template_sturgia" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="npc_wanderer_equipment_sturgia" default_group="Infantry" is_template="true" is_hero="false" level="16" name="{=!}wanderer_equipment" occupation="NotAssigned" culture="Culture.kven">
+    <face>
+      <face_key_template value="BodyProperty.fighter_sturgia" />
+    </face>
+    <Equipments>
+      <EquipmentSet id="npc_wanderer_equipment_sturgia" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="npc_artisan_equipment_sturgia" default_group="Infantry" is_template="true" is_hero="false" level="16" name="{=!}artisan_equipment" occupation="NotAssigned" culture="Culture.kven">
+    <face>
+      <face_key_template value="BodyProperty.villager_sturgia" />
+    </face>
+    <Equipments>
+      <EquipmentSet id="npc_artisan_equipment_sturgia" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="npc_gang_leader_equipment_sturgia" default_group="Infantry" is_template="true" is_hero="false" level="16" name="{=!}gang_leader_equipment" occupation="NotAssigned" culture="Culture.kven">
+    <face>
+      <face_key_template value="BodyProperty.fighter_sturgia" />
+    </face>
+    <Equipments>
+      <EquipmentSet id="npc_gang_leader_equipment_sturgia" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="npc_preacher_equipment_sturgia" default_group="Infantry" is_template="true" is_hero="false" level="16" name="{=!}preacher_equipment" occupation="NotAssigned" culture="Culture.kven">
+    <face>
+      <face_key_template value="BodyProperty.villager_sturgia" />
+    </face>
+    <Equipments>
+      <EquipmentSet id="npc_preacher_equipment_sturgia" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="npc_merchant_equipment_sturgia" default_group="Infantry" is_template="true" is_hero="false" level="16" name="{=!}merchant_equipment" occupation="NotAssigned" culture="Culture.kven">
+    <face>
+      <face_key_template value="BodyProperty.villager_sturgia" />
+    </face>
+    <Equipments>
+      <EquipmentSet id="npc_merchant_equipment_sturgia" />
+    </Equipments>
+  </NPCCharacter>
 
 </NPCCharacters>

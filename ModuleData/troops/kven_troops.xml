@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <NPCCharacters>
-    <NPCCharacter id="kven_normal1"
+    <NPCCharacter id="kven_recruit"
                   default_group="Infantry"
                   level="6"
                   name="{=Ung-Menni}Ung-Menni"
