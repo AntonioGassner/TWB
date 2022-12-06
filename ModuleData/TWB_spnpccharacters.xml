@@ -31684,16 +31684,18 @@
             <skill id="Crossbow" value="85"/>
             <skill id="Throwing" value="85"/>
         </skills>
-        <upgrade_targets>            <EquipmentRoster>
-            <equipment slot="Item0" id="Item.germanic_spear"/>
-            <equipment slot="Item1" id="Item.highland_scouts_shield"/>
-            <equipment slot="Item2" id="Item.northern_battle_axe_t3"/>
-            <equipment slot="Head" id="Item.bearhead"/>
-            <equipment slot="Cape" id="Item.berserkr_fur_a"/>
-            <equipment slot="Body" id="Item.eastern_stitched_leather_coat"/>
-            <equipment slot="Gloves" id="Item.highland_gloves"/>
-            <equipment slot="Leg" id="Item.battania_fur_boots"/>
-        </EquipmentRoster>
+        <upgrade_targets></upgrade_targets>
+        <Equipments>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.germanic_spear"/>
+                <equipment slot="Item1" id="Item.highland_scouts_shield"/>
+                <equipment slot="Item2" id="Item.northern_battle_axe_t3"/>
+                <equipment slot="Head" id="Item.bearhead"/>
+                <equipment slot="Cape" id="Item.berserkr_fur_a"/>
+                <equipment slot="Body" id="Item.eastern_stitched_leather_coat"/>
+                <equipment slot="Gloves" id="Item.highland_gloves"/>
+                <equipment slot="Leg" id="Item.battania_fur_boots"/>
+            </EquipmentRoster>
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.germanic_spear"/>
                 <equipment slot="Item1" id="Item.highland_scouts_shield"/>
@@ -31723,63 +31725,6 @@
                 <equipment slot="Body" id="Item.eastern_stitched_leather_coat"/>
                 <equipment slot="Gloves" id="Item.highland_gloves"/>
                 <equipment slot="Leg" id="Item.battania_fur_boots"/>
-            </EquipmentRoster></upgrade_targets>
-        <Equipments>
-            <EquipmentRoster>
-                <equipment slot="Item0"
-                           id="Item.northern_spear_1_t2" />
-                <equipment slot="Item1"
-                           id="Item.northern_round_shield" />
-                <equipment slot="Item2"
-                           id="Item.small_bit_axe_t2" />
-                <equipment slot="Head"
-                           id="Item.nasalhelm_over_leather" />
-                <equipment slot="Cape"
-                           id="Item.battania_civil_cape" />
-                <equipment slot="Body"
-                           id="Item.nordic_sloven" />
-                <equipment slot="Leg"
-                           id="Item.battania_fur_boots" />
-                <equipment slot="Gloves"
-                           id="Item.guarded_armwraps" />
-            </EquipmentRoster>
-            <EquipmentRoster>
-                <equipment slot="Item0"
-                           id="Item.northern_spear_1_t2" />
-                <equipment slot="Item1"
-                           id="Item.northern_round_shield" />
-                <equipment slot="Item2"
-                           id="Item.small_bit_axe_t2" />
-                <equipment slot="Head"
-                           id="Item.nasalhelm_over_leather" />
-                <equipment slot="Cape"
-                           id="Item.battania_civil_cape" />
-                <equipment slot="Body"
-                           id="Item.nordic_sloven" />
-                <equipment slot="Leg"
-                           id="Item.battania_leather_boots" />
-                <equipment slot="Gloves"
-                           id="Item.guarded_armwraps" />
-                <equipment slot="Cape"
-                           id="Item.padded_leather_shoulders" />
-            </EquipmentRoster>
-            <EquipmentRoster>
-                <equipment slot="Item0"
-                           id="Item.northern_spear_1_t2" />
-                <equipment slot="Item1"
-                           id="Item.northern_round_shield" />
-                <equipment slot="Item2"
-                           id="Item.small_bit_axe_t2" />
-                <equipment slot="Head"
-                           id="Item.roughhide_cap" />
-                <equipment slot="Cape"
-                           id="Item.battania_civil_cape" />
-                <equipment slot="Body"
-                           id="Item.nordic_sloven" />
-                <equipment slot="Leg"
-                           id="Item.highland_leg_wrappings" />
-                <equipment slot="Gloves"
-                           id="Item.guarded_armwraps" />
             </EquipmentRoster>
             <EquipmentRoster civilian="true">
                 <equipment slot="Item0"
