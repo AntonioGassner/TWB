@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Kingdoms>
-    <Kingdom id="Scythia" owner="Hero.lord_NE9_l"
+    <Kingdom id="Scythia" owner="Hero.lord_1_1"
              banner_key="11.25.10.4345.4345.764.764.1.0.0.449.11.0.327.349.764.649.0.0.0.449.11.0.319.339.764.879.0.0.180.510.11.0.351.240.634.764.0.0.180.510.11.0.351.240.894.764.0.0.180"
              primary_banner_color="0xfff4ca14" secondary_banner_color="0xff6c1512" label_color="FFDB8330"
              color="FF9E5072" color2="FFDE9953" alternative_color="FF1F1D1F" alternative_color2="FFc28446"
