@@ -4226,7 +4226,7 @@
 	<NPCCharacter id="greek_militia_veteran_slinger"
 				  default_group="Ranged"
 				  level="16"
-				  name="{=HsboF2mR}Palaistratiotēs Militia Akrobólos"
+				  name="{=HsboF2mR}Palaistratiotes Militia Akrobólos"
 				  occupation="Soldier"
 				  culture="Culture.khuzait">
 		<face>
@@ -4304,7 +4304,7 @@
 	<NPCCharacter id="greek_militia_spearman"
 				  default_group="Infantry"
 				  level="11"
-				  name="{=ZhKoCVby}Palaistratiotēs Militia Aikhmophóros"
+				  name="{=ZhKoCVby}Palaistratiotes Militia Aikhmophóros"
 				  occupation="Soldier"
 				  culture="Culture.khuzait">
 		<face>
@@ -4396,7 +4396,7 @@
 	<NPCCharacter id="greek_militia_veteran_spearman"
 				  default_group="Infantry"
 				  level="16"
-				  name="{=c5rVdg75}Palaistratiotēs Militia Aikhmophóros"
+				  name="{=c5rVdg75}Palaistratiotes Militia Aikhmophóros"
 				  occupation="Soldier"
 				  culture="Culture.khuzait">
 		<face>
