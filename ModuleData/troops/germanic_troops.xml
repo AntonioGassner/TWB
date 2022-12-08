@@ -1030,7 +1030,7 @@
                   name="{=Cimbri Tribesmen}Cimbri Tribesmen"
                   occupation="Soldier"
                   is_basic_troop="true"
-                  culture="Culture.sturgia">
+                  culture="Culture.cimbri">
         <face>
             <face_key_template value="BodyProperty.villager_sturgia"/>
         </face>
@@ -1092,7 +1092,7 @@
                   name="{=Cimbri Noble's Son}Cimbri Noble's Son"
                   occupation="Soldier"
                   is_basic_troop="true"
-                  culture="Culture.sturgia">
+                  culture="Culture.cimbri">
         <face>
             <face_key_template value="BodyProperty.villager_sturgia"/>
         </face>
@@ -1160,7 +1160,7 @@
                   level="21"
                   name="{=Cimbri Noble Warsworn}Cimbri Noble Warsworn"
                   occupation="Soldier"
-                  culture="Culture.sturgia">
+                  culture="Culture.cimbri">
         <face>
             <face_key_template value="BodyProperty.villager_sturgia"/>
         </face>
@@ -1228,7 +1228,7 @@
                   name="{=Cimbri Mounted Raider}Cimbri Mounted Raider"
                   upgrade_requires="ItemCategory.horse"
                   occupation="Soldier"
-                  culture="Culture.sturgia">
+                  culture="Culture.cimbri">
         <face>
             <face_key_template value="BodyProperty.villager_sturgia"/>
         </face>
@@ -1307,7 +1307,7 @@
                   level="26"
                   name="{=Cimbri Mounted Vetren Raider}Cimbri Mounted Vetren Raider"
                   occupation="Soldier"
-                  culture="Culture.sturgia">
+                  culture="Culture.cimbri">
         <face>
             <face_key_template value="BodyProperty.villager_sturgia"/>
         </face>
@@ -1386,7 +1386,7 @@
                   level="31"
                   name="{=Cimbri Pillager}Cimbri Pillager"
                   occupation="Soldier"
-                  culture="Culture.sturgia">
+                  culture="Culture.cimbri">
         <face>
             <face_key_template value="BodyProperty.villager_sturgia"/>
         </face>
@@ -1462,7 +1462,7 @@
                   level="26"
                   name="{=Cimbri Noble Warlord}Cimbri Noble Warlord"
                   occupation="Soldier"
-                  culture="Culture.sturgia">
+                  culture="Culture.cimbri">
         <face>
             <face_key_template value="BodyProperty.villager_sturgia"/>
         </face>
@@ -1529,7 +1529,7 @@
                   level="31"
                   name="{=Cimbri Chieftain's Guard}Cimbri Chieftain's Guard"
                   occupation="Soldier"
-                  culture="Culture.sturgia">
+                  culture="Culture.cimbri">
         <face>
             <face_key_template value="BodyProperty.villager_sturgia"/>
         </face>
@@ -1593,7 +1593,7 @@
                   level="11"
                   name="{=Cimbri Spear Warrior}Cimbri Spear Warrior"
                   occupation="Soldier"
-                  culture="Culture.sturgia">
+                  culture="Culture.cimbri">
         <face>
             <face_key_template value="BodyProperty.villager_sturgia"/>
         </face>
@@ -1654,7 +1654,7 @@
                   level="11"
                   name="{=Cimbri Raider}Cimbri Raider"
                   occupation="Soldier"
-                  culture="Culture.sturgia">
+                  culture="Culture.cimbri">
         <face>
             <face_key_template value="BodyProperty.villager_sturgia"/>
         </face>
@@ -1723,7 +1723,7 @@
                   level="16"
                   name="{=Cimbri Vetren Raider}Cimbri Vetren Raider"
                   occupation="Soldier"
-                  culture="Culture.sturgia">
+                  culture="Culture.cimbri">
         <face>
             <face_key_template value="BodyProperty.villager_sturgia"/>
         </face>
@@ -1791,7 +1791,7 @@
                   level="16"
                   name="{=Cimbri Slinger}Cimbri Slinger"
                   occupation="Soldier"
-                  culture="Culture.sturgia">
+                  culture="Culture.cimbri">
         <face>
             <face_key_template value="BodyProperty.villager_sturgia"/>
         </face>
@@ -1860,7 +1860,7 @@
                   level="16"
                   name="{=Cimbri Spear Raider}Cimbri Spear Raider"
                   occupation="Soldier"
-                  culture="Culture.sturgia">
+                  culture="Culture.cimbri">
         <face>
             <face_key_template value="BodyProperty.villager_sturgia"/>
         </face>
@@ -1921,7 +1921,7 @@
                   name="{=Cimbri Shield Maiden}Cimbri Shield Maiden"
                   occupation="Soldier"
                   is_female="true"
-                  culture="Culture.sturgia">
+                  culture="Culture.cimbri">
         <face>
             <face_key_template value="BodyProperty.villager_sturgia"/>
         </face>
@@ -1989,7 +1989,7 @@
                   name="{=Cimbri Champians Of Fenrir}Cimbri Champians Of Fenrir"
                   occupation="Soldier"
                   is_female="true"
-                  culture="Culture.sturgia">
+                  culture="Culture.cimbri">
         <face>
             <face_key_template value="BodyProperty.villager_sturgia"/>
         </face>
@@ -2057,7 +2057,7 @@
                   level="21"
                   name="{=Cimbri Vetren Spear Raider}Cimbri Vetren Spear Raider"
                   occupation="Soldier"
-                  culture="Culture.sturgia">
+                  culture="Culture.cimbri">
         <face>
             <face_key_template value="BodyProperty.villager_sturgia"/>
         </face>
@@ -3227,481 +3227,480 @@
 
     <!-- Kven Troops -->
 
-    <NPCCharacter id="Ung_Menni"
-                  default_group="Infantry"
-                  level="6"
-                  name="{=Ung-Menni}Ung-Menni"
-                  occupation="Soldier"
-                  culture="Culture.sturgia">
-        <face>
-            <face_key_template value="BodyProperty.villager_sturgia"/>
-        </face>
-        <skills>
-            <skill id="Athletics" value="0"/>
-            <skill id="Riding" value="0"/>
-            <skill id="OneHanded" value="0"/>
-            <skill id="TwoHanded" value="0"/>
-            <skill id="Polearm" value="0"/>
-            <skill id="Bow" value="0"/>
-            <skill id="Crossbow" value="0"/>
-            <skill id="Throwing" value="0"/>
-        </skills>
-        <upgrade_targets>
-            <upgrade_target id="NPCCharacter.Herja_Ung_Menni"/>
-            <upgrade_target id="NPCCharacter.Veiði_Ung_Menni"/>
-        </upgrade_targets>
-        <Equipments>
-            <EquipmentRoster>
-                <equipment slot="Item0" id="Item.northern_spear_1_t2"/>
-                <equipment slot="Item1" id="Item.sturgia_old_shield_b"/>
-                <equipment slot="Item2" id="Item.vlandia_mace_1_t2"/>
-                <equipment slot="Head" id="Item.nordic_leather_cap"/>
-                <equipment slot="Cape" id="Item.green_hood"/>
-                <equipment slot="Body" id="Item.long_woolen_tunic"/>
-                <equipment slot="Gloves" id="Item.leather_gloves"/>
-                <equipment slot="Leg" id="Item.highland_boots"/>
-            </EquipmentRoster>
-            <EquipmentRoster>
-                <equipment slot="Item0" id="Item.northern_spear_1_t2"/>
-                <equipment slot="Item1" id="Item.sturgia_old_shield_b"/>
-                <equipment slot="Item2" id="Item.vlandia_mace_1_t2"/>
-                <equipment slot="Head" id="Item.upturned_fur_cap"/>
-                <equipment slot="Body" id="Item.khuzait_civil_coat_b"/>
-                <equipment slot="Gloves" id="Item.leather_gloves"/>
-                <equipment slot="Leg" id="Item.highland_boots"/>
-            </EquipmentRoster>
-            <EquipmentRoster>
-                <equipment slot="Item0" id="Item.western_spear_2_t2"/>
-                <equipment slot="Item1" id="Item.sturgia_old_shield_b"/>
-                <equipment slot="Item2" id="Item.battania_mace_2_t2"/>
-                <equipment slot="Head" id="Item.northern_fur_cap"/>
-                <equipment slot="Body" id="Item.fur_trimmed_short_tunic"/>
-                <equipment slot="Gloves" id="Item.leather_gloves"/>
-                <equipment slot="Leg" id="Item.highland_boots"/>
-            </EquipmentRoster>
-            <EquipmentRoster>
-                <equipment slot="Item0" id="Item.western_spear_2_t2"/>
-                <equipment slot="Item1" id="Item.sturgia_old_shield_b"/>
-                <equipment slot="Item2" id="Item.battania_mace_2_t2"/>
-                <equipment slot="Head" id="Item.nordic_fur_cap"/>
-                <equipment slot="Body" id="Item.battania_civil_b"/>
-                <equipment slot="Gloves" id="Item.leather_gloves"/>
-                <equipment slot="Leg" id="Item.highland_boots"/>
-            </EquipmentRoster>
-            <EquipmentRoster civilian="true">
-                <equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
-                <equipment slot="Item2" id="Item.throwing_stone"/>
-                <equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
-                <equipment slot="Leg" id="Item.wrapped_shoes"/>
-            </EquipmentRoster>
-        </Equipments>
-    </NPCCharacter>
-
-    <NPCCharacter id="Herja_Ung_Menni"
-                  default_group="Infantry"
-                  level="11"
-                  name="{=Herja-Ung-Menni}Herja-Ung-Menni"
-                  occupation="Soldier"
-                  culture="Culture.sturgia">
-        <face>
-            <face_key_template value="BodyProperty.villager_sturgia"/>
-        </face>
-        <skills>
-            <skill id="Athletics" value="0"/>
-            <skill id="Riding" value="0"/>
-            <skill id="OneHanded" value="0"/>
-            <skill id="TwoHanded" value="0"/>
-            <skill id="Polearm" value="0"/>
-            <skill id="Bow" value="0"/>
-            <skill id="Crossbow" value="0"/>
-            <skill id="Throwing" value="0"/>
-        </skills>
-        <upgrade_targets>
-            <upgrade_target id="NPCCharacter.Herja_Maðr"/>
-        </upgrade_targets>
-        <Equipments>
-            <EquipmentRoster>
-                <equipment slot="Item0" id="Item.western_spear_2_t2"/>
-                <equipment slot="Item1" id="Item.northern_round_shield"/>
-                <equipment slot="Item2" id="Item.aserai_axe_1_t2"/>
-                <equipment slot="Head" id="Item.nordic_leather_cap"/>
-                <equipment slot="Cape" id="Item.green_hood"/>
-                <equipment slot="Body" id="Item.long_woolen_tunic"/>
-                <equipment slot="Gloves" id="Item.leather_gloves"/>
-                <equipment slot="Leg" id="Item.highland_boots"/>
-            </EquipmentRoster>
-            <EquipmentRoster>
-                <equipment slot="Item0" id="Item.western_spear_2_t2"/>
-                <equipment slot="Item1" id="Item.northern_round_shield"/>
-                <equipment slot="Item2" id="Item.aserai_axe_1_t2"/>
-                <equipment slot="Head" id="Item.upturned_fur_cap"/>
-                <equipment slot="Body" id="Item.khuzait_civil_coat_b"/>
-                <equipment slot="Gloves" id="Item.leather_gloves"/>
-                <equipment slot="Leg" id="Item.highland_boots"/>
-            </EquipmentRoster>
-            <EquipmentRoster>
-                <equipment slot="Item0" id="Item.western_spear_2_t2"/>
-                <equipment slot="Item1" id="Item.northern_round_shield"/>
-                <equipment slot="Item2" id="Item.battania_axe_1_t2"/>
-                <equipment slot="Head" id="Item.northern_fur_cap"/>
-                <equipment slot="Body" id="Item.fur_trimmed_short_tunic"/>
-                <equipment slot="Gloves" id="Item.leather_gloves"/>
-                <equipment slot="Leg" id="Item.highland_boots"/>
-            </EquipmentRoster>
-            <EquipmentRoster>
-                <equipment slot="Item0" id="Item.western_spear_2_t2"/>
-                <equipment slot="Item1" id="Item.northern_round_shield"/>
-                <equipment slot="Item2" id="Item.battania_axe_1_t2"/>
-                <equipment slot="Head" id="Item.nordic_fur_cap"/>
-                <equipment slot="Body" id="Item.battania_civil_b"/>
-                <equipment slot="Gloves" id="Item.leather_gloves"/>
-                <equipment slot="Leg" id="Item.highland_boots"/>
-            </EquipmentRoster>
-            <EquipmentRoster civilian="true">
-                <equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
-                <equipment slot="Item2" id="Item.throwing_stone"/>
-                <equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
-                <equipment slot="Leg" id="Item.wrapped_shoes"/>
-            </EquipmentRoster>
-        </Equipments>
-    </NPCCharacter>
-    <NPCCharacter id="Veiði_Ung_Menni"
-                  default_group="Ranged"
-                  level="11"
-                  name="{=Veiði-Ung-Menni}Veiði-Ung-Menni"
-                  occupation="Soldier"
-                  culture="Culture.sturgia">
-        <face>
-            <face_key_template value="BodyProperty.villager_sturgia"/>
-        </face>
-        <skills>
-            <skill id="Athletics" value="0"/>
-            <skill id="Riding" value="0"/>
-            <skill id="OneHanded" value="0"/>
-            <skill id="TwoHanded" value="0"/>
-            <skill id="Polearm" value="0"/>
-            <skill id="Bow" value="0"/>
-            <skill id="Crossbow" value="0"/>
-            <skill id="Throwing" value="0"/>
-        </skills>
-        <upgrade_targets>
-            <upgrade_target id="NPCCharacter.Veiði_Maðr"/>
-        </upgrade_targets>
-        <Equipments>
-            <EquipmentRoster>
-                <equipment slot="Item0" id="Item.mountain_hunting_bow"/>
-                <equipment slot="Item1" id="Item.range_arrows"/>
-                <equipment slot="Item2" id="Item.simple_sparth_axe_t2"/>
-                <equipment slot="Head" id="Item.nordic_leather_cap"/>
-                <equipment slot="Cape" id="Item.green_hood"/>
-                <equipment slot="Body" id="Item.long_woolen_tunic"/>
-                <equipment slot="Gloves" id="Item.leather_gloves"/>
-                <equipment slot="Leg" id="Item.highland_boots"/>
-            </EquipmentRoster>
-            <EquipmentRoster>
-                <equipment slot="Item0" id="Item.mountain_hunting_bow"/>
-                <equipment slot="Item1" id="Item.range_arrows"/>
-                <equipment slot="Item2" id="Item.simple_sparth_axe_t2"/>
-                <equipment slot="Head" id="Item.upturned_fur_cap"/>
-                <equipment slot="Body" id="Item.khuzait_civil_coat_b"/>
-                <equipment slot="Gloves" id="Item.leather_gloves"/>
-                <equipment slot="Leg" id="Item.highland_boots"/>
-            </EquipmentRoster>
-            <EquipmentRoster>
-                <equipment slot="Item0" id="Item.mountain_hunting_bow"/>
-                <equipment slot="Item1" id="Item.range_arrows"/>
-                <equipment slot="Item2" id="Item.simple_sparth_axe_t2"/>
-                <equipment slot="Head" id="Item.northern_fur_cap"/>
-                <equipment slot="Body" id="Item.fur_trimmed_short_tunic"/>
-                <equipment slot="Gloves" id="Item.leather_gloves"/>
-                <equipment slot="Leg" id="Item.highland_boots"/>
-            </EquipmentRoster>
-            <EquipmentRoster>
-                <equipment slot="Item0" id="Item.mountain_hunting_bow"/>
-                <equipment slot="Item1" id="Item.range_arrows"/>
-                <equipment slot="Item2" id="Item.simple_sparth_axe_t2"/>
-                <equipment slot="Head" id="Item.nordic_fur_cap"/>
-                <equipment slot="Body" id="Item.battania_civil_b"/>
-                <equipment slot="Gloves" id="Item.leather_gloves"/>
-                <equipment slot="Leg" id="Item.highland_boots"/>
-            </EquipmentRoster>
-            <EquipmentRoster civilian="true">
-                <equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
-                <equipment slot="Item2" id="Item.throwing_stone"/>
-                <equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
-                <equipment slot="Leg" id="Item.wrapped_shoes"/>
-            </EquipmentRoster>
-        </Equipments>
-    </NPCCharacter>
-    <NPCCharacter id="Veiði_Maðr"
-                  default_group="Ranged"
-                  level="16"
-                  name="{=Veiði-Maðr}Veiði-Maðr"
-                  occupation="Soldier"
-                  culture="Culture.sturgia">
-        <face>
-            <face_key_template value="BodyProperty.villager_sturgia"/>
-        </face>
-        <skills>
-            <skill id="Athletics" value="0"/>
-            <skill id="Riding" value="0"/>
-            <skill id="OneHanded" value="0"/>
-            <skill id="TwoHanded" value="0"/>
-            <skill id="Polearm" value="0"/>
-            <skill id="Bow" value="0"/>
-            <skill id="Crossbow" value="0"/>
-            <skill id="Throwing" value="0"/>
-        </skills>
-        <upgrade_targets>
-            <upgrade_target id="NPCCharacter.Þróttigr_Veiði_Maðr"/>
-        </upgrade_targets>
-        <Equipments>
-            <EquipmentRoster>
-                <equipment slot="Item0" id="Item.mountain_hunting_bow"/>
-                <equipment slot="Item1" id="Item.range_arrows"/>
-                <equipment slot="Item2" id="Item.simple_sparth_axe_t2"/>
-                <equipment slot="Head" id="Item.TV_wolf_pelt_c"/>
-                <equipment slot="Cape" id="Item.hood"/>
-                <equipment slot="Body" id="Item.long_woolen_tunic"/>
-                <equipment slot="Gloves" id="Item.leather_gloves"/>
-                <equipment slot="Leg" id="Item.highland_boots"/>
-            </EquipmentRoster>
-            <EquipmentRoster>
-                <equipment slot="Item0" id="Item.mountain_hunting_bow"/>
-                <equipment slot="Item1" id="Item.range_arrows"/>
-                <equipment slot="Item2" id="Item.simple_sparth_axe_t2"/>
-                <equipment slot="Head" id="Item.TV_wolf_pelt_e"/>
-                <equipment slot="Body" id="Item.khuzait_civil_coat_b"/>
-                <equipment slot="Gloves" id="Item.leather_gloves"/>
-                <equipment slot="Leg" id="Item.highland_boots"/>
-            </EquipmentRoster>
-            <EquipmentRoster>
-                <equipment slot="Item0" id="Item.mountain_hunting_bow"/>
-                <equipment slot="Item1" id="Item.range_arrows"/>
-                <equipment slot="Item2" id="Item.simple_sparth_axe_t2"/>
-                <equipment slot="Head" id="Item.wolfhead"/>
-                <equipment slot="Cape" id="Item.green_hood"/>
-                <equipment slot="Body" id="Item.fur_trimmed_short_tunic"/>
-                <equipment slot="Gloves" id="Item.leather_gloves"/>
-                <equipment slot="Leg" id="Item.highland_boots"/>
-            </EquipmentRoster>
-            <EquipmentRoster>
-                <equipment slot="Item0" id="Item.mountain_hunting_bow"/>
-                <equipment slot="Item1" id="Item.range_arrows"/>
-                <equipment slot="Item2" id="Item.simple_sparth_axe_t2"/>
-                <equipment slot="Head" id="Item.wolfhead"/>
-                <equipment slot="Cape" id="Item.hood"/>
-                <equipment slot="Body" id="Item.battania_civil_b"/>
-                <equipment slot="Gloves" id="Item.leather_gloves"/>
-                <equipment slot="Leg" id="Item.highland_boots"/>
-            </EquipmentRoster>
-            <EquipmentRoster civilian="true">
-                <equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
-                <equipment slot="Item2" id="Item.throwing_stone"/>
-                <equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
-                <equipment slot="Leg" id="Item.wrapped_shoes"/>
-            </EquipmentRoster>
-        </Equipments>
-    </NPCCharacter>
-    <NPCCharacter id="Þróttigr_Veiði_Maðr"
-                  default_group="Ranged"
-                  level="21"
-                  name="{=Þróttigr Veiði-Maðr}Þróttigr Veiði-Maðr"
-                  occupation="Soldier"
-                  culture="Culture.sturgia">
-        <face>
-            <face_key_template value="BodyProperty.villager_sturgia"/>
-        </face>
-        <skills>
-            <skill id="Athletics" value="0"/>
-            <skill id="Riding" value="0"/>
-            <skill id="OneHanded" value="0"/>
-            <skill id="TwoHanded" value="0"/>
-            <skill id="Polearm" value="0"/>
-            <skill id="Bow" value="0"/>
-            <skill id="Crossbow" value="0"/>
-            <skill id="Throwing" value="0"/>
-        </skills>
-        <Equipments>
-            <EquipmentRoster>
-                <equipment slot="Item0" id="Item.glen_ranger_bow"/>
-                <equipment slot="Item1" id="Item.bodkin_arrows_b"/>
-                <equipment slot="Item2" id="Item.battania_2haxe_1_t2"/>
-                <equipment slot="Head" id="Item.wolfhead"/>
-                <equipment slot="Body" id="Item.leather_scale_armor"/>
-                <equipment slot="Gloves" id="Item.leather_gloves"/>
-                <equipment slot="Leg" id="Item.highland_boots"/>
-            </EquipmentRoster>
-            <EquipmentRoster>
-                <equipment slot="Item0" id="Item.glen_ranger_bow"/>
-                <equipment slot="Item1" id="Item.bodkin_arrows_b"/>
-                <equipment slot="Item2" id="Item.battania_2haxe_1_t2"/>
-                <equipment slot="Head" id="Item.wolfhead"/>
-                <equipment slot="Body" id="Item.battania_woodland_outfit"/>
-                <equipment slot="Gloves" id="Item.leather_gloves"/>
-                <equipment slot="Leg" id="Item.highland_boots"/>
-            </EquipmentRoster>
-            <EquipmentRoster>
-                <equipment slot="Item0" id="Item.glen_ranger_bow"/>
-                <equipment slot="Item1" id="Item.bodkin_arrows_b"/>
-                <equipment slot="Item2" id="Item.battania_2haxe_1_t2"/>
-                <equipment slot="Head" id="Item.wolfhead"/>
-                <equipment slot="Body" id="Item.long_fur_coat"/>
-                <equipment slot="Gloves" id="Item.leather_gloves"/>
-                <equipment slot="Leg" id="Item.highland_boots"/>
-            </EquipmentRoster>
-            <EquipmentRoster>
-                <equipment slot="Item0" id="Item.glen_ranger_bow"/>
-                <equipment slot="Item1" id="Item.bodkin_arrows_b"/>
-                <equipment slot="Item2" id="Item.battania_2haxe_1_t2"/>
-                <equipment slot="Head" id="Item.wolfhead"/>
-                <equipment slot="Body" id="Item.leather_scale_armor"/>
-                <equipment slot="Gloves" id="Item.leather_gloves"/>
-                <equipment slot="Leg" id="Item.highland_boots"/>
-            </EquipmentRoster>
-            <EquipmentRoster civilian="true">
-                <equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
-                <equipment slot="Item2" id="Item.throwing_stone"/>
-                <equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
-                <equipment slot="Leg" id="Item.wrapped_shoes"/>
-            </EquipmentRoster>
-        </Equipments>
-    </NPCCharacter>
-    <NPCCharacter id="Herja_Maðr"
-                  default_group="Infantry"
-                  level="16"
-                  name="{=Herja-Maðr}Herja-Maðr"
-                  occupation="Soldier"
-                  culture="Culture.sturgia">
-        <face>
-            <face_key_template value="BodyProperty.villager_sturgia"/>
-        </face>
-        <skills>
-            <skill id="Athletics" value="0"/>
-            <skill id="Riding" value="0"/>
-            <skill id="OneHanded" value="0"/>
-            <skill id="TwoHanded" value="0"/>
-            <skill id="Polearm" value="0"/>
-            <skill id="Bow" value="0"/>
-            <skill id="Crossbow" value="0"/>
-            <skill id="Throwing" value="0"/>
-        </skills>
-        <upgrade_targets>
-            <upgrade_target id="NPCCharacter.Þróttigr_Herja_Maðr"/>
-        </upgrade_targets>
-        <Equipments>
-            <EquipmentRoster>
-                <equipment slot="Item0" id="Item.western_spear_2_t2"/>
-                <equipment slot="Item1" id="Item.northern_round_shield"/>
-                <equipment slot="Item2" id="Item.aserai_axe_1_t2"/>
-                <equipment slot="Head" id="Item.bearhead"/>
-                <equipment slot="Body" id="Item.rough_fur_armor"/>
-                <equipment slot="Gloves" id="Item.highland_gloves"/>
-                <equipment slot="Leg" id="Item.battania_fur_boots"/>
-            </EquipmentRoster>
-            <EquipmentRoster>
-                <equipment slot="Item0" id="Item.western_spear_2_t2"/>
-                <equipment slot="Item1" id="Item.northern_round_shield"/>
-                <equipment slot="Item2" id="Item.aserai_axe_1_t2"/>
-                <equipment slot="Head" id="Item.bearhead"/>
-                <equipment slot="Body" id="Item.fur_armor"/>
-                <equipment slot="Gloves" id="Item.highland_gloves"/>
-                <equipment slot="Leg" id="Item.battania_fur_boots"/>
-            </EquipmentRoster>
-            <EquipmentRoster>
-                <equipment slot="Item0" id="Item.northern_spear_1_t2"/>
-                <equipment slot="Item1" id="Item.northern_round_shield"/>
-                <equipment slot="Item2" id="Item.battania_axe_1_t2"/>
-                <equipment slot="Head" id="Item.bearhead"/>
-                <equipment slot="Body" id="Item.battania_woodland_outfit"/>
-                <equipment slot="Gloves" id="Item.highland_gloves"/>
-                <equipment slot="Leg" id="Item.battania_fur_boots"/>
-            </EquipmentRoster>
-            <EquipmentRoster>
-                <equipment slot="Item0" id="Item.northern_spear_1_t2"/>
-                <equipment slot="Item1" id="Item.northern_round_shield"/>
-                <equipment slot="Item2" id="Item.battania_axe_1_t2"/>
-                <equipment slot="Head" id="Item.bearhead"/>
-                <equipment slot="Body" id="Item.long_fur_coat"/>
-                <equipment slot="Gloves" id="Item.highland_gloves"/>
-                <equipment slot="Leg" id="Item.battania_fur_boots"/>
-            </EquipmentRoster>
-            <EquipmentRoster civilian="true">
-                <equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
-                <equipment slot="Item2" id="Item.throwing_stone"/>
-                <equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
-                <equipment slot="Leg" id="Item.wrapped_shoes"/>
-            </EquipmentRoster>
-        </Equipments>
-    </NPCCharacter>
-    <NPCCharacter id="Þróttigr_Herja_Maðr"
-                  default_group="Infantry"
-                  level="21"
-                  name="{=Þróttigr Herja-Maðr}Þróttigr Herja-Maðr"
-                  occupation="Soldier"
-                  culture="Culture.sturgia">
-        <face>
-            <face_key_template value="BodyProperty.villager_sturgia"/>
-        </face>
-        <skills>
-            <skill id="Athletics" value="0"/>
-            <skill id="Riding" value="0"/>
-            <skill id="OneHanded" value="0"/>
-            <skill id="TwoHanded" value="0"/>
-            <skill id="Polearm" value="0"/>
-            <skill id="Bow" value="0"/>
-            <skill id="Crossbow" value="0"/>
-            <skill id="Throwing" value="0"/>
-        </skills>
-        <Equipments>
-            <EquipmentRoster>
-                <equipment slot="Item0" id="Item.germanic_spear"/>
-                <equipment slot="Item1" id="Item.highland_scouts_shield"/>
-                <equipment slot="Item2" id="Item.northern_battle_axe_t3"/>
-                <equipment slot="Head" id="Item.bearhead"/>
-                <equipment slot="Cape" id="Item.berserkr_fur_a"/>
-                <equipment slot="Body" id="Item.eastern_stitched_leather_coat"/>
-                <equipment slot="Gloves" id="Item.highland_gloves"/>
-                <equipment slot="Leg" id="Item.battania_fur_boots"/>
-            </EquipmentRoster>
-            <EquipmentRoster>
-                <equipment slot="Item0" id="Item.germanic_spear"/>
-                <equipment slot="Item1" id="Item.highland_scouts_shield"/>
-                <equipment slot="Item2" id="Item.northern_battle_axe_t3"/>
-                <equipment slot="Head" id="Item.bearhead"/>
-                <equipment slot="Cape" id="Item.berserkr_fur_a"/>
-                <equipment slot="Body" id="Item.studded_leather_over_aketon"/>
-                <equipment slot="Gloves" id="Item.highland_gloves"/>
-                <equipment slot="Leg" id="Item.battania_fur_boots"/>
-            </EquipmentRoster>
-            <EquipmentRoster>
-                <equipment slot="Item0" id="Item.germanic_spear"/>
-                <equipment slot="Item1" id="Item.highland_scouts_shield"/>
-                <equipment slot="Item2" id="Item.sturgia_sword_2_t3"/>
-                <equipment slot="Head" id="Item.bearhead"/>
-                <equipment slot="Cape" id="Item.berserkr_fur_a"/>
-                <equipment slot="Body" id="Item.studded_leather_over_aketon"/>
-                <equipment slot="Gloves" id="Item.highland_gloves"/>
-                <equipment slot="Leg" id="Item.battania_fur_boots"/>
-            </EquipmentRoster>
-            <EquipmentRoster>
-                <equipment slot="Item0" id="Item.germanic_spear"/>
-                <equipment slot="Item1" id="Item.highland_scouts_shield"/>
-                <equipment slot="Item2" id="Item.battania_axe_2_t4"/>
-                <equipment slot="Head" id="Item.bearhead"/>
-                <equipment slot="Cape" id="Item.berserkr_fur_a"/>
-                <equipment slot="Body" id="Item.eastern_stitched_leather_coat"/>
-                <equipment slot="Gloves" id="Item.highland_gloves"/>
-                <equipment slot="Leg" id="Item.battania_fur_boots"/>
-            </EquipmentRoster>
-            <EquipmentRoster civilian="true">
-                <equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
-                <equipment slot="Item2" id="Item.throwing_stone"/>
-                <equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
-                <equipment slot="Leg" id="Item.wrapped_shoes"/>
-            </EquipmentRoster>
-        </Equipments>
-    </NPCCharacter>
+    <!--	<NPCCharacter id="Ung_Menni"-->
+    <!--		default_group="Infantry"-->
+    <!--		level="6"-->
+    <!--		name="{=Ung-Menni}Ung-Menni"-->
+    <!--		occupation="Soldier"-->
+    <!--		culture="Culture.sturgia">-->
+    <!--		<face>-->
+    <!--			<face_key_template value="BodyProperty.villager_sturgia"/>-->
+    <!--		</face>-->
+    <!--		<skills >-->
+    <!--			<skill id="Athletics" value="0"/>-->
+    <!--			<skill id="Riding" value="0"/>-->
+    <!--			<skill id="OneHanded" value="0"/>-->
+    <!--			<skill id="TwoHanded" value="0"/>-->
+    <!--			<skill id="Polearm" value="0"/>-->
+    <!--			<skill id="Bow" value="0"/>-->
+    <!--			<skill id="Crossbow" value="0"/>-->
+    <!--			<skill id="Throwing" value="0"/>-->
+    <!--		</skills>-->
+    <!--		<upgrade_targets>-->
+    <!--			<upgrade_target id="NPCCharacter.Herja_Ung_Menni"/>-->
+    <!--			<upgrade_target id="NPCCharacter.Veiði_Ung_Menni"/>-->
+    <!--		</upgrade_targets>-->
+    <!--		<Equipments>-->
+    <!--			<EquipmentRoster>-->
+    <!--				<equipment slot="Item0" id="Item.northern_spear_1_t2"/>-->
+    <!--				<equipment slot="Item1" id="Item.sturgia_old_shield_b"/>-->
+    <!--				<equipment slot="Item2" id="Item.vlandia_mace_1_t2"/>-->
+    <!--				<equipment slot="Head" id="Item.nordic_leather_cap"/>-->
+    <!--				<equipment slot="Cape" id="Item.green_hood"/>-->
+    <!--				<equipment slot="Body" id="Item.long_woolen_tunic"/>-->
+    <!--				<equipment slot="Gloves" id="Item.leather_gloves"/>-->
+    <!--				<equipment slot="Leg" id="Item.highland_boots"/>-->
+    <!--			</EquipmentRoster>-->
+    <!--			<EquipmentRoster>-->
+    <!--				<equipment slot="Item0" id="Item.northern_spear_1_t2"/>-->
+    <!--				<equipment slot="Item1" id="Item.sturgia_old_shield_b"/>-->
+    <!--				<equipment slot="Item2" id="Item.vlandia_mace_1_t2"/>-->
+    <!--				<equipment slot="Head" id="Item.upturned_fur_cap"/>-->
+    <!--				<equipment slot="Body" id="Item.khuzait_civil_coat_b"/>-->
+    <!--				<equipment slot="Gloves" id="Item.leather_gloves"/>-->
+    <!--				<equipment slot="Leg" id="Item.highland_boots"/>-->
+    <!--			</EquipmentRoster>-->
+    <!--			<EquipmentRoster>-->
+    <!--				<equipment slot="Item0" id="Item.western_spear_2_t2"/>-->
+    <!--				<equipment slot="Item1" id="Item.sturgia_old_shield_b"/>-->
+    <!--				<equipment slot="Item2" id="Item.battania_mace_2_t2"/>-->
+    <!--				<equipment slot="Head" id="Item.northern_fur_cap"/>-->
+    <!--				<equipment slot="Body" id="Item.fur_trimmed_short_tunic"/>-->
+    <!--				<equipment slot="Gloves" id="Item.leather_gloves"/>-->
+    <!--				<equipment slot="Leg" id="Item.highland_boots"/>-->
+    <!--			</EquipmentRoster>-->
+    <!--			<EquipmentRoster>-->
+    <!--				<equipment slot="Item0" id="Item.western_spear_2_t2"/>-->
+    <!--				<equipment slot="Item1" id="Item.sturgia_old_shield_b"/>-->
+    <!--				<equipment slot="Item2" id="Item.battania_mace_2_t2"/>-->
+    <!--				<equipment slot="Head" id="Item.nordic_fur_cap"/>-->
+    <!--				<equipment slot="Body" id="Item.battania_civil_b"/>-->
+    <!--				<equipment slot="Gloves" id="Item.leather_gloves"/>-->
+    <!--				<equipment slot="Leg" id="Item.highland_boots"/>-->
+    <!--			</EquipmentRoster>-->
+    <!--			<EquipmentRoster civilian="true">-->
+    <!--				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>-->
+    <!--				<equipment slot="Item2" id="Item.throwing_stone"/>-->
+    <!--				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>-->
+    <!--				<equipment slot="Leg" id="Item.wrapped_shoes"/>-->
+    <!--			</EquipmentRoster>-->
+    <!--		</Equipments>-->
+    <!--	</NPCCharacter>-->
+    <!--	<NPCCharacter id="Herja_Ung_Menni"-->
+    <!--		default_group="Infantry"-->
+    <!--		level="11"-->
+    <!--		name="{=Herja-Ung-Menni}Herja-Ung-Menni"-->
+    <!--		occupation="Soldier"-->
+    <!--		culture="Culture.sturgia">-->
+    <!--		<face>-->
+    <!--			<face_key_template value="BodyProperty.villager_sturgia"/>-->
+    <!--		</face>-->
+    <!--		<skills >-->
+    <!--			<skill id="Athletics" value="0"/>-->
+    <!--			<skill id="Riding" value="0"/>-->
+    <!--			<skill id="OneHanded" value="0"/>-->
+    <!--			<skill id="TwoHanded" value="0"/>-->
+    <!--			<skill id="Polearm" value="0"/>-->
+    <!--			<skill id="Bow" value="0"/>-->
+    <!--			<skill id="Crossbow" value="0"/>-->
+    <!--			<skill id="Throwing" value="0"/>-->
+    <!--		</skills>-->
+    <!--		<upgrade_targets>-->
+    <!--			<upgrade_target id="NPCCharacter.Herja_Maðr"/>-->
+    <!--		</upgrade_targets>-->
+    <!--		<Equipments>-->
+    <!--			<EquipmentRoster>-->
+    <!--				<equipment slot="Item0" id="Item.western_spear_2_t2"/>-->
+    <!--				<equipment slot="Item1" id="Item.northern_round_shield"/>-->
+    <!--				<equipment slot="Item2" id="Item.aserai_axe_1_t2"/>-->
+    <!--				<equipment slot="Head" id="Item.nordic_leather_cap"/>-->
+    <!--				<equipment slot="Cape" id="Item.green_hood"/>-->
+    <!--				<equipment slot="Body" id="Item.long_woolen_tunic"/>-->
+    <!--				<equipment slot="Gloves" id="Item.leather_gloves"/>-->
+    <!--				<equipment slot="Leg" id="Item.highland_boots"/>-->
+    <!--			</EquipmentRoster>-->
+    <!--			<EquipmentRoster>-->
+    <!--				<equipment slot="Item0" id="Item.western_spear_2_t2"/>-->
+    <!--				<equipment slot="Item1" id="Item.northern_round_shield"/>-->
+    <!--				<equipment slot="Item2" id="Item.aserai_axe_1_t2"/>-->
+    <!--				<equipment slot="Head" id="Item.upturned_fur_cap"/>-->
+    <!--				<equipment slot="Body" id="Item.khuzait_civil_coat_b"/>-->
+    <!--				<equipment slot="Gloves" id="Item.leather_gloves"/>-->
+    <!--				<equipment slot="Leg" id="Item.highland_boots"/>-->
+    <!--			</EquipmentRoster>-->
+    <!--			<EquipmentRoster>-->
+    <!--				<equipment slot="Item0" id="Item.western_spear_2_t2"/>-->
+    <!--				<equipment slot="Item1" id="Item.northern_round_shield"/>-->
+    <!--				<equipment slot="Item2" id="Item.battania_axe_1_t2"/>-->
+    <!--				<equipment slot="Head" id="Item.northern_fur_cap"/>-->
+    <!--				<equipment slot="Body" id="Item.fur_trimmed_short_tunic"/>-->
+    <!--				<equipment slot="Gloves" id="Item.leather_gloves"/>-->
+    <!--				<equipment slot="Leg" id="Item.highland_boots"/>-->
+    <!--			</EquipmentRoster>-->
+    <!--			<EquipmentRoster>-->
+    <!--				<equipment slot="Item0" id="Item.western_spear_2_t2"/>-->
+    <!--				<equipment slot="Item1" id="Item.northern_round_shield"/>-->
+    <!--				<equipment slot="Item2" id="Item.battania_axe_1_t2"/>-->
+    <!--				<equipment slot="Head" id="Item.nordic_fur_cap"/>-->
+    <!--				<equipment slot="Body" id="Item.battania_civil_b"/>-->
+    <!--				<equipment slot="Gloves" id="Item.leather_gloves"/>-->
+    <!--				<equipment slot="Leg" id="Item.highland_boots"/>-->
+    <!--			</EquipmentRoster>-->
+    <!--			<EquipmentRoster civilian="true">-->
+    <!--				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>-->
+    <!--				<equipment slot="Item2" id="Item.throwing_stone"/>-->
+    <!--				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>-->
+    <!--				<equipment slot="Leg" id="Item.wrapped_shoes"/>-->
+    <!--			</EquipmentRoster>-->
+    <!--		</Equipments>-->
+    <!--	</NPCCharacter>-->
+    <!--	<NPCCharacter id="Veiði_Ung_Menni"-->
+    <!--		default_group="Ranged"-->
+    <!--		level="11"-->
+    <!--		name="{=Veiði-Ung-Menni}Veiði-Ung-Menni"-->
+    <!--		occupation="Soldier"-->
+    <!--		culture="Culture.sturgia">-->
+    <!--		<face>-->
+    <!--			<face_key_template value="BodyProperty.villager_sturgia"/>-->
+    <!--		</face>-->
+    <!--		<skills >-->
+    <!--			<skill id="Athletics" value="0"/>-->
+    <!--			<skill id="Riding" value="0"/>-->
+    <!--			<skill id="OneHanded" value="0"/>-->
+    <!--			<skill id="TwoHanded" value="0"/>-->
+    <!--			<skill id="Polearm" value="0"/>-->
+    <!--			<skill id="Bow" value="0"/>-->
+    <!--			<skill id="Crossbow" value="0"/>-->
+    <!--			<skill id="Throwing" value="0"/>-->
+    <!--		</skills>-->
+    <!--		<upgrade_targets>-->
+    <!--			<upgrade_target id="NPCCharacter.Veiði_Maðr"/>-->
+    <!--		</upgrade_targets>-->
+    <!--		<Equipments>-->
+    <!--			<EquipmentRoster>-->
+    <!--				<equipment slot="Item0" id="Item.mountain_hunting_bow"/>-->
+    <!--				<equipment slot="Item1" id="Item.range_arrows"/>-->
+    <!--				<equipment slot="Item2" id="Item.simple_sparth_axe_t2"/>-->
+    <!--				<equipment slot="Head" id="Item.nordic_leather_cap"/>-->
+    <!--				<equipment slot="Cape" id="Item.green_hood"/>-->
+    <!--				<equipment slot="Body" id="Item.long_woolen_tunic"/>-->
+    <!--				<equipment slot="Gloves" id="Item.leather_gloves"/>-->
+    <!--				<equipment slot="Leg" id="Item.highland_boots"/>-->
+    <!--			</EquipmentRoster>-->
+    <!--			<EquipmentRoster>-->
+    <!--				<equipment slot="Item0" id="Item.mountain_hunting_bow"/>-->
+    <!--				<equipment slot="Item1" id="Item.range_arrows"/>-->
+    <!--				<equipment slot="Item2" id="Item.simple_sparth_axe_t2"/>-->
+    <!--				<equipment slot="Head" id="Item.upturned_fur_cap"/>-->
+    <!--				<equipment slot="Body" id="Item.khuzait_civil_coat_b"/>-->
+    <!--				<equipment slot="Gloves" id="Item.leather_gloves"/>-->
+    <!--				<equipment slot="Leg" id="Item.highland_boots"/>-->
+    <!--			</EquipmentRoster>-->
+    <!--			<EquipmentRoster>-->
+    <!--				<equipment slot="Item0" id="Item.mountain_hunting_bow"/>-->
+    <!--				<equipment slot="Item1" id="Item.range_arrows"/>-->
+    <!--				<equipment slot="Item2" id="Item.simple_sparth_axe_t2"/>-->
+    <!--				<equipment slot="Head" id="Item.northern_fur_cap"/>-->
+    <!--				<equipment slot="Body" id="Item.fur_trimmed_short_tunic"/>-->
+    <!--				<equipment slot="Gloves" id="Item.leather_gloves"/>-->
+    <!--				<equipment slot="Leg" id="Item.highland_boots"/>-->
+    <!--			</EquipmentRoster>-->
+    <!--			<EquipmentRoster>-->
+    <!--				<equipment slot="Item0" id="Item.mountain_hunting_bow"/>-->
+    <!--				<equipment slot="Item1" id="Item.range_arrows"/>-->
+    <!--				<equipment slot="Item2" id="Item.simple_sparth_axe_t2"/>-->
+    <!--				<equipment slot="Head" id="Item.nordic_fur_cap"/>-->
+    <!--				<equipment slot="Body" id="Item.battania_civil_b"/>-->
+    <!--				<equipment slot="Gloves" id="Item.leather_gloves"/>-->
+    <!--				<equipment slot="Leg" id="Item.highland_boots"/>-->
+    <!--			</EquipmentRoster>-->
+    <!--			<EquipmentRoster civilian="true">-->
+    <!--				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>-->
+    <!--				<equipment slot="Item2" id="Item.throwing_stone"/>-->
+    <!--				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>-->
+    <!--				<equipment slot="Leg" id="Item.wrapped_shoes"/>-->
+    <!--			</EquipmentRoster>-->
+    <!--		</Equipments>-->
+    <!--	</NPCCharacter>-->
+    <!--	<NPCCharacter id="Veiði_Maðr"-->
+    <!--		default_group="Ranged"-->
+    <!--		level="16"-->
+    <!--		name="{=Veiði-Maðr}Veiði-Maðr"-->
+    <!--		occupation="Soldier"-->
+    <!--		culture="Culture.sturgia">-->
+    <!--		<face>-->
+    <!--			<face_key_template value="BodyProperty.villager_sturgia"/>-->
+    <!--		</face>-->
+    <!--		<skills >-->
+    <!--			<skill id="Athletics" value="0"/>-->
+    <!--			<skill id="Riding" value="0"/>-->
+    <!--			<skill id="OneHanded" value="0"/>-->
+    <!--			<skill id="TwoHanded" value="0"/>-->
+    <!--			<skill id="Polearm" value="0"/>-->
+    <!--			<skill id="Bow" value="0"/>-->
+    <!--			<skill id="Crossbow" value="0"/>-->
+    <!--			<skill id="Throwing" value="0"/>-->
+    <!--		</skills>-->
+    <!--		<upgrade_targets>-->
+    <!--			<upgrade_target id="NPCCharacter.Þróttigr_Veiði_Maðr"/>-->
+    <!--		</upgrade_targets>-->
+    <!--		<Equipments>-->
+    <!--			<EquipmentRoster>-->
+    <!--				<equipment slot="Item0" id="Item.mountain_hunting_bow"/>-->
+    <!--				<equipment slot="Item1" id="Item.range_arrows"/>-->
+    <!--				<equipment slot="Item2" id="Item.simple_sparth_axe_t2"/>-->
+    <!--				<equipment slot="Head" id="Item.TV_wolf_pelt_c"/>-->
+    <!--				<equipment slot="Cape" id="Item.hood"/>-->
+    <!--				<equipment slot="Body" id="Item.long_woolen_tunic"/>-->
+    <!--				<equipment slot="Gloves" id="Item.leather_gloves"/>-->
+    <!--				<equipment slot="Leg" id="Item.highland_boots"/>-->
+    <!--			</EquipmentRoster>-->
+    <!--			<EquipmentRoster>-->
+    <!--				<equipment slot="Item0" id="Item.mountain_hunting_bow"/>-->
+    <!--				<equipment slot="Item1" id="Item.range_arrows"/>-->
+    <!--				<equipment slot="Item2" id="Item.simple_sparth_axe_t2"/>-->
+    <!--				<equipment slot="Head" id="Item.TV_wolf_pelt_e"/>-->
+    <!--				<equipment slot="Body" id="Item.khuzait_civil_coat_b"/>-->
+    <!--				<equipment slot="Gloves" id="Item.leather_gloves"/>-->
+    <!--				<equipment slot="Leg" id="Item.highland_boots"/>-->
+    <!--			</EquipmentRoster>-->
+    <!--			<EquipmentRoster>-->
+    <!--				<equipment slot="Item0" id="Item.mountain_hunting_bow"/>-->
+    <!--				<equipment slot="Item1" id="Item.range_arrows"/>-->
+    <!--				<equipment slot="Item2" id="Item.simple_sparth_axe_t2"/>-->
+    <!--				<equipment slot="Head" id="Item.wolfhead"/>-->
+    <!--				<equipment slot="Cape" id="Item.green_hood"/>-->
+    <!--				<equipment slot="Body" id="Item.fur_trimmed_short_tunic"/>-->
+    <!--				<equipment slot="Gloves" id="Item.leather_gloves"/>-->
+    <!--				<equipment slot="Leg" id="Item.highland_boots"/>-->
+    <!--			</EquipmentRoster>-->
+    <!--			<EquipmentRoster>-->
+    <!--				<equipment slot="Item0" id="Item.mountain_hunting_bow"/>-->
+    <!--				<equipment slot="Item1" id="Item.range_arrows"/>-->
+    <!--				<equipment slot="Item2" id="Item.simple_sparth_axe_t2"/>-->
+    <!--				<equipment slot="Head" id="Item.wolfhead"/>-->
+    <!--				<equipment slot="Cape" id="Item.hood"/>-->
+    <!--				<equipment slot="Body" id="Item.battania_civil_b"/>-->
+    <!--				<equipment slot="Gloves" id="Item.leather_gloves"/>-->
+    <!--				<equipment slot="Leg" id="Item.highland_boots"/>-->
+    <!--			</EquipmentRoster>-->
+    <!--			<EquipmentRoster civilian="true">-->
+    <!--				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>-->
+    <!--				<equipment slot="Item2" id="Item.throwing_stone"/>-->
+    <!--				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>-->
+    <!--				<equipment slot="Leg" id="Item.wrapped_shoes"/>-->
+    <!--			</EquipmentRoster>-->
+    <!--		</Equipments>-->
+    <!--	</NPCCharacter>-->
+    <!--	<NPCCharacter id="Þróttigr_Veiði_Maðr"-->
+    <!--		default_group="Ranged"-->
+    <!--		level="21"-->
+    <!--		name="{=Þróttigr Veiði-Maðr}Þróttigr Veiði-Maðr"-->
+    <!--		occupation="Soldier"-->
+    <!--		culture="Culture.sturgia">-->
+    <!--		<face>-->
+    <!--			<face_key_template value="BodyProperty.villager_sturgia"/>-->
+    <!--		</face>-->
+    <!--		<skills >-->
+    <!--			<skill id="Athletics" value="0"/>-->
+    <!--			<skill id="Riding" value="0"/>-->
+    <!--			<skill id="OneHanded" value="0"/>-->
+    <!--			<skill id="TwoHanded" value="0"/>-->
+    <!--			<skill id="Polearm" value="0"/>-->
+    <!--			<skill id="Bow" value="0"/>-->
+    <!--			<skill id="Crossbow" value="0"/>-->
+    <!--			<skill id="Throwing" value="0"/>-->
+    <!--		</skills>-->
+    <!--		<Equipments>-->
+    <!--			<EquipmentRoster>-->
+    <!--				<equipment slot="Item0" id="Item.glen_ranger_bow"/>-->
+    <!--				<equipment slot="Item1" id="Item.bodkin_arrows_b"/>-->
+    <!--				<equipment slot="Item2" id="Item.battania_2haxe_1_t2"/>-->
+    <!--				<equipment slot="Head" id="Item.wolfhead"/>-->
+    <!--				<equipment slot="Body" id="Item.leather_scale_armor"/>-->
+    <!--				<equipment slot="Gloves" id="Item.leather_gloves"/>-->
+    <!--				<equipment slot="Leg" id="Item.highland_boots"/>-->
+    <!--			</EquipmentRoster>-->
+    <!--			<EquipmentRoster>-->
+    <!--				<equipment slot="Item0" id="Item.glen_ranger_bow"/>-->
+    <!--				<equipment slot="Item1" id="Item.bodkin_arrows_b"/>-->
+    <!--				<equipment slot="Item2" id="Item.battania_2haxe_1_t2"/>-->
+    <!--				<equipment slot="Head" id="Item.wolfhead"/>-->
+    <!--				<equipment slot="Body" id="Item.battania_woodland_outfit"/>-->
+    <!--				<equipment slot="Gloves" id="Item.leather_gloves"/>-->
+    <!--				<equipment slot="Leg" id="Item.highland_boots"/>-->
+    <!--			</EquipmentRoster>-->
+    <!--			<EquipmentRoster>-->
+    <!--				<equipment slot="Item0" id="Item.glen_ranger_bow"/>-->
+    <!--				<equipment slot="Item1" id="Item.bodkin_arrows_b"/>-->
+    <!--				<equipment slot="Item2" id="Item.battania_2haxe_1_t2"/>-->
+    <!--				<equipment slot="Head" id="Item.wolfhead"/>-->
+    <!--				<equipment slot="Body" id="Item.long_fur_coat"/>-->
+    <!--				<equipment slot="Gloves" id="Item.leather_gloves"/>-->
+    <!--				<equipment slot="Leg" id="Item.highland_boots"/>-->
+    <!--			</EquipmentRoster>-->
+    <!--			<EquipmentRoster>-->
+    <!--				<equipment slot="Item0" id="Item.glen_ranger_bow"/>-->
+    <!--				<equipment slot="Item1" id="Item.bodkin_arrows_b"/>-->
+    <!--				<equipment slot="Item2" id="Item.battania_2haxe_1_t2"/>-->
+    <!--				<equipment slot="Head" id="Item.wolfhead"/>-->
+    <!--				<equipment slot="Body" id="Item.leather_scale_armor"/>-->
+    <!--				<equipment slot="Gloves" id="Item.leather_gloves"/>-->
+    <!--				<equipment slot="Leg" id="Item.highland_boots"/>-->
+    <!--			</EquipmentRoster>-->
+    <!--			<EquipmentRoster civilian="true">-->
+    <!--				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>-->
+    <!--				<equipment slot="Item2" id="Item.throwing_stone"/>-->
+    <!--				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>-->
+    <!--				<equipment slot="Leg" id="Item.wrapped_shoes"/>-->
+    <!--			</EquipmentRoster>-->
+    <!--		</Equipments>-->
+    <!--	</NPCCharacter>-->
+    <!--	<NPCCharacter id="Herja_Maðr"-->
+    <!--		default_group="Infantry"-->
+    <!--		level="16"-->
+    <!--		name="{=Herja-Maðr}Herja-Maðr"-->
+    <!--		occupation="Soldier"-->
+    <!--		culture="Culture.sturgia">-->
+    <!--		<face>-->
+    <!--			<face_key_template value="BodyProperty.villager_sturgia"/>-->
+    <!--		</face>-->
+    <!--		<skills >-->
+    <!--			<skill id="Athletics" value="0"/>-->
+    <!--			<skill id="Riding" value="0"/>-->
+    <!--			<skill id="OneHanded" value="0"/>-->
+    <!--			<skill id="TwoHanded" value="0"/>-->
+    <!--			<skill id="Polearm" value="0"/>-->
+    <!--			<skill id="Bow" value="0"/>-->
+    <!--			<skill id="Crossbow" value="0"/>-->
+    <!--			<skill id="Throwing" value="0"/>-->
+    <!--		</skills>-->
+    <!--		<upgrade_targets>-->
+    <!--			<upgrade_target id="NPCCharacter.Þróttigr_Herja_Maðr"/>-->
+    <!--		</upgrade_targets>-->
+    <!--		<Equipments>-->
+    <!--			<EquipmentRoster>-->
+    <!--				<equipment slot="Item0" id="Item.western_spear_2_t2"/>-->
+    <!--				<equipment slot="Item1" id="Item.northern_round_shield"/>-->
+    <!--				<equipment slot="Item2" id="Item.aserai_axe_1_t2"/>-->
+    <!--				<equipment slot="Head" id="Item.bearhead"/>-->
+    <!--				<equipment slot="Body" id="Item.rough_fur_armor"/>-->
+    <!--				<equipment slot="Gloves" id="Item.highland_gloves"/>-->
+    <!--				<equipment slot="Leg" id="Item.battania_fur_boots"/>-->
+    <!--			</EquipmentRoster>-->
+    <!--			<EquipmentRoster>-->
+    <!--				<equipment slot="Item0" id="Item.western_spear_2_t2"/>-->
+    <!--				<equipment slot="Item1" id="Item.northern_round_shield"/>-->
+    <!--				<equipment slot="Item2" id="Item.aserai_axe_1_t2"/>-->
+    <!--				<equipment slot="Head" id="Item.bearhead"/>-->
+    <!--				<equipment slot="Body" id="Item.fur_armor"/>-->
+    <!--				<equipment slot="Gloves" id="Item.highland_gloves"/>-->
+    <!--				<equipment slot="Leg" id="Item.battania_fur_boots"/>-->
+    <!--			</EquipmentRoster>-->
+    <!--			<EquipmentRoster>-->
+    <!--				<equipment slot="Item0" id="Item.northern_spear_1_t2"/>-->
+    <!--				<equipment slot="Item1" id="Item.northern_round_shield"/>-->
+    <!--				<equipment slot="Item2" id="Item.battania_axe_1_t2"/>-->
+    <!--				<equipment slot="Head" id="Item.bearhead"/>-->
+    <!--				<equipment slot="Body" id="Item.battania_woodland_outfit"/>-->
+    <!--				<equipment slot="Gloves" id="Item.highland_gloves"/>-->
+    <!--				<equipment slot="Leg" id="Item.battania_fur_boots"/>-->
+    <!--			</EquipmentRoster>-->
+    <!--			<EquipmentRoster>-->
+    <!--				<equipment slot="Item0" id="Item.northern_spear_1_t2"/>-->
+    <!--				<equipment slot="Item1" id="Item.northern_round_shield"/>-->
+    <!--				<equipment slot="Item2" id="Item.battania_axe_1_t2"/>-->
+    <!--				<equipment slot="Head" id="Item.bearhead"/>-->
+    <!--				<equipment slot="Body" id="Item.long_fur_coat"/>-->
+    <!--				<equipment slot="Gloves" id="Item.highland_gloves"/>-->
+    <!--				<equipment slot="Leg" id="Item.battania_fur_boots"/>-->
+    <!--			</EquipmentRoster>-->
+    <!--			<EquipmentRoster civilian="true">-->
+    <!--				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>-->
+    <!--				<equipment slot="Item2" id="Item.throwing_stone"/>-->
+    <!--				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>-->
+    <!--				<equipment slot="Leg" id="Item.wrapped_shoes"/>-->
+    <!--			</EquipmentRoster>-->
+    <!--		</Equipments>-->
+    <!--	</NPCCharacter>-->
+    <!--	<NPCCharacter id="Þróttigr_Herja_Maðr"-->
+    <!--		default_group="Infantry"-->
+    <!--		level="21"-->
+    <!--		name="{=Þróttigr Herja-Maðr}Þróttigr Herja-Maðr"-->
+    <!--		occupation="Soldier"-->
+    <!--		culture="Culture.sturgia">-->
+    <!--		<face>-->
+    <!--			<face_key_template value="BodyProperty.villager_sturgia"/>-->
+    <!--		</face>-->
+    <!--		<skills >-->
+    <!--			<skill id="Athletics" value="0"/>-->
+    <!--			<skill id="Riding" value="0"/>-->
+    <!--			<skill id="OneHanded" value="0"/>-->
+    <!--			<skill id="TwoHanded" value="0"/>-->
+    <!--			<skill id="Polearm" value="0"/>-->
+    <!--			<skill id="Bow" value="0"/>-->
+    <!--			<skill id="Crossbow" value="0"/>-->
+    <!--			<skill id="Throwing" value="0"/>-->
+    <!--		</skills>-->
+    <!--		<Equipments>-->
+    <!--			<EquipmentRoster>-->
+    <!--				<equipment slot="Item0" id="Item.germanic_spear"/>-->
+    <!--				<equipment slot="Item1" id="Item.highland_scouts_shield"/>-->
+    <!--				<equipment slot="Item2" id="Item.northern_battle_axe_t3"/>-->
+    <!--				<equipment slot="Head" id="Item.bearhead"/>-->
+    <!--				<equipment slot="Cape" id="Item.berserkr_fur_a"/>-->
+    <!--				<equipment slot="Body" id="Item.eastern_stitched_leather_coat"/>-->
+    <!--				<equipment slot="Gloves" id="Item.highland_gloves"/>-->
+    <!--				<equipment slot="Leg" id="Item.battania_fur_boots"/>-->
+    <!--			</EquipmentRoster>-->
+    <!--			<EquipmentRoster>-->
+    <!--				<equipment slot="Item0" id="Item.germanic_spear"/>-->
+    <!--				<equipment slot="Item1" id="Item.highland_scouts_shield"/>-->
+    <!--				<equipment slot="Item2" id="Item.northern_battle_axe_t3"/>-->
+    <!--				<equipment slot="Head" id="Item.bearhead"/>-->
+    <!--				<equipment slot="Cape" id="Item.berserkr_fur_a"/>-->
+    <!--				<equipment slot="Body" id="Item.studded_leather_over_aketon"/>-->
+    <!--				<equipment slot="Gloves" id="Item.highland_gloves"/>-->
+    <!--				<equipment slot="Leg" id="Item.battania_fur_boots"/>-->
+    <!--			</EquipmentRoster>-->
+    <!--			<EquipmentRoster>-->
+    <!--				<equipment slot="Item0" id="Item.germanic_spear"/>-->
+    <!--				<equipment slot="Item1" id="Item.highland_scouts_shield"/>-->
+    <!--				<equipment slot="Item2" id="Item.sturgia_sword_2_t3"/>-->
+    <!--				<equipment slot="Head" id="Item.bearhead"/>-->
+    <!--				<equipment slot="Cape" id="Item.berserkr_fur_a"/>-->
+    <!--				<equipment slot="Body" id="Item.studded_leather_over_aketon"/>-->
+    <!--				<equipment slot="Gloves" id="Item.highland_gloves"/>-->
+    <!--				<equipment slot="Leg" id="Item.battania_fur_boots"/>-->
+    <!--			</EquipmentRoster>-->
+    <!--			<EquipmentRoster>-->
+    <!--				<equipment slot="Item0" id="Item.germanic_spear"/>-->
+    <!--				<equipment slot="Item1" id="Item.highland_scouts_shield"/>-->
+    <!--				<equipment slot="Item2" id="Item.battania_axe_2_t4"/>-->
+    <!--				<equipment slot="Head" id="Item.bearhead"/>-->
+    <!--				<equipment slot="Cape" id="Item.berserkr_fur_a"/>-->
+    <!--				<equipment slot="Body" id="Item.eastern_stitched_leather_coat"/>-->
+    <!--				<equipment slot="Gloves" id="Item.highland_gloves"/>-->
+    <!--				<equipment slot="Leg" id="Item.battania_fur_boots"/>-->
+    <!--			</EquipmentRoster>-->
+    <!--			<EquipmentRoster civilian="true">-->
+    <!--				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>-->
+    <!--				<equipment slot="Item2" id="Item.throwing_stone"/>-->
+    <!--				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>-->
+    <!--				<equipment slot="Leg" id="Item.wrapped_shoes"/>-->
+    <!--			</EquipmentRoster>-->
+    <!--		</Equipments>-->
+    <!--	</NPCCharacter>-->
 
 
 </NPCCharacters>

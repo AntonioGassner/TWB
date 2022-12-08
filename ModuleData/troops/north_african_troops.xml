@@ -65,7 +65,6 @@
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
-
     <NPCCharacter id="punic_sacred_band_cavalry"
                   default_group="Cavalry"
                   level="26"
@@ -129,7 +128,6 @@
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
-
     <NPCCharacter id="sacred_band_cavalry_carthage"
                   default_group="Cavalry"
                   level="31"
@@ -194,7 +192,6 @@
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
-
     <NPCCharacter id="punic_thorax_hoplite"
                   default_group="Infantry"
                   level="21"
@@ -257,7 +254,6 @@
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
-
     <NPCCharacter id="punic_sacred_band"
                   default_group="Infantry"
                   level="26"
@@ -852,8 +848,6 @@
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
-
-
     <NPCCharacter id="Libyan_Swordsman"
                   default_group="Infantry"
                   level="11"
@@ -1277,7 +1271,6 @@
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
-
     <NPCCharacter id="Libyan_Thureos_Swordsman"
                   default_group="Infantry"
                   level="16"
@@ -1404,7 +1397,6 @@
         </Equipments>
     </NPCCharacter>
 
-
     <!-- Libyan Troops -->
     <NPCCharacter id="garamantian_tribesmen"
                   default_group="Infantry"
@@ -1477,7 +1469,6 @@
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
-
     <NPCCharacter id="garamantian_noble"
                   default_group="Infantry"
                   level="16"
@@ -2009,8 +2000,6 @@
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
-
-
     <NPCCharacter id="libyan_slinger"
                   default_group="Ranged"
                   level="11"
@@ -4443,6 +4432,629 @@
                 <equipment slot="Item2" id="Item.throwing_stone"/>
                 <equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
                 <equipment slot="Leg" id="Item.wrapped_shoes"/>
+            </EquipmentRoster>
+        </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="punic_militia_slinger"
+                  default_group="Ranged"
+                  level="11"
+                  name="{=CPcJ2gRF}Punic Militia Slinger"
+                  occupation="Soldier"
+                  culture="Culture.aserai">
+        <face>
+            <face_key_template value="BodyProperty.fighter_aserai"/>
+        </face>
+        <skills>
+            <skill id="Athletics"
+                   value="150"/>
+            <skill id="Riding"
+                   value="40"/>
+            <skill id="OneHanded"
+                   value="90"/>
+            <skill id="TwoHanded"
+                   value="30"/>
+            <skill id="Polearm"
+                   value="40"/>
+            <skill id="Bow"
+                   value="10"/>
+            <skill id="Crossbow"
+                   value="90"/>
+            <skill id="Throwing"
+                   value="30"/>
+        </skills>
+        <upgrade_targets>
+            <upgrade_target id="NPCCharacter.punic_militia_veteran_slinger"/>
+        </upgrade_targets>
+        <Equipments>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.falcata_a"/>
+                <equipment slot="Item1" id="Item.AR_sling_b"/>
+                <equipment slot="Item2" id="Item.AR_sling_bullets_c"/>
+                <equipment slot="Item3" id="Item.AR_sling_bullets_c"/>
+                <equipment slot="Head" id="Item.chalcidian_1"/>
+                <equipment slot="Body" id="Item.chiton_sleeves_1"/>
+                <equipment slot="Leg" id="Item.sandals_1"/>
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.falcata_a"/>
+                <equipment slot="Item1" id="Item.AR_sling_b"/>
+                <equipment slot="Item2" id="Item.AR_sling_bullets_c"/>
+                <equipment slot="Item3" id="Item.AR_sling_bullets_c"/>
+                <equipment slot="Head" id="Item.punic_helm_plain"/>
+                <equipment slot="Body" id="Item.chiton_sleeves_1"/>
+                <equipment slot="Leg" id="Item.sandals_1"/>
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.falcata_a"/>
+                <equipment slot="Item1" id="Item.AR_sling_b"/>
+                <equipment slot="Item2" id="Item.AR_sling_bullets_c"/>
+                <equipment slot="Item3" id="Item.AR_sling_bullets_c"/>
+                <equipment slot="Head" id="Item.chalcidian_1"/>
+                <equipment slot="Body" id="Item.chiton_sleeves_1"/>
+                <equipment slot="Gloves" id="Item.armwraps"/>
+                <equipment slot="Leg" id="Item.sandals_1"/>
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.falcata_a"/>
+                <equipment slot="Item1" id="Item.AR_sling_b"/>
+                <equipment slot="Item2" id="Item.AR_sling_bullets_c"/>
+                <equipment slot="Item3" id="Item.AR_sling_bullets_c"/>
+                <equipment slot="Head" id="Item.punic_helm_plain"/>
+                <equipment slot="Body" id="Item.chiton_sleeves_1"/>
+                <equipment slot="Leg" id="Item.sandals_1"/>
+            </EquipmentRoster>
+            <EquipmentRoster civilian="true">
+                <equipment slot="Item0"
+                           id="Item.hunting_bow"/>
+                <equipment slot="Item1"
+                           id="Item.default_arrows"/>
+                <equipment slot="Item2"
+                           id="Item.default_arrows"/>
+                <equipment slot="Item3"
+                           id="Item.peasant_hammer_1_t1"/>
+                <equipment slot="Head"
+                           id="Item.turban"/>
+                <equipment slot="Body"
+                           id="Item.aserai_civil_d"/>
+                <equipment slot="Leg"
+                           id="Item.khuzait_curved_boots"/>
+            </EquipmentRoster>
+        </Equipments>
+    </NPCCharacter>
+    <NPCCharacter id="punic_militia_veteran_slinger"
+                  default_group="Ranged"
+                  level="16"
+                  name="{=tL6aGah4}Punic Militia Veteran Slinger"
+                  occupation="Soldier"
+                  culture="Culture.aserai">
+        <face>
+            <face_key_template value="BodyProperty.fighter_aserai"/>
+        </face>
+        <skills>
+            <skill id="Athletics" value="150"/>
+            <skill id="Riding" value="40"/>
+            <skill id="OneHanded" value="130"/>
+            <skill id="TwoHanded" value="40"/>
+            <skill id="Polearm" value="80"/>
+            <skill id="Bow" value="40"/>
+            <skill id="Crossbow" value="130"/>
+            <skill id="Throwing" value="80"/>
+        </skills>
+        <upgrade_targets></upgrade_targets>
+        <Equipments>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.falcata_a"/>
+                <equipment slot="Item1" id="Item.AR_sling_b"/>
+                <equipment slot="Item2" id="Item.AR_sling_bullets_c"/>
+                <equipment slot="Item3" id="Item.AR_sling_bullets_c"/>
+                <equipment slot="Head" id="Item.chalcidian_1"/>
+                <equipment slot="Body" id="Item.chiton_sleeves_1"/>
+                <equipment slot="Leg" id="Item.sandals_1"/>
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.falcata_a"/>
+                <equipment slot="Item1" id="Item.AR_sling_b"/>
+                <equipment slot="Item2" id="Item.AR_sling_bullets_c"/>
+                <equipment slot="Item3" id="Item.AR_sling_bullets_c"/>
+                <equipment slot="Head" id="Item.punic_helm_plain"/>
+                <equipment slot="Body" id="Item.chiton_sleeves_1"/>
+                <equipment slot="Leg" id="Item.sandals_1"/>
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.falcata_a"/>
+                <equipment slot="Item1" id="Item.AR_sling_b"/>
+                <equipment slot="Item2" id="Item.AR_sling_bullets_c"/>
+                <equipment slot="Item3" id="Item.AR_sling_bullets_c"/>
+                <equipment slot="Head" id="Item.chalcidian_1"/>
+                <equipment slot="Body" id="Item.chiton_sleeves_1"/>
+                <equipment slot="Gloves" id="Item.armwraps"/>
+                <equipment slot="Leg" id="Item.sandals_1"/>
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.falcata_a"/>
+                <equipment slot="Item1" id="Item.AR_sling_b"/>
+                <equipment slot="Item2" id="Item.AR_sling_bullets_c"/>
+                <equipment slot="Item3" id="Item.AR_sling_bullets_c"/>
+                <equipment slot="Head" id="Item.punic_helm_plain"/>
+                <equipment slot="Body" id="Item.chiton_sleeves_1"/>
+                <equipment slot="Leg" id="Item.sandals_1"/>
+            </EquipmentRoster>
+            <EquipmentRoster civilian="true">
+                <equipment slot="Item0"
+                           id="Item.tribal_bow"/>
+                <equipment slot="Item1"
+                           id="Item.default_arrows"/>
+                <equipment slot="Item2"
+                           id="Item.default_arrows"/>
+                <equipment slot="Item3"
+                           id="Item.aserai_sword_2_t2"/>
+                <equipment slot="Head"
+                           id="Item.closed_head_scarf"/>
+                <equipment slot="Body"
+                           id="Item.desert_padded_cloth"/>
+                <equipment slot="Leg"
+                           id="Item.khuzait_curved_boots"/>
+                <equipment slot="Gloves"
+                           id="Item.buttoned_leather_bracers"/>
+                <equipment slot="Cape"
+                           id="Item.wrapped_scarf"/>
+            </EquipmentRoster>
+        </Equipments>
+    </NPCCharacter>
+    <NPCCharacter id="punic_militia_spearman"
+                  default_group="Infantry"
+                  level="11"
+                  name="{=ULaNn3pp}Punic Militia Spearman"
+                  occupation="Soldier"
+                  culture="Culture.aserai">
+        <face>
+            <face_key_template value="BodyProperty.fighter_aserai"/>
+        </face>
+        <skills>
+            <skill id="Athletics" value="130"/>
+            <skill id="Riding" value="50"/>
+            <skill id="OneHanded" value="80"/>
+            <skill id="TwoHanded" value="50"/>
+            <skill id="Polearm" value="90"/>
+            <skill id="Bow" value="50"/>
+            <skill id="Crossbow" value="50"/>
+            <skill id="Throwing" value="50"/>
+        </skills>
+        <upgrade_targets>
+            <upgrade_target id="NPCCharacter.punic_militia_veteran_spearman"/>
+        </upgrade_targets>
+        <Equipments>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.hans_punic_hoplite_spear_a"/>
+                <equipment slot="Item1" id="Item.kopis_a"/>
+                <equipment slot="Item2" id="Item.hoplon_trident"/>
+                <equipment slot="Head" id="Item.punic_helm_plain"/>
+                <equipment slot="Cape" id="Item.etruscan_chestpiece"/>
+                <equipment slot="Body" id="Item.thick_punic_chiton_no_faction"/>
+                <equipment slot="Leg" id="Item.sandals_1"/>
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.hans_punic_hoplite_spear_b"/>
+                <equipment slot="Item1" id="Item.kopis_a"/>
+                <equipment slot="Item2" id="Item.aspis_shield_1"/>
+                <equipment slot="Head" id="Item.punic_helm_plain"/>
+                <equipment slot="Cape" id="Item.etruscan_chestpiece"/>
+                <equipment slot="Body" id="Item.thick_punic_chiton_no_faction"/>
+                <equipment slot="Leg" id="Item.sandals_1"/>
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.hans_punic_hoplite_spear_a"/>
+                <equipment slot="Item1" id="Item.kopis_a"/>
+                <equipment slot="Item2" id="Item.hoplon_squid"/>
+                <equipment slot="Head" id="Item.punic_helm_plain"/>
+                <equipment slot="Cape" id="Item.AR_aserai_shoulder_i"/>
+                <equipment slot="Body" id="Item.thick_punic_chiton_no_faction"/>
+                <equipment slot="Gloves" id="Item.armwraps"/>
+                <equipment slot="Leg" id="Item.sandals_1"/>
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.hans_punic_hoplite_spear_b"/>
+                <equipment slot="Item1" id="Item.kopis_a"/>
+                <equipment slot="Item2" id="Item.aspis_shield_1"/>
+                <equipment slot="Head" id="Item.punic_helm_plain"/>
+                <equipment slot="Cape" id="Item.etruscan_chestpiece"/>
+                <equipment slot="Body" id="Item.thick_punic_chiton_no_faction"/>
+                <equipment slot="Leg" id="Item.sandals_1"/>
+            </EquipmentRoster>
+            <EquipmentRoster civilian="true">
+                <equipment slot="Item0"
+                           id="Item.eastern_spear_1_t2"/>
+                <equipment slot="Item1"
+                           id="Item.peasant_hatchet_1_t1"/>
+                <equipment slot="Item2"
+                           id="Item.desert_oval_shield"/>
+                <equipment slot="Head"
+                           id="Item.open_desert_helmet"/>
+                <equipment slot="Body"
+                           id="Item.aserai_civil_e"/>
+                <equipment slot="Leg"
+                           id="Item.khuzait_curved_boots"/>
+            </EquipmentRoster>
+        </Equipments>
+    </NPCCharacter>
+    <NPCCharacter id="punic_militia_veteran_spearman"
+                  default_group="Infantry"
+                  level="16"
+                  name="{=Pd9qAiOu}Punic Militia Veteran Spearman"
+                  occupation="Soldier"
+                  culture="Culture.aserai"
+                  skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills">
+        <face>
+            <face_key_template value="BodyProperty.fighter_aserai"/>
+        </face>
+        <skills>
+            <skill id="Athletics" value="100"/>
+            <skill id="Riding" value="50"/>
+            <skill id="OneHanded" value="130"/>
+            <skill id="TwoHanded" value="50"/>
+            <skill id="Polearm" value="170"/>
+            <skill id="Bow" value="50"/>
+            <skill id="Crossbow" value="50"/>
+            <skill id="Throwing" value="50"/>
+        </skills>
+        <upgrade_targets></upgrade_targets>
+        <Equipments>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.hans_punic_hoplite_spear_a"/>
+                <equipment slot="Item1" id="Item.kopis_a"/>
+                <equipment slot="Item2" id="Item.hoplon_trident"/>
+                <equipment slot="Head" id="Item.punic_helm_plain"/>
+                <equipment slot="Cape" id="Item.AR_aserai_shoulder_i"/>
+                <equipment slot="Body" id="Item.linothorax_2_Checker_pattern"/>
+                <equipment slot="Gloves" id="Item.punic_linothorax_sleeved"/>
+                <equipment slot="Leg" id="Item.armoured_legs_1_7_greaves"/>
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.hans_punic_hoplite_spear_b"/>
+                <equipment slot="Item1" id="Item.kopis_a"/>
+                <equipment slot="Item2" id="Item.hoplon_scorpion"/>
+                <equipment slot="Head" id="Item.punic_helm_plain"/>
+                <equipment slot="Cape" id="Item.leopard_pelt"/>
+                <equipment slot="Body" id="Item.linothorax_2_Checker_pattern"/>
+                <equipment slot="Gloves" id="Item.punic_linothorax_sleeved"/>
+                <equipment slot="Leg" id="Item.armoured_legs_1_7_greaves"/>
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.hans_punic_hoplite_spear_a"/>
+                <equipment slot="Item1" id="Item.kopis_a"/>
+                <equipment slot="Item2" id="Item.hoplon_squid"/>
+                <equipment slot="Head" id="Item.punic_helm_plain"/>
+                <equipment slot="Cape" id="Item.AR_aserai_shoulder_i"/>
+                <equipment slot="Body" id="Item.linothorax_2_Checker_pattern"/>
+                <equipment slot="Gloves" id="Item.punic_linothorax_sleeved"/>
+                <equipment slot="Leg" id="Item.armoured_legs_1_7_greaves"/>
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.hans_punic_hoplite_spear_b"/>
+                <equipment slot="Item1" id="Item.kopis_a"/>
+                <equipment slot="Item2" id="Item.hoplon_spiral"/>
+                <equipment slot="Head" id="Item.punic_helm_plain"/>
+                <equipment slot="Cape" id="Item.leopard_pelt"/>
+                <equipment slot="Body" id="Item.linothorax_2_Checker_pattern"/>
+                <equipment slot="Gloves" id="Item.punic_linothorax_sleeved"/>
+                <equipment slot="Leg" id="Item.armoured_legs_1_7_greaves"/>
+            </EquipmentRoster>
+            <EquipmentRoster civilian="true">
+                <equipment slot="Item0"
+                           id="Item.eastern_spear_1_t2"/>
+                <equipment slot="Item1"
+                           id="Item.aserai_axe_2_t2"/>
+                <equipment slot="Item2"
+                           id="Item.oval_shield"/>
+                <equipment slot="Head"
+                           id="Item.open_desert_helmet"/>
+                <equipment slot="Body"
+                           id="Item.desert_padded_cloth"/>
+                <equipment slot="Leg"
+                           id="Item.khuzait_curved_boots"/>
+                <equipment slot="Gloves"
+                           id="Item.buttoned_leather_bracers"/>
+            </EquipmentRoster>
+        </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="african_militia_slinger"
+                  default_group="Ranged"
+                  level="11"
+                  name="{=CPcJ2gRF}African Militia Slinger"
+                  occupation="Soldier"
+                  culture="Culture.libyan">
+        <face>
+            <face_key_template value="BodyProperty.fighter_aserai"/>
+        </face>
+        <skills>
+            <skill id="Athletics" value="150"/>
+            <skill id="Riding" value="60"/>
+            <skill id="OneHanded" value="85"/>
+            <skill id="TwoHanded" value="50"/>
+            <skill id="Polearm" value="65"/>
+            <skill id="Bow" value="50"/>
+            <skill id="Crossbow" value="90"/>
+            <skill id="Throwing" value="60"/>
+        </skills>
+        <upgrade_targets>
+            <upgrade_target id="NPCCharacter.african_militia_veteran_slinger"/>
+        </upgrade_targets>
+        <Equipments>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.AR_sling_b"/>
+                <equipment slot="Item1" id="Item.hans_african_axe_1_t2"/>
+                <equipment slot="Item2" id="Item.AR_sling_bullets_a"/>
+                <equipment slot="Item3" id="Item.AR_sling_bullets_a"/>
+                <equipment slot="Head" id="Item.ao_mabili_feathered_headband"/>
+                <equipment slot="Cape" id="Item.ao_durkhan_tassled_necklace"/>
+                <equipment slot="Body" id="Item.exomis_cloak"/>
+                <equipment slot="Leg" id="Item.tassels_barefoot"/>
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.AR_sling_b"/>
+                <equipment slot="Item1" id="Item.hans_african_axe_1_t2"/>
+                <equipment slot="Item2" id="Item.AR_sling_bullets_a"/>
+                <equipment slot="Item3" id="Item.AR_sling_bullets_a"/>
+                <equipment slot="Head" id="Item.ao_mabili_leather_headband"/>
+                <equipment slot="Body" id="Item.chiton_no_sleeves_t3_1_2"/>
+                <equipment slot="Leg" id="Item.tassels_barefoot"/>
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.AR_sling_b"/>
+                <equipment slot="Item1" id="Item.hans_african_axe_1_t2"/>
+                <equipment slot="Item2" id="Item.AR_sling_bullets_a"/>
+                <equipment slot="Item3" id="Item.AR_sling_bullets_a"/>
+                <equipment slot="Head" id="Item.ao_mabili_feathered_headband"/>
+                <equipment slot="Cape" id="Item.ao_durkhan_tassled_necklace"/>
+                <equipment slot="Body" id="Item.exomis_cloak"/>
+                <equipment slot="Leg" id="Item.tassels_barefoot"/>
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.AR_sling_b"/>
+                <equipment slot="Item1" id="Item.hans_african_axe_1_t2"/>
+                <equipment slot="Item2" id="Item.AR_sling_bullets_a"/>
+                <equipment slot="Item3" id="Item.AR_sling_bullets_a"/>
+                <equipment slot="Head" id="Item.ao_mabili_leather_headband"/>
+                <equipment slot="Body" id="Item.chiton_no_sleeves_t3_1_2"/>
+                <equipment slot="Leg" id="Item.tassels_barefoot"/>
+            </EquipmentRoster>
+            <EquipmentRoster civilian="true">
+                <equipment slot="Item0"
+                           id="Item.hunting_bow"/>
+                <equipment slot="Item1"
+                           id="Item.default_arrows"/>
+                <equipment slot="Item2"
+                           id="Item.default_arrows"/>
+                <equipment slot="Item3"
+                           id="Item.peasant_hammer_1_t1"/>
+                <equipment slot="Head"
+                           id="Item.turban"/>
+                <equipment slot="Body"
+                           id="Item.aserai_civil_d"/>
+                <equipment slot="Leg"
+                           id="Item.khuzait_curved_boots"/>
+            </EquipmentRoster>
+        </Equipments>
+    </NPCCharacter>
+    <NPCCharacter id="african_militia_veteran_slinger"
+                  default_group="Ranged"
+                  level="16"
+                  name="{=tL6aGah4}African Militia Veteran Slinger"
+                  occupation="Soldier"
+                  culture="Culture.libyan">
+        <face>
+            <face_key_template value="BodyProperty.fighter_aserai"/>
+        </face>
+        <skills>
+            <skill id="Athletics" value="160"/>
+            <skill id="Riding" value="70"/>
+            <skill id="OneHanded" value="165"/>
+            <skill id="TwoHanded" value="50"/>
+            <skill id="Polearm" value="70"/>
+            <skill id="Bow" value="50"/>
+            <skill id="Crossbow" value="170"/>
+            <skill id="Throwing" value="60"/>
+        </skills>
+        <upgrade_targets></upgrade_targets>
+        <Equipments>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.AR_sling_b"/>
+                <equipment slot="Item1" id="Item.hans_african_axe_1_t2"/>
+                <equipment slot="Item2" id="Item.AR_sling_bullets_a"/>
+                <equipment slot="Item3" id="Item.AR_sling_bullets_a"/>
+                <equipment slot="Head" id="Item.ao_mabili_feathered_headband"/>
+                <equipment slot="Cape" id="Item.ao_durkhan_tassled_necklace"/>
+                <equipment slot="Body" id="Item.exomis_cloak"/>
+                <equipment slot="Leg" id="Item.tassels_barefoot"/>
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.AR_sling_b"/>
+                <equipment slot="Item1" id="Item.hans_african_axe_1_t2"/>
+                <equipment slot="Item2" id="Item.AR_sling_bullets_a"/>
+                <equipment slot="Item3" id="Item.AR_sling_bullets_a"/>
+                <equipment slot="Head" id="Item.ao_mabili_leather_headband"/>
+                <equipment slot="Body" id="Item.chiton_no_sleeves_t3_1_2"/>
+                <equipment slot="Leg" id="Item.tassels_barefoot"/>
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.AR_sling_b"/>
+                <equipment slot="Item1" id="Item.hans_african_axe_1_t2"/>
+                <equipment slot="Item2" id="Item.AR_sling_bullets_a"/>
+                <equipment slot="Item3" id="Item.AR_sling_bullets_a"/>
+                <equipment slot="Head" id="Item.ao_mabili_feathered_headband"/>
+                <equipment slot="Cape" id="Item.ao_durkhan_tassled_necklace"/>
+                <equipment slot="Body" id="Item.exomis_cloak"/>
+                <equipment slot="Leg" id="Item.tassels_barefoot"/>
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.AR_sling_b"/>
+                <equipment slot="Item1" id="Item.hans_african_axe_1_t2"/>
+                <equipment slot="Item2" id="Item.AR_sling_bullets_a"/>
+                <equipment slot="Item3" id="Item.AR_sling_bullets_a"/>
+                <equipment slot="Head" id="Item.ao_mabili_leather_headband"/>
+                <equipment slot="Body" id="Item.chiton_no_sleeves_t3_1_2"/>
+                <equipment slot="Leg" id="Item.tassels_barefoot"/>
+            </EquipmentRoster>
+            <EquipmentRoster civilian="true">
+                <equipment slot="Item0"
+                           id="Item.tribal_bow"/>
+                <equipment slot="Item1"
+                           id="Item.default_arrows"/>
+                <equipment slot="Item2"
+                           id="Item.default_arrows"/>
+                <equipment slot="Item3"
+                           id="Item.aserai_sword_2_t2"/>
+                <equipment slot="Head"
+                           id="Item.closed_head_scarf"/>
+                <equipment slot="Body"
+                           id="Item.desert_padded_cloth"/>
+                <equipment slot="Leg"
+                           id="Item.khuzait_curved_boots"/>
+                <equipment slot="Gloves"
+                           id="Item.buttoned_leather_bracers"/>
+                <equipment slot="Cape"
+                           id="Item.wrapped_scarf"/>
+            </EquipmentRoster>
+        </Equipments>
+    </NPCCharacter>
+    <NPCCharacter id="african_militia_spearman"
+                  default_group="Infantry"
+                  level="11"
+                  name="{=ULaNn3pp}African Militia Spearman"
+                  occupation="Soldier"
+                  culture="Culture.libyan">
+        <face>
+            <face_key_template value="BodyProperty.fighter_aserai"/>
+        </face>
+        <skills>
+            <skill id="Athletics" value="130"/>
+            <skill id="Riding" value="10"/>
+            <skill id="OneHanded" value="30"/>
+            <skill id="TwoHanded" value="15"/>
+            <skill id="Polearm" value="90"/>
+            <skill id="Bow" value="15"/>
+            <skill id="Crossbow" value="15"/>
+            <skill id="Throwing" value="15"/>
+        </skills>
+        <upgrade_targets>
+            <upgrade_target id="NPCCharacter.african_militia_veteran_spearman"/>
+        </upgrade_targets>
+        <Equipments>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.imperial_spear_t2"/>
+                <equipment slot="Item1" id="Item.desert_round_shield"/>
+                <equipment slot="Item2" id="Item.kopis_a"/>
+                <equipment slot="Body" id="Item.hemp_tunic"/>
+                <equipment slot="Leg" id="Item.simple_shoes"/>
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.imperial_spear_t2"/>
+                <equipment slot="Item1" id="Item.AR_shield_infantry_zj"/>
+                <equipment slot="Item2" id="Item.kopis_a"/>
+                <equipment slot="Head" id="Item.pilos_1"/>
+                <equipment slot="Cape" id="Item.AR_aserai_shoulder_k"/>
+                <equipment slot="Body" id="Item.exomis_1_2"/>
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.imperial_spear_t2"/>
+                <equipment slot="Item1" id="Item.AR_shield_infantry_zl"/>
+                <equipment slot="Item2" id="Item.kopis_a"/>
+                <equipment slot="Cape" id="Item.leopard_pelt"/>
+                <equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+                <equipment slot="Leg" id="Item.simple_shoes"/>
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.imperial_spear_t2"/>
+                <equipment slot="Item1" id="Item.AR_shield_infantry_zk"/>
+                <equipment slot="Item2" id="Item.kopis_a"/>
+                <equipment slot="Head" id="Item.pilos_1"/>
+                <equipment slot="Body" id="Item.tundra_tunic"/>
+            </EquipmentRoster>
+            <EquipmentRoster civilian="true">
+                <equipment slot="Item0"
+                           id="Item.eastern_spear_1_t2"/>
+                <equipment slot="Item1"
+                           id="Item.peasant_hatchet_1_t1"/>
+                <equipment slot="Item2"
+                           id="Item.desert_oval_shield"/>
+                <equipment slot="Head"
+                           id="Item.open_desert_helmet"/>
+                <equipment slot="Body"
+                           id="Item.aserai_civil_e"/>
+                <equipment slot="Leg"
+                           id="Item.khuzait_curved_boots"/>
+            </EquipmentRoster>
+        </Equipments>
+    </NPCCharacter>
+    <NPCCharacter id="african_militia_veteran_spearman"
+                  default_group="Infantry"
+                  level="16"
+                  name="{=Pd9qAiOu}African Militia Veteran Spearman"
+                  occupation="Soldier"
+                  culture="Culture.libyan">
+        <face>
+            <face_key_template value="BodyProperty.fighter_aserai"/>
+        </face>
+        <skills>
+            <skill id="Athletics" value="130"/>
+            <skill id="Riding" value="20"/>
+            <skill id="OneHanded" value="60"/>
+            <skill id="TwoHanded" value="20"/>
+            <skill id="Polearm" value="130"/>
+            <skill id="Bow" value="20"/>
+            <skill id="Crossbow" value="20"/>
+            <skill id="Throwing" value="130"/>
+        </skills>
+        <upgrade_targets></upgrade_targets>
+        <Equipments>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.hans_african_long_spear"/>
+                <equipment slot="Item1" id="Item.libyan_oval_shield"/>
+                <equipment slot="Item2" id="Item.kopis_a"/>
+                <equipment slot="Head" id="Item.pilos_1"/>
+                <equipment slot="Body" id="Item.hemp_tunic"/>
+                <equipment slot="Leg" id="Item.simple_shoes"/>
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.hans_african_long_spear"/>
+                <equipment slot="Item1" id="Item.libyan_oval_shield"/>
+                <equipment slot="Item2" id="Item.kopis_a"/>
+                <equipment slot="Head" id="Item.pilos_2_crested"/>
+                <equipment slot="Body" id="Item.woven_leather_vest"/>
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.hans_african_long_spear"/>
+                <equipment slot="Item1" id="Item.libyan_oval_shield"/>
+                <equipment slot="Item2" id="Item.kopis_a"/>
+                <equipment slot="Head" id="Item.pilos_1"/>
+                <equipment slot="Cape" id="Item.leopard_pelt"/>
+                <equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+                <equipment slot="Leg" id="Item.simple_shoes"/>
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.hans_african_long_spear"/>
+                <equipment slot="Item1" id="Item.libyan_oval_shield"/>
+                <equipment slot="Item2" id="Item.kopis_a"/>
+                <equipment slot="Head" id="Item.pilos_1"/>
+                <equipment slot="Body" id="Item.layered_leather_tunic"/>
+            </EquipmentRoster>
+            <EquipmentRoster civilian="true">
+                <equipment slot="Item0"
+                           id="Item.eastern_spear_1_t2"/>
+                <equipment slot="Item1"
+                           id="Item.aserai_axe_2_t2"/>
+                <equipment slot="Item2"
+                           id="Item.oval_shield"/>
+                <equipment slot="Head"
+                           id="Item.open_desert_helmet"/>
+                <equipment slot="Body"
+                           id="Item.desert_padded_cloth"/>
+                <equipment slot="Leg"
+                           id="Item.khuzait_curved_boots"/>
+                <equipment slot="Gloves"
+                           id="Item.buttoned_leather_bracers"/>
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>

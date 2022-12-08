@@ -293,7 +293,7 @@
     <NPCCharacter id="balearic_slingers"
                   default_group="Ranged"
                   level="16"
-                  name="{=Balearic Slingers}Balearic Slingers"
+                  name="{=Balearic Slingers}Gallaeci Balearic Slingers"
                   occupation="Soldier"
                   culture="Culture.celtiberian">
         <face>
@@ -1073,7 +1073,6 @@
     </NPCCharacter>
 
     <!-- Cantibri Troops -->
-
     <NPCCharacter id="cantabri_axemen"
                   default_group="Infantry"
                   level="6"
@@ -2177,7 +2176,6 @@
     </NPCCharacter>
 
     <!-- Carthago Nova Troops -->
-
     <NPCCharacter id="iberian_levy_spearmen"
                   default_group="Infantry"
                   level="6"
@@ -3264,6 +3262,7 @@
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
+
     <!-- Arevaci Troops -->
     <NPCCharacter id="arevaci_noble_guard"
                   default_group="Infantry"

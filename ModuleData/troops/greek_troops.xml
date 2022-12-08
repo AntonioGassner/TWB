@@ -66,7 +66,6 @@
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
-
     <NPCCharacter id="Syracuse_Noble"
                   default_group="Infantry"
                   level="16"
@@ -130,7 +129,6 @@
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
-
     <NPCCharacter id="Syracuse_Noble_Hoplite"
                   default_group="Infantry"
                   level="21"
@@ -196,7 +194,6 @@
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
-
     <NPCCharacter id="Syracuse_Noble_Veteran_Hoplite"
                   default_group="Infantry"
                   level="26"
@@ -260,7 +257,6 @@
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
-
     <NPCCharacter id="Syracuse_Noble_Cavalry"
                   default_group="Cavalry"
                   level="26"
@@ -333,7 +329,6 @@
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
-
     <NPCCharacter id="Syracuse_Elite_Cavalry"
                   default_group="Cavalry"
                   level="31"
@@ -402,7 +397,6 @@
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
-
     <NPCCharacter id="Syracuse_Elite_Hoplite"
                   default_group="Infantry"
                   level="31"
@@ -465,7 +459,6 @@
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
-
     <NPCCharacter id="Syracuse_Infantry"
                   default_group="Infantry"
                   level="11"
@@ -529,7 +522,6 @@
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
-
     <NPCCharacter id="Syracuse_Peltast"
                   default_group="Infantry"
                   level="11"
@@ -594,7 +586,6 @@
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
-
     <NPCCharacter id="Syracuse_Akontistai"
                   default_group="Infantry"
                   level="16"
@@ -659,7 +650,6 @@
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
-
     <NPCCharacter id="Syracuse_Light_Cavalry"
                   default_group="Cavalry"
                   level="16"
@@ -732,7 +722,6 @@
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
-
     <NPCCharacter id="Syracuse_Swordsman"
                   default_group="Infantry"
                   level="16"
@@ -797,7 +786,6 @@
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
-
     <NPCCharacter id="Syracuse_Hoplite"
                   default_group="Infantry"
                   level="16"
@@ -861,7 +849,6 @@
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
-
     <NPCCharacter id="Syracuse_Veteran_Hoplite"
                   default_group="Infantry"
                   level="21"
@@ -924,8 +911,6 @@
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
-
-
     <NPCCharacter id="Syracuse_Slinger"
                   default_group="Ranged"
                   level="11"
@@ -985,7 +970,6 @@
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
-
     <NPCCharacter id="Syracuse_Cavalry"
                   default_group="Cavalry"
                   level="16"
@@ -1054,7 +1038,6 @@
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
-
     <NPCCharacter id="Syracuse_Veteran_Slinger"
                   default_group="Ranged"
                   level="16"
@@ -1124,7 +1107,6 @@
     </NPCCharacter>
 
     <!-- Massilia Troops -->
-
     <NPCCharacter id="Massalia_Levy"
                   default_group="Infantry"
                   level="6"
@@ -1167,7 +1149,6 @@
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
-
     <NPCCharacter id="Massalia_Noble_Recruit"
                   default_group="Infantry"
                   level="16"
@@ -1210,7 +1191,6 @@
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
-
     <NPCCharacter id="Massalia_Noble_Cavalry"
                   default_group="Cavalry"
                   level="21"
@@ -1252,7 +1232,6 @@
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
-
     <NPCCharacter id="Massalia_Noble_Veteran_Cavalry"
                   default_group="Cavalry"
                   level="26"
@@ -1291,7 +1270,6 @@
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
-
     <NPCCharacter id="Massalia_Noble_Hoplite"
                   default_group="Infantry"
                   level="21"
@@ -1332,7 +1310,6 @@
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
-
     <NPCCharacter id="Massalia_Noble_Swordsman"
                   default_group="Infantry"
                   level="21"
@@ -1374,7 +1351,6 @@
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
-
     <NPCCharacter id="Massalia_Noble_Veteran_Swordsman"
                   default_group="Infantry"
                   level="26"
@@ -1413,7 +1389,6 @@
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
-
     <NPCCharacter id="Massalia_Noble_Veteran_Hoplite"
                   default_group="Infantry"
                   level="26"
@@ -1454,7 +1429,6 @@
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
-
     <NPCCharacter id="Massalia_Elite_Hoplite"
                   default_group="Infantry"
                   level="31"
@@ -1492,7 +1466,6 @@
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
-
     <NPCCharacter id="Massalia_Spearman"
                   default_group="Infantry"
                   level="11"
@@ -1533,7 +1506,6 @@
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
-
     <NPCCharacter id="Massalia_Infantry"
                   default_group="Infantry"
                   level="11"
@@ -1574,7 +1546,6 @@
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
-
     <NPCCharacter id="Massalia_Swordsman"
                   default_group="Infantry"
                   level="16"
@@ -1613,7 +1584,6 @@
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
-
     <NPCCharacter id="Massalia_Hoplite"
                   default_group="Infantry"
                   level="16"
@@ -1652,7 +1622,6 @@
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
-
     <NPCCharacter id="Massalia_Cavalry"
                   default_group="Cavalry"
                   level="16"
@@ -1691,7 +1660,6 @@
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
-
     <NPCCharacter id="Massalia_Veteran_Hoplite"
                   default_group="Infantry"
                   level="21"
@@ -1728,7 +1696,6 @@
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
-
     <NPCCharacter id="Massalia_Archer"
                   default_group="Ranged"
                   level="11"
@@ -1769,7 +1736,6 @@
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
-
     <NPCCharacter id="Massalia_Peltast"
                   default_group="Infantry"
                   level="11"
@@ -1809,7 +1775,6 @@
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
-
     <NPCCharacter id="Massalia_Veteran_Peltast"
                   default_group="Infantry"
                   level="16"
@@ -1847,7 +1812,6 @@
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
-
     <NPCCharacter id="Massalia_Veteran_Archer"
                   default_group="Ranged"
                   level="16"
@@ -1885,7 +1849,6 @@
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
-    <!-- Etruscan Troops -->
 
     <!-- Makedon Troops -->
     <NPCCharacter id="Makedon_Recruit"
@@ -1949,7 +1912,6 @@
 
         </Equipments>
     </NPCCharacter>
-
     <NPCCharacter id="Makedon_Hoplite_01"
                   default_group="Infantry"
                   level="11"
@@ -2012,7 +1974,6 @@
 
         </Equipments>
     </NPCCharacter>
-
     <NPCCharacter id="Makedon_Archer_01"
                   default_group="Ranged"
                   level="11"
@@ -2050,7 +2011,6 @@
 
         </Equipments>
     </NPCCharacter>
-
     <NPCCharacter id="Makedon_Pike_01"
                   default_group="Infantry"
                   level="16"
@@ -2111,7 +2071,6 @@
 
         </Equipments>
     </NPCCharacter>
-
     <NPCCharacter id="Makedon_Hoplite_02"
                   default_group="Infantry"
                   level="16"
@@ -2175,7 +2134,6 @@
 
         </Equipments>
     </NPCCharacter>
-
     <NPCCharacter id="Makedon_Pike_02"
                   default_group="Infantry"
                   level="21"
@@ -2237,7 +2195,6 @@
 
         </Equipments>
     </NPCCharacter>
-
     <NPCCharacter id="Makedon_Noble"
                   default_group="Infantry"
                   level="21"
@@ -2302,7 +2259,6 @@
 
         </Equipments>
     </NPCCharacter>
-
     <NPCCharacter id="Makedon_Noble_Cavalry_01"
                   default_group="Cavalry"
                   level="26"
@@ -2374,7 +2330,6 @@
 
         </Equipments>
     </NPCCharacter>
-
     <NPCCharacter id="Makedon_Noble_Hoplite_01"
                   default_group="Infantry"
                   level="26"
@@ -2433,7 +2388,6 @@
 
         </Equipments>
     </NPCCharacter>
-
     <NPCCharacter id="Makedon_Noble_Pike_01"
                   default_group="Infantry"
                   level="26"
@@ -2495,7 +2449,6 @@
 
         </Equipments>
     </NPCCharacter>
-
     <NPCCharacter id="Makedon_Noble_Cavalry_02"
                   default_group="Cavalry"
                   level="31"
@@ -2564,6 +2517,7 @@
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
+
     <!-- Epirus Troops -->
     <NPCCharacter id="Epirus_Recruit"
                   default_group="Infantry"
@@ -2622,7 +2576,6 @@
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
-
     <NPCCharacter id="Epirus_Slinger_01"
                   default_group="Ranged"
                   level="11"
@@ -2679,7 +2632,6 @@
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
-
     <NPCCharacter id="Epirus_Peltast_01"
                   default_group="Infantry"
                   level="11"
@@ -2744,7 +2696,6 @@
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
-
     <NPCCharacter id="Epirus_Spear_01"
                   default_group="Infantry"
                   level="11"
@@ -2804,7 +2755,6 @@
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
-
     <NPCCharacter id="Epirus_Spear_02"
                   default_group="Infantry"
                   level="16"
@@ -2861,7 +2811,6 @@
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
-
     <NPCCharacter id="Epirus_Cavalry_01"
                   default_group="Cavalry"
                   level="16"
@@ -2932,7 +2881,6 @@
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
-
     <NPCCharacter id="Epirus_Peltast_02"
                   default_group="Infantry"
                   level="16"
@@ -2997,7 +2945,6 @@
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
-
     <NPCCharacter id="Epirus_sword_01"
                   default_group="Infantry"
                   level="21"
@@ -3059,7 +3006,6 @@
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
-
     <NPCCharacter id="epirus_noble_recruit"
                   default_group="Infantry"
                   level="16"
@@ -3121,7 +3067,6 @@
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
-
     <NPCCharacter id="epirus_noble_01"
                   default_group="Infantry"
                   level="21"
@@ -3183,7 +3128,6 @@
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
-
     <NPCCharacter id="epirus_noble_spear_01"
                   default_group="Infantry"
                   level="26"
@@ -3242,7 +3186,6 @@
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
-
     <NPCCharacter id="epirus_noble_sword_01"
                   default_group="Infantry"
                   level="26"
@@ -3308,7 +3251,6 @@
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
-
     <NPCCharacter id="epirus_noble_sword_02"
                   default_group="Infantry"
                   level="31"
@@ -3375,6 +3317,7 @@
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
+
     <!-- #Generic Greek -->
     <NPCCharacter id="greek_recruit"
                   default_group="Infantry"
@@ -3433,7 +3376,6 @@
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
-
     <NPCCharacter id="greek_peltast"
                   default_group="Infantry"
                   level="11"
@@ -3496,7 +3438,6 @@
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
-
     <NPCCharacter id="greek_archer"
                   default_group="Ranged"
                   level="11"
@@ -3533,7 +3474,6 @@
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
-
     <NPCCharacter id="greek_noble_recruit"
                   default_group="Infantry"
                   level="16"
@@ -3597,7 +3537,6 @@
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
-
     <NPCCharacter id="greek_noble_hoplite"
                   default_group="Infantry"
                   level="21"
@@ -3661,7 +3600,6 @@
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
-
     <NPCCharacter id="greek_noble_cavalry"
                   default_group="Cavalry"
                   level="21"
@@ -3727,7 +3665,6 @@
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
-
     <NPCCharacter id="greek_noble_hoplite_veteran"
                   default_group="Infantry"
                   level="26"
@@ -3791,7 +3728,6 @@
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
-
     <NPCCharacter id="greek_elite_hoplite"
                   default_group="Infantry"
                   level="31"
@@ -3854,7 +3790,6 @@
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
-
     <NPCCharacter id="greek_infantry"
                   default_group="Infantry"
                   level="11"
@@ -3912,7 +3847,6 @@
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
-
     <NPCCharacter id="greek_slinger"
                   default_group="Ranged"
                   level="11"
@@ -3975,7 +3909,6 @@
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
-
     <NPCCharacter id="greek_veteran_slinger"
                   default_group="Ranged"
                   level="16"
@@ -4040,7 +3973,6 @@
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
-
     <NPCCharacter id="greek_hoplite"
                   default_group="Infantry"
                   level="16"
@@ -4103,7 +4035,6 @@
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
-
     <NPCCharacter id="greek_pikeman"
                   default_group="Infantry"
                   level="16"
@@ -4164,7 +4095,6 @@
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
-
     <NPCCharacter id="greek_veteran_hoplite"
                   default_group="Infantry"
                   level="21"
@@ -4224,4 +4154,339 @@
         </Equipments>
     </NPCCharacter>
 
+    <NPCCharacter id="greek_militia_slinger"
+                  default_group="Ranged"
+                  level="11"
+                  name="{=P8EATvn8}Militia Akrobólos"
+                  occupation="Soldier"
+                  culture="Culture.khuzait">
+        <face>
+            <face_key_template value="BodyProperty.fighter_empire"/>
+        </face>
+        <skills>
+            <skill id="Athletics" value="150"/>
+            <skill id="Riding" value="25"/>
+            <skill id="OneHanded" value="80"/>
+            <skill id="TwoHanded" value="25"/>
+            <skill id="Polearm" value="25"/>
+            <skill id="Bow" value="25"/>
+            <skill id="Crossbow" value="90"/>
+            <skill id="Throwing" value="25"/>
+        </skills>
+        <upgrade_targets>
+            <upgrade_target id="NPCCharacter.greek_militia_veteran_slinger"/>
+        </upgrade_targets>
+        <Equipments>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
+                <equipment slot="Item1" id="Item.AR_sling_a"/>
+                <equipment slot="Item2" id="Item.AR_sling_bullets_a"/>
+                <equipment slot="Head" id="Item.band_1"/>
+                <equipment slot="Body" id="Item.chiton_no_sleeves_1_2"/>
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.gladius_b"/>
+                <equipment slot="Item1" id="Item.AR_sling_a"/>
+                <equipment slot="Item2" id="Item.AR_sling_bullets_a"/>
+                <equipment slot="Head" id="Item.petasos_1"/>
+                <equipment slot="Body" id="Item.chiton_girdle_1_1"/>
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.peasant_pickaxe_1_t1"/>
+                <equipment slot="Item1" id="Item.AR_sling_a"/>
+                <equipment slot="Item2" id="Item.AR_sling_bullets_a"/>
+                <equipment slot="Head" id="Item.pilos_1"/>
+                <equipment slot="Body" id="Item.perizoma_1_1"/>
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.peasant_sickle_1_t1"/>
+                <equipment slot="Item1" id="Item.AR_sling_a"/>
+                <equipment slot="Item2" id="Item.AR_sling_bullets_a"/>
+                <equipment slot="Head" id="Item.ao_mabili_leather_headband"/>
+                <equipment slot="Body" id="Item.exomis_1_2"/>
+            </EquipmentRoster>
+            <EquipmentRoster civilian="true">
+                <equipment slot="Item0"
+                           id="Item.hunting_bow"/>
+                <equipment slot="Item1"
+                           id="Item.default_arrows"/>
+                <equipment slot="Item2"
+                           id="Item.default_arrows"/>
+                <equipment slot="Item3"
+                           id="Item.peasant_hammer_1_t1"/>
+                <equipment slot="Head"
+                           id="Item.merchants_hat"/>
+                <equipment slot="Body"
+                           id="Item.tied_cloth_tunic"/>
+                <equipment slot="Leg"
+                           id="Item.empire_horseman_boots"/>
+            </EquipmentRoster>
+        </Equipments>
+    </NPCCharacter>
+    <NPCCharacter id="greek_militia_veteran_slinger"
+                  default_group="Ranged"
+                  level="16"
+                  name="{=HsboF2mR}Palaistratiotes Militia Akrobólos"
+                  occupation="Soldier"
+                  culture="Culture.khuzait">
+        <face>
+            <face_key_template value="BodyProperty.fighter_empire"/>
+        </face>
+        <skills>
+            <skill id="Athletics" value="150"/>
+            <skill id="Riding" value="25"/>
+            <skill id="OneHanded" value="120"/>
+            <skill id="TwoHanded" value="25"/>
+            <skill id="Polearm" value="25"/>
+            <skill id="Bow" value="25"/>
+            <skill id="Crossbow" value="130"/>
+            <skill id="Throwing" value="25"/>
+        </skills>
+        <upgrade_targets></upgrade_targets>
+        <Equipments>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.roman_sword"/>
+                <equipment slot="Item1" id="Item.AR_sling_b"/>
+                <equipment slot="Item2" id="Item.AR_sling_bullets_b"/>
+                <equipment slot="Head" id="Item.attic_helm_1"/>
+                <equipment slot="Cape" id="Item.etruscan_chestpiece"/>
+                <equipment slot="Body" id="Item.chiton_girdle_1_1"/>
+                <equipment slot="Leg" id="Item.sandals_1"/>
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.vlandia_axe_1_t3"/>
+                <equipment slot="Item1" id="Item.AR_sling_b"/>
+                <equipment slot="Item2" id="Item.AR_sling_bullets_b"/>
+                <equipment slot="Item3" id="Item.battania_targe_b"/>
+                <equipment slot="Head" id="Item.pilos_1"/>
+                <equipment slot="Cape" id="Item.leopard_pelt"/>
+                <equipment slot="Body" id="Item.chiton_no_sleeves_1_2"/>
+                <equipment slot="Leg" id="Item.sandals_1"/>
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.gladius_b"/>
+                <equipment slot="Item1" id="Item.AR_sling_b"/>
+                <equipment slot="Item2" id="Item.AR_sling_bullets_b"/>
+                <equipment slot="Item3" id="Item.battania_targe_b"/>
+                <equipment slot="Head" id="Item.pilos_3_guarded"/>
+                <equipment slot="Cape" id="Item.AR_aserai_shoulder_q"/>
+                <equipment slot="Body" id="Item.hemithorakia"/>
+                <equipment slot="Gloves" id="Item.linothorax_chiton_ua"/>
+                <equipment slot="Leg" id="Item.sandals_1"/>
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.xiphos_a"/>
+                <equipment slot="Item1" id="Item.AR_sling_b"/>
+                <equipment slot="Item2" id="Item.AR_sling_bullets_b"/>
+                <equipment slot="Head" id="Item.chalcidian_1"/>
+                <equipment slot="Body" id="Item.linothorax_2_Checker_pattern"/>
+                <equipment slot="Gloves" id="Item.linothorax_chiton_sleeves_1"/>
+                <equipment slot="Leg" id="Item.sandals_1"/>
+            </EquipmentRoster>
+            <EquipmentRoster civilian="true">
+                <equipment slot="Item0"
+                           id="Item.hunting_bow"/>
+                <equipment slot="Item1"
+                           id="Item.default_arrows"/>
+                <equipment slot="Item2"
+                           id="Item.default_arrows"/>
+                <equipment slot="Item3"
+                           id="Item.small_spurred_axe_t2"/>
+                <equipment slot="Head"
+                           id="Item.imperial_leather_coif"/>
+                <equipment slot="Body"
+                           id="Item.empire_warrior_padded_armor_f"/>
+                <equipment slot="Leg"
+                           id="Item.empire_horseman_boots"/>
+            </EquipmentRoster>
+        </Equipments>
+    </NPCCharacter>
+    <NPCCharacter id="greek_militia_spearman"
+                  default_group="Infantry"
+                  level="11"
+                  name="{=ZhKoCVby}Palaistratiotes Militia Aikhmophóros"
+                  occupation="Soldier"
+                  culture="Culture.khuzait">
+        <face>
+            <face_key_template value="BodyProperty.fighter_empire"/>
+        </face>
+        <skills>
+            <skill id="Athletics"
+                   value="130"/>
+            <skill id="Riding"
+                   value="15"/>
+            <skill id="OneHanded"
+                   value="80"/>
+            <skill id="TwoHanded"
+                   value="20"/>
+            <skill id="Polearm"
+                   value="90"/>
+            <skill id="Bow"
+                   value="5"/>
+            <skill id="Crossbow"
+                   value="5"/>
+            <skill id="Throwing"
+                   value="45"/>
+        </skills>
+        <upgrade_targets>
+            <upgrade_target id="NPCCharacter.greek_militia_veteran_spearman"/>
+        </upgrade_targets>
+        <Equipments>
+            <EquipmentRoster>
+                <equipment slot="Item0"
+                           id="Item.hasta_spear"/>
+                <equipment slot="Item1"
+                           id="Item.battania_large_shield_a"/>
+                <equipment slot="Item2"
+                           id="Item.sturgia_sword_1_t2"/>
+                <equipment slot="Body"
+                           id="Item.tied_cloth_tunic"/>
+                <equipment slot="Leg"
+                           id="Item.sandals_1"/>
+                <equipment slot="Head"
+                           id="Item.AR_battania_helmet_w2"/>
+
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0"
+                           id="Item.hasta_spear"/>
+                <equipment slot="Item1"
+                           id="Item.battania_large_shield_a"/>
+                <equipment slot="Item2"
+                           id="Item.sturgia_sword_1_t2"/>
+                <equipment slot="Body"
+                           id="Item.cloth_tunic"/>
+                <equipment slot="Leg"
+                           id="Item.sandals_1"/>
+                <equipment slot="Head"
+                           id="Item.AR_battania_helmet_w2"/>
+
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0"
+                           id="Item.hasta_spear"/>
+                <equipment slot="Item1"
+                           id="Item.battania_large_shield_a"/>
+                <equipment slot="Item2"
+                           id="Item.sturgia_sword_1_t2"/>
+                <equipment slot="Body"
+                           id="Item.chiton_girdle_1_3"/>
+                <equipment slot="Leg"
+                           id="Item.wrapped_shoes"/>
+                <equipment slot="Head"
+                           id="Item.AR_battania_helmet_w2"/>
+
+            </EquipmentRoster>
+            <EquipmentRoster civilian="true">
+                <equipment slot="Item0"
+                           id="Item.imperial_spear_t2"/>
+                <equipment slot="Item1"
+                           id="Item.empire_mace_1_t2"/>
+                <equipment slot="Item2"
+                           id="Item.leather_bound_kite_shield"/>
+                <equipment slot="Head"
+                           id="Item.laced_cloth_coif"/>
+                <equipment slot="Body"
+                           id="Item.hemp_tunic"/>
+                <equipment slot="Leg"
+                           id="Item.empire_horseman_boots"/>
+            </EquipmentRoster>
+        </Equipments>
+    </NPCCharacter>
+    <NPCCharacter id="greek_militia_veteran_spearman"
+                  default_group="Infantry"
+                  level="16"
+                  name="{=c5rVdg75}Palaistratiotes Militia Aikhmophóros"
+                  occupation="Soldier"
+                  culture="Culture.khuzait">
+        <face>
+            <face_key_template value="BodyProperty.fighter_empire"/>
+        </face>
+        <skills>
+            <skill id="Athletics"
+                   value="130"/>
+            <skill id="Riding"
+                   value="40"/>
+            <skill id="OneHanded"
+                   value="130"/>
+            <skill id="TwoHanded"
+                   value="40"/>
+            <skill id="Polearm"
+                   value="130"/>
+            <skill id="Bow"
+                   value="10"/>
+            <skill id="Crossbow"
+                   value="30"/>
+            <skill id="Throwing"
+                   value="100"/>
+        </skills>
+        <upgrade_targets></upgrade_targets>
+        <Equipments>
+            <EquipmentRoster>
+                <equipment slot="Item0"
+                           id="Item.hasta_spear"/>
+                <equipment slot="Item1"
+                           id="Item.scutum_hastati_300"/>
+                <equipment slot="Item2"
+                           id="Item.sturgia_sword_1_t2"/>
+                <equipment slot="Body"
+                           id="Item.chiton_girdle_1_3"/>
+                <equipment slot="Leg"
+                           id="Item.sandals_1"/>
+                <equipment slot="Head"
+                           id="Item.TV_battania_helmet_d"/>
+
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0"
+                           id="Item.hasta_spear"/>
+                <equipment slot="Item1"
+                           id="Item.scutum_hastati_300"/>
+                <equipment slot="Item2"
+                           id="Item.sturgia_sword_1_t2"/>
+                <equipment slot="Body"
+                           id="Item.chiton_girdle_1_3"/>
+                <equipment slot="Leg"
+                           id="Item.sandals_1_bronze_greaves_left"/>
+                <equipment slot="Head"
+                           id="Item.romanmontefortino"/>
+                <equipment slot="Cape"
+                           id="Item.etruscan_chestpiece"/>
+
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0"
+                           id="Item.hasta_spear"/>
+                <equipment slot="Item1"
+                           id="Item.scutum_hastati_300"/>
+                <equipment slot="Item2"
+                           id="Item.sturgia_sword_1_t2"/>
+                <equipment slot="Body"
+                           id="Item.tied_cloth_tunic"/>
+                <equipment slot="Leg"
+                           id="Item.sandals_1"/>
+                <equipment slot="Head"
+                           id="Item.pilos_3_guarded"/>
+                <equipment slot="Cape"
+                           id="Item.etruscan_chestpiece"/>
+
+            </EquipmentRoster>
+            <EquipmentRoster civilian="true">
+                <equipment slot="Item0"
+                           id="Item.imperial_spear_t2"/>
+                <equipment slot="Item1"
+                           id="Item.empire_sword_1_t2"/>
+                <equipment slot="Item2"
+                           id="Item.reinforced_kite_shield"/>
+                <equipment slot="Head"
+                           id="Item.imperial_padded_coif"/>
+                <equipment slot="Body"
+                           id="Item.empire_warrior_padded_armor_d"/>
+                <equipment slot="Gloves"
+                           id="Item.leather_gloves"/>
+                <equipment slot="Leg"
+                           id="Item.empire_horseman_boots"/>
+            </EquipmentRoster>
+        </Equipments>
+    </NPCCharacter>
 </NPCCharacters>

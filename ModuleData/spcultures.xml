@@ -7,10 +7,10 @@
              color2="0xfff7bf46"
              elite_basic_troop="NPCCharacter.roman_noble_spear_01"
              basic_troop="NPCCharacter.roman_levy"
-             melee_militia_troop="NPCCharacter.imperial_militia_spearman"
-             ranged_militia_troop="NPCCharacter.imperial_militia_archer"
-             melee_elite_militia_troop="NPCCharacter.imperial_militia_veteran_spearman"
-             ranged_elite_militia_troop="NPCCharacter.imperial_militia_veteran_archer"
+             melee_militia_troop="NPCCharacter.latin_militia_spearman"
+             ranged_militia_troop="NPCCharacter.latin_militia_slinger"
+             melee_elite_militia_troop="NPCCharacter.latin_militia_veteran_spearman"
+             ranged_elite_militia_troop="NPCCharacter.latin_militia_veteran_slinger"
              can_have_settlement="true"
              town_edge_number="16"
              villager_party_template="PartyTemplate.villager_empire_template"
@@ -477,10 +477,10 @@
              color2="0xff6c1512"
              elite_basic_troop="NPCCharacter.punic_thorax_hoplite"
              basic_troop="NPCCharacter.punic_light_hoplite"
-             melee_militia_troop="NPCCharacter.aserai_militia_spearman"
-             ranged_militia_troop="NPCCharacter.aserai_militia_archer"
-             melee_elite_militia_troop="NPCCharacter.aserai_militia_veteran_spearman"
-             ranged_elite_militia_troop="NPCCharacter.aserai_militia_veteran_archer"
+             melee_militia_troop="NPCCharacter.punic_militia_spearman"
+             ranged_militia_troop="NPCCharacter.punic_militia_slinger"
+             melee_elite_militia_troop="NPCCharacter.punic_militia_veteran_spearman"
+             ranged_elite_militia_troop="NPCCharacter.punic_militia_veteran_slinger"
              can_have_settlement="true"
              town_edge_number="16"
              villager_party_template="PartyTemplate.villager_aserai_template"
@@ -807,10 +807,10 @@
              color2="FF000000"
              elite_basic_troop="NPCCharacter.lusitani_noble"
              basic_troop="NPCCharacter.lusitani_light_swordmen"
-             melee_militia_troop="NPCCharacter.imperial_militia_spearman"
-             ranged_militia_troop="NPCCharacter.imperial_militia_archer"
-             melee_elite_militia_troop="NPCCharacter.imperial_militia_veteran_spearman"
-             ranged_elite_militia_troop="NPCCharacter.imperial_militia_veteran_archer"
+             melee_militia_troop="NPCCharacter.celtic_militia_spearman"
+             ranged_militia_troop="NPCCharacter.celtic_militia_archer"
+             melee_elite_militia_troop="NPCCharacter.celtic_militia_veteran_spearman"
+             ranged_elite_militia_troop="NPCCharacter.celtic_militia_veteran_archer"
              can_have_settlement="true"
              town_edge_number="16"
              villager_party_template="PartyTemplate.villager_empire_template"
@@ -1188,10 +1188,10 @@
              color2="0xFF895d5e"
              elite_basic_troop="NPCCharacter.cantabrian_warrior"
              basic_troop="NPCCharacter.cantabri_axemen"
-             melee_militia_troop="NPCCharacter.imperial_militia_spearman"
-             ranged_militia_troop="NPCCharacter.imperial_militia_archer"
-             melee_elite_militia_troop="NPCCharacter.imperial_militia_veteran_spearman"
-             ranged_elite_militia_troop="NPCCharacter.imperial_militia_veteran_archer"
+             melee_militia_troop="NPCCharacter.celtic_militia_spearman"
+             ranged_militia_troop="NPCCharacter.celtic_militia_archer"
+             melee_elite_militia_troop="NPCCharacter.celtic_militia_veteran_spearman"
+             ranged_elite_militia_troop="NPCCharacter.celtic_militia_veteran_archer"
              can_have_settlement="true"
              town_edge_number="16"
              villager_party_template="PartyTemplate.villager_empire_template"
@@ -1571,10 +1571,10 @@
              color2="0xFFeee7d4"
              elite_basic_troop="NPCCharacter.celtiberian_warrior"
              basic_troop="NPCCharacter.iberian_levy_spearmen"
-             melee_militia_troop="NPCCharacter.imperial_militia_spearman"
-             ranged_militia_troop="NPCCharacter.imperial_militia_archer"
-             melee_elite_militia_troop="NPCCharacter.imperial_militia_veteran_spearman"
-             ranged_elite_militia_troop="NPCCharacter.imperial_militia_veteran_archer"
+             melee_militia_troop="NPCCharacter.punic_militia_spearman"
+             ranged_militia_troop="NPCCharacter.punic_militia_slinger"
+             melee_elite_militia_troop="NPCCharacter.punic_militia_veteran_spearman"
+             ranged_elite_militia_troop="NPCCharacter.punic_militia_veteran_slinger"
              can_have_settlement="true"
              town_edge_number="16"
              villager_party_template="PartyTemplate.villager_empire_template"
@@ -1953,10 +1953,10 @@
              color2="0xFFe7ecd6"
              elite_basic_troop="NPCCharacter.numidian_noble"
              basic_troop="NPCCharacter.numidian_levy_spearmen"
-             melee_militia_troop="NPCCharacter.aserai_militia_spearman"
-             ranged_militia_troop="NPCCharacter.aserai_militia_archer"
-             melee_elite_militia_troop="NPCCharacter.aserai_militia_veteran_spearman"
-             ranged_elite_militia_troop="NPCCharacter.aserai_militia_veteran_archer"
+             melee_militia_troop="NPCCharacter.african_militia_spearman"
+             ranged_militia_troop="NPCCharacter.african_militia_slinger"
+             melee_elite_militia_troop="NPCCharacter.african_militia_veteran_spearman"
+             ranged_elite_militia_troop="NPCCharacter.african_militia_veteran_slinger"
              can_have_settlement="true"
              town_edge_number="16"
              villager_party_template="PartyTemplate.villager_aserai_template"
@@ -2259,10 +2259,10 @@
              color2="0xFF5f4f44"
              elite_basic_troop="NPCCharacter.mauri_noble"
              basic_troop="NPCCharacter.mauri_tribal_axemen"
-             melee_militia_troop="NPCCharacter.imperial_militia_spearman"
-             ranged_militia_troop="NPCCharacter.imperial_militia_archer"
-             melee_elite_militia_troop="NPCCharacter.imperial_militia_veteran_spearman"
-             ranged_elite_militia_troop="NPCCharacter.imperial_militia_veteran_archer"
+             melee_militia_troop="NPCCharacter.african_militia_spearman"
+             ranged_militia_troop="NPCCharacter.african_militia_slinger"
+             melee_elite_militia_troop="NPCCharacter.african_militia_veteran_spearman"
+             ranged_elite_militia_troop="NPCCharacter.african_militia_veteran_slinger"
              can_have_settlement="true"
              town_edge_number="16"
              villager_party_template="PartyTemplate.villager_aserai_template"
@@ -2565,10 +2565,10 @@
              color2="0xFFeae1da"
              elite_basic_troop="NPCCharacter.garamantian_noble"
              basic_troop="NPCCharacter.garamantian_tribesmen"
-             melee_militia_troop="NPCCharacter.imperial_militia_spearman"
-             ranged_militia_troop="NPCCharacter.imperial_militia_archer"
-             melee_elite_militia_troop="NPCCharacter.imperial_militia_veteran_spearman"
-             ranged_elite_militia_troop="NPCCharacter.imperial_militia_veteran_archer"
+             melee_militia_troop="NPCCharacter.african_militia_spearman"
+             ranged_militia_troop="NPCCharacter.african_militia_slinger"
+             melee_elite_militia_troop="NPCCharacter.african_militia_veteran_spearman"
+             ranged_elite_militia_troop="NPCCharacter.african_militia_veteran_slinger"
              can_have_settlement="true"
              town_edge_number="16"
              villager_party_template="PartyTemplate.villager_empire_template"
@@ -2939,6 +2939,7 @@
         </basic_mercenary_troops>
     </Culture>
 
+
     <Culture id="sturgia"
              name="{=PjO7oY16}Germanic"
              is_main_culture="true"
@@ -2946,10 +2947,10 @@
              color2="0xffebdcbb"
              elite_basic_troop="NPCCharacter.germanic_noble"
              basic_troop="NPCCharacter.germanic_tribesmen"
-             melee_militia_troop="NPCCharacter.sturgian_militia_spearman"
-             ranged_militia_troop="NPCCharacter.sturgian_militia_archer"
-             melee_elite_militia_troop="NPCCharacter.sturgian_militia_veteran_spearman"
-             ranged_elite_militia_troop="NPCCharacter.sturgian_militia_veteran_archer"
+             melee_militia_troop="NPCCharacter.kven_militia_spearman"
+             ranged_militia_troop="NPCCharacter.kven_militia_archer"
+             melee_elite_militia_troop="NPCCharacter.kven_militia_veteran_spearman"
+             ranged_elite_militia_troop="NPCCharacter.kven_militia_veteran_archer"
              can_have_settlement="true"
              town_edge_number="16"
              villager_party_template="PartyTemplate.villager_sturgia_template"
@@ -3293,10 +3294,10 @@
              color2="0xff5d5b44"
              elite_basic_troop="NPCCharacter.celtic_noble"
              basic_troop="NPCCharacter.gallic_youth"
-             melee_militia_troop="NPCCharacter.vlandian_militia_spearman"
-             ranged_militia_troop="NPCCharacter.vlandian_militia_archer"
-             melee_elite_militia_troop="NPCCharacter.vlandian_militia_veteran_spearman"
-             ranged_elite_militia_troop="NPCCharacter.vlandian_militia_veteran_archer"
+             melee_militia_troop="NPCCharacter.celtic_militia_spearman"
+             ranged_militia_troop="NPCCharacter.celtic_militia_archer"
+             melee_elite_militia_troop="NPCCharacter.celtic_militia_veteran_spearman"
+             ranged_elite_militia_troop="NPCCharacter.celtic_militia_veteran_archer"
              can_have_settlement="true"
              town_edge_number="16"
              villager_party_template="PartyTemplate.villager_vlandia_template"
@@ -3657,16 +3658,16 @@
     </Culture>
 
     <Culture id="battania"
-             name="{=0B27RrYJ}Breton Celtic"
+             name="{=0B27RrYJ}Bretonic"
              is_main_culture="true"
              color="0xff284E19"
              color2="0xffB4F0F1"
              elite_basic_troop="NPCCharacter.markakoi"
              basic_troop="NPCCharacter.breton_youth"
-             melee_militia_troop="NPCCharacter.battanian_militia_spearman"
-             ranged_militia_troop="NPCCharacter.battanian_militia_archer"
-             melee_elite_militia_troop="NPCCharacter.battanian_militia_veteran_spearman"
-             ranged_elite_militia_troop="NPCCharacter.battanian_militia_veteran_archer"
+             melee_militia_troop="NPCCharacter.celtic_militia_spearman"
+             ranged_militia_troop="NPCCharacter.celtic_militia_archer"
+             melee_elite_militia_troop="NPCCharacter.celtic_militia_veteran_spearman"
+             ranged_elite_militia_troop="NPCCharacter.celtic_militia_veteran_archer"
              can_have_settlement="true"
              town_edge_number="16"
              militia_bonus="1"
@@ -3951,10 +3952,10 @@
              color2="0xffEFC990"
              elite_basic_troop="NPCCharacter.Makedon_Noble"
              basic_troop="NPCCharacter.Makedon_Recruit"
-             melee_militia_troop="NPCCharacter.Greek_Spear_Militia_01"
-             ranged_militia_troop="NPCCharacter.Greek_Bow_Militia_01"
-             melee_elite_militia_troop="NPCCharacter.Greek_Spear_Militia_02"
-             ranged_elite_militia_troop="NPCCharacter.Greek_Bow_Militia_02"
+             melee_militia_troop="NPCCharacter.greek_militia_spearman"
+             ranged_militia_troop="NPCCharacter.greek_militia_slinger"
+             melee_elite_militia_troop="NPCCharacter.greek_militia_veteran_spearman"
+             ranged_elite_militia_troop="NPCCharacter.greek_militia_veteran_slinger"
              can_have_settlement="true"
              town_edge_number="4"
              villager_party_template="PartyTemplate.villager_khuzait_template"
@@ -4265,10 +4266,10 @@
              color2="FF000000"
              elite_basic_troop="NPCCharacter.greek_noble_recruit"
              basic_troop="NPCCharacter.greek_recruit"
-             melee_militia_troop="NPCCharacter.Greek_Spear_Militia_01"
-             ranged_militia_troop="NPCCharacter.Greek_Bow_Militia_01"
-             melee_elite_militia_troop="NPCCharacter.Greek_Spear_Militia_02"
-             ranged_elite_militia_troop="NPCCharacter.Greek_Bow_Militia_02"
+             melee_militia_troop="NPCCharacter.greek_militia_spearman"
+             ranged_militia_troop="NPCCharacter.greek_militia_slinger"
+             melee_elite_militia_troop="NPCCharacter.greek_militia_veteran_spearman"
+             ranged_elite_militia_troop="NPCCharacter.greek_militia_veteran_slinger"
              can_have_settlement="true"
              town_edge_number="16"
              villager_party_template="PartyTemplate.villager_empire_template"
@@ -4661,10 +4662,10 @@
              color2="FF000000"
              elite_basic_troop="NPCCharacter.epirus_noble_recruit"
              basic_troop="NPCCharacter.Epirus_Recruit"
-             melee_militia_troop="NPCCharacter.Greek_Spear_Militia_01"
-             ranged_militia_troop="NPCCharacter.Greek_Bow_Militia_01"
-             melee_elite_militia_troop="NPCCharacter.Greek_Spear_Militia_02"
-             ranged_elite_militia_troop="NPCCharacter.Greek_Bow_Militia_02"
+             melee_militia_troop="NPCCharacter.greek_militia_spearman"
+             ranged_militia_troop="NPCCharacter.greek_militia_slinger"
+             melee_elite_militia_troop="NPCCharacter.greek_militia_veteran_spearman"
+             ranged_elite_militia_troop="NPCCharacter.greek_militia_veteran_slinger"
              can_have_settlement="true"
              town_edge_number="16"
              villager_party_template="PartyTemplate.villager_empire_template"
@@ -5057,10 +5058,10 @@
              color2="FF000000"
              elite_basic_troop="NPCCharacter.Massalia_Noble_Recruit"
              basic_troop="NPCCharacter.Massalia_Levy"
-             melee_militia_troop="NPCCharacter.imperial_militia_spearman"
-             ranged_militia_troop="NPCCharacter.imperial_militia_archer"
-             melee_elite_militia_troop="NPCCharacter.imperial_militia_veteran_spearman"
-             ranged_elite_militia_troop="NPCCharacter.imperial_militia_veteran_archer"
+             melee_militia_troop="NPCCharacter.greek_militia_spearman"
+             ranged_militia_troop="NPCCharacter.greek_militia_slinger"
+             melee_elite_militia_troop="NPCCharacter.greek_militia_veteran_spearman"
+             ranged_elite_militia_troop="NPCCharacter.greek_militia_veteran_slinger"
              can_have_settlement="true"
              town_edge_number="16"
              villager_party_template="PartyTemplate.villager_empire_template"
@@ -5439,10 +5440,10 @@
              color2="FF000000"
              elite_basic_troop="NPCCharacter.Syracuse_Noble"
              basic_troop="NPCCharacter.Syracuse_Levy"
-             melee_militia_troop="NPCCharacter.Greek_Spear_Militia_01"
-             ranged_militia_troop="NPCCharacter.Greek_Bow_Militia_01"
-             melee_elite_militia_troop="NPCCharacter.Greek_Spear_Militia_02"
-             ranged_elite_militia_troop="NPCCharacter.Greek_Bow_Militia_02"
+             melee_militia_troop="NPCCharacter.greek_militia_spearman"
+             ranged_militia_troop="NPCCharacter.greek_militia_slinger"
+             melee_elite_militia_troop="NPCCharacter.greek_militia_veteran_spearman"
+             ranged_elite_militia_troop="NPCCharacter.greek_militia_veteran_slinger"
              can_have_settlement="true"
              town_edge_number="16"
              villager_party_template="PartyTemplate.villager_empire_template"
@@ -5835,10 +5836,10 @@
              color2="FF000000"
              elite_basic_troop="NPCCharacter.cwmyr"
              basic_troop="NPCCharacter.slowgoi_skammo"
-             melee_militia_troop="NPCCharacter.imperial_militia_spearman"
-             ranged_militia_troop="NPCCharacter.imperial_militia_archer"
-             melee_elite_militia_troop="NPCCharacter.imperial_militia_veteran_spearman"
-             ranged_elite_militia_troop="NPCCharacter.imperial_militia_veteran_archer"
+             melee_militia_troop="NPCCharacter.celtic_militia_spearman"
+             ranged_militia_troop="NPCCharacter.celtic_militia_archer"
+             melee_elite_militia_troop="NPCCharacter.celtic_militia_veteran_spearman"
+             ranged_elite_militia_troop="NPCCharacter.celtic_militia_veteran_archer"
              can_have_settlement="true"
              town_edge_number="16"
              villager_party_template="PartyTemplate.villager_empire_template"
@@ -6231,10 +6232,10 @@
              color2="0xFFe7ecd6"
              elite_basic_troop="NPCCharacter.cimbri_nobles_son"
              basic_troop="NPCCharacter.cimbri_tribesmen"
-             melee_militia_troop="NPCCharacter.battanian_militia_spearman"
-             ranged_militia_troop="NPCCharacter.battanian_militia_archer"
-             melee_elite_militia_troop="NPCCharacter.battanian_militia_veteran_spearman"
-             ranged_elite_militia_troop="NPCCharacter.battanian_militia_veteran_archer"
+             melee_militia_troop="NPCCharacter.celtic_militia_spearman"
+             ranged_militia_troop="NPCCharacter.celtic_militia_archer"
+             melee_elite_militia_troop="NPCCharacter.celtic_militia_veteran_spearman"
+             ranged_elite_militia_troop="NPCCharacter.celtic_militia_veteran_archer"
              can_have_settlement="true"
              town_edge_number="16"
              villager_party_template="PartyTemplate.villager_battania_template"
@@ -6531,16 +6532,16 @@
     </Culture>
 
     <Culture id="scordisci"
-             name="{=scordiscifaction}scordisci"
+             name="{=scordiscifaction}Scordisci"
              is_main_culture="false"
              color="FFFFFFFF"
              color2="FF000000"
              elite_basic_troop="NPCCharacter.scordisci_noble_warrior"
              basic_troop="NPCCharacter.scordisci_levy"
-             melee_militia_troop="NPCCharacter.imperial_militia_spearman"
-             ranged_militia_troop="NPCCharacter.imperial_militia_archer"
-             melee_elite_militia_troop="NPCCharacter.imperial_militia_veteran_spearman"
-             ranged_elite_militia_troop="NPCCharacter.imperial_militia_veteran_archer"
+             melee_militia_troop="NPCCharacter.celtic_militia_spearman"
+             ranged_militia_troop="NPCCharacter.celtic_militia_archer"
+             melee_elite_militia_troop="NPCCharacter.celtic_militia_veteran_spearman"
+             ranged_elite_militia_troop="NPCCharacter.celtic_militia_veteran_archer"
              can_have_settlement="true"
              town_edge_number="16"
              villager_party_template="PartyTemplate.villager_empire_template"
@@ -6926,7 +6927,7 @@
         </basic_mercenary_troops>
     </Culture>
 
-
+    <!--	TODO MILITIA UNITS-->
     <Culture id="Scythian"
              name="{=Scythianfaction}Scythian"
              is_main_culture="false"
@@ -6934,10 +6935,10 @@
              color2="FF000000"
              elite_basic_troop="NPCCharacter.scythian_noble_nomad"
              basic_troop="NPCCharacter.scythian_tribesmen"
-             melee_militia_troop="NPCCharacter.imperial_militia_spearman"
-             ranged_militia_troop="NPCCharacter.imperial_militia_archer"
-             melee_elite_militia_troop="NPCCharacter.imperial_militia_veteran_spearman"
-             ranged_elite_militia_troop="NPCCharacter.imperial_militia_veteran_archer"
+             melee_militia_troop="NPCCharacter.kven_militia_spearman"
+             ranged_militia_troop="NPCCharacter.kven_militia_archer"
+             melee_elite_militia_troop="NPCCharacter.kven_militia_veteran_spearman"
+             ranged_elite_militia_troop="NPCCharacter.kven_militia_veteran_archer"
              can_have_settlement="true"
              town_edge_number="16"
              villager_party_template="PartyTemplate.villager_empire_template"
@@ -7323,7 +7324,7 @@
         </basic_mercenary_troops>
     </Culture>
 
-
+    <!--	TODO MILITIA UNITS-->
     <Culture id="Baltic"
              name="{=Balticfaction}Baltic"
              is_main_culture="false"
@@ -7331,10 +7332,10 @@
              color2="FF000000"
              elite_basic_troop="NPCCharacter.baltic_noble"
              basic_troop="NPCCharacter.baltic_tribesmem"
-             melee_militia_troop="NPCCharacter.imperial_militia_spearman"
-             ranged_militia_troop="NPCCharacter.imperial_militia_archer"
-             melee_elite_militia_troop="NPCCharacter.imperial_militia_veteran_spearman"
-             ranged_elite_militia_troop="NPCCharacter.imperial_militia_veteran_archer"
+             melee_militia_troop="NPCCharacter.kven_militia_spearman"
+             ranged_militia_troop="NPCCharacter.kven_militia_archer"
+             melee_elite_militia_troop="NPCCharacter.kven_militia_veteran_spearman"
+             ranged_elite_militia_troop="NPCCharacter.kven_militia_veteran_archer"
              can_have_settlement="true"
              town_edge_number="16"
              villager_party_template="PartyTemplate.villager_empire_template"
@@ -7724,7 +7725,7 @@
              name="{=sYFaoW7G}Nord"
              is_main_culture="false"
              elite_basic_troop="NPCCharacter.northman_sons"
-             basic_troop="NPCCharacter.Ung_Menni"
+             basic_troop="NPCCharacter.northman_tribesman"
              can_have_settlement="true"
              town_edge_number="16"
              villager_party_template="PartyTemplate.villager_sturgia_template"
@@ -7949,5 +7950,353 @@
         </banner_bearer_replacement_weapons>
     </Culture>
 
+    <!--  KVEN  -->
+    <Culture id="kven"
+             name="{=PjO7oY16}Kven"
+             is_main_culture="false"
+             color="0xff4e1a13"
+             color2="0xffebdcbb"
+             elite_basic_troop="NPCCharacter.kven_elite1"
+             basic_troop="NPCCharacter.kven_recruit"
+             melee_militia_troop="NPCCharacter.kven_militia_spearman"
+             ranged_militia_troop="NPCCharacter.kven_militia_archer"
+             melee_elite_militia_troop="NPCCharacter.kven_militia_veteran_spearman"
+             ranged_elite_militia_troop="NPCCharacter.kven_militia_veteran_archer"
+             can_have_settlement="true"
+             town_edge_number="16"
+             villager_party_template="PartyTemplate.villager_kven_template"
+             default_party_template="PartyTemplate.kingdom_hero_party_kven_template"
+             encounter_background_mesh="encounter_sturgia"
+             faction_banner_key="11.45.126.4345.4345.764.764.1.0.0.462.0.13.512.512.764.764.1.0.0"
+             elite_caravan_party_template="PartyTemplate.elite_caravan_template_kven"
+             caravan_party_template="PartyTemplate.caravan_template_kven"
+             militia_party_template="PartyTemplate.militia_kven_template"
+             rebels_party_template="PartyTemplate.rebels_kven_template"
+             vassal_reward_party_template="PartyTemplate.vassal_reward_troops_kven"
+             default_face_key="000fa92e90004202aced5d976886573d5d679585a376fdd605877a7764b8987c00000000000007520000037f0000000f00000037049140010000000000000000"
+             text="{=Ud1AMybr}Kven description work in progress"
+             tournament_master="NPCCharacter.tournament_master_kven"
+             villager="NPCCharacter.villager_kven"
+             caravan_master="NPCCharacter.caravan_master_kven"
+             armed_trader="NPCCharacter.armed_trader_kven"
+             caravan_guard="NPCCharacter.caravan_guard_kven"
+             veteran_caravan_guard="NPCCharacter.veteran_caravan_guard_kven"
+             duel_preset="NPCCharacter.kven_duel_preset"
+             prison_guard="NPCCharacter.prison_guard_kven"
+             guard="NPCCharacter.guard_kven"
+             blacksmith="NPCCharacter.blacksmith_kven"
+             weaponsmith="NPCCharacter.weaponsmith_kven"
+             townswoman="NPCCharacter.townswoman_sturgia"
+             townswoman_infant="NPCCharacter.townswoman_infant_kven"
+             townswoman_child="NPCCharacter.townswoman_child_kven"
+             townswoman_teenager="NPCCharacter.townswoman_teenager_kven"
+             townsman="NPCCharacter.townsman_kven"
+             townsman_infant="NPCCharacter.townsman_infant_kven"
+             townsman_child="NPCCharacter.townsman_child_kven"
+             townsman_teenager="NPCCharacter.townsman_teenager_kven"
+             village_woman="NPCCharacter.village_woman_kven"
+             villager_male_child="NPCCharacter.villager_child_kven"
+             villager_male_teenager="NPCCharacter.villager_teenager_kven"
+             villager_female_child="NPCCharacter.village_woman_child_kven"
+             villager_female_teenager="NPCCharacter.village_woman_teenager_kven"
+             ransom_broker="NPCCharacter.ransom_broker_kven"
+             gangleader_bodyguard="NPCCharacter.gangleader_bodyguard_kven"
+             merchant_notary="NPCCharacter.merchant_notary_kven"
+             artisan_notary="NPCCharacter.artisan_notary_kven"
+             preacher_notary="NPCCharacter.preacher_notary_kven"
+             rural_notable_notary="NPCCharacter.rural_notable_notary_kven"
+             shop_worker="NPCCharacter.shop_worker_kven"
+             tavernkeeper="NPCCharacter.tavernkeeper_kven"
+             taverngamehost="NPCCharacter.taverngamehost_kven"
+             musician="NPCCharacter.musician_kven"
+             tavern_wench="NPCCharacter.tavern_wench_kven"
+             armorer="NPCCharacter.armorer_kven"
+             horseMerchant="NPCCharacter.horseMerchant_kven"
+             barber="NPCCharacter.barber_kven"
+             merchant="NPCCharacter.merchant_kven"
+             beggar="NPCCharacter.beggar_kven"
+             female_beggar="NPCCharacter.female_beggar_kven"
+             female_dancer="NPCCharacter.female_dancer_kven"
+             gear_practice_dummy="NPCCharacter.gear_practice_dummy_kven"
+             weapon_practice_stage_1="NPCCharacter.weapon_practice_stage_1_kven"
+             weapon_practice_stage_2="NPCCharacter.weapon_practice_stage_2_kven"
+             weapon_practice_stage_3="NPCCharacter.weapon_practice_stage_3_kven"
+             gear_dummy="NPCCharacter.gear_dummy_sturgia"
+             board_game_type="Konane">
+        <vassal_reward_items>
+            <item id="Item.avalanche_2haxe"/>
+        </vassal_reward_items>
+        <banner_bearer_replacement_weapons>
+            <item id="Item.iron_spatha_sword_t2"/>
+            <item id="Item.sturgia_sword_1_t2"/>
+            <item id="Item.sturgia_sword_2_t3"/>
+            <item id="Item.sturgia_sword_6_t5"/>
+        </banner_bearer_replacement_weapons>
+        <default_policies>
+            <policy id="policy_lawspeakers"/>
+            <policy id="policy_precarial_land_tenure"/>
+        </default_policies>
+        <male_names>
+            <name name="{=jVPr0ZzB}Achyr"/>
+            <name name="{=iFJbnbCQ}Agdil"/>
+            <name name="{=pqlMxWoM}Alek"/>
+            <name name="{=bNj9gI2y}Astin"/>
+            <name name="{=oyxam3bN}Blag"/>
+            <name name="{=KbIHavJj}Borabos"/>
+            <name name="{=38o99yqa}Borcha"/>
+            <name name="{=zYAl76GW}Borytor"/>
+            <name name="{=ODVepnRR}Bylorn"/>
+            <name name="{=6FebKbCp}Chel"/>
+            <name name="{=0ZXMKL4M}Chavil"/>
+            <name name="{=ORJZJYt7}Churig"/>
+            <name name="{=eYY8319F}Dalibol"/>
+            <name name="{=CoYOwpLP}Davan"/>
+            <name name="{=YdMwMdyf}Dumat"/>
+            <name name="{=z3rmbOSO}Gavyn"/>
+            <name name="{=pfAkvdYc}Gorgi"/>
+            <name name="{=J5kC0K3W}Gutrag"/>
+            <name name="{=aYiL7eDM}Ilmir"/>
+            <name name="{=ZkaaXxeB}Isvan"/>
+            <name name="{=WNb0Bw0e}Kavyl"/>
+            <name name="{=bzXmtoC6}Koleg"/>
+            <name name="{=BGHBvAK1}Kulyat"/>
+            <name name="{=FkbO2Abd}Kras"/>
+            <name name="{=fYN6Aawl}Kyraslav"/>
+            <name name="{=HxKE18yl}Lasvak"/>
+            <name name="{=KBq7aQRa}Lek"/>
+            <name name="{=Py1Jj5mB}Lorik"/>
+            <name name="{=bzaLf3EU}Magan"/>
+            <name name="{=BD4XeP07}Mikri"/>
+            <name name="{=vPlwv7Vj}Miloch"/>
+            <name name="{=Xo1ZwCmu}Mor"/>
+            <name name="{=G92bovut}Mornid"/>
+            <name name="{=hWKKCdeX}Mulum"/>
+            <name name="{=DkXPe3A3}Nevig"/>
+            <name name="{=A2AYaNWM}Orig"/>
+            <name name="{=EUQTT8so}Oshir"/>
+            <name name="{=CSizDomP}Ospak"/>
+            <name name="{=cv1QgU1H}Pazhel"/>
+            <name name="{=M1ORaYny}Pol"/>
+            <name name="{=4KZXSIjc}Porev"/>
+            <name name="{=eMcQ35QA}Radul"/>
+            <name name="{=rahYvT3x}Ragnar"/>
+            <name name="{=iOYRpw24}Ratagost"/>
+            <name name="{=jACaGLM5}Salulk"/>
+            <name name="{=XDAQgjpH}Simir"/>
+            <name name="{=rtHgoGvb}Sivur"/>
+            <name name="{=5YsDdW9s}Sorgard"/>
+            <name name="{=mfu9UqLL}Shemyr"/>
+            <name name="{=tOmtchNx}Tanir"/>
+            <name name="{=B7zKKiYQ}Tatik"/>
+            <name name="{=tp3yvlYW}Temyr"/>
+            <name name="{=gzej3EbY}Tulvo"/>
+            <name name="{=4ABVdxKn}Tyl"/>
+            <name name="{=7T5z6N7e}Ulaslav"/>
+            <name name="{=wlwVPqjP}Uln"/>
+            <name name="{=uDlnsFIF}Urik"/>
+            <name name="{=jqaPJbpP}Urgil"/>
+            <name name="{=htJuLron}Varag"/>
+            <name name="{=cjYLX7sZ}Valishin"/>
+            <name name="{=e6goEM5b}Valdym"/>
+            <name name="{=cpkNaEmz}Vaton"/>
+            <name name="{=hy7mIh48}Vidar"/>
+            <name name="{=kEw7yody}Volg"/>
+            <name name="{=t0TXa7Fp}Vuldrat"/>
+            <name name="{=bU46gvya}Vulfyr"/>
+            <name name="{=OABjrV1T}Vyoshen"/>
+            <name name="{=j6K4Z1L6}Yalyr"/>
+            <name name="{=NAVXhanI}Yarli"/>
+            <name name="{=agn93v7y}Yorig"/>
+            <name name="{=XxSD6GAu}Yun"/>
+            <name name="{=zLl1UEYM}Zhem"/>
+            <name name="{=Fn064VUZ}Zhutyr"/>
+            <name name="{=25zTek7a}Alakhir"/>
+            <name name="{=wf4cGf3B}Bovidor"/>
+            <name name="{=6hCz0ZFN}Byram"/>
+            <name name="{=AMbdha2J}Chemnir"/>
+            <name name="{=pvuNmZF8}Ivulis"/>
+            <name name="{=m8dVlsEy}Khym"/>
+            <name name="{=Av5aCluG}Svato"/>
+            <name name="{=SvyDUmw3}Vyanimir"/>
+            <name name="{=oPmn1SHy}Zuvan"/>
+            <name name="{=bLY1zbNI}Zvatim"/>
+        </male_names>
+        <female_names>
+            <name name="{=vz038vX7}Achita"/>
+            <name name="{=UaOynysV}Agna"/>
+            <name name="{=WP63fA7r}Alkirya"/>
+            <name name="{=XqcD0WEu}Asta"/>
+            <name name="{=daulkQvv}Brinya"/>
+            <name name="{=VaqB0x4K}Dranga"/>
+            <name name="{=scCmMFeI}Ekadrya"/>
+            <name name="{=9pnUaj0g}Elyaksha"/>
+            <name name="{=yNSLGTYc}Erta"/>
+            <name name="{=YahyjyK5}Gudra"/>
+            <name name="{=Q8gCUmQq}Gyn"/>
+            <name name="{=Z5NIRUPc}Idruna"/>
+            <name name="{=7n7V9Va5}Irya"/>
+            <name name="{=4Su3mMpd}Ivaren"/>
+            <name name="{=6fbD85kZ}Kara"/>
+            <name name="{=RrdzC0Mx}Kalata"/>
+            <name name="{=AMmJVlrt}Kyraslava"/>
+            <name name="{=8Rirvd8I}Laska"/>
+            <name name="{=cxNCgqkI}Litka"/>
+            <name name="{=7Lkbtnet}Luvina"/>
+            <name name="{=yhCgI9ph}Magna"/>
+            <name name="{=9SJa91sZ}Marena"/>
+            <name name="{=R1yWuIzd}Melya"/>
+            <name name="{=C4akgRTN}Milisa"/>
+            <name name="{=Bt4MdhYE}Olguna"/>
+            <name name="{=OQLPPwrL}Osea"/>
+            <name name="{=Ao69q2aY}Pera"/>
+            <name name="{=DfZ5oi0O}Ragna"/>
+            <name name="{=2Bh8DS8S}Siga"/>
+            <name name="{=sIBcdaxD}Soren"/>
+            <name name="{=b2d9BYxT}Svana"/>
+            <name name="{=qu9adIvZ}Talya"/>
+            <name name="{=zAC87rrQ}Tora"/>
+            <name name="{=r28vZDkN}Vara"/>
+            <name name="{=5o1bM9G0}Vasinya"/>
+            <name name="{=t6e4wphB}Veta"/>
+            <name name="{=qUJhzsb1}Yagada"/>
+            <name name="{=X4ZS4q8L}Yasna"/>
+            <name name="{=meNjBd0K}Zanya"/>
+            <name name="{=R1JECC9r}Zhira"/>
+            <name name="{=Lv753Nnn}Zylata"/>
+        </female_names>
+        <clan_names>
+            <name name="{=OLLYkaWd}Asraloving"/>
+            <name name="{=yUuM8a0j}Boranoving"/>
+            <name name="{=euyyBbjq}Folyoroving"/>
+            <name name="{=ODcWVL1a}Gendiroving"/>
+            <name name="{=UYqwbjTP}Iskanoving"/>
+            <name name="{=z2Oqk8aq}Maregoving"/>
+            <name name="{=lpbIXNdK}Suratoving"/>
+            <name name="{=RFapQLfR}Vyshoving"/>
+            <name name="{=gC1paDtD}Yerchoving"/>
+            <name name="{=qD72Ya4I}Zhanoving"/>
+        </clan_names>
+        <cultural_feats>
+            <feat id="sturgia_cheaper_recruits_infantry"/>
+            <feat id="sturgia_decreased_cohesion_rate"/>
+            <feat id="sturgia_increased_decision_penalty"/>
+        </cultural_feats>
+        <possible_clan_banner_icon_ids>
+            <icon id="112"/>
+            <icon id="113"/>
+            <icon id="114"/>
+            <icon id="115"/>
+            <icon id="116"/>
+            <icon id="117"/>
+            <icon id="118"/>
+            <icon id="132"/>
+            <icon id="138"/>
+            <icon id="139"/>
+            <icon id="307"/>
+            <icon id="331"/>
+            <icon id="407"/>
+            <icon id="408"/>
+            <icon id="409"/>
+            <icon id="410"/>
+            <icon id="439"/>
+            <icon id="440"/>
+            <icon id="441"/>
+            <icon id="442"/>
+            <icon id="443"/>
+            <icon id="444"/>
+            <icon id="445"/>
+        </possible_clan_banner_icon_ids>
+        <!--
+  <child_character_templates>
+    <template name="NPCCharacter.child_template_kven_townsman_male" />
+    <template name="NPCCharacter.child_template_kven_townsman_female" />
+    <template name="NPCCharacter.child_template_kven_villager_male" />
+    <template name="NPCCharacter.child_template_kven_villager_female" />
+    <template name="NPCCharacter.child_template_kven_noble_male" />
+    <template name="NPCCharacter.child_template_kven_noble_female" />
+    <template name="NPCCharacter.teenager_template_kven_townsman_female" />
+    <template name="NPCCharacter.teenager_template_kven_townsman_male" />
+    <template name="NPCCharacter.teenager_template_kven_villager_male" />
+    <template name="NPCCharacter.teenager_template_kven_villager_female" />
+    <template name="NPCCharacter.teenager_template_kven_noble_male" />
+    <template name="NPCCharacter.teenager_template_kven_noble_female" />
+  </child_character_templates> -->
+        <notable_and_wanderer_templates>
+            <template name="NPCCharacter.spc_wanderer_kven_0"/>
+            <template name="NPCCharacter.spc_wanderer_kven_1"/>
+            <template name="NPCCharacter.spc_wanderer_kven_2"/>
+            <template name="NPCCharacter.spc_wanderer_kven_3"/>
+            <template name="NPCCharacter.spc_wanderer_kven_4"/>
+            <template name="NPCCharacter.spc_wanderer_kven_5"/>
+            <template name="NPCCharacter.spc_wanderer_kven_6"/>
+            <template name="NPCCharacter.spc_wanderer_kven_7"/>
+            <template name="NPCCharacter.spc_wanderer_kven_8"/>
+            <template name="NPCCharacter.spc_wanderer_kven_9"/>
+            <template name="NPCCharacter.spc_notable_kven_0"/>
+            <template name="NPCCharacter.spc_notable_kven_0b"/>
+            <template name="NPCCharacter.spc_notable_kven_1"/>
+            <template name="NPCCharacter.spc_notable_kven_2"/>
+            <template name="NPCCharacter.spc_notable_kven_2b"/>
+            <template name="NPCCharacter.spc_notable_kven_3"/>
+            <template name="NPCCharacter.spc_notable_kven_3b"/>
+            <template name="NPCCharacter.spc_notable_kven_3c"/>
+            <template name="NPCCharacter.spc_notable_kven_4"/>
+            <template name="NPCCharacter.spc_notable_kven_5"/>
+            <template name="NPCCharacter.spc_notable_kven_6"/>
+            <template name="NPCCharacter.spc_notable_kven_7"/>
+            <template name="NPCCharacter.spc_notable_kven_8"/>
+            <template name="NPCCharacter.spc_notable_kven_9"/>
+            <template name="NPCCharacter.spc_notable_kven_10"/>
+            <template name="NPCCharacter.spc_kven_headman_1"/>
+            <template name="NPCCharacter.spc_kven_headman_2"/>
+            <template name="NPCCharacter.spc_kven_headman_3"/>
+        </notable_and_wanderer_templates>
+        <lord_templates>
+            <template name="NPCCharacter.spc_skolderbrotva_leader_0"/>
+            <template name="NPCCharacter.spc_skolderbrotva_leader_1"/>
+            <template name="NPCCharacter.spc_skolderbrotva_leader_2"/>
+            <template name="NPCCharacter.spc_skolderbrotva_leader_3"/>
+            <template name="NPCCharacter.spc_lakepike_leader_0"/>
+            <template name="NPCCharacter.spc_lakepike_leader_1"/>
+            <template name="NPCCharacter.spc_lakepike_leader_2"/>
+            <template name="NPCCharacter.spc_lakepike_leader_3"/>
+            <template name="NPCCharacter.spc_forest_people_leader_0"/>
+            <template name="NPCCharacter.spc_forest_people_leader_1"/>
+            <template name="NPCCharacter.spc_forest_people_leader_2"/>
+            <template name="NPCCharacter.spc_forest_people_leader_3"/>
+        </lord_templates>
+        <rebellion_hero_templates>
+            <template name="NPCCharacter.spc_skolderbrotva_leader_0"/>
+            <template name="NPCCharacter.spc_skolderbrotva_leader_1"/>
+            <template name="NPCCharacter.spc_skolderbrotva_leader_2"/>
+            <template name="NPCCharacter.spc_skolderbrotva_leader_3"/>
+            <template name="NPCCharacter.spc_lakepike_leader_0"/>
+            <template name="NPCCharacter.spc_lakepike_leader_1"/>
+            <template name="NPCCharacter.spc_lakepike_leader_2"/>
+            <template name="NPCCharacter.spc_lakepike_leader_3"/>
+            <template name="NPCCharacter.spc_forest_people_leader_0"/>
+            <template name="NPCCharacter.spc_forest_people_leader_1"/>
+            <template name="NPCCharacter.spc_forest_people_leader_2"/>
+            <template name="NPCCharacter.spc_forest_people_leader_3"/>
+        </rebellion_hero_templates>
+        <tournament_team_templates_one_participant>
+            <template name="NPCCharacter.tournament_template_kven_one_participant_set_v1"/>
+            <template name="NPCCharacter.tournament_template_kven_one_participant_set_v2"/>
+        </tournament_team_templates_one_participant>
+        <tournament_team_templates_two_participant>
+            <template name="NPCCharacter.tournament_template_kven_two_participant_set_v1"/>
+            <template name="NPCCharacter.tournament_template_kven_two_participant_set_v2"/>
+            <template name="NPCCharacter.tournament_template_kven_two_participant_set_v3"/>
+        </tournament_team_templates_two_participant>
+        <tournament_team_templates_four_participant>
+            <template name="NPCCharacter.tournament_template_kven_four_participant_set_v1"/>
+            <template name="NPCCharacter.tournament_template_kven_four_participant_set_v2"/>
+            <template name="NPCCharacter.tournament_template_kven_four_participant_set_v3"/>
+        </tournament_team_templates_four_participant>
+        <basic_mercenary_troops>
+            <template name="NPCCharacter.eastern_mercenary"/>
+            <template name="NPCCharacter.sword_sisters_sister_t3"/>
+        </basic_mercenary_troops>
+    </Culture>
 
 </SPCultures>

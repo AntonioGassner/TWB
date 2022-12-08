@@ -30,8 +30,8 @@
                    value="25"/>
         </skills>
         <upgrade_targets>
-            <upgrade_target id="NPCCharacter.roman_skirmisher"/>
             <upgrade_target id="NPCCharacter.roman_spear_01"/>
+            <upgrade_target id="NPCCharacter.roman_skirmisher"/>
         </upgrade_targets>
         <Equipments>
             <EquipmentRoster>
@@ -336,7 +336,6 @@
                           civilian="true"/>
         </Equipments>
     </NPCCharacter>
-
     <NPCCharacter id="roman_skirmisher"
                   default_group="Ranged"
                   level="11"
@@ -415,8 +414,6 @@
                           civilian="true"/>
         </Equipments>
     </NPCCharacter>
-
-
     <NPCCharacter id="roman_skirmisher_2"
                   default_group="Ranged"
                   level="16"
@@ -499,7 +496,7 @@
     <NPCCharacter id="roman_slingers"
                   default_group="Ranged"
                   level="16"
-                  name="{=kih9DwL4}Slingers"
+                  name="{=kih9DwL4}Fundibalārius"
                   occupation="Soldier"
                   culture="Culture.empire">
         <face>
@@ -570,7 +567,6 @@
                           civilian="true"/>
         </Equipments>
     </NPCCharacter>
-
 
     <NPCCharacter id="roman_noble_spear_01"
                   default_group="Infantry"
@@ -655,8 +651,6 @@
 
         </Equipments>
     </NPCCharacter>
-
-
     <NPCCharacter id="roman_noble_spear_02"
                   default_group="Infantry"
                   level="26"
@@ -904,6 +898,358 @@
             <equipment slot="HorseHarness"
                        id="Item.fortunas_choice"/>
 
+        </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="latin_militia_slinger"
+                  default_group="Ranged"
+                  level="11"
+                  name="{=P8EATvn8}Militia Fundibalārius "
+                  occupation="Soldier"
+                  culture="Culture.empire">
+        <face>
+            <face_key_template value="BodyProperty.fighter_empire"/>
+        </face>
+        <skills>
+            <skill id="Athletics"
+                   value="150"/>
+            <skill id="Riding"
+                   value="40"/>
+            <skill id="OneHanded"
+                   value="90"/>
+            <skill id="TwoHanded"
+                   value="30"/>
+            <skill id="Polearm"
+                   value="40"/>
+            <skill id="Bow"
+                   value="10"/>
+            <skill id="Crossbow"
+                   value="90"/>
+            <skill id="Throwing"
+                   value="30"/>
+        </skills>
+        <upgrade_targets>
+            <upgrade_target id="NPCCharacter.latin_militia_veteran_slinger"/>
+        </upgrade_targets>
+        <Equipments>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.AR_sling_a"/>
+                <equipment slot="Item1" id="Item.AR_sling_bullets_a"/>
+                <equipment slot="Item2" id="Item.peasant_hatchet_1_t1"/>
+                <equipment slot="Head" id="Item.petasos_1"/>
+                <equipment slot="Body" id="Item.chiton_girdle_1_1"/>
+                <equipment slot="Leg" id="Item.sandals_1"/>
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.AR_sling_a"/>
+                <equipment slot="Item1" id="Item.AR_sling_bullets_a"/>
+                <equipment slot="Item2" id="Item.gladius_b"/>
+                <equipment slot="Body" id="Item.chiton_no_sleeves_1_2"/>
+                <equipment slot="Leg" id="Item.sandals_1"/>
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.AR_sling_a"/>
+                <equipment slot="Item1" id="Item.AR_sling_bullets_a"/>
+                <equipment slot="Item2" id="Item.gladius_b"/>
+                <equipment slot="Head" id="Item.petasos_2"/>
+                <equipment slot="Body" id="Item.exomis_1_2"/>
+                <equipment slot="Leg" id="Item.sandals_1"/>
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.AR_sling_a"/>
+                <equipment slot="Item1" id="Item.AR_sling_bullets_a"/>
+                <equipment slot="Item2" id="Item.peasant_hatchet_1_t1"/>
+                <equipment slot="Head" id="Item.pilos_1"/>
+                <equipment slot="Body" id="Item.perizoma_1_1"/>
+                <equipment slot="Leg" id="Item.sandals_1"/>
+            </EquipmentRoster>
+            <EquipmentRoster civilian="true">
+                <equipment slot="Item0"
+                           id="Item.hunting_bow"/>
+                <equipment slot="Item1"
+                           id="Item.default_arrows"/>
+                <equipment slot="Item2"
+                           id="Item.default_arrows"/>
+                <equipment slot="Item3"
+                           id="Item.peasant_hammer_1_t1"/>
+                <equipment slot="Head"
+                           id="Item.merchants_hat"/>
+                <equipment slot="Body"
+                           id="Item.tied_cloth_tunic"/>
+                <equipment slot="Leg"
+                           id="Item.empire_horseman_boots"/>
+            </EquipmentRoster>
+        </Equipments>
+    </NPCCharacter>
+    <NPCCharacter id="latin_militia_veteran_slinger"
+                  default_group="Ranged"
+                  level="16"
+                  name="{=HsboF2mR}Veteranos Militia Fundibalārius"
+                  occupation="Soldier"
+                  culture="Culture.empire">
+        <face>
+            <face_key_template value="BodyProperty.fighter_empire"/>
+        </face>
+        <skills>
+            <skill id="Athletics"
+                   value="150"/>
+            <skill id="Riding"
+                   value="40"/>
+            <skill id="OneHanded"
+                   value="100"/>
+            <skill id="TwoHanded"
+                   value="30"/>
+            <skill id="Polearm"
+                   value="40"/>
+            <skill id="Bow"
+                   value="10"/>
+            <skill id="Crossbow"
+                   value="130"/>
+            <skill id="Throwing"
+                   value="30"/>
+        </skills>
+        <upgrade_targets></upgrade_targets>
+        <Equipments>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.AR_sling_b"/>
+                <equipment slot="Item1" id="Item.AR_sling_bullets_b"/>
+                <equipment slot="Item2" id="Item.xiphos_a"/>
+                <equipment slot="Item3" id="Item.battania_targe_b"/>
+                <equipment slot="Head" id="Item.pilos_1"/>
+                <equipment slot="Body" id="Item.chiton_girdle_1_1"/>
+                <equipment slot="Leg" id="Item.sandals_1"/>
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.AR_sling_b"/>
+                <equipment slot="Item1" id="Item.AR_sling_bullets_b"/>
+                <equipment slot="Item2" id="Item.xiphos_a"/>
+                <equipment slot="Item3" id="Item.battania_targe_b"/>
+                <equipment slot="Head" id="Item.petasos_1"/>
+                <equipment slot="Body" id="Item.chiton_no_sleeves_1_2"/>
+                <equipment slot="Leg" id="Item.sandals_1"/>
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.AR_sling_b"/>
+                <equipment slot="Item1" id="Item.AR_sling_bullets_b"/>
+                <equipment slot="Item2" id="Item.xiphos_a"/>
+                <equipment slot="Item3" id="Item.battania_targe_b"/>
+                <equipment slot="Head" id="Item.petasos_1"/>
+                <equipment slot="Body" id="Item.exomis_1_2"/>
+                <equipment slot="Leg" id="Item.sandals_1"/>
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.AR_sling_b"/>
+                <equipment slot="Item1" id="Item.AR_sling_bullets_b"/>
+                <equipment slot="Item2" id="Item.xiphos_a"/>
+                <equipment slot="Item3" id="Item.battania_targe_b"/>
+                <equipment slot="Head" id="Item.pilos_1"/>
+                <equipment slot="Body" id="Item.perizoma_1_1"/>
+                <equipment slot="Leg" id="Item.sandals_1"/>
+            </EquipmentRoster>
+            <EquipmentRoster civilian="true">
+                <equipment slot="Item0"
+                           id="Item.hunting_bow"/>
+                <equipment slot="Item1"
+                           id="Item.default_arrows"/>
+                <equipment slot="Item2"
+                           id="Item.default_arrows"/>
+                <equipment slot="Item3"
+                           id="Item.small_spurred_axe_t2"/>
+                <equipment slot="Head"
+                           id="Item.imperial_leather_coif"/>
+                <equipment slot="Body"
+                           id="Item.empire_warrior_padded_armor_f"/>
+                <equipment slot="Leg"
+                           id="Item.empire_horseman_boots"/>
+            </EquipmentRoster>
+        </Equipments>
+    </NPCCharacter>
+    <NPCCharacter id="latin_militia_spearman"
+                  default_group="Infantry"
+                  level="11"
+                  name="{=ZhKoCVby}Militia Hastati"
+                  occupation="Soldier"
+                  culture="Culture.empire">
+        <face>
+            <face_key_template value="BodyProperty.fighter_empire"/>
+        </face>
+        <skills>
+            <skill id="Athletics"
+                   value="130"/>
+            <skill id="Riding"
+                   value="15"/>
+            <skill id="OneHanded"
+                   value="80"/>
+            <skill id="TwoHanded"
+                   value="20"/>
+            <skill id="Polearm"
+                   value="90"/>
+            <skill id="Bow"
+                   value="5"/>
+            <skill id="Crossbow"
+                   value="5"/>
+            <skill id="Throwing"
+                   value="45"/>
+        </skills>
+        <upgrade_targets>
+            <upgrade_target id="NPCCharacter.latin_militia_veteran_spearman"/>
+        </upgrade_targets>
+        <Equipments>
+            <EquipmentRoster>
+                <equipment slot="Item0"
+                           id="Item.hasta_spear"/>
+                <equipment slot="Item1"
+                           id="Item.battania_large_shield_a"/>
+                <equipment slot="Item2"
+                           id="Item.sturgia_sword_1_t2"/>
+                <equipment slot="Body"
+                           id="Item.tied_cloth_tunic"/>
+                <equipment slot="Leg"
+                           id="Item.sandals_1"/>
+                <equipment slot="Head"
+                           id="Item.AR_battania_helmet_w2"/>
+
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0"
+                           id="Item.hasta_spear"/>
+                <equipment slot="Item1"
+                           id="Item.battania_large_shield_a"/>
+                <equipment slot="Item2"
+                           id="Item.sturgia_sword_1_t2"/>
+                <equipment slot="Body"
+                           id="Item.cloth_tunic"/>
+                <equipment slot="Leg"
+                           id="Item.sandals_1"/>
+                <equipment slot="Head"
+                           id="Item.AR_battania_helmet_w2"/>
+
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0"
+                           id="Item.hasta_spear"/>
+                <equipment slot="Item1"
+                           id="Item.battania_large_shield_a"/>
+                <equipment slot="Item2"
+                           id="Item.sturgia_sword_1_t2"/>
+                <equipment slot="Body"
+                           id="Item.chiton_girdle_1_3"/>
+                <equipment slot="Leg"
+                           id="Item.wrapped_shoes"/>
+                <equipment slot="Head"
+                           id="Item.AR_battania_helmet_w2"/>
+
+            </EquipmentRoster>
+            <EquipmentRoster civilian="true">
+                <equipment slot="Item0"
+                           id="Item.imperial_spear_t2"/>
+                <equipment slot="Item1"
+                           id="Item.empire_mace_1_t2"/>
+                <equipment slot="Item2"
+                           id="Item.leather_bound_kite_shield"/>
+                <equipment slot="Head"
+                           id="Item.laced_cloth_coif"/>
+                <equipment slot="Body"
+                           id="Item.hemp_tunic"/>
+                <equipment slot="Leg"
+                           id="Item.empire_horseman_boots"/>
+            </EquipmentRoster>
+        </Equipments>
+    </NPCCharacter>
+    <NPCCharacter id="latin_militia_veteran_spearman"
+                  default_group="Infantry"
+                  level="16"
+                  name="{=c5rVdg75}Veteranos Militia Hastati"
+                  occupation="Soldier"
+                  culture="Culture.empire">
+        <face>
+            <face_key_template value="BodyProperty.fighter_empire"/>
+        </face>
+        <skills>
+            <skill id="Athletics"
+                   value="130"/>
+            <skill id="Riding"
+                   value="40"/>
+            <skill id="OneHanded"
+                   value="130"/>
+            <skill id="TwoHanded"
+                   value="40"/>
+            <skill id="Polearm"
+                   value="130"/>
+            <skill id="Bow"
+                   value="10"/>
+            <skill id="Crossbow"
+                   value="30"/>
+            <skill id="Throwing"
+                   value="100"/>
+        </skills>
+        <upgrade_targets></upgrade_targets>
+        <Equipments>
+            <EquipmentRoster>
+                <equipment slot="Item0"
+                           id="Item.hasta_spear"/>
+                <equipment slot="Item1"
+                           id="Item.scutum_hastati_300"/>
+                <equipment slot="Item2"
+                           id="Item.sturgia_sword_1_t2"/>
+                <equipment slot="Body"
+                           id="Item.chiton_girdle_1_3"/>
+                <equipment slot="Leg"
+                           id="Item.sandals_1"/>
+                <equipment slot="Head"
+                           id="Item.TV_battania_helmet_d"/>
+
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0"
+                           id="Item.hasta_spear"/>
+                <equipment slot="Item1"
+                           id="Item.scutum_hastati_300"/>
+                <equipment slot="Item2"
+                           id="Item.sturgia_sword_1_t2"/>
+                <equipment slot="Body"
+                           id="Item.chiton_girdle_1_3"/>
+                <equipment slot="Leg"
+                           id="Item.sandals_1_bronze_greaves_left"/>
+                <equipment slot="Head"
+                           id="Item.romanmontefortino"/>
+                <equipment slot="Cape"
+                           id="Item.etruscan_chestpiece"/>
+
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0"
+                           id="Item.hasta_spear"/>
+                <equipment slot="Item1"
+                           id="Item.scutum_hastati_300"/>
+                <equipment slot="Item2"
+                           id="Item.sturgia_sword_1_t2"/>
+                <equipment slot="Body"
+                           id="Item.tied_cloth_tunic"/>
+                <equipment slot="Leg"
+                           id="Item.sandals_1"/>
+                <equipment slot="Head"
+                           id="Item.pilos_3_guarded"/>
+                <equipment slot="Cape"
+                           id="Item.etruscan_chestpiece"/>
+
+            </EquipmentRoster>
+            <EquipmentRoster civilian="true">
+                <equipment slot="Item0"
+                           id="Item.imperial_spear_t2"/>
+                <equipment slot="Item1"
+                           id="Item.empire_sword_1_t2"/>
+                <equipment slot="Item2"
+                           id="Item.reinforced_kite_shield"/>
+                <equipment slot="Head"
+                           id="Item.imperial_padded_coif"/>
+                <equipment slot="Body"
+                           id="Item.empire_warrior_padded_armor_d"/>
+                <equipment slot="Gloves"
+                           id="Item.leather_gloves"/>
+                <equipment slot="Leg"
+                           id="Item.empire_horseman_boots"/>
+            </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
 
