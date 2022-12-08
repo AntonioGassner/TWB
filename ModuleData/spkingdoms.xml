@@ -116,7 +116,8 @@
              color="FF9382D0" color2="FFDE9953" alternative_color="FFF4CA14" alternative_color2="FF6d62b5"
              culture="Culture.Etruscan" settlement_banner_mesh="encounter_flag_a" flag_mesh="info_screen_flags_b"
              name="{=Emporion}Emporion" short_name="{=Emporion1}Emporion" title="{=Emporion2}Emporion"
-             ruler_title="{=hwnp9abW}Basileus" text="{=Emporion3}Emporion is a Greek colony in the eastern Iberian region.">
+             ruler_title="{=hwnp9abW}Basileus"
+             text="{=Emporion3}Emporion is a Greek colony in the eastern Iberian region.">
         <relationships>
             <relationship kingdom="Kingdom.Syracuse" value="1" isAtWar="false"/>
         </relationships>
@@ -261,7 +262,8 @@
              color="FF2D3F1D" color2="FFBFCBB0" alternative_color="FFD69516" alternative_color2="FF55831A"
              culture="Culture.vlandia" settlement_banner_mesh="encounter_flag_d" flag_mesh="info_screen_flags_c"
              name="{=venetifx}Veneti" short_name="{=ventians}Venetii" title="{=lAWwcO6b}Tribe of Veneti"
-             ruler_title="{=hwnp9abW}Brigantīnos" text="{=arvtrbep}The Veneti Tribe dwells in the North West region of Gaul.">
+             ruler_title="{=hwnp9abW}Brigantīnos"
+             text="{=arvtrbep}The Veneti Tribe dwells in the North West region of Gaul.">
         <relationships>
             <relationship kingdom="Kingdom.Caledones" value="1" isAtWar="false"/>
         </relationships>
@@ -272,7 +274,8 @@
              color="FF5C2017" color2="FFECBA44" alternative_color="FFDBBA27" alternative_color2="ff910101"
              culture="Culture.vlandia" settlement_banner_mesh="encounter_flag_d" flag_mesh="info_screen_flags_c"
              name="{=Nrbnsisa}Aquitani" short_name="{=aquitani}Aquitanii" title="{=lAWwcani}Tribe of Aquitani"
-             ruler_title="{=hwnp9abW}Brigantīnos" text="{=IudGLWQZ}The Tribe of Aquitani control the Southern Gallic lands.">
+             ruler_title="{=hwnp9abW}Brigantīnos"
+             text="{=IudGLWQZ}The Tribe of Aquitani control the Southern Gallic lands.">
         <relationships>
             <relationship kingdom="Kingdom.Arverni" value="1" isAtWar="false"/>
         </relationships>
