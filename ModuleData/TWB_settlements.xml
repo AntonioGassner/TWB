@@ -2639,7 +2639,7 @@
         </CommonAreas>
     </Settlement>
     <Settlement id="castle_S3" name="{=Settlements.Settlement.name.castle_S3}Nevyansk Castle"
-                owner="Faction.clan_sturgia_8" posX="644.421" posY="1330.568" culture="Culture.kven" prosperity="470"
+                owner="Faction.clan_sturgia_7" posX="644.421" posY="1330.568" culture="Culture.kven" prosperity="470"
                 gate_posX="646.2071" gate_posY="1331.181">
         <Components>
             <Town id="castle_comp_S3" is_castle="true" level="3" background_crop_position="0.0"
@@ -2691,7 +2691,7 @@
         </CommonAreas>
     </Settlement>
     <Settlement id="castle_S4" name="{=Settlements.Settlement.name.castle_S4}Kranirog Castle"
-                owner="Faction.clan_sturgia_7" posX="704.5" posY="1307.32" culture="Culture.kven" prosperity="1000"
+                owner="Faction.clan_sturgia_8" posX="704.5" posY="1307.32" culture="Culture.kven" prosperity="1000"
                 gate_posX="702.9077" gate_posY="1308.041">
         <Components>
             <Town id="castle_comp_S4" is_castle="true" level="3" background_crop_position="0.0"
@@ -2863,7 +2863,7 @@
         </CommonAreas>
     </Settlement>
     <Settlement id="castle_S8" name="{=Settlements.Settlement.name.castle_S8}Vladiv Castle"
-                owner="Faction.clan_sturgia_7" posX="753.911" posY="1288.256" culture="Culture.kven" prosperity="990"
+                owner="Faction.clan_sturgia_8" posX="753.911" posY="1288.256" culture="Culture.kven" prosperity="990"
                 gate_posX="754.1779" gate_posY="1289.821">
         <Components>
             <Town id="castle_comp_S8" is_castle="true" level="2" background_crop_position="0.0"
@@ -3053,7 +3053,7 @@
             <Area type="Bog" name="{=iXA5SttU}Bog"/>
         </CommonAreas>
     </Settlement>
-    <Settlement id="town_S3" name="{=Settlements.Settlement.name.town_S3}Omor" owner="Faction.clan_sturgia_8"
+    <Settlement id="town_S3" name="{=Settlements.Settlement.name.town_S3}Omor" owner="Faction.clan_sturgia_7"
                 posX="592.596" posY="1308.141" culture="Culture.kven" prosperity="3200" gate_posX="595.0994"
                 gate_posY="1304.127"
                 text="{=pbHXtJ82}Omor sits on the eastern shores of Lake Laconis. Long before the Sturgians formed themselves into a principality it was a holy site for the forest tribes, who worshipped their gods and ancestors in the sacred oak trees of the nearby woods. Today, it is an emporium for fur trappers and woodsmen who prowl the Ircara wildlands to the east, and the primeval peace of the forests is drowned out by the sounds of bartering, saws, and the unloading of ships at the lake.">
