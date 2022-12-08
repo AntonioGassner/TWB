@@ -352,7 +352,7 @@
         </CommonAreas>
     </Settlement>
     <Settlement id="town_EN1" name="{=Settlements.Settlement.name.town_EN1}Epicrotea"
-                owner="Faction.clan_sturgia_6" posX="746.518" posY="1228.253" culture="Culture.scythian"
+                owner="Faction.clan_empire_north_1" posX="746.518" posY="1228.253" culture="Culture.scythian"
                 prosperity="5100" gate_posX="744.3975" gate_posY="1226.225"
                 text="{=n9WMUuSp}Epicrotea, the 'All-Conquering' was named after the eccentric long-haired military genius Sarapios, who crushed a Battanian host and secured the lands west of Lake Laconis for the Empire. Its towers, overlooking the Miron river, have frequently been a northerner's first glimpse of the awesome and terrible force to their south.">
         <Components>
@@ -888,7 +888,7 @@
         </CommonAreas>
     </Settlement>
     <Settlement id="castle_EW2" name="{=Settlements.Settlement.name.castle_EW2}Thorios Castle"
-                owner="Faction.clan_empire_north_1" posX="111.391" posY="897.091" culture="Culture.battania"
+                owner="Faction.clan_sturgia_6" posX="111.391" posY="897.091" culture="Culture.battania"
                 prosperity="760" gate_posX="109.6492" gate_posY="894.6633">
         <Components>
             <Town id="castle_comp_EW2" is_castle="true" level="2" background_crop_position="0.0"
