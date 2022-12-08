@@ -3666,7 +3666,7 @@
         </CommonAreas>
     </Settlement>
     <Settlement id="castle_A6" name="{=Settlements.Settlement.name.castle_A6}Shibal Zumr Castle"
-                owner="Faction.clan_aserai_8" posX="293.201" posY="727.236" culture="Culture.massylii" prosperity="570"
+                owner="Faction.clan_aserai_9" posX="293.201" posY="727.236" culture="Culture.massylii" prosperity="570"
                 gate_posX="292.7915" gate_posY="728.5294">
         <Components>
             <Town id="castle_comp_A6" is_castle="true" level="1" background_crop_position="0.0"

@@ -1,6 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Kingdoms>
-    <!--kingdom factions-->
     <Kingdom id="Scythia" owner="Hero.lord_NE9_l"
              banner_key="11.25.10.4345.4345.764.764.1.0.0.449.11.0.327.349.764.649.0.0.0.449.11.0.319.339.764.879.0.0.180.510.11.0.351.240.634.764.0.0.180.510.11.0.351.240.894.764.0.0.180"
              primary_banner_color="0xfff4ca14" secondary_banner_color="0xff6c1512" label_color="FFDB8330"
@@ -251,7 +250,7 @@
             <relationship kingdom="Kingdom.Caledones" value="1" isAtWar="false"/>
         </relationships>
     </Kingdom>
-    <Kingdom id="Aquitani" owner="Hero.lord_4_16"
+    <Kingdom id="Aquitani" owner="Hero.lord_4_6"
              banner_key="11.71.14.4922.4922.764.764.1.0.0.424.15.0.377.377.764.764.0.0.0.220.15.0.138.132.884.939.0.0.0.220.15.0.138.138.644.939.0.0.0"
              primary_banner_color="0xffA34402" secondary_banner_color="0xff7F8CC0" label_color="ffB01301"
              color="FF5C2017" color2="FFECBA44" alternative_color="FFDBBA27" alternative_color2="ff910101"
