@@ -8,7 +8,7 @@
                   name="{=ScythianTribesmen}Scythian Tribesmen"
                   occupation="Soldier"
                   is_basic_troop="true"
-                  culture="Culture.Scythian">
+                  culture="Culture.scythian">
         <face>
             <face_key_template value="BodyProperty.villager_khuzait"/>
         </face>
@@ -80,7 +80,7 @@
                   level="11"
                   name="{=ScythianSpearmen}Scythian Spearmen"
                   occupation="Soldier"
-                  culture="Culture.Scythian">
+                  culture="Culture.scythian">
         <face>
             <face_key_template value="BodyProperty.villager_khuzait"/>
         </face>
@@ -143,7 +143,7 @@
                   level="11"
                   name="{=ScythianHunter}Scythian Hunter"
                   occupation="Soldier"
-                  culture="Culture.Scythian">
+                  culture="Culture.scythian">
         <face>
             <face_key_template value="BodyProperty.villager_khuzait"/>
         </face>
@@ -211,7 +211,7 @@
                   level="16"
                   name="{=ScythianSlinger}Scythian Slinger"
                   occupation="Soldier"
-                  culture="Culture.Scythian">
+                  culture="Culture.scythian">
         <face>
             <face_key_template value="BodyProperty.villager_khuzait"/>
         </face>
@@ -280,7 +280,7 @@
                   name="{=ScythianHorse Bowman}Scythian Horse Bowman"
                   upgrade_requires="ItemCategory.horse"
                   occupation="Soldier"
-                  culture="Culture.Scythian">
+                  culture="Culture.scythian">
         <face>
             <face_key_template value="BodyProperty.villager_khuzait"/>
         </face>
@@ -352,7 +352,7 @@
                   level="16"
                   name="{=ScythianTribal Spearmen}Scythian Tribal Spearmen"
                   occupation="Soldier"
-                  culture="Culture.Scythian">
+                  culture="Culture.scythian">
         <face>
             <face_key_template value="BodyProperty.villager_khuzait"/>
         </face>
@@ -416,7 +416,7 @@
                   level="21"
                   name="{=ScythianHeavy Spearmen}Scythian Heavy Spearmen"
                   occupation="Soldier"
-                  culture="Culture.Scythian">
+                  culture="Culture.scythian">
         <face>
             <face_key_template value="BodyProperty.villager_khuzait"/>
         </face>
@@ -476,7 +476,7 @@
                   level="21"
                   name="{=ScythianSpear Guard}Scythian Spear Guard"
                   occupation="Soldier"
-                  culture="Culture.Scythian">
+                  culture="Culture.scythian">
         <face>
             <face_key_template value="BodyProperty.villager_khuzait"/>
         </face>
@@ -546,7 +546,7 @@
                   name="{=ScythianNoble Nomad}Scythian Noble Nomad"
                   occupation="Soldier"
                   is_basic_troop="true"
-                  culture="Culture.Scythian">
+                  culture="Culture.scythian">
         <face>
             <face_key_template value="BodyProperty.villager_khuzait"/>
         </face>
@@ -617,7 +617,7 @@
                   level="21"
                   name="{=ScythianNoble Rider}Scythian Noble Rider"
                   occupation="Soldier"
-                  culture="Culture.Scythian">
+                  culture="Culture.scythian">
         <face>
             <face_key_template value="BodyProperty.villager_khuzait"/>
         </face>
@@ -693,7 +693,7 @@
                   name="{=ScythianNoble Horsemen}Scythian Noble Horsemen"
                   upgrade_requires="ItemCategory.war_horse"
                   occupation="Soldier"
-                  culture="Culture.Scythian">
+                  culture="Culture.scythian">
         <face>
             <face_key_template value="BodyProperty.villager_khuzait"/>
         </face>
@@ -768,7 +768,7 @@
                   level="31"
                   name="{=ScythianNoble Companions}Scythian Noble Companions"
                   occupation="Soldier"
-                  culture="Culture.Scythian">
+                  culture="Culture.scythian">
         <face>
             <face_key_template value="BodyProperty.villager_khuzait"/>
         </face>

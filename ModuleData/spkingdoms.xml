@@ -1,26 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Kingdoms>
     <!--kingdom factions-->
-    <Kingdom id="empire" owner="Hero.lord_1_1" banner_key="11.4.4.4345.4345.764.764.1.0.0.163.5.5.512.512.764.764.1.0.0"
-             primary_banner_color="0xff793191" secondary_banner_color="0xffFCDE90" label_color="FF850C6D"
-             color="FF4E3A55" color2="FFDE9953" alternative_color="FFffffff" alternative_color2="FF660653"
-             culture="Culture.empire" settlement_banner_mesh="encounter_flag_a" flag_mesh="info_screen_flags_b"
-             name="{=NF627oiX}Northern Empire" short_name="{=nsDj8Qxl}northern Empire"
-             title="{=NF627oiX}Northern Empire" ruler_title="{=OoHhCa11}Consul"
-             text="{=aEfsyVH4}Many of the oldest families of the Empire live in the north. They came here as marcher lords, granted vast tracts of land by their colleagues in the Senate to keep 'pacified' northern tribes in check and hold the frontiers against Battanian, Sturgian, and Khuzait raiders. They drained marshes and turned the river floodplains into wheatfields, cut back forests and turned the hillsides into pasture. But as the republic became an empire and as emperors became more and more dependent on money and lands to reward their loyal soldiers, the nobility here began to fear that their estates would one day be seized by some cash-starved tyrant. Consequently, in the ongoing imperial civil war they have become some of the strongest champions of Lucon, who sees a Senate of established property-holders as the supreme authority and the emperor as its servant.">
-        <relationships>
-            <relationship kingdom="Kingdom.khuzait" value="1" isAtWar="false"/>
-        </relationships>
-        <policies>
-            <policy id="policy_feudal_inheritance"/>
-        </policies>
-    </Kingdom>
-
     <Kingdom id="Scythia" owner="Hero.lord_NE9_l"
              banner_key="11.25.10.4345.4345.764.764.1.0.0.449.11.0.327.349.764.649.0.0.0.449.11.0.319.339.764.879.0.0.180.510.11.0.351.240.634.764.0.0.180.510.11.0.351.240.894.764.0.0.180"
              primary_banner_color="0xfff4ca14" secondary_banner_color="0xff6c1512" label_color="FFDB8330"
              color="FF9E5072" color2="FFDE9953" alternative_color="FF1F1D1F" alternative_color2="FFc28446"
-             culture="Culture.Scythian" settlement_banner_mesh="encounter_flag_a" flag_mesh="info_screen_flags_a"
+             culture="Culture.scythian" settlement_banner_mesh="encounter_flag_a" flag_mesh="info_screen_flags_a"
              name="{=yG3YUySN}Scythia" short_name="{=ZEmH0MwL}Scythians" title="{=yG3YUySN}Scythian Tribes"
              ruler_title="{=Cheif123}Chieftian"
              text="{=mOZsbV8j}The Scthians were a nomadic tribe of the Steppe. Many fear the brutal raids made by them.">
@@ -52,7 +37,7 @@
              banner_key="11.76.116.1815.1441.768.788.1.0.270.301.13.116.184.163.891.554.0.0.53.121.13.116.470.415.821.654.0.0.17.144.13.116.725.701.764.764.0.0.0"
              primary_banner_color="0xff5960A8" secondary_banner_color="0xffd5d7d4" label_color="FF6d62b5"
              color="FF9382D0" color2="FFDE9953" alternative_color="FFF4CA14" alternative_color2="FF6d62b5"
-             culture="Culture.Etruscan" settlement_banner_mesh="encounter_flag_a" flag_mesh="info_screen_flags_b"
+             culture="Culture.etruscan" settlement_banner_mesh="encounter_flag_a" flag_mesh="info_screen_flags_b"
              name="{=frEturia}Etruria" short_name="{=Etruria1}Etruscans" title="{=Etruria2}Etruria"
              ruler_title="{=hwnp9abW}Basileus"
              text="{=Etruria3}Etruria. Once the master of the northern Italia region, Is now finding itself in a bitter war against the Republic of Rome.">
@@ -112,7 +97,7 @@
              banner_key="11.71.4.4922.4922.764.764.1.0.0.419.5.0.454.454.764.764.0.0.0.335.5.0.143.143.873.642.0.0.325.335.5.0.143.143.655.642.0.0.42.335.5.0.143.143.651.882.0.0.134.335.5.0.143.143.877.882.0.0.214"
              primary_banner_color="0xff382188" secondary_banner_color="0xffDEA940" label_color="FF6d62b5"
              color="FF9382D0" color2="FFDE9953" alternative_color="FFF4CA14" alternative_color2="FF6d62b5"
-             culture="Culture.Etruscan" settlement_banner_mesh="encounter_flag_a" flag_mesh="info_screen_flags_b"
+             culture="Culture.etruscan" settlement_banner_mesh="encounter_flag_a" flag_mesh="info_screen_flags_b"
              name="{=Emporion}Emporion" short_name="{=Emporion1}Emporion" title="{=Emporion2}Emporion"
              ruler_title="{=hwnp9abW}Basileus"
              text="{=Emporion3}Emporion is a Greek colony in the eastern Iberian region.">
@@ -127,7 +112,7 @@
              banner_key="11.126.146.2163.2044.764.764.0.1.180.502.38.38.573.528.761.769.0.0.-1.504.38.144.153.141.560.1063.0.0.179.146.22.144.440.406.764.764.0.0.-1.504.38.144.153.141.757.1061.0.0.179.504.38.144.153.141.969.1061.0.0.179"
              primary_banner_color="0xffA34402" secondary_banner_color="0xfff0e0a5" label_color="FF6d62b5"
              color="FF9382D0" color2="FFDE9953" alternative_color="FFF4CA14" alternative_color2="FF6d62b5"
-             culture="Culture.Epirus" settlement_banner_mesh="encounter_flag_a" flag_mesh="info_screen_flags_b"
+             culture="Culture.epirus" settlement_banner_mesh="encounter_flag_a" flag_mesh="info_screen_flags_b"
              name="{=Epirusum}Epirus" short_name="{=Epirus12}Epirotes" title="{=Epirus23}Epirus"
              ruler_title="{=hwnp9abW}Basileus" text="{=Epirus34}Epirus controls the western most reaches of Greece.">
         <relationships>
@@ -211,7 +196,7 @@
              banner_key="11.71.4.4345.4345.764.764.1.0.0.502.5.0.510.510.764.764.0.0.0.338.5.0.487.487.764.764.0.0.0.503.5.0.109.109.764.624.0.0.0"
              primary_banner_color="0xff224277" secondary_banner_color="0xffCEDAE7" label_color="FF1856A1"
              color="FF1C2A50" color2="FF949CCC" alternative_color="FFFFFFFF" alternative_color2="FF2A4B78"
-             culture="Culture.Baltic" settlement_banner_mesh="encounter_flag_b" flag_mesh="info_screen_flags_c"
+             culture="Culture.baltic" settlement_banner_mesh="encounter_flag_b" flag_mesh="info_screen_flags_c"
              name="{=Pomeranian}Pomeranian" short_name="{=Pomeranians1}Pomeranians"
              title="{=Pomeranians2}Pomeranian Tribe" ruler_title="{=hwnp9abW}Konungr"
              text="{=Pomeranians3}The Pomeranians dwell in the lands along the southern coast of the Baltic sea. they are a hardy and strong people who often found themselves defending their holdings from Scythian raids.">
@@ -359,12 +344,12 @@
             <relationship kingdom="Kingdom.Syracuse" value="1" isAtWar="false"/>
         </relationships>
     </Kingdom>
-    <Kingdom id="mauri" owner="Hero.lord_3_17"
+    <Kingdom id="Mauri" owner="Hero.lord_3_17"
              banner_key="34.80.122.2219.2100.773.767.0.0.0.130.146.6.483.429.734.724.0.1.0.500.146.102.717.700.764.764.0.0.0"
              primary_banner_color="7f6b60" secondary_banner_color="b6aba7" label_color="ffB01301" color="FF5C2017"
              color2="FFECBA44" alternative_color="FFDBBA27" alternative_color2="ff910101" culture="Culture.mauri"
              settlement_banner_mesh="encounter_flag_d" flag_mesh="info_screen_flags_c" name="{=mauri1}mauri"
-             short_name="{=maurian}maurian" title="{=mauri2}Maurian Kingdom" ruler_title="{=monarch}Monarch"
+             short_name="{=maurian}Maurian" title="{=mauri2}Maurian Kingdom" ruler_title="{=monarch}Monarch"
              text="{=mauri3)Its native inhabitants, semi-nomadic pastoralists">
         <relationships>
             <relationship kingdom="Kingdom.Massylii" value="1" isAtWar="false"/>

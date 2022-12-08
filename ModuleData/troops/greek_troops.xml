@@ -2529,7 +2529,7 @@
                   name="{=Epirotoi Levy}Epirotoi Levy"
                   occupation="Soldier"
                   is_basic_troop="true"
-                  culture="Culture.Epirus">
+                  culture="Culture.epirus">
         <face>
             <face_key_template value="BodyProperty.fighter_empire"/>
         </face>
@@ -2585,7 +2585,7 @@
                   level="11"
                   name="{=Epirotoi Peltastai}Epirotoi Sphendetoi"
                   occupation="Soldier"
-                  culture="Culture.Epirus">
+                  culture="Culture.epirus">
         <face>
             <face_key_template value="BodyProperty.fighter_empire"/>
         </face>
@@ -2641,7 +2641,7 @@
                   level="11"
                   name="{=Epirotoi Peltastai}Epirotoi Peltastai"
                   occupation="Soldier"
-                  culture="Culture.Epirus">
+                  culture="Culture.epirus">
         <face>
             <face_key_template value="BodyProperty.fighter_empire"/>
         </face>
@@ -2705,7 +2705,7 @@
                   level="11"
                   name="{=Epirotoi Doryphoroi}Epirotoi Doryphoroi"
                   occupation="Soldier"
-                  culture="Culture.Epirus">
+                  culture="Culture.epirus">
         <face>
             <face_key_template value="BodyProperty.fighter_empire"/>
         </face>
@@ -2764,7 +2764,7 @@
                   level="16"
                   name="{=Epirotoi Hoplitai}Epirotoi Hoplitai"
                   occupation="Soldier"
-                  culture="Culture.Epirus">
+                  culture="Culture.epirus">
         <face>
             <face_key_template value="BodyProperty.fighter_empire"/>
         </face>
@@ -2821,7 +2821,7 @@
                   name="{=Epirotoi Hippopeltastai}Epirotoi Hippo-peltastai"
                   upgrade_requires="ItemCategory.horse"
                   occupation="Soldier"
-                  culture="Culture.Epirus">
+                  culture="Culture.epirus">
         <face>
             <face_key_template value="BodyProperty.fighter_empire"/>
         </face>
@@ -2890,7 +2890,7 @@
                   level="16"
                   name="{=Epirotoi Akontistai}Epirotoi Akontistai"
                   occupation="Soldier"
-                  culture="Culture.Epirus">
+                  culture="Culture.epirus">
         <face>
             <face_key_template value="BodyProperty.fighter_empire"/>
         </face>
@@ -2954,7 +2954,7 @@
                   level="21"
                   name="{=Epirotoi Xiphophoroi}Epirotoi Xiphophoroi"
                   occupation="Soldier"
-                  culture="Culture.Epirus">
+                  culture="Culture.epirus">
         <face>
             <face_key_template value="BodyProperty.fighter_empire"/>
         </face>
@@ -3017,7 +3017,7 @@
                   name="{=Molossoi Recruit}Molossoi Recruit"
                   occupation="Soldier"
                   is_basic_troop="true"
-                  culture="Culture.Epirus">
+                  culture="Culture.epirus">
         <face>
             <face_key_template value="BodyProperty.fighter_empire"/>
         </face>
@@ -3077,7 +3077,7 @@
                   level="21"
                   name="{=Molossoi Warrior}Molossoi Warrior"
                   occupation="Soldier"
-                  culture="Culture.Epirus">
+                  culture="Culture.epirus">
         <face>
             <face_key_template value="BodyProperty.fighter_empire"/>
         </face>
@@ -3138,7 +3138,7 @@
                   level="26"
                   name="{=Molossoi Hoplitai}Molossoi Hoplitai"
                   occupation="Soldier"
-                  culture="Culture.Epirus">
+                  culture="Culture.epirus">
         <face>
             <face_key_template value="BodyProperty.fighter_empire"/>
         </face>
@@ -3196,7 +3196,7 @@
                   level="26"
                   name="{=Molossoi Xiphophoroi}Molossoi Xiphophoroi"
                   occupation="Soldier"
-                  culture="Culture.Epirus">
+                  culture="Culture.epirus">
         <face>
             <face_key_template value="BodyProperty.fighter_empire"/>
         </face>
@@ -3261,7 +3261,7 @@
                   level="31"
                   name="{=Molossoi Xiphophoroi Epilekoi}Molossoi Xiphophoroi Epilekoi"
                   occupation="Soldier"
-                  culture="Culture.Epirus">
+                  culture="Culture.epirus">
         <face>
             <face_key_template value="BodyProperty.fighter_empire"/>
         </face>
@@ -3330,7 +3330,7 @@
                   name="{=Hellenoi Recruit}Hellenoi Recruit"
                   occupation="Soldier"
                   is_basic_troop="true"
-                  culture="Culture.Etruscan">
+                  culture="Culture.etruscan">
         <face>
             <face_key_template value="BodyProperty.fighter_empire"/>
         </face>
@@ -3386,7 +3386,7 @@
                   level="11"
                   name="{=Hellenoi Peltastai}Hellenoi Peltastai"
                   occupation="Soldier"
-                  culture="Culture.Etruscan">
+                  culture="Culture.etruscan">
         <face>
             <face_key_template value="BodyProperty.fighter_empire"/>
         </face>
@@ -3448,7 +3448,7 @@
                   level="11"
                   name="{=Hellenoi Toxotae}Hellenoi Toxotae"
                   occupation="Soldier"
-                  culture="Culture.Etruscan">
+                  culture="Culture.etruscan">
         <face>
             <face_key_template value="BodyProperty.fighter_empire"/>
         </face>
@@ -3484,7 +3484,7 @@
                   level="11"
                   name="{=Hellenoi Doryphoroi}Hellenoi Doryphoroi"
                   occupation="Soldier"
-                  culture="Culture.Etruscan">
+                  culture="Culture.etruscan">
         <face>
             <face_key_template value="BodyProperty.fighter_empire"/>
         </face>
@@ -3541,7 +3541,7 @@
                   level="11"
                   name="{=Hellenoi Sphendonetai}Hellenoi Sphendonetai"
                   occupation="Soldier"
-                  culture="Culture.Etruscan">
+                  culture="Culture.etruscan">
         <face>
             <face_key_template value="BodyProperty.fighter_empire"/>
         </face>
@@ -3603,7 +3603,7 @@
                   level="16"
                   name="{=Hellenoi Archaoi Sphendonitai}Hellenoi Archaoi Sphendonitai"
                   occupation="Soldier"
-                  culture="Culture.Etruscan">
+                  culture="Culture.etruscan">
         <face>
             <face_key_template value="BodyProperty.fighter_empire"/>
         </face>
@@ -3667,7 +3667,7 @@
                   level="16"
                   name="{=Hellenoi Hoplitai}Hellenoi Hoplitai"
                   occupation="Soldier"
-                  culture="Culture.Etruscan">
+                  culture="Culture.etruscan">
         <face>
             <face_key_template value="BodyProperty.fighter_empire"/>
         </face>
@@ -3729,7 +3729,7 @@
                   level="16"
                   name="{=Hellenoi Phalangatai}Hellenoi Phalangatai"
                   occupation="Soldier"
-                  culture="Culture.Etruscan">
+                  culture="Culture.etruscan">
         <face>
             <face_key_template value="BodyProperty.fighter_empire"/>
         </face>
@@ -3789,7 +3789,7 @@
                   level="21"
                   name="{=Hellenoi Archaoi Hoplitai}Hellenoi Archaoi Hoplitai"
                   occupation="Soldier"
-                  culture="Culture.Etruscan">
+                  culture="Culture.etruscan">
         <face>
             <face_key_template value="BodyProperty.fighter_empire"/>
         </face>
@@ -3849,7 +3849,7 @@
                   name="{=Hellenoi Politidoi Recruit}Hellenoi Politidoi Recruit"
                   occupation="Soldier"
                   is_basic_troop="true"
-                  culture="Culture.Etruscan">
+                  culture="Culture.etruscan">
         <face>
             <face_key_template value="BodyProperty.fighter_empire"/>
         </face>
@@ -3911,7 +3911,7 @@
                   level="21"
                   name="{=Hellenoi Politidoi Hoplitai}Hellenoi Politidoi Hoplitai"
                   occupation="Soldier"
-                  culture="Culture.Etruscan">
+                  culture="Culture.etruscan">
         <face>
             <face_key_template value="BodyProperty.fighter_empire"/>
         </face>
@@ -3975,7 +3975,7 @@
                   name="{=Hellenoi Hipeis}Hellenoi Hipeis"
                   upgrade_requires="ItemCategory.horse"
                   occupation="Soldier"
-                  culture="Culture.Etruscan">
+                  culture="Culture.etruscan">
         <face>
             <face_key_template value="BodyProperty.fighter_empire"/>
         </face>
@@ -4039,7 +4039,7 @@
                   level="26"
                   name="{=Hellenoi Politidoi Archaoi Hoplitai}Hellenoi Politidoi Archaoi Hoplitai"
                   occupation="Soldier"
-                  culture="Culture.Etruscan">
+                  culture="Culture.etruscan">
         <face>
             <face_key_template value="BodyProperty.fighter_empire"/>
         </face>
@@ -4102,7 +4102,7 @@
                   level="31"
                   name="{=Hellenoi Epilektoi}Hellenoi Epilektoi"
                   occupation="Soldier"
-                  culture="Culture.Etruscan">
+                  culture="Culture.etruscan">
         <face>
             <face_key_template value="BodyProperty.fighter_empire"/>
         </face>
@@ -4503,7 +4503,7 @@
                   level="26"
                   name="{=TpECDErA}Greek Caravan Master"
                   occupation="CaravanGuard"
-                  culture="Culture.Etruscan">
+                  culture="Culture.etruscan">
         <face>
             <face_key_template value="BodyProperty.fighter_empire"/>
         </face>
@@ -4580,7 +4580,7 @@
                   level="16"
                   name="{=LEJukldW}Greek Armed Trader"
                   occupation="CaravanGuard"
-                  culture="Culture.Etruscan"
+                  culture="Culture.etruscan"
                   is_basic_troop="true">
         <face>
             <face_key_template value="BodyProperty.fighter_empire"/>
@@ -4668,7 +4668,7 @@
                   name="{=TbBnWiao}Greek Caravan Guard"
                   upgrade_requires="ItemCategory.horse"
                   occupation="CaravanGuard"
-                  culture="Culture.Etruscan">
+                  culture="Culture.etruscan">
         <face>
             <face_key_template value="BodyProperty.fighter_empire"/>
         </face>
@@ -4735,7 +4735,7 @@
                   level="21"
                   name="{=bLq2HXMo}Greek Veteran Caravan Guard"
                   occupation="CaravanGuard"
-                  culture="Culture.Etruscan">
+                  culture="Culture.etruscan">
         <face>
             <face_key_template value="BodyProperty.fighter_empire"/>
         </face>

@@ -8,7 +8,7 @@
                   name="{=Baltic Tribesmen}Baltic Tribesmen"
                   occupation="Soldier"
                   is_basic_troop="true"
-                  culture="Culture.Baltic">
+                  culture="Culture.baltic">
         <face>
             <face_key_template value="BodyProperty.villager_sturgia"/>
         </face>
@@ -69,7 +69,7 @@
                   level="11"
                   name="{=Baltic Spearmen}Baltic Spearmen"
                   occupation="Soldier"
-                  culture="Culture.Baltic">
+                  culture="Culture.baltic">
         <face>
             <face_key_template value="BodyProperty.villager_sturgia"/>
         </face>
@@ -136,7 +136,7 @@
                   level="11"
                   name="{=Baltic Hunter}Baltic Hunter"
                   occupation="Soldier"
-                  culture="Culture.Baltic">
+                  culture="Culture.baltic">
         <face>
             <face_key_template value="BodyProperty.villager_sturgia"/>
         </face>
@@ -206,7 +206,7 @@
                   level="16"
                   name="{=Baltic Bowmen}Baltic Bowmen"
                   occupation="Soldier"
-                  culture="Culture.Baltic">
+                  culture="Culture.baltic">
         <face>
             <face_key_template value="BodyProperty.villager_sturgia"/>
         </face>
@@ -275,7 +275,7 @@
                   name="{=Baltic Mounted Skrimisher}Baltic Mounted Skrimisher"
                   upgrade_requires="ItemCategory.horse"
                   occupation="Soldier"
-                  culture="Culture.Baltic">
+                  culture="Culture.baltic">
         <face>
             <face_key_template value="BodyProperty.villager_sturgia"/>
         </face>
@@ -348,7 +348,7 @@
                   level="21"
                   name="{=Baltic Tribal Bowmen}Baltic Tribal Bowmen"
                   occupation="Soldier"
-                  culture="Culture.Baltic">
+                  culture="Culture.baltic">
         <face>
             <face_key_template value="BodyProperty.villager_sturgia"/>
         </face>
@@ -412,7 +412,7 @@
                   level="16"
                   name="{=Baltic Slinger}Baltic Slinger"
                   occupation="Soldier"
-                  culture="Culture.Baltic">
+                  culture="Culture.baltic">
         <face>
             <face_key_template value="BodyProperty.villager_sturgia"/>
         </face>
@@ -478,7 +478,7 @@
                   level="16"
                   name="{=Baltic Tribal Warrior}Baltic Tribal Warrior"
                   occupation="Soldier"
-                  culture="Culture.Baltic">
+                  culture="Culture.baltic">
         <face>
             <face_key_template value="BodyProperty.villager_sturgia"/>
         </face>
@@ -545,7 +545,7 @@
                   level="21"
                   name="{=Baltic Heavy Spearmen}Baltic Heavy Spearmen"
                   occupation="Soldier"
-                  culture="Culture.Baltic">
+                  culture="Culture.baltic">
         <face>
             <face_key_template value="BodyProperty.villager_sturgia"/>
         </face>
@@ -616,7 +616,7 @@
                   upgrade_requires="ItemCategory.horse"
                   occupation="Soldier"
                   is_basic_troop="true"
-                  culture="Culture.Baltic">
+                  culture="Culture.baltic">
         <face>
             <face_key_template value="BodyProperty.villager_sturgia"/>
         </face>
@@ -693,7 +693,7 @@
                   level="21"
                   name="{=Baltic Noble Rider}Baltic Noble Rider"
                   occupation="Soldier"
-                  culture="Culture.Baltic">
+                  culture="Culture.baltic">
         <face>
             <face_key_template value="BodyProperty.villager_sturgia"/>
         </face>
@@ -769,7 +769,7 @@
                   level="21"
                   name="{=Baltic Horse Bowmen}Baltic Horse Bowmen"
                   occupation="Soldier"
-                  culture="Culture.Baltic">
+                  culture="Culture.baltic">
         <face>
             <face_key_template value="BodyProperty.villager_sturgia"/>
         </face>
@@ -849,7 +849,7 @@
                   level="26"
                   name="{=Baltic Noble Horse Bowmen}Baltic Noble Horse Bowmen"
                   occupation="Soldier"
-                  culture="Culture.Baltic">
+                  culture="Culture.baltic">
         <face>
             <face_key_template value="BodyProperty.villager_sturgia"/>
         </face>
@@ -929,7 +929,7 @@
                   level="31"
                   name="{=Baltic Noble Bow Horsemen}Baltic Noble Bow Horsemen"
                   occupation="Soldier"
-                  culture="Culture.Baltic">
+                  culture="Culture.baltic">
         <face>
             <face_key_template value="BodyProperty.villager_sturgia"/>
         </face>
@@ -1006,7 +1006,7 @@
                   level="26"
                   name="{=Baltic Noble Horsemen}Baltic Noble Horsemen"
                   occupation="Soldier"
-                  culture="Culture.Baltic">
+                  culture="Culture.baltic">
         <face>
             <face_key_template value="BodyProperty.villager_sturgia"/>
         </face>
@@ -1082,7 +1082,7 @@
                   level="31"
                   name="{=Baltic Horse Guard}Baltic Horse Guard"
                   occupation="Soldier"
-                  culture="Culture.Baltic">
+                  culture="Culture.baltic">
         <face>
             <face_key_template value="BodyProperty.villager_sturgia"/>
         </face>

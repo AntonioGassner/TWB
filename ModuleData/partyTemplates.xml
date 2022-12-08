@@ -1386,4 +1386,10 @@
             <PartyTemplateStack min_value="5" max_value="5" troop="NPCCharacter.scythian_noble_rider"/>
         </stacks>
     </MBPartyTemplate>
+    <MBPartyTemplate id="vassal_reward_troops_baltic">
+        <stacks>
+            <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.baltic_noble_horse_bowmen"/>
+            <PartyTemplateStack min_value="5" max_value="5" troop="NPCCharacter.baltic_horse_bowmen"/>
+        </stacks>
+    </MBPartyTemplate>
 </partyTemplates>
