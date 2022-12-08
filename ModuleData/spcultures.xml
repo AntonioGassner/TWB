@@ -6927,7 +6927,7 @@
 		</basic_mercenary_troops>
 	</Culture>
 	
-	
+<!--	TODO MILITIA UNITS-->
 <Culture id="Scythian"
            name="{=Scythianfaction}Scythian"
 	       is_main_culture="false"
@@ -6935,10 +6935,10 @@
 		   color2="FF000000"
            elite_basic_troop="NPCCharacter.scythian_noble_nomad"
            basic_troop="NPCCharacter.scythian_tribesmen"
-           melee_militia_troop="NPCCharacter.imperial_militia_spearman"
-           ranged_militia_troop="NPCCharacter.imperial_militia_archer"
-           melee_elite_militia_troop="NPCCharacter.imperial_militia_veteran_spearman"
-           ranged_elite_militia_troop="NPCCharacter.imperial_militia_veteran_archer"
+         melee_militia_troop="NPCCharacter.kven_militia_spearman"
+         ranged_militia_troop="NPCCharacter.kven_militia_archer"
+         melee_elite_militia_troop="NPCCharacter.kven_militia_veteran_spearman"
+         ranged_elite_militia_troop="NPCCharacter.kven_militia_veteran_archer"
            can_have_settlement="true"
            town_edge_number="16"
            villager_party_template="PartyTemplate.villager_empire_template"
@@ -7324,7 +7324,7 @@
 		</basic_mercenary_troops>
 	</Culture>
 	
-	
+<!--	TODO MILITIA UNITS-->
 	<Culture id="Baltic"
            name="{=Balticfaction}Baltic"
 	       is_main_culture="false"
@@ -7332,10 +7332,10 @@
 		   color2="FF000000"
            elite_basic_troop="NPCCharacter.baltic_noble"
            basic_troop="NPCCharacter.baltic_tribesmem"
-           melee_militia_troop="NPCCharacter.imperial_militia_spearman"
-           ranged_militia_troop="NPCCharacter.imperial_militia_archer"
-           melee_elite_militia_troop="NPCCharacter.imperial_militia_veteran_spearman"
-           ranged_elite_militia_troop="NPCCharacter.imperial_militia_veteran_archer"
+             melee_militia_troop="NPCCharacter.kven_militia_spearman"
+             ranged_militia_troop="NPCCharacter.kven_militia_archer"
+             melee_elite_militia_troop="NPCCharacter.kven_militia_veteran_spearman"
+             ranged_elite_militia_troop="NPCCharacter.kven_militia_veteran_archer"
            can_have_settlement="true"
            town_edge_number="16"
            villager_party_template="PartyTemplate.villager_empire_template"
