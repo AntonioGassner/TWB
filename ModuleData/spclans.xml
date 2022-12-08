@@ -512,21 +512,21 @@
              tier="4"
              owner="Hero.lord_1_1"
              culture="Culture.scythian"
-             super_faction="Kingdom.Scythia"
+             super_faction="Kingdom.empire"
              banner_key="11.71.4.8690.8690.764.764.1.0.0.401.5.0.287.287.764.764.0.0.15.401.5.0.145.145.764.764.0.0.29.503.5.0.50.48.764.764.0.0.15.423.5.0.428.438.764.764.0.0.0"/>
     <Faction id="clan_empire_north_9"
              name="{=nclQqoam}Serapides"
              tier="4"
              owner="Hero.lord_NE9_l"
              culture="Culture.scythian"
-             super_faction="Kingdom.Scythia"
+             super_faction="Kingdom.empire"
              banner_key="11.71.4.8690.8690.764.764.1.0.0.401.5.0.287.287.764.764.0.0.15.401.5.0.145.145.764.764.0.0.29.503.5.0.50.48.764.764.0.0.15.423.5.0.428.438.764.764.0.0.0"/>
     <Faction id="clan_battania_5"
              name="{=ObBvcDhJ}fen Giall"
              tier="3"
              owner="Hero.lord_5_16"
              culture="Culture.scythian"
-             super_faction="Kingdom.Scythia"
+             super_faction="Kingdom.empire"
              banner_key="11.71.4.8690.8690.764.764.1.0.0.401.5.0.287.287.764.764.0.0.15.401.5.0.145.145.764.764.0.0.29.503.5.0.50.48.764.764.0.0.15.423.5.0.428.438.764.764.0.0.0"/>
 
     <!--	LUSITANI	3+2-->
