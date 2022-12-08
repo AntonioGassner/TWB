@@ -3,214 +3,46 @@
   <tags>
     <tag language="English" />
   </tags>
-  <strings>
-    <string id="ruler_title.greek" text="Basileus" />
-    <string id="ruler_title.celtic" text="Brigantīnos" />
-    <string id="ruler_title.norse" text="Konungr" />
-
-    <string id="kingdom.scythia.text" text="The Scthians were a nomadic tribe of the Steppe. Many fear the brutal raids made by them." />
-    <string id="kingdom.scythia.name" text="Scythia" />
-    <string id="kingdom.scythia.short_name" text="Scythians" />
-    <string id="kingdom.scythia.title" text="Scythian Tribes" />
-    <string id="kingdom.scythia.ruler_title" text="Chieftain" />
-
-    <string id="kingdom.rome.text" text="After ousting the last Etruscan King that ruled over the eternal city, the Romans formed their Republic." />
-    <string id="kingdom.rome.name" text="Roman Republic" />
-    <string id="kingdom.rome.short_name" text="Romans" />
-    <string id="kingdom.rome.title" text="Roman Republic" />
-    <string id="kingdom.rome.ruler_title" text="Consul" />
-
-    <string id="kingdom.etruria.text" text="Etruria. Once the master of the northern Italia region, Is now finding itself in a bitter war against the Republic of Rome." />
-    <string id="kingdom.etruria.name" text="Etruria" />
-    <string id="kingdom.etruria.short_name" text="Etruscans" />
-    <string id="kingdom.etruria.title" text="Etruria" />
-    <string id="kingdom.etruria.ruler_title" text="{=ruler_title.greek}" />
-
-    <string id="kingdom.samnites.text" text="Samnites dwell in the northern lands of Magna Graecia" />
-    <string id="kingdom.samnites.name" text="Samnites" />
-    <string id="kingdom.samnites.short_name" text="Samnites" />
-    <string id="kingdom.samnites.title" text="Samnites" />
-    <string id="kingdom.samnites.ruler_title" text="King" />
-
-    <string id="kingdom.syracuse.text" text="Syracuse Controls the Island of Sicily" />
-    <string id="kingdom.syracuse.name" text="Syracuse" />
-    <string id="kingdom.syracuse.short_name" text="Syracusans" />
-    <string id="kingdom.syracuse.title" text="Syracuse" />
-    <string id="kingdom.syracuse.ruler_title" text="{=ruler_title.greek}" />
-
-    <string id="kingdom.massilia.text" text="Massilia was founded by Ionian settlers fleeing the Persians." />
-    <string id="kingdom.massilia.name" text="Massilia" />
-    <string id="kingdom.massilia.short_name" text="Massilians" />
-    <string id="kingdom.massilia.title" text="Massilia" />
-    <string id="kingdom.massilia.ruler_title" text="{=ruler_title.greek}" />
-
-    <string id="kingdom.emporion.text" text="Emporion is a Greek colony in the eastern Iberian region." />
-    <string id="kingdom.emporion.name" text="Emporion" />
-    <string id="kingdom.emporion.short_name" text="Emporion" />
-    <string id="kingdom.emporion.title" text="Emporion" />
-    <string id="kingdom.emporion.ruler_title" text="{=ruler_title.greek}" />
-
-    <string id="kingdom.epirus.text" text="Epirus controls the western most reaches of Greece." />
-    <string id="kingdom.epirus.name" text="Epirus" />
-    <string id="kingdom.epirus.short_name" text="Epirotes" />
-    <string id="kingdom.epirus.title" text="Epirus" />
-    <string id="kingdom.epirus.ruler_title" text="{=ruler_title.greek}" />
-
-    <string id="kingdom.macedonia.text" text="Macedonia is a small but quickly expanding empire. that is... until The powerful king of Macedon, Philip II was murdered. Now his ambitious young son Alexander has secured the throne with the help of his mother Olympias." />
-    <string id="kingdom.macedonia.name" text="Macedonia" />
-    <string id="kingdom.macedonia.short_name" text="Macedonians" />
-    <string id="kingdom.macedonia.title" text="Macedonia" />
-    <string id="kingdom.macedonia.ruler_title" text="{=ruler_title.greek}" />
-
-    <string id="kingdom.ardiaei.text" text="The Ardiaei are an Illyrian tribe" />
-    <string id="kingdom.ardiaei.name" text="Ardiaei" />
-    <string id="kingdom.ardiaei.short_name" text="Ardiaeii" />
-    <string id="kingdom.ardiaei.title" text="Ardiaei Tribe" />
-    <string id="kingdom.ardiaei.ruler_title" text="ruler_title.greek" />
-
-    <string id="kingdom.cimbri.text" text="The Tribe Cimbri control the Northern Germanic lands of Jutland." />
-    <string id="kingdom.cimbri.name" text="Cimbri" />
-    <string id="kingdom.cimbri.short_name" text="Cimbrians" />
-    <string id="kingdom.cimbri.title" text="Cimbrian Tribe" />
-    <string id="kingdom.cimbri.ruler_title" text="ruler_title.norse" />
-
-    <string id="kingdom.kvens.text" text="Placeholder Kvens kingdom description" />
-    <string id="kingdom.kvens.name" text="Kvenland" />
-    <string id="kingdom.kvens.short_name" text="Kvens" />
-    <string id="kingdom.kvens.title" text="Kven Tribes" />
-    <string id="kingdom.kvens.ruler_title" text="ruler_title.norse" />
-
-    <string id="kingdom.suiones.text" text="Placeholder Suiones kingdom description" />
-    <string id="kingdom.suiones.name" text="Suiones" />
-    <string id="kingdom.suiones.short_name" text="Suiones" />
-    <string id="kingdom.suiones.title" text="Suiones Tribes" />
-    <string id="kingdom.suiones.ruler_title" text="ruler_title.norse" />
-
-    <string id="kingdom.suevi.text" text="Placeholder Suevi kingdom description" />
-    <string id="kingdom.suevi.name" text="Suevi" />
-    <string id="kingdom.suevi.short_name" text="Suevi" />
-    <string id="kingdom.suevi.title" text="Suevi Tribes" />
-    <string id="kingdom.suevi.ruler_title" text="ruler_title.norse" />
-
-    <string id="kingdom.pomeranians.text" text="The Pomeranians dwell in the lands along the southern coast of the Baltic sea. they are a hardy and strong people who often found themselves defending their holdings from Scythian raids." />
-    <string id="kingdom.pomeranians.name" text="Pomerania" />
-    <string id="kingdom.pomeranians.short_name" text="Pomeranians" />
-    <string id="kingdom.pomeranians.title" text="Pomeranian Tribe" />
-    <string id="kingdom.pomeranians.ruler_title" text="ruler_title.norse" />
-
-    <string id="kingdom.scordisci.text" text="The Scordisci are a Celtic Illyrian tribe" />
-    <string id="kingdom.scordisci.name" text="Scordisci" />
-    <string id="kingdom.scordisci.short_name" text="Scordiscii" />
-    <string id="kingdom.scordisci.title" text="Scordisci Tribe" />
-    <string id="kingdom.scordisci.ruler_title" text="ruler_title.celtic" />
-
-    <string id="kingdom.aedui.text" text="The Aedui Tribe control Northern Gallia." />
-    <string id="kingdom.aedui.name" text="Aedui" />
-    <string id="kingdom.aedui.short_name" text="Aeduins" />
-    <string id="kingdom.aedui.title" text="Aedui Tribe" />
-    <string id="kingdom.aedui.ruler_title" text="ruler_title.celtic" />
-
-    <string id="kingdom.arverni.text" text="The Arverni Tribe dwells in the heart of Gaul" />
-    <string id="kingdom.arverni.name" text="Arverni" />
-    <string id="kingdom.arverni.short_name" text="Arverians" />
-    <string id="kingdom.arverni.title" text="Arverni Tribe" />
-    <string id="kingdom.arverni.ruler_title" text="ruler_title.celtic" />
-
-    <string id="kingdom.veneti.text" text="The Veneti Tribe dwells in the North West region of Gaul." />
-    <string id="kingdom.veneti.name" text="Veneti" />
-    <string id="kingdom.veneti.short_name" text="Venetii" />
-    <string id="kingdom.veneti.title" text="Veneti Tribe" />
-    <string id="kingdom.veneti.ruler_title" text="ruler_title.celtic" />
-
-    <string id="kingdom.aquitani.text" text="The Aquitani control the Southern Gallic lands." />
-    <string id="kingdom.aquitani.name" text="Aquitani" />
-    <string id="kingdom.aquitani.short_name" text="Aquitanii" />
-    <string id="kingdom.aquitani.title" text="Aquitani Tribe" />
-    <string id="kingdom.aquitani.ruler_title" text="ruler_title.celtic" />
-
-    <string id="kingdom.helvetii.text" text="The Helvetii live in the harsh mountain range of the Alps." />
-    <string id="kingdom.helvetii.name" text="Helvetii" />
-    <string id="kingdom.helvetii.short_name" text="Helvetii" />
-    <string id="kingdom.helvetii.title" text="Helvetii Tribe" />
-    <string id="kingdom.helvetii.ruler_title" text="ruler_title.celtic" />
-
-    <string id="kingdom.boii.text" text="The Boii Tribe controls the Cisalpine Gaul." />
-    <string id="kingdom.boii.name" text="Boii" />
-    <string id="kingdom.boii.short_name" text="Boii" />
-    <string id="kingdom.boii.title" text="Boii Tribe" />
-    <string id="kingdom.boii.ruler_title" text="ruler_title.celtic" />
-
-    <string id="kingdom.treverii.text" text="The Treverii Tribe dwells in the region of Belgica." />
-    <string id="kingdom.treverii.name" text="Treverii" />
-    <string id="kingdom.treverii.short_name" text="Treverii" />
-    <string id="kingdom.treverii.title" text="Treverii Tribe" />
-    <string id="kingdom.treverii.ruler_title" text="ruler_title.celtic" />
-
-    <string id="kingdom.caledones.text" text="The Caledones control the Northern part of Britannia" />
-    <string id="kingdom.caledones.name" text="Caledones" />
-    <string id="kingdom.caledones.short_name" text="Caledones" />
-    <string id="kingdom.caledones.title" text="Caledones Tribe" />
-    <string id="kingdom.caledones.ruler_title" text="ruler_title.celtic" />
-
-    <string id="kingdom.ebdani.text" text="The Ebdani dwell in the island off the west coast of Britannia" />
-    <string id="kingdom.ebdani.name" text="Ebdani" />
-    <string id="kingdom.ebdani.short_name" text="Ebdanii" />
-    <string id="kingdom.ebdani.title" text="Ebdani Tribe" />
-    <string id="kingdom.ebdani.ruler_title" text="ruler_title.celtic" />
-
-    <string id="kingdom.demetae.text" text="The Demetae dwell in the south of Britannia" />
-    <string id="kingdom.demetae.name" text="Demetae" />
-    <string id="kingdom.demetae.short_name" text="Demetae" />
-    <string id="kingdom.demetae.title" text="Demetae Tribe" />
-    <string id="kingdom.demetae.ruler_title" text="ruler_title.celtic" />
-
-    <string id="kingdom.carthage.text" text="Carthage, master of the mediterranean" />
-    <string id="kingdom.carthage.name" text="Carthage" />
-    <string id="kingdom.carthage.short_name" text="Carthaginian" />
-    <string id="kingdom.carthage.title" text="Carthage" />
-    <string id="kingdom.carthage.ruler_title" text="Shophet" />
-
-    <string id="kingdom.marui.text" text="North Africa's native inhabitants, semi-nomadic pastorals" />
-    <string id="kingdom.marui.name" text="Marui" />
-    <string id="kingdom.marui.short_name" text="Maruian" />
-    <string id="kingdom.marui.title" text="Maurian Kingdom" />
-    <string id="kingdom.marui.ruler_title" text="Monarch" />
-
-    <string id="kingdom.garamantes.text" text="North Africa's native inhabitants, semi-nomadic pastorals" />
-    <string id="kingdom.garamantes.name" text="Garamantes" />
-    <string id="kingdom.garamantes.short_name" text="Garamantian" />
-    <string id="kingdom.garamantes.title" text="Kingdom of Garamantia" />
-    <string id="kingdom.garamantes.ruler_title" text="Monarch" />
-
-    <string id="kingdom.massylii.text" text="North Africa's native inhabitants, semi-nomadic pastorals" />
-    <string id="kingdom.massylii.name" text="Massylii" />
-    <string id="kingdom.massylii.short_name" text="Massylii" />
-    <string id="kingdom.massylii.title" text="Kingdom of Massylii" />
-    <string id="kingdom.massylii.ruler_title" text="Monarch" />
-
-    <string id="kingdom.lusitani.text" text="The Lusitanians were an Indo-European speaking people living in the west of the Iberian Peninsula prior to its conquest by the Roman Republic and the subsequent incorporation of the territory into the Roman province of Lusitania." />
-    <string id="kingdom.lusitani.name" text="Lusitani" />
-    <string id="kingdom.lusitani.short_name" text="Lusitanians" />
-    <string id="kingdom.lusitani.title" text="Kingdom Of Lusitani" />
-    <string id="kingdom.lusitani.ruler_title" text="ruler_title.celtic" />
-
-    <string id="kingdom.cantabri.text" text="Cantabria, the land of the Cantabri originally comprised much of the highlands of the northern Spanish Atlantic coast including the whole of modern Cantabria province" />
-    <string id="kingdom.cantabri.name" text="Cantabri" />
-    <string id="kingdom.cantabri.short_name" text="Cantabrians" />
-    <string id="kingdom.cantabri.title" text="Kingdom Of Cantabria" />
-    <string id="kingdom.cantabri.ruler_title" text="ruler_title.celtic" />
-
-    <string id="kingdom.gallaeci.text" text="The Gallaeci dwell in the North West of Iberia" />
-    <string id="kingdom.gallaeci.name" text="Gallaeci" />
-    <string id="kingdom.gallaeci.short_name" text="Gallaecii" />
-    <string id="kingdom.gallaeci.title" text="Gallaeci Tribe" />
-    <string id="kingdom.gallaeci.ruler_title" text="ruler_title.celtic" />
-
-    <string id="kingdom.carthago_nova.text" text="Carthago Nova is a Punic colony in the southeast of Iberia." />
-    <string id="kingdom.carthago_nova.name" text="Carthago Nova" />
-    <string id="kingdom.carthago_nova.short_name" text="Carthago Nova" />
-    <string id="kingdom.carthago_nova.title" text="Colony of Carthago Nova" />
-    <string id="kingdom.carthago_nova.ruler_title" text="Shophet" />
-
-  </strings>
+<!--  <strings>-->
+<!--    <string id="kingdom.nordlings.text" text="Hailing from the deeper northlands the Nordlings are true masters of cold weather fighting and raiding. For a time the Nords had aided the Sturgians in the efforts to claim lands and plunder. However they have now grown tired of their allies mewling efforts. Raganvad, being a descendant of Nord stock was promised to be made a full King of these lands with their aid and now seeks to weed out the weak Sturgian Princes and drive into other lands for more conquest." />-->
+<!--    <string id="kingdom.vagir.text" text="The Vagir are a mix of Sturgian northerns and disgruntled Battanians. This cross of cultures has made them strong and hardy, able to overcome thick snowfall and dense forests with ease. For now their neighbours seem intent on fighting one another and this, they hope, will give them time to fortify and make ready for when war comes to their newly founded Kingdom." />-->
+<!--    <string id="kingdom.royalist_vlandia.text" text="Vlandia expanded into the western and then northern Empire, taking lands and gaining wealth, however, with this expansion they overstretched allowing the Paleicians to rise up and claim most of the conquered lands from the western and northern Empire. This turn of events caused old grievances between the lords of land to inflame and soon enough rebellion was in the air. Derthert awarded lands to those who were most loyal to him and who had fought the hardest to claim the new areas. However, without the support of the northern lords with their supplies and troops these lands were lost to uprisings by the long suppressed indigenous Paleicians. With the loss of their best cavalry and archers in the uprisings basic troops were required to now fight their civil war, thus the crossbow became the main weapon of choice for the Vlandians due to the little training required to fire the weapon. Solid spear infantry were also raised to counter the separatist cavalry." />-->
+<!--    <string id="kingdom.apolssaly.text" text="The Apolssalians came from the south and fight in well organised phalanxes of spearmen supported by fast cavalry. Their engineering knowledge is strong and their merchants class thrifty and shrewd, this combination leading to a well provided for Kingdom, if a little tight when it comes to giving out gold." />-->
+<!--    <string id="kingdom.lyrion.text" text="The Lyrion people hailed from the south eastern lands and arrived with a rapid pace of conquest over the Aserai. With their skilled skirmishers and well armed noble men their mixed tactics overpowered the merchantmen of the Nahasa desert." />-->
+<!--    <string id="kingdom.rebel_khuzait.text" text="The Rebel Khuzait are determined to settle their lands and protect their borders and are quickly seeking to gain knowledge of more advanced engineering to do this. While culturally skilled horsemen and historically nomads their leaders are pushing their culture forwards intellectually which has led to mixed results." />-->
+<!--    <string id="kingdom.paleician.text" text="Being the original inhabitants of the region the Paleicians have long been treated as a second class of citizen, forced from their lands and used for the lowest of labour. With the success of the Vlandian wars against the Western and Northern empires the Paleicians saw their chance to rise up and take their lands back once again. With the Vlandians involved in a civil war and the Empires constant infighting the Paleic people banded together to overthrew the weakened Vlandians, claiming castles and towns while the most influential Paleicians declared themselves the new lords of the land." />-->
+<!--    <string id="kingdom.ariorum.text" text="The island was won in a game of chance between Porphalios and Emperor Drosios who had amounted a large amount of debt over the years to the Serapides family. The island settled the debt and allowed Porphalios to form his own neutral kingdom there which turned into a rich trade hub between north and south." />-->
+<!--    <string id="kingdom.nordlings.name" text="Nordlings" />-->
+<!--    <string id="kingdom.vagir.name" text="Vagir" />-->
+<!--    <string id="kingdom.royalist_vlandia.name" text="Royalist Vlandia" />-->
+<!--    <string id="kingdom.apolssaly.name" text="Apolssaly" />-->
+<!--    <string id="kingdom.lyrion.name" text="Lyrion" />-->
+<!--    <string id="kingdom.rebel_khuzait.name" text="Rebel Khuzaits" />-->
+<!--    <string id="kingdom.paleician.name" text="Paleician" />-->
+<!--    <string id="kingdom.ariorum.name" text="Ariorum" />-->
+<!--    <string id="kingdom.nordlings.short_name" text="Nordling Kingdom" />-->
+<!--    <string id="kingdom.vagir.short_name" text="Vagir Kingdom" />-->
+<!--    <string id="kingdom.royalist_vlandia.short_name" text="Royalist Vlandians" />-->
+<!--    <string id="kingdom.apolssaly.short_name" text="Apolssaly League" />-->
+<!--    <string id="kingdom.lyrion.short_name" text="Lyrions Kingdom" />-->
+<!--    <string id="kingdom.rebel_khuzait.short_name" text="Rebel Khuzaits" />-->
+<!--    <string id="kingdom.paleician.short_name" text="Paleicians" />-->
+<!--    <string id="kingdom.ariorum.short_name" text="Ariorum" />-->
+<!--    <string id="kingdom.nordlings.title" text="Nordling Kingdom" />-->
+<!--    <string id="kingdom.vagir.title" text="Vagir Kingdom" />-->
+<!--    <string id="kingdom.royalist_vlandia.title" text="Royalist Vlandia" />-->
+<!--    <string id="kingdom.apolssaly.title" text="Apolssalian League" />-->
+<!--    <string id="kingdom.lyrion.title" text="Lyrion Kingdom" />-->
+<!--    <string id="kingdom.rebel_khuzait.title" text="Rebel Khuzait Khanate" />-->
+<!--    <string id="kingdom.paleician.title" text="Paleician Kingdom" />-->
+<!--    <string id="kingdom.ariorum.title" text="Ariorum Trade Republic" />-->
+<!--    <string id="kingdom.nordlings.ruler_title" text="King" />-->
+<!--    <string id="kingdom.vagir.ruler_title" text="King" />-->
+<!--    <string id="kingdom.royalist_vlandia.ruler_title" text="King" />-->
+<!--    <string id="kingdom.apolssaly.ruler_title" text="Posis" />-->
+<!--    <string id="kingdom.lyrion.ruler_title" text="King" />-->
+<!--    <string id="kingdom.rebel_khuzait.ruler_title" text="Khan" />-->
+<!--    <string id="kingdom.paleician.ruler_title" text="King" />-->
+<!--    <string id="kingdom.ariorum.ruler_title" text="King" />-->
+<!--  </strings>-->
 </base>
