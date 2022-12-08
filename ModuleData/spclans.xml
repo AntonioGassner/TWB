@@ -522,20 +522,20 @@
              culture="Culture.Scythian"
              super_faction="Kingdom.Scythia"
              banner_key="11.71.4.8690.8690.764.764.1.0.0.401.5.0.287.287.764.764.0.0.15.401.5.0.145.145.764.764.0.0.29.503.5.0.50.48.764.764.0.0.15.423.5.0.428.438.764.764.0.0.0"/>
-	<Faction id="clan_battania_5"
-			 name="{=ObBvcDhJ}fen Giall"
-			 tier="3"
-			 owner="Hero.lord_5_16"
-			 culture="Culture.Scythian"
-			 super_faction="Kingdom.Scythia"
-			 banner_key="11.71.4.8690.8690.764.764.1.0.0.401.5.0.287.287.764.764.0.0.15.401.5.0.145.145.764.764.0.0.29.503.5.0.50.48.764.764.0.0.15.423.5.0.428.438.764.764.0.0.0"/>
-	<Faction id="clan_sturgia_6"
-			 name="{=EnZHNc2k}Isyaroving"
-			 tier="3"
-			 owner="Hero.lord_2_18"
-			 culture="Culture.Scythian"
-			 super_faction="Kingdom.Scythia"
-			 banner_key="11.71.4.8690.8690.764.764.1.0.0.401.5.0.287.287.764.764.0.0.15.401.5.0.145.145.764.764.0.0.29.503.5.0.50.48.764.764.0.0.15.423.5.0.428.438.764.764.0.0.0"/>
+    <Faction id="clan_battania_5"
+             name="{=ObBvcDhJ}fen Giall"
+             tier="3"
+             owner="Hero.lord_5_16"
+             culture="Culture.Scythian"
+             super_faction="Kingdom.Scythia"
+             banner_key="11.71.4.8690.8690.764.764.1.0.0.401.5.0.287.287.764.764.0.0.15.401.5.0.145.145.764.764.0.0.29.503.5.0.50.48.764.764.0.0.15.423.5.0.428.438.764.764.0.0.0"/>
+    <Faction id="clan_sturgia_6"
+             name="{=EnZHNc2k}Isyaroving"
+             tier="3"
+             owner="Hero.lord_2_18"
+             culture="Culture.Scythian"
+             super_faction="Kingdom.Scythia"
+             banner_key="11.71.4.8690.8690.764.764.1.0.0.401.5.0.287.287.764.764.0.0.15.401.5.0.145.145.764.764.0.0.29.503.5.0.50.48.764.764.0.0.15.423.5.0.428.438.764.764.0.0.0"/>
 
     <!--	LUSITANI	-->
     <Faction id="clan_empire_west_1"
@@ -716,13 +716,13 @@
              super_faction="Kingdom.Carthage"
              banner_key="34.111.25.2240.2217.766.758.0.0.0.427.12.142.481.503.757.763.0.0.-1.500.23.142.780.817.760.752.0.1.180"/>
 
-    <!-- Marui -->
+    <!-- mauri -->
     <Faction id="clan_aserai_5"
              name="{=zY2TQC9t}Banu Arbas"
              tier="5"
              owner="Hero.lord_3_17"
              culture="Culture.mauri"
-             super_faction="Kingdom.Marui"
+             super_faction="Kingdom.mauri"
              banner_key="11.101.75.4345.4345.764.764.1.0.0.425.1.0.416.416.764.782.0.0.359.400.1.0.120.120.764.937.0.0.0.411.1.0.120.120.764.614.0.0.0"/>
 
     <!-- Garamantes -->

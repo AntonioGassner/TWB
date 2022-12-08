@@ -270,101 +270,101 @@ Ranged(No shield) 150   160
         <skill id="Throwing" value="85"/>
     </SkillSet>
 
-  <!--  MELEE CAVALRY  -->
-  <SkillSet id="mounted_spearman_tier2_template_skills">
-    <skill id="Athletics" value="80"/>
-    <skill id="Riding" value="110"/>
-    <skill id="OneHanded" value="70"/>
-    <skill id="TwoHanded" value="35"/>
-    <skill id="Polearm" value="70"/>
-    <skill id="Bow" value="35"/>
-    <skill id="Crossbow" value="35"/>
-    <skill id="Throwing" value="35"/>
-  </SkillSet>
-  <SkillSet id="mounted_spearman_tier3_template_skills">
-    <skill id="Athletics" value="80"/>
-    <skill id="Riding" value="120"/>
-    <skill id="OneHanded" value="110"/>
-    <skill id="TwoHanded" value="55"/>
-    <skill id="Polearm" value="110"/>
-    <skill id="Bow" value="55"/>
-    <skill id="Crossbow" value="55"/>
-    <skill id="Throwing" value="55"/>
-  </SkillSet>
-  <SkillSet id="mounted_spearman_tier4_template_skills">
-    <skill id="Athletics" value="80"/>
-    <skill id="Riding" value="130"/>
-    <skill id="OneHanded" value="150"/>
-    <skill id="TwoHanded" value="75"/>
-    <skill id="Polearm" value="150"/>
-    <skill id="Bow" value="75"/>
-    <skill id="Crossbow" value="75"/>
-    <skill id="Throwing" value="75"/>
-  </SkillSet>
+    <!--  MELEE CAVALRY  -->
+    <SkillSet id="mounted_spearman_tier2_template_skills">
+        <skill id="Athletics" value="80"/>
+        <skill id="Riding" value="110"/>
+        <skill id="OneHanded" value="70"/>
+        <skill id="TwoHanded" value="35"/>
+        <skill id="Polearm" value="70"/>
+        <skill id="Bow" value="35"/>
+        <skill id="Crossbow" value="35"/>
+        <skill id="Throwing" value="35"/>
+    </SkillSet>
+    <SkillSet id="mounted_spearman_tier3_template_skills">
+        <skill id="Athletics" value="80"/>
+        <skill id="Riding" value="120"/>
+        <skill id="OneHanded" value="110"/>
+        <skill id="TwoHanded" value="55"/>
+        <skill id="Polearm" value="110"/>
+        <skill id="Bow" value="55"/>
+        <skill id="Crossbow" value="55"/>
+        <skill id="Throwing" value="55"/>
+    </SkillSet>
+    <SkillSet id="mounted_spearman_tier4_template_skills">
+        <skill id="Athletics" value="80"/>
+        <skill id="Riding" value="130"/>
+        <skill id="OneHanded" value="150"/>
+        <skill id="TwoHanded" value="75"/>
+        <skill id="Polearm" value="150"/>
+        <skill id="Bow" value="75"/>
+        <skill id="Crossbow" value="75"/>
+        <skill id="Throwing" value="75"/>
+    </SkillSet>
 
-  <!--  SKIRMISH CAVALRY  -->
-  <SkillSet id="mounted_skirmisher_tier2_template_skills">
-    <skill id="Athletics" value="100"/>
-    <skill id="Riding" value="110"/>
-    <skill id="OneHanded" value="70"/>
-    <skill id="TwoHanded" value="35"/>
-    <skill id="Polearm" value="35"/>
-    <skill id="Bow" value="35"/>
-    <skill id="Crossbow" value="35"/>
-    <skill id="Throwing" value="70"/>
-  </SkillSet>
-  <SkillSet id="mounted_skirmisher_tier3_template_skills">
-    <skill id="Athletics" value="100"/>
-    <skill id="Riding" value="120"/>
-    <skill id="OneHanded" value="110"/>
-    <skill id="TwoHanded" value="55"/>
-    <skill id="Polearm" value="55"/>
-    <skill id="Bow" value="55"/>
-    <skill id="Crossbow" value="55"/>
-    <skill id="Throwing" value="110"/>
-  </SkillSet>
-  <SkillSet id="mounted_skirmisher_tier4_template_skills">
-    <skill id="Athletics" value="100"/>
-    <skill id="Riding" value="130"/>
-    <skill id="OneHanded" value="150"/>
-    <skill id="TwoHanded" value="75"/>
-    <skill id="Polearm" value="75"/>
-    <skill id="Bow" value="75"/>
-    <skill id="Crossbow" value="75"/>
-    <skill id="Throwing" value="150"/>
-  </SkillSet>
+    <!--  SKIRMISH CAVALRY  -->
+    <SkillSet id="mounted_skirmisher_tier2_template_skills">
+        <skill id="Athletics" value="100"/>
+        <skill id="Riding" value="110"/>
+        <skill id="OneHanded" value="70"/>
+        <skill id="TwoHanded" value="35"/>
+        <skill id="Polearm" value="35"/>
+        <skill id="Bow" value="35"/>
+        <skill id="Crossbow" value="35"/>
+        <skill id="Throwing" value="70"/>
+    </SkillSet>
+    <SkillSet id="mounted_skirmisher_tier3_template_skills">
+        <skill id="Athletics" value="100"/>
+        <skill id="Riding" value="120"/>
+        <skill id="OneHanded" value="110"/>
+        <skill id="TwoHanded" value="55"/>
+        <skill id="Polearm" value="55"/>
+        <skill id="Bow" value="55"/>
+        <skill id="Crossbow" value="55"/>
+        <skill id="Throwing" value="110"/>
+    </SkillSet>
+    <SkillSet id="mounted_skirmisher_tier4_template_skills">
+        <skill id="Athletics" value="100"/>
+        <skill id="Riding" value="130"/>
+        <skill id="OneHanded" value="150"/>
+        <skill id="TwoHanded" value="75"/>
+        <skill id="Polearm" value="75"/>
+        <skill id="Bow" value="75"/>
+        <skill id="Crossbow" value="75"/>
+        <skill id="Throwing" value="150"/>
+    </SkillSet>
 
-  <!--  RANGED CAVALRY  -->
-  <SkillSet id="mounted_archer_tier2_template_skills">
-    <skill id="Athletics" value="130"/>
-    <skill id="Riding" value="110"/>
-    <skill id="OneHanded" value="70"/>
-    <skill id="TwoHanded" value="35"/>
-    <skill id="Polearm" value="35"/>
-    <skill id="Bow" value="70"/>
-    <skill id="Crossbow" value="35"/>
-    <skill id="Throwing" value="35"/>
-  </SkillSet>
-  <SkillSet id="mounted_archer_tier3_template_skills">
-    <skill id="Athletics" value="130"/>
-    <skill id="Riding" value="120"/>
-    <skill id="OneHanded" value="110"/>
-    <skill id="TwoHanded" value="55"/>
-    <skill id="Polearm" value="55"/>
-    <skill id="Bow" value="110"/>
-    <skill id="Crossbow" value="55"/>
-    <skill id="Throwing" value="55"/>
-  </SkillSet>
-  <SkillSet id="mounted_archer_tier4_template_skills">
-    <skill id="Athletics" value="130"/>
-    <skill id="Riding" value="130"/>
-    <skill id="OneHanded" value="150"/>
-    <skill id="TwoHanded" value="75"/>
-    <skill id="Polearm" value="75"/>
-    <skill id="Bow" value="150"/>
-    <skill id="Crossbow" value="75"/>
-    <skill id="Throwing" value="75"/>
-  </SkillSet>
+    <!--  RANGED CAVALRY  -->
+    <SkillSet id="mounted_archer_tier2_template_skills">
+        <skill id="Athletics" value="130"/>
+        <skill id="Riding" value="110"/>
+        <skill id="OneHanded" value="70"/>
+        <skill id="TwoHanded" value="35"/>
+        <skill id="Polearm" value="35"/>
+        <skill id="Bow" value="70"/>
+        <skill id="Crossbow" value="35"/>
+        <skill id="Throwing" value="35"/>
+    </SkillSet>
+    <SkillSet id="mounted_archer_tier3_template_skills">
+        <skill id="Athletics" value="130"/>
+        <skill id="Riding" value="120"/>
+        <skill id="OneHanded" value="110"/>
+        <skill id="TwoHanded" value="55"/>
+        <skill id="Polearm" value="55"/>
+        <skill id="Bow" value="110"/>
+        <skill id="Crossbow" value="55"/>
+        <skill id="Throwing" value="55"/>
+    </SkillSet>
+    <SkillSet id="mounted_archer_tier4_template_skills">
+        <skill id="Athletics" value="130"/>
+        <skill id="Riding" value="130"/>
+        <skill id="OneHanded" value="150"/>
+        <skill id="TwoHanded" value="75"/>
+        <skill id="Polearm" value="75"/>
+        <skill id="Bow" value="150"/>
+        <skill id="Crossbow" value="75"/>
+        <skill id="Throwing" value="75"/>
+    </SkillSet>
 
     <!--  VANILLA -->
     <SkillSet id="infantry_heavyinfantry_level1_template_skills">

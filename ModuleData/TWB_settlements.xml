@@ -6414,7 +6414,8 @@
         </CommonAreas>
     </Settlement>
     <Settlement id="castle_K4" name="{=Settlements.Settlement.name.castle_K4}Tepes Castle"
-                owner="Faction.clan_battania_5" posX="822.776" posY="1221.531" culture="Culture.Scythian" prosperity="530"
+                owner="Faction.clan_battania_5" posX="822.776" posY="1221.531" culture="Culture.Scythian"
+                prosperity="530"
                 gate_posX="820.9154" gate_posY="1220.952">
         <Components>
             <Town id="castle_comp_K4" is_castle="true" level="3" background_crop_position="0.0"

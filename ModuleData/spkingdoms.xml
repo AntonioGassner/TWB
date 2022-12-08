@@ -114,7 +114,8 @@
              color="FF9382D0" color2="FFDE9953" alternative_color="FFF4CA14" alternative_color2="FF6d62b5"
              culture="Culture.Etruscan" settlement_banner_mesh="encounter_flag_a" flag_mesh="info_screen_flags_b"
              name="{=Emporion}Emporion" short_name="{=Emporion1}Emporion" title="{=Emporion2}Emporion"
-             ruler_title="{=hwnp9abW}Basileus" text="{=Emporion3}Emporion is a Greek colony in the eastern Iberian region.">
+             ruler_title="{=hwnp9abW}Basileus"
+             text="{=Emporion3}Emporion is a Greek colony in the eastern Iberian region.">
         <relationships>
             <relationship kingdom="Kingdom.Syracuse" value="1" isAtWar="false"/>
         </relationships>
@@ -259,7 +260,8 @@
              color="FF2D3F1D" color2="FFBFCBB0" alternative_color="FFD69516" alternative_color2="FF55831A"
              culture="Culture.vlandia" settlement_banner_mesh="encounter_flag_d" flag_mesh="info_screen_flags_c"
              name="{=venetifx}Veneti" short_name="{=ventians}Venetii" title="{=lAWwcO6b}Tribe of Veneti"
-             ruler_title="{=hwnp9abW}Brigantīnos" text="{=arvtrbep}The Veneti Tribe dwells in the North West region of Gaul.">
+             ruler_title="{=hwnp9abW}Brigantīnos"
+             text="{=arvtrbep}The Veneti Tribe dwells in the North West region of Gaul.">
         <relationships>
             <relationship kingdom="Kingdom.Caledones" value="1" isAtWar="false"/>
         </relationships>
@@ -270,7 +272,8 @@
              color="FF5C2017" color2="FFECBA44" alternative_color="FFDBBA27" alternative_color2="ff910101"
              culture="Culture.vlandia" settlement_banner_mesh="encounter_flag_d" flag_mesh="info_screen_flags_c"
              name="{=Nrbnsisa}Aquitani" short_name="{=aquitani}Aquitanii" title="{=lAWwcani}Tribe of Aquitani"
-             ruler_title="{=hwnp9abW}Brigantīnos" text="{=IudGLWQZ}The Tribe of Aquitani control the Southern Gallic lands.">
+             ruler_title="{=hwnp9abW}Brigantīnos"
+             text="{=IudGLWQZ}The Tribe of Aquitani control the Southern Gallic lands.">
         <relationships>
             <relationship kingdom="Kingdom.Arverni" value="1" isAtWar="false"/>
         </relationships>
@@ -356,13 +359,13 @@
             <relationship kingdom="Kingdom.Syracuse" value="1" isAtWar="false"/>
         </relationships>
     </Kingdom>
-    <Kingdom id="Marui" owner="Hero.lord_3_17"
+    <Kingdom id="mauri" owner="Hero.lord_3_17"
              banner_key="34.80.122.2219.2100.773.767.0.0.0.130.146.6.483.429.734.724.0.1.0.500.146.102.717.700.764.764.0.0.0"
              primary_banner_color="7f6b60" secondary_banner_color="b6aba7" label_color="ffB01301" color="FF5C2017"
              color2="FFECBA44" alternative_color="FFDBBA27" alternative_color2="ff910101" culture="Culture.mauri"
-             settlement_banner_mesh="encounter_flag_d" flag_mesh="info_screen_flags_c" name="{=marui1}Marui"
-             short_name="{=Maruian}Maruian" title="{=Marui2}Maurian Kingdom" ruler_title="{=monarch}Monarch"
-             text="{=Marui3)Its native inhabitants, semi-nomadic pastoralists">
+             settlement_banner_mesh="encounter_flag_d" flag_mesh="info_screen_flags_c" name="{=mauri1}mauri"
+             short_name="{=maurian}maurian" title="{=mauri2}Maurian Kingdom" ruler_title="{=monarch}Monarch"
+             text="{=mauri3)Its native inhabitants, semi-nomadic pastoralists">
         <relationships>
             <relationship kingdom="Kingdom.Massylii" value="1" isAtWar="false"/>
         </relationships>
