@@ -4861,7 +4861,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_K6" name="{=Settlements.Settlement.name.castle_K6}Dinar Castle" owner="Faction.clan_empire_north_9" posX="810.641" posY="1062.959" culture="Culture.Scythian" prosperity="620" gate_posX="810.5973" gate_posY="1061.181">
+  <Settlement id="castle_K6" name="{=Settlements.Settlement.name.castle_K6}Dinar Castle" owner="Faction.clan_empire_north_9" posX="810.641" posY="1062.959" culture="Culture.scythian" prosperity="620" gate_posX="810.5973" gate_posY="1061.181">
     <Components>
       <Town id="castle_comp_K6" is_castle="true" level="2" background_crop_position="0.0" background_mesh="gui_bg_castle_khuzait" wait_mesh="wait_khuzait_town" gate_rotation="0.908" />
     </Components>
@@ -4871,7 +4871,7 @@
       <Location id="prison" scene_name="khuzait_dungeon_a" />
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_K6_1" name="{=Settlements.Settlement.name.castle_village_K6_1}Dinar" posX="814.758" posY="1042.767" culture="Culture.Scythian" text="{=Settlements.Settlement.text.castle_village_K6_1}Dinar lies in the far north of the Khuzait confederacy, along the Karakaz river. Snow-bound for much of the year, the spring grasses nonetheless sustain sizeable herds of sheep, the thick wool of which protects them from this land's icy winds.">
+  <Settlement id="castle_village_K6_1" name="{=Settlements.Settlement.name.castle_village_K6_1}Dinar" posX="814.758" posY="1042.767" culture="Culture.scythian" text="{=Settlements.Settlement.text.castle_village_K6_1}Dinar lies in the far north of the Khuzait confederacy, along the Karakaz river. Snow-bound for much of the year, the spring grasses nonetheless sustain sizeable herds of sheep, the thick wool of which protects them from this land's icy winds.">
     <Components>
       <Village id="castle_village_comp_K6_1" village_type="VillageType.sheep_farm" hearth="240" gate_rotation="0.508"  bound="Settlement.castle_K6" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_battania_village" castle_background_mesh="gui_bg_castle_battania" />
     </Components>
@@ -4884,7 +4884,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_village_K6_2" name="{=Settlements.Settlement.name.castle_village_K6_2}Karahalli" posX="797.126" posY="1061.948" culture="Culture.Scythian" text="{=Settlements.Settlement.text.castle_village_K6_2}Karahalli lies in the far north of the Khuzait confederacy, not far from the icy Byalic Sea. Snow-bound for much of the year, the spring grasses nonetheless sustain sizeable herds of sheep, the thick wool of which protects them from the icy winds blowing off of the waters.">
+  <Settlement id="castle_village_K6_2" name="{=Settlements.Settlement.name.castle_village_K6_2}Karahalli" posX="797.126" posY="1061.948" culture="Culture.scythian" text="{=Settlements.Settlement.text.castle_village_K6_2}Karahalli lies in the far north of the Khuzait confederacy, not far from the icy Byalic Sea. Snow-bound for much of the year, the spring grasses nonetheless sustain sizeable herds of sheep, the thick wool of which protects them from the icy winds blowing off of the waters.">
     <Components>
       <Village id="castle_village_comp_K6_2" village_type="VillageType.sheep_farm" hearth="415" gate_rotation="0.508"  bound="Settlement.castle_K6" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_battania" />
     </Components>
@@ -5331,7 +5331,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_K6" name="{=Settlements.Settlement.name.town_K6}Odokh" owner="Faction.clan_empire_north_9" posX="758.574" posY="1117.888" culture="Culture.Scythian" prosperity="1700" gate_posX="759.5419" gate_posY="1115.559" text="{=ygJkPxyc}The town of Odokh sits at the foot of Kohi Rohini, the mountains of the dawn. Among the most remote of the towns of the Devseg, it is reputed to have been the abode of King Ahhak, a mythical tyrant from whose shoulders flowed serpents. Even today the Kohi Rohini has a reputation for black magic and mystery that helps keep outsiders at bay. The city fell during the Khuzait conquest to the Harfit clan, who have intermarried with the mountain peoples, and who honor their customs, participate in their rituals, and keep their secrets.">
+  <Settlement id="town_K6" name="{=Settlements.Settlement.name.town_K6}Odokh" owner="Faction.clan_empire_north_9" posX="758.574" posY="1117.888" culture="Culture.scythian" prosperity="1700" gate_posX="759.5419" gate_posY="1115.559" text="{=ygJkPxyc}The town of Odokh sits at the foot of Kohi Rohini, the mountains of the dawn. Among the most remote of the towns of the Devseg, it is reputed to have been the abode of King Ahhak, a mythical tyrant from whose shoulders flowed serpents. Even today the Kohi Rohini has a reputation for black magic and mystery that helps keep outsiders at bay. The city fell during the Khuzait conquest to the Harfit clan, who have intermarried with the mountain peoples, and who honor their customs, participate in their rituals, and keep their secrets.">
     <Components>
       <Town id="town_comp_K6" is_castle="false" level="3" background_crop_position="0.0" background_mesh="gui_bg_town_khuzait" wait_mesh="wait_khuzait_town" gate_rotation="0.008" />
     </Components>
@@ -5351,7 +5351,7 @@
       <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_K6_1" name="{=Settlements.Settlement.name.village_K6_1}Karahan" posX="759.382" posY="1073.826" culture="Culture.Scythian" text="{=Settlements.Settlement.text.village_K6_1}Karahan lies in in the foothills of the Kohi Rohini, the mountains of the dawn. The villagers here buy horses from the wandering tribes, and raise some of their own, making this the source for many of the steeds ridden by the Khuzait armies.">
+  <Settlement id="village_K6_1" name="{=Settlements.Settlement.name.village_K6_1}Karahan" posX="759.382" posY="1073.826" culture="Culture.scythian" text="{=Settlements.Settlement.text.village_K6_1}Karahan lies in in the foothills of the Kohi Rohini, the mountains of the dawn. The villagers here buy horses from the wandering tribes, and raise some of their own, making this the source for many of the steeds ridden by the Khuzait armies.">
     <Components>
       <Village id="village_comp_K6_1" village_type="VillageType.steppe_horse_ranch" hearth="221"  bound="Settlement.town_K6" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait" gate_rotation="0.008" />
     </Components>
@@ -5364,7 +5364,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_K6_2" name="{=Settlements.Settlement.name.village_K6_2}Nutyuk" posX="803.968" posY="1096.869" culture="Culture.Scythian" text="{=Settlements.Settlement.text.village_K6_2}Nutyuk sits beneath the outcrop known by its Darshi name, the Kohi Rohini, the mountains of the dawn. The villagers here, mostly recently settled nomads, raise sheep like their ancestors.">
+  <Settlement id="village_K6_2" name="{=Settlements.Settlement.name.village_K6_2}Nutyuk" posX="803.968" posY="1096.869" culture="Culture.scythian" text="{=Settlements.Settlement.text.village_K6_2}Nutyuk sits beneath the outcrop known by its Darshi name, the Kohi Rohini, the mountains of the dawn. The villagers here, mostly recently settled nomads, raise sheep like their ancestors.">
     <Components>
       <Village id="village_comp_K6_2" village_type="VillageType.sheep_farm" hearth="168"  bound="Settlement.town_K6" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait" />
     </Components>
@@ -5377,7 +5377,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_K6_3" name="{=Settlements.Settlement.name.village_K6_3}Danara" posX="768.919" posY="1101.96" culture="Culture.Scythian" text="{=Settlements.Settlement.text.village_K6_3}Danara sits by the salt lake that the Khuzaits know as Tsanga Nor, the pool that quenches no thirst. The villagers of these parts extract salt from the bitter waters.">
+  <Settlement id="village_K6_3" name="{=Settlements.Settlement.name.village_K6_3}Danara" posX="768.919" posY="1101.96" culture="Culture.scythian" text="{=Settlements.Settlement.text.village_K6_3}Danara sits by the salt lake that the Khuzaits know as Tsanga Nor, the pool that quenches no thirst. The villagers of these parts extract salt from the bitter waters.">
     <Components>
       <Village id="village_comp_K6_3" village_type="VillageType.salt_mine" hearth="272"  bound="Settlement.town_K6" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait" />
     </Components>

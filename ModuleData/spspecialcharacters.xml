@@ -8904,7 +8904,7 @@
 	</NPCCharacter>
 
 	<!-- Scythian -->
-	<NPCCharacter id="spc_notable_Scythian_0" name="{=!}Cautious imperial merchant" is_template="true" voice="ironic" default_group="Infantry" is_hero="false" culture="Culture.Scythian" occupation="Merchant">
+	<NPCCharacter id="spc_notable_Scythian_0" name="{=!}Cautious imperial merchant" is_template="true" voice="ironic" default_group="Infantry" is_hero="false" culture="Culture.scythian" occupation="Merchant">
 		<face>
 			<face_key_template value="BodyProperty.villager_empire" />
 		</face>
@@ -8921,7 +8921,7 @@
 			<EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_notable_Scythian_0b" name="{=!}{FIRSTNAME} the Vintner" is_template="true" voice="ironic" default_group="Infantry" is_hero="false" culture="Culture.Scythian" occupation="Merchant">
+	<NPCCharacter id="spc_notable_Scythian_0b" name="{=!}{FIRSTNAME} the Vintner" is_template="true" voice="ironic" default_group="Infantry" is_hero="false" culture="Culture.scythian" occupation="Merchant">
 		<face>
 			<face_key_template value="BodyProperty.villager_empire" />
 		</face>
@@ -8939,7 +8939,7 @@
 			<EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_notable_Scythian_1" name="{=!}Scythian merchant 3, ruthless" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.Scythian" occupation="Merchant">
+	<NPCCharacter id="spc_notable_Scythian_1" name="{=!}Scythian merchant 3, ruthless" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.scythian" occupation="Merchant">
 		<face>
 			<face_key_template value="BodyProperty.villager_empire" />
 		</face>
@@ -8954,7 +8954,7 @@
 			<EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_notable_Scythian_1b" name="{=!}Cold imperial merchant" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.Scythian" occupation="Merchant">
+	<NPCCharacter id="spc_notable_Scythian_1b" name="{=!}Cold imperial merchant" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.scythian" occupation="Merchant">
 		<face>
 			<face_key_template value="BodyProperty.villager_empire" />
 		</face>
@@ -8970,7 +8970,7 @@
 			<EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_notable_Scythian_2" name="{=!}{FIRSTNAME} the Saltpanner" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.Scythian" occupation="Merchant">
+	<NPCCharacter id="spc_notable_Scythian_2" name="{=!}{FIRSTNAME} the Saltpanner" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.scythian" occupation="Merchant">
 		<face>
 			<face_key_template value="BodyProperty.villager_empire" />
 		</face>
@@ -8985,7 +8985,7 @@
 			<EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_notable_Scythian_2b" name="{=!}Scythian merchant 6, cautious" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.Scythian" occupation="Merchant">
+	<NPCCharacter id="spc_notable_Scythian_2b" name="{=!}Scythian merchant 6, cautious" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.scythian" occupation="Merchant">
 		<face>
 			<face_key_template value="BodyProperty.villager_empire" />
 		</face>
@@ -9002,7 +9002,7 @@
 		</Equipments>
 	</NPCCharacter>
 	<!-- Can be acater -->
-	<NPCCharacter id="spc_notable_Scythian_3" name="{=!}Scythian merchant 7, selfmade" voice="ironic" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.Scythian" occupation="Merchant">
+	<NPCCharacter id="spc_notable_Scythian_3" name="{=!}Scythian merchant 7, selfmade" voice="ironic" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.scythian" occupation="Merchant">
 		<face>
 			<face_key_template value="BodyProperty.villager_empire" />
 		</face>
@@ -9016,7 +9016,7 @@
 			<EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_notable_Scythian_3b" name="{=!}Scythian merchant 8, jocular" voice="ironic" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.Scythian" occupation="Merchant">
+	<NPCCharacter id="spc_notable_Scythian_3b" name="{=!}Scythian merchant 8, jocular" voice="ironic" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.scythian" occupation="Merchant">
 		<face>
 			<face_key_template value="BodyProperty.villager_empire" />
 		</face>
@@ -9031,7 +9031,7 @@
 			<EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_notable_Scythian_4" name="{=!}Scythian merchant 9, heiress" voice="curt" is_template="true" is_female="true" default_group="Infantry" is_hero="false" culture="Culture.Scythian" occupation="Merchant">
+	<NPCCharacter id="spc_notable_Scythian_4" name="{=!}Scythian merchant 9, heiress" voice="curt" is_template="true" is_female="true" default_group="Infantry" is_hero="false" culture="Culture.scythian" occupation="Merchant">
 		<face>
 			<face_key_template value="BodyProperty.townswoman_empire" />
 		</face>
@@ -9046,7 +9046,7 @@
 			<EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_notable_Scythian_4b" name="{=!}Scythian merchant 10, devious" voice="ironic" is_template="true" is_female="true" default_group="Infantry" is_hero="false" culture="Culture.Scythian" occupation="Merchant">
+	<NPCCharacter id="spc_notable_Scythian_4b" name="{=!}Scythian merchant 10, devious" voice="ironic" is_template="true" is_female="true" default_group="Infantry" is_hero="false" culture="Culture.scythian" occupation="Merchant">
 		<face>
 			<face_key_template value="BodyProperty.townswoman_empire" />
 		</face>
@@ -9063,7 +9063,7 @@
 			<EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_notable_Scythian_5" name="{=!}Messianic imperial preacher" voice="earnest" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.Scythian" occupation="Preacher">
+	<NPCCharacter id="spc_notable_Scythian_5" name="{=!}Messianic imperial preacher" voice="earnest" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.scythian" occupation="Preacher">
 		<face>
 			<face_key_template value="BodyProperty.villager_empire" />
 		</face>
@@ -9079,7 +9079,7 @@
 			<EquipmentSet id="spc_notable_empire_5" />
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_notable_Scythian_6" name="{=!}Puritan imperial preacher" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.Scythian" occupation="Preacher">
+	<NPCCharacter id="spc_notable_Scythian_6" name="{=!}Puritan imperial preacher" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.scythian" occupation="Preacher">
 		<face>
 			<face_key_template value="BodyProperty.villager_empire" />
 		</face>
@@ -9096,7 +9096,7 @@
 			<EquipmentSet id="spc_notable_empire_6" />
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_notable_Scythian_7" name="{=!}Female imperial mystic" voice="earnest" is_template="true" default_group="Infantry" is_female="true" culture="Culture.Scythian" occupation="Preacher">
+	<NPCCharacter id="spc_notable_Scythian_7" name="{=!}Female imperial mystic" voice="earnest" is_template="true" default_group="Infantry" is_female="true" culture="Culture.scythian" occupation="Preacher">
 		<face>
 			<face_key_template value="BodyProperty.townswoman_empire" />
 		</face>
@@ -9111,7 +9111,7 @@
 			<EquipmentSet id="spc_notable_empire_7" />
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_notable_Scythian_8" name="{=!}Imperial gruff labor leader" voice="curt" is_template="true" default_group="Infantry" is_female="false" culture="Culture.Scythian" occupation="Artisan">
+	<NPCCharacter id="spc_notable_Scythian_8" name="{=!}Imperial gruff labor leader" voice="curt" is_template="true" default_group="Infantry" is_female="false" culture="Culture.scythian" occupation="Artisan">
 		<face>
 			<face_key_template value="BodyProperty.villager_empire" />
 		</face>
@@ -9125,7 +9125,7 @@
 			<EquipmentSet id="spc_notable_empire_8" />
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_notable_Scythian_9" name="{=!}Imperial outgoing labor leader" voice="earnest" is_template="true" default_group="Infantry" is_female="false" culture="Culture.Scythian" occupation="Artisan">
+	<NPCCharacter id="spc_notable_Scythian_9" name="{=!}Imperial outgoing labor leader" voice="earnest" is_template="true" default_group="Infantry" is_female="false" culture="Culture.scythian" occupation="Artisan">
 		<face>
 			<face_key_template value="BodyProperty.fighter_empire" />
 		</face>
@@ -9141,7 +9141,7 @@
 			<EquipmentSet id="spc_notable_empire_9" />
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_notable_Scythian_gl1" name="{=!}Protective imperial male gang leader" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.Scythian" occupation="GangLeader">
+	<NPCCharacter id="spc_notable_Scythian_gl1" name="{=!}Protective imperial male gang leader" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.scythian" occupation="GangLeader">
 		<face>
 			<face_key_template value="BodyProperty.fighter_empire" />
 		</face>
@@ -9159,7 +9159,7 @@
 			<EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_notable_Scythian_10" name="{=!}Ironic imperial gang leader" voice="ironic" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.Scythian" occupation="GangLeader">
+	<NPCCharacter id="spc_notable_Scythian_10" name="{=!}Ironic imperial gang leader" voice="ironic" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.scythian" occupation="GangLeader">
 		<face>
 			<face_key_template value="BodyProperty.fighter_empire" />
 		</face>
@@ -9177,7 +9177,7 @@
 			<EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_notable_Scythian_11" name="{=!}Intimidating male imperial gang leader" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.Scythian" occupation="GangLeader">
+	<NPCCharacter id="spc_notable_Scythian_11" name="{=!}Intimidating male imperial gang leader" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.scythian" occupation="GangLeader">
 		<face>
 			<face_key_template value="BodyProperty.fighter_empire" />
 		</face>
@@ -9195,7 +9195,7 @@
 			<EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_notable_Scythian_gl4" name="{=!}Bestial male imperial gang leader" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.Scythian" occupation="GangLeader">
+	<NPCCharacter id="spc_notable_Scythian_gl4" name="{=!}Bestial male imperial gang leader" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.scythian" occupation="GangLeader">
 		<face>
 			<face_key_template value="BodyProperty.fighter_empire" />
 		</face>
@@ -9213,7 +9213,7 @@
 			<EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_notable_Scythian_12" name="{=!}Female imperial gang leader" voice="ironic" is_template="true" is_female="true" culture="Culture.Scythian" occupation="GangLeader" default_group="Infantry">
+	<NPCCharacter id="spc_notable_Scythian_12" name="{=!}Female imperial gang leader" voice="ironic" is_template="true" is_female="true" culture="Culture.scythian" occupation="GangLeader" default_group="Infantry">
 		<face>
 			<face_key_template value="BodyProperty.townswoman_empire" />
 		</face>
@@ -9229,7 +9229,7 @@
 			<EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_notable_Scythian_13" name="{=!}Menacing female imperial gang leader" voice="softspoken" is_template="true" is_female="true" culture="Culture.Scythian" occupation="GangLeader" default_group="Infantry">
+	<NPCCharacter id="spc_notable_Scythian_13" name="{=!}Menacing female imperial gang leader" voice="softspoken" is_template="true" is_female="true" culture="Culture.scythian" occupation="GangLeader" default_group="Infantry">
 		<face>
 			<face_key_template value="BodyProperty.townswoman_empire" />
 		</face>
@@ -9246,7 +9246,7 @@
 			<EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_notable_Scythian_21" name="{=!}Scythian gruff rural notable" voice="curt" is_template="true" default_group="Infantry" culture="Culture.Scythian" occupation="RuralNotable">
+	<NPCCharacter id="spc_notable_Scythian_21" name="{=!}Scythian gruff rural notable" voice="curt" is_template="true" default_group="Infantry" culture="Culture.scythian" occupation="RuralNotable">
 		<face>
 			<face_key_template value="BodyProperty.villager_empire" />
 			<!--<hair_tags>
@@ -9269,7 +9269,7 @@
 			<EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_notable_Scythian_22" name="{=!}Scythian rural notable agreeable" voice="softspoken" is_template="true" default_group="Infantry" culture="Culture.Scythian" occupation="RuralNotable">
+	<NPCCharacter id="spc_notable_Scythian_22" name="{=!}Scythian rural notable agreeable" voice="softspoken" is_template="true" default_group="Infantry" culture="Culture.scythian" occupation="RuralNotable">
 		<face>
 			<face_key_template value="BodyProperty.townsman_empire" />
 			<!--<hair_tags>
@@ -9291,7 +9291,7 @@
 			<EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_Scythian_headman_1" name="{=!}Scythian rebellious headman" voice="earnest" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.Scythian" occupation="Headman">
+	<NPCCharacter id="spc_Scythian_headman_1" name="{=!}Scythian rebellious headman" voice="earnest" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.scythian" occupation="Headman">
 		<face>
 			<face_key_template value="BodyProperty.fighter_empire" />
 		</face>
@@ -9307,7 +9307,7 @@
 			<EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_Scythian_headman_2" name="{=!}Scythian conservative headman" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.Scythian" occupation="Headman">
+	<NPCCharacter id="spc_Scythian_headman_2" name="{=!}Scythian conservative headman" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.scythian" occupation="Headman">
 		<face>
 			<face_key_template value="BodyProperty.villager_empire" />
 		</face>
@@ -9323,7 +9323,7 @@
 			<EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_Scythian_headman_3" name="{=!}Scythian devious headman" voice="ironic" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.Scythian" occupation="Headman">
+	<NPCCharacter id="spc_Scythian_headman_3" name="{=!}Scythian devious headman" voice="ironic" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.scythian" occupation="Headman">
 		<face>
 			<face_key_template value="BodyProperty.villager_empire" />
 		</face>
@@ -9340,7 +9340,7 @@
 		</Equipments>
 	</NPCCharacter>
 	<!--Villager -->
-	<NPCCharacter id="child_template_Scythian_villager_male" name="{=!}Imperial Child Villager Male" age="6" is_child_template="true" is_female="false" default_group="Infantry" is_hero="false" occupation="Villager" culture="Culture.Scythian">
+	<NPCCharacter id="child_template_Scythian_villager_male" name="{=!}Imperial Child Villager Male" age="6" is_child_template="true" is_female="false" default_group="Infantry" is_hero="false" occupation="Villager" culture="Culture.scythian">
 		<face>
 			<face_key_template value="BodyProperty.villager_Scythian" />
 		</face>
@@ -9360,7 +9360,7 @@
 			<EquipmentSet id="emp_bat_template_medium" />
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="child_template_Scythian_villager_female" name="{=!}Imperial Child Villager Female" age="6" is_child_template="true" is_female="true" default_group="Infantry" is_hero="false" occupation="Villager" culture="Culture.Scythian">
+	<NPCCharacter id="child_template_Scythian_villager_female" name="{=!}Imperial Child Villager Female" age="6" is_child_template="true" is_female="true" default_group="Infantry" is_hero="false" occupation="Villager" culture="Culture.scythian">
 		<face>
 			<face_key_template value="BodyProperty.townswoman_empire" />
 		</face>
@@ -9380,7 +9380,7 @@
 			<EquipmentSet id="emp_bat_template_medium" />
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="teenager_template_Scythian_villager_male" name="{=!}Imperial Teenager Villager Male" age="14" is_child_template="true" is_female="false" default_group="Infantry" is_hero="false" occupation="Villager" culture="Culture.Scythian">
+	<NPCCharacter id="teenager_template_Scythian_villager_male" name="{=!}Imperial Teenager Villager Male" age="14" is_child_template="true" is_female="false" default_group="Infantry" is_hero="false" occupation="Villager" culture="Culture.scythian">
 		<face>
 			<face_key_template value="BodyProperty.villager_Scythian" />
 		</face>
@@ -9404,7 +9404,7 @@
 			<EquipmentSet id="emp_bat_template_medium" />
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="teenager_template_Scythian_villager_female" name="{=!}Imperial Teenager Villager Female" age="14" is_child_template="true" is_female="true" default_group="Infantry" is_hero="false" occupation="Villager" culture="Culture.Scythian">
+	<NPCCharacter id="teenager_template_Scythian_villager_female" name="{=!}Imperial Teenager Villager Female" age="14" is_child_template="true" is_female="true" default_group="Infantry" is_hero="false" occupation="Villager" culture="Culture.scythian">
 		<face>
 			<face_key_template value="BodyProperty.townswoman_empire" />
 		</face>
@@ -9427,7 +9427,7 @@
 		</Equipments>
 	</NPCCharacter>
 	<!--Noble -->
-	<NPCCharacter id="child_template_Scythian_noble_male" name="{=!}Imperial Child Noble Male" age="6" is_child_template="true" is_female="false" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Scythian">
+	<NPCCharacter id="child_template_Scythian_noble_male" name="{=!}Imperial Child Noble Male" age="6" is_child_template="true" is_female="false" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.scythian">
 		<face>
 			<face_key_template value="BodyProperty.villager_Scythian" />
 		</face>
@@ -9447,7 +9447,7 @@
 			<EquipmentSet id="emp_bat_template_medium" />
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="child_template_Scythian_noble_female" name="{=!}Imperial Child Noble Female" is_child_template="true" age="6" is_female="true" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Scythian">
+	<NPCCharacter id="child_template_Scythian_noble_female" name="{=!}Imperial Child Noble Female" is_child_template="true" age="6" is_female="true" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.scythian">
 		<face>
 			<face_key_template value="BodyProperty.townswoman_empire" />
 		</face>
@@ -9467,7 +9467,7 @@
 			<EquipmentSet id="emp_bat_template_medium" />
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="teenager_template_Scythian_noble_male" name="{=!}Imperial Teenager Noble Male" is_child_template="true" age="14" is_female="true" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Scythian">
+	<NPCCharacter id="teenager_template_Scythian_noble_male" name="{=!}Imperial Teenager Noble Male" is_child_template="true" age="14" is_female="true" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.scythian">
 		<face>
 			<face_key_template value="BodyProperty.villager_Scythian" />
 		</face>
@@ -9493,7 +9493,7 @@
 			<EquipmentSet id="emp_bat_template_medium" />
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="teenager_template_Scythian_noble_female" name="{=!}Imperial Teenager Noble Female" is_child_template="true" age="14" is_female="false" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Scythian">
+	<NPCCharacter id="teenager_template_Scythian_noble_female" name="{=!}Imperial Teenager Noble Female" is_child_template="true" age="14" is_female="false" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.scythian">
 		<face>
 			<face_key_template value="BodyProperty.townswoman_empire" />
 		</face>
@@ -9515,7 +9515,7 @@
 		</Equipments>
 	</NPCCharacter>
 	<!-- Rebel Leader -->
-	<NPCCharacter id="spc_Scythian_leader_0" name="Scythian Rebel 1" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.Scythian" occupation="Lord">
+	<NPCCharacter id="spc_Scythian_leader_0" name="Scythian Rebel 1" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.scythian" occupation="Lord">
 		<face>
 			<face_key_template value="BodyProperty.fighter_empire" />
 		</face>
@@ -9551,7 +9551,7 @@
 			</EquipmentRoster>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_Scythian_leader_1" name="Scythian Rebel 2" voice="softspoken" is_template="true" default_group="Infantry" is_female="true" is_hero="false" culture="Culture.Scythian" occupation="Lord">
+	<NPCCharacter id="spc_Scythian_leader_1" name="Scythian Rebel 2" voice="softspoken" is_template="true" default_group="Infantry" is_female="true" is_hero="false" culture="Culture.scythian" occupation="Lord">
 		<face>
 			<face_key_template value="BodyProperty.fighter_empire" />
 		</face>
