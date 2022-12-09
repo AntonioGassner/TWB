@@ -438,7 +438,7 @@
   <!--Villager -->
   <NPCCharacter id="child_template_Etruscan_villager_male" name="{=!}Imperial Child Villager Male" age="6" is_child_template="true" is_female="false" default_group="Infantry" is_hero="false" occupation="Villager" culture="Culture.etruscan">
     <face>
-      <face_key_template value="BodyProperty.villager_Etruscan" />
+      <face_key_template value="BodyProperty.villager_etruscan" />
     </face>
     <Equipments>
       <EquipmentRoster civilian="true">
@@ -478,7 +478,7 @@
   </NPCCharacter>
   <NPCCharacter id="teenager_template_Etruscan_villager_male" name="{=!}Imperial Teenager Villager Male" age="14" is_child_template="true" is_female="false" default_group="Infantry" is_hero="false" occupation="Villager" culture="Culture.etruscan">
     <face>
-      <face_key_template value="BodyProperty.villager_Etruscan" />
+      <face_key_template value="BodyProperty.villager_etruscan" />
     </face>
     <Equipments>
       <EquipmentRoster civilian="true">
@@ -525,7 +525,7 @@
   <!--Noble -->
   <NPCCharacter id="child_template_Etruscan_noble_male" name="{=!}Imperial Child Noble Male" age="6" is_child_template="true" is_female="false" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.etruscan">
     <face>
-      <face_key_template value="BodyProperty.villager_Etruscan" />
+      <face_key_template value="BodyProperty.villager_etruscan" />
     </face>
     <Equipments>
       <EquipmentRoster civilian="true">
@@ -565,7 +565,7 @@
   </NPCCharacter>
   <NPCCharacter id="teenager_template_Etruscan_noble_male" name="{=!}Imperial Teenager Noble Male" is_child_template="true" age="14" is_female="true" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.etruscan">
     <face>
-      <face_key_template value="BodyProperty.villager_Etruscan" />
+      <face_key_template value="BodyProperty.villager_etruscan" />
     </face>
     <Equipments>
       <EquipmentRoster civilian="true">
@@ -1123,7 +1123,7 @@
   <!--Villager -->
   <NPCCharacter id="child_template_Epirus_villager_male" name="{=!}Imperial Child Villager Male" age="6" is_child_template="true" is_female="false" default_group="Infantry" is_hero="false" occupation="Villager" culture="Culture.epirus">
     <face>
-      <face_key_template value="BodyProperty.villager_Epirus" />
+      <face_key_template value="BodyProperty.villager_epirus" />
     </face>
     <Equipments>
       <EquipmentRoster civilian="true">
@@ -1163,7 +1163,7 @@
   </NPCCharacter>
   <NPCCharacter id="teenager_template_Epirus_villager_male" name="{=!}Imperial Teenager Villager Male" age="14" is_child_template="true" is_female="false" default_group="Infantry" is_hero="false" occupation="Villager" culture="Culture.epirus">
     <face>
-      <face_key_template value="BodyProperty.villager_Epirus" />
+      <face_key_template value="BodyProperty.villager_epirus" />
     </face>
     <Equipments>
       <EquipmentRoster civilian="true">
@@ -1210,7 +1210,7 @@
   <!--Noble -->
   <NPCCharacter id="child_template_Epirus_noble_male" name="{=!}Imperial Child Noble Male" age="6" is_child_template="true" is_female="false" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.epirus">
     <face>
-      <face_key_template value="BodyProperty.villager_Epirus" />
+      <face_key_template value="BodyProperty.villager_epirus" />
     </face>
     <Equipments>
       <EquipmentRoster civilian="true">
@@ -1250,7 +1250,7 @@
   </NPCCharacter>
   <NPCCharacter id="teenager_template_Epirus_noble_male" name="{=!}Imperial Teenager Noble Male" is_child_template="true" age="14" is_female="true" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.epirus">
     <face>
-      <face_key_template value="BodyProperty.villager_Epirus" />
+      <face_key_template value="BodyProperty.villager_epirus" />
     </face>
     <Equipments>
       <EquipmentRoster civilian="true">
@@ -9342,7 +9342,7 @@
 	<!--Villager -->
 	<NPCCharacter id="child_template_Scythian_villager_male" name="{=!}Imperial Child Villager Male" age="6" is_child_template="true" is_female="false" default_group="Infantry" is_hero="false" occupation="Villager" culture="Culture.scythian">
 		<face>
-			<face_key_template value="BodyProperty.villager_Scythian" />
+			<face_key_template value="BodyProperty.villager_scythian" />
 		</face>
 		<Equipments>
 			<EquipmentRoster civilian="true">
@@ -9382,7 +9382,7 @@
 	</NPCCharacter>
 	<NPCCharacter id="teenager_template_Scythian_villager_male" name="{=!}Imperial Teenager Villager Male" age="14" is_child_template="true" is_female="false" default_group="Infantry" is_hero="false" occupation="Villager" culture="Culture.scythian">
 		<face>
-			<face_key_template value="BodyProperty.villager_Scythian" />
+			<face_key_template value="BodyProperty.villager_scythian" />
 		</face>
 		<Equipments>
 			<EquipmentRoster civilian="true">
@@ -9429,7 +9429,7 @@
 	<!--Noble -->
 	<NPCCharacter id="child_template_Scythian_noble_male" name="{=!}Imperial Child Noble Male" age="6" is_child_template="true" is_female="false" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.scythian">
 		<face>
-			<face_key_template value="BodyProperty.villager_Scythian" />
+			<face_key_template value="BodyProperty.villager_scythian" />
 		</face>
 		<Equipments>
 			<EquipmentRoster civilian="true">
@@ -9469,7 +9469,7 @@
 	</NPCCharacter>
 	<NPCCharacter id="teenager_template_Scythian_noble_male" name="{=!}Imperial Teenager Noble Male" is_child_template="true" age="14" is_female="true" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.scythian">
 		<face>
-			<face_key_template value="BodyProperty.villager_Scythian" />
+			<face_key_template value="BodyProperty.villager_scythian" />
 		</face>
 		<Equipments>
 			<EquipmentRoster civilian="true">
@@ -10027,7 +10027,7 @@
 	<!--Villager -->
 	<NPCCharacter id="child_template_Baltic_villager_male" name="{=!}Imperial Child Villager Male" age="6" is_child_template="true" is_female="false" default_group="Infantry" is_hero="false" occupation="Villager" culture="Culture.baltic">
 		<face>
-			<face_key_template value="BodyProperty.villager_Baltic" />
+			<face_key_template value="BodyProperty.villager_baltic" />
 		</face>
 		<Equipments>
 			<EquipmentRoster civilian="true">
@@ -10067,7 +10067,7 @@
 	</NPCCharacter>
 	<NPCCharacter id="teenager_template_Baltic_villager_male" name="{=!}Imperial Teenager Villager Male" age="14" is_child_template="true" is_female="false" default_group="Infantry" is_hero="false" occupation="Villager" culture="Culture.baltic">
 		<face>
-			<face_key_template value="BodyProperty.villager_Baltic" />
+			<face_key_template value="BodyProperty.villager_baltic" />
 		</face>
 		<Equipments>
 			<EquipmentRoster civilian="true">
@@ -10114,7 +10114,7 @@
 	<!--Noble -->
 	<NPCCharacter id="child_template_Baltic_noble_male" name="{=!}Imperial Child Noble Male" age="6" is_child_template="true" is_female="false" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.baltic">
 		<face>
-			<face_key_template value="BodyProperty.villager_Baltic" />
+			<face_key_template value="BodyProperty.villager_baltic" />
 		</face>
 		<Equipments>
 			<EquipmentRoster civilian="true">
@@ -10154,7 +10154,7 @@
 	</NPCCharacter>
 	<NPCCharacter id="teenager_template_Baltic_noble_male" name="{=!}Imperial Teenager Noble Male" is_child_template="true" age="14" is_female="true" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.baltic">
 		<face>
-			<face_key_template value="BodyProperty.villager_Baltic" />
+			<face_key_template value="BodyProperty.villager_baltic" />
 		</face>
 		<Equipments>
 			<EquipmentRoster civilian="true">

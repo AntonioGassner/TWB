@@ -67,7 +67,7 @@
 		occupation="Bandit"
 		culture="Culture.looters">
 		<face>
-			<face_key_template value="BodyProperty.villager_Etruscan"/>
+			<face_key_template value="BodyProperty.villager_etruscan"/>
 		</face>
 		<skills >
 			<skill id="Athletics" value="130"/>
