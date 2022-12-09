@@ -515,7 +515,7 @@
              name="{=SCTf5cay}Vatatzes"
              tier="3"
              owner="Hero.lord_NE8_l"
-             culture="Culture.Baltic"
+             culture="Culture.baltic"
              super_faction="Kingdom.Pomeranians"
              banner_key="11.71.4.4345.4345.764.764.1.0.0.502.5.0.510.510.764.764.0.0.0.338.5.0.487.487.764.764.0.0.0.503.5.0.109.109.764.624.0.0.0"/>
 
@@ -525,7 +525,7 @@
              name="{=nclQqoam}Serapides"
              tier="5"
              owner="Hero.lord_NE9_l"
-             culture="Culture.Scythian"
+             culture="Culture.scythian"
              super_faction="Kingdom.Scythia"
              banner_key="11.71.4.8690.8690.764.764.1.0.0.401.5.0.287.287.764.764.0.0.15.401.5.0.145.145.764.764.0.0.29.503.5.0.50.48.764.764.0.0.15.423.5.0.428.438.764.764.0.0.0"/>
 
@@ -599,14 +599,14 @@
              name="{=pdz4YsEf}Maneolis"
              tier="4"
              owner="Hero.lord_1_71"
-             culture="Culture.Etruscan"
+             culture="Culture.etruscan"
              super_faction="Kingdom.Emporion"
              banner_key="11.71.4.4922.4922.764.764.1.0.0.419.5.0.454.454.764.764.0.0.0.335.5.0.143.143.873.642.0.0.325.335.5.0.143.143.655.642.0.0.42.335.5.0.143.143.651.882.0.0.134.335.5.0.143.143.877.882.0.0.214"/>
     <Faction id="clan_empire_west_9"
              name="{=LTWTTQ71}Palladios"
              tier="3"
              owner="Hero.lord_WE9_l"
-             culture="Culture.Etruscan"
+             culture="Culture.etruscan"
              super_faction="Kingdom.Emporion"
              banner_key="11.71.4.4922.4922.776.777.1.0.0.343.5.0.419.348.764.910.0.0.0.106.5.0.422.411.764.651.0.0.0.505.5.0.87.47.764.805.0.0.0"/>
 
@@ -646,7 +646,7 @@
              name="{=h7ujXmDx}Mestricaros"
              tier="5"
              owner="Hero.lord_1_17"
-             culture="Culture.Etruscan"
+             culture="Culture.etruscan"
              super_faction="Kingdom.Etruria"
              banner_key="11.71.4.4922.4922.764.764.1.0.0.108.5.0.485.485.764.644.0.0.0.325.5.0.454.454.764.844.0.0.0"/>
     <!--
@@ -656,7 +656,7 @@
              name="{=4Dbwdjbe}Hongeros"
              tier="4"
              owner="Hero.lord_1_30"
-             culture="Culture.Etruscan"
+             culture="Culture.etruscan"
              super_faction="Kingdom.Etruria"
              banner_key="11.71.4.4922.4922.764.764.1.0.0.418.5.0.147.147.604.882.0.0.0.107.5.0.454.454.764.764.0.0.0.418.5.0.147.147.924.882.0.0.0"/>
 
@@ -698,7 +698,7 @@
              name="{=CibaXzG8}Phalentes"
              tier="6"
              owner="Hero.lord_1_58"
-             culture="Culture.Epirus"
+             culture="Culture.epirus"
              super_faction="Kingdom.Epirus"
              banner_key="11.71.4.4345.4345.764.764.1.0.0.423.5.0.506.506.764.764.0.0.0.529.5.0.261.261.764.764.0.0.0"/>
     <!--
