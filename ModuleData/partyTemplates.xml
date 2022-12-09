@@ -330,46 +330,141 @@
         </stacks>
     </MBPartyTemplate>
 
-  <MBPartyTemplate id="militia_empire_template" >
-      <stacks>
-        <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.imperial_militia_spearman" />
-        <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.imperial_militia_archer" />
-      </stacks>
-    </MBPartyTemplate>
-    <MBPartyTemplate id="militia_sturgia_template" >
-      <stacks>
-        <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.sturgian_militia_spearman" />
-        <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.sturgian_militia_archer" />
-      </stacks>
-    </MBPartyTemplate>
-    <MBPartyTemplate id="militia_aserai_template" >
-      <stacks>
-        <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.aserai_militia_spearman" />
-        <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.aserai_militia_archer" />
-      </stacks>
-    </MBPartyTemplate>
-    <MBPartyTemplate id="militia_vlandia_template" >
-      <stacks>
-        <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.vlandian_militia_spearman" />
-        <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.vlandian_militia_archer" />
-      </stacks>
-    </MBPartyTemplate>
-    <MBPartyTemplate id="militia_battania_template" >
-      <stacks>
-        <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.battanian_militia_spearman" />
-        <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.battanian_militia_archer" />
-      </stacks>
-    </MBPartyTemplate>
-    <MBPartyTemplate id="militia_khuzait_template" >
-      <stacks>
-        <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Greek_Spear_Militia_01" />
-        <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Greek_Bow_Militia_01" />
-      </stacks>
-    </MBPartyTemplate>
-    <MBPartyTemplate id="militia_kven_template" >
+    <MBPartyTemplate id="militia_empire_template">
         <stacks>
-            <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.kven_militia_spearman" />
-            <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.kven_militia_archer" />
+            <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.latin_militia_spearman"/>
+            <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.latin_militia_slinger"/>
+        </stacks>
+    </MBPartyTemplate>
+    <MBPartyTemplate id="militia_aserai_template">
+        <stacks>
+            <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.punic_militia_spearman"/>
+            <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.punic_militia_slinger"/>
+        </stacks>
+    </MBPartyTemplate>
+    <MBPartyTemplate id="militia_sturgia_template">
+        <stacks>
+            <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.kven_militia_spearman"/>
+            <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.kven_militia_archer"/>
+        </stacks>
+    </MBPartyTemplate>
+    <MBPartyTemplate id="militia_vlandia_template">
+        <stacks>
+            <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.celtic_militia_spearman"/>
+            <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.celtic_militia_archer"/>
+        </stacks>
+    </MBPartyTemplate>
+    <MBPartyTemplate id="militia_battania_template">
+        <stacks>
+            <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.celtic_militia_archer"/>
+            <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.celtic_militia_archer"/>
+        </stacks>
+    </MBPartyTemplate>
+    <MBPartyTemplate id="militia_khuzait_template">
+        <stacks>
+            <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.greek_militia_spearman"/>
+            <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.greek_militia_slinger"/>
+        </stacks>
+    </MBPartyTemplate>
+    <MBPartyTemplate id="militia_kven_template">
+        <stacks>
+            <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.kven_militia_spearman"/>
+            <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.kven_militia_archer"/>
+        </stacks>
+    </MBPartyTemplate>
+
+    <MBPartyTemplate id="militia_celtiberian_template">
+        <stacks>
+            <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.celtic_militia_spearman"/>
+            <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.celtic_militia_archer"/>
+        </stacks>
+    </MBPartyTemplate>
+    <MBPartyTemplate id="militia_cantabri_template">
+        <stacks>
+            <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.celtic_militia_spearman"/>
+            <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.celtic_militia_archer"/>
+        </stacks>
+    </MBPartyTemplate>
+    <MBPartyTemplate id="militia_carthago_nova_template">
+        <stacks>
+            <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.punic_militia_spearman"/>
+            <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.punic_militia_slinger"/>
+        </stacks>
+    </MBPartyTemplate>
+    <MBPartyTemplate id="militia_massylii_template">
+        <stacks>
+            <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.african_militia_spearman"/>
+            <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.african_militia_slinger"/>
+
+        </stacks>
+    </MBPartyTemplate>
+    <MBPartyTemplate id="militia_mauri_template">
+        <stacks>
+            <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.african_militia_spearman"/>
+            <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.african_militia_slinger"/>
+
+        </stacks>
+    </MBPartyTemplate>
+    <MBPartyTemplate id="militia_libyan_template">
+        <stacks>
+            <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.african_militia_spearman"/>
+            <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.african_militia_slinger"/>
+
+        </stacks>
+    </MBPartyTemplate>
+
+    <MBPartyTemplate id="militia_etruscan_template">
+        <stacks>
+            <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.greek_militia_spearman"/>
+            <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.greek_militia_slinger"/>
+        </stacks>
+    </MBPartyTemplate>
+    <MBPartyTemplate id="militia_epirus_template">
+        <stacks>
+            <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.greek_militia_spearman"/>
+            <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.greek_militia_slinger"/>
+        </stacks>
+    </MBPartyTemplate>
+    <MBPartyTemplate id="militia_massilia_template">
+        <stacks>
+            <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.greek_militia_spearman"/>
+            <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.greek_militia_slinger"/>
+        </stacks>
+    </MBPartyTemplate>
+    <MBPartyTemplate id="militia_syracuse_template">
+        <stacks>
+            <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.greek_militia_spearman"/>
+            <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.greek_militia_slinger"/>
+        </stacks>
+    </MBPartyTemplate>
+    <MBPartyTemplate id="militia_caledones_template">
+        <stacks>
+            <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.celtic_militia_spearman"/>
+            <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.celtic_militia_archer"/>
+        </stacks>
+    </MBPartyTemplate>
+    <MBPartyTemplate id="militia_cimbri_template">
+        <stacks>
+            <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.celtic_militia_spearman"/>
+            <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.celtic_militia_archer"/>
+        </stacks>
+    </MBPartyTemplate>
+    <MBPartyTemplate id="militia_scordisci_template">
+        <stacks>
+            <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.celtic_militia_spearman"/>
+            <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.celtic_militia_archer"/>
+        </stacks>
+    </MBPartyTemplate>
+    <MBPartyTemplate id="militia_scythian_template">
+        <stacks>
+            <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.kven_militia_spearman"/>
+            <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.kven_militia_archer"/>
+        </stacks>
+    </MBPartyTemplate>
+    <MBPartyTemplate id="militia_baltic_template">
+        <stacks>
+            <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.kven_militia_spearman"/>
+            <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.kven_militia_archer"/>
         </stacks>
     </MBPartyTemplate>
 
