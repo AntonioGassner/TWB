@@ -9,7 +9,7 @@
                   level="16"
                   name="{=Thrakoi Misthrophoroi Hipeis}Thrakoi Misthrophoroi Hipeis"
                   occupation="Soldier"
-                  culture="Culture.Epirus">
+                  culture="Culture.epirus">
         <face>
             <face_key_template value="BodyProperty.villager_empire"/>
         </face>
@@ -82,7 +82,7 @@
                   level="21"
                   name="{=Thrakoi Veteran Misthrophoroi Hipeis}Thrakoi Veteran Misthrophoroi Hipeis"
                   occupation="Soldier"
-                  culture="Culture.Epirus">
+                  culture="Culture.epirus">
         <face>
             <face_key_template value="BodyProperty.villager_empire"/>
         </face>
@@ -151,7 +151,7 @@
                   level="16"
                   name="{=Makedonikoi Misthrophoroi}Makedonikoi Misthrophoroi"
                   occupation="Soldier"
-                  culture="Culture.Epirus">
+                  culture="Culture.epirus">
         <face>
             <face_key_template value="BodyProperty.villager_empire"/>
         </face>
@@ -213,7 +213,7 @@
                   level="21"
                   name="{=Makedonikoi Veteran Mistrophoroi}Makedonikoi Veteran Mistrophoroi"
                   occupation="Soldier"
-                  culture="Culture.Epirus">
+                  culture="Culture.epirus">
         <face>
             <face_key_template value="BodyProperty.villager_empire"/>
         </face>

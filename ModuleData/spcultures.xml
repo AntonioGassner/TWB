@@ -4263,7 +4263,7 @@
 	  </basic_mercenary_troops>
   </Culture>
 
-	<Culture id="Etruscan"
+	<Culture id="etruscan"
            name="{=Etruscanfaction}Etruscan"
 	       is_main_culture="false"
 		   color="FFFFFFFF"
@@ -4659,7 +4659,7 @@
 		</basic_mercenary_troops>
 	</Culture>
 
-	<Culture id="Epirus"
+	<Culture id="epirus"
            name="{=Epirusfaction}Epirus"
 	       is_main_culture="false"
 		   color="FFFFFFFF"
@@ -6932,7 +6932,7 @@
 	</Culture>
 	
 <!--	TODO MILITIA UNITS-->
-<Culture id="Scythian"
+<Culture id="scythian"
            name="{=Scythianfaction}Scythian"
 	       is_main_culture="false"
 		   color="FFFFFFFF"
@@ -7329,7 +7329,7 @@
 	</Culture>
 	
 <!--	TODO MILITIA UNITS-->
-	<Culture id="Baltic"
+	<Culture id="baltic"
            name="{=Balticfaction}Baltic"
 	       is_main_culture="false"
 		   color="FFFFFFFF"

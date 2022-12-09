@@ -1,6 +1,6 @@
 <NPCCharacters>
 <!-- Etruscan -->
-  <NPCCharacter id="spc_notable_Etruscan_0" name="{=!}Cautious imperial merchant" is_template="true" voice="ironic" default_group="Infantry" is_hero="false" culture="Culture.Etruscan" occupation="Merchant">
+  <NPCCharacter id="spc_notable_Etruscan_0" name="{=!}Cautious imperial merchant" is_template="true" voice="ironic" default_group="Infantry" is_hero="false" culture="Culture.etruscan" occupation="Merchant">
     <face>
       <face_key_template value="BodyProperty.villager_empire" />
     </face>
@@ -17,7 +17,7 @@
       <EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="spc_notable_Etruscan_0b" name="{=!}{FIRSTNAME} the Vintner" is_template="true" voice="ironic" default_group="Infantry" is_hero="false" culture="Culture.Etruscan" occupation="Merchant">
+  <NPCCharacter id="spc_notable_Etruscan_0b" name="{=!}{FIRSTNAME} the Vintner" is_template="true" voice="ironic" default_group="Infantry" is_hero="false" culture="Culture.etruscan" occupation="Merchant">
     <face>
       <face_key_template value="BodyProperty.villager_empire" />
     </face>
@@ -35,7 +35,7 @@
       <EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="spc_notable_Etruscan_1" name="{=!}Etruscan merchant 3, ruthless" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.Etruscan" occupation="Merchant">
+  <NPCCharacter id="spc_notable_Etruscan_1" name="{=!}Etruscan merchant 3, ruthless" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.etruscan" occupation="Merchant">
     <face>
       <face_key_template value="BodyProperty.villager_empire" />
     </face>
@@ -50,7 +50,7 @@
       <EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="spc_notable_Etruscan_1b" name="{=!}Cold imperial merchant" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.Etruscan" occupation="Merchant">
+  <NPCCharacter id="spc_notable_Etruscan_1b" name="{=!}Cold imperial merchant" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.etruscan" occupation="Merchant">
     <face>
       <face_key_template value="BodyProperty.villager_empire" />
     </face>
@@ -66,7 +66,7 @@
       <EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="spc_notable_Etruscan_2" name="{=!}{FIRSTNAME} the Saltpanner" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.Etruscan" occupation="Merchant">
+  <NPCCharacter id="spc_notable_Etruscan_2" name="{=!}{FIRSTNAME} the Saltpanner" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.etruscan" occupation="Merchant">
     <face>
       <face_key_template value="BodyProperty.villager_empire" />
     </face>
@@ -81,7 +81,7 @@
       <EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="spc_notable_Etruscan_2b" name="{=!}Etruscan merchant 6, cautious" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.Etruscan" occupation="Merchant">
+  <NPCCharacter id="spc_notable_Etruscan_2b" name="{=!}Etruscan merchant 6, cautious" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.etruscan" occupation="Merchant">
     <face>
       <face_key_template value="BodyProperty.villager_empire" />
     </face>
@@ -98,7 +98,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Can be acater -->
-  <NPCCharacter id="spc_notable_Etruscan_3" name="{=!}Etruscan merchant 7, selfmade" voice="ironic" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.Etruscan" occupation="Merchant">
+  <NPCCharacter id="spc_notable_Etruscan_3" name="{=!}Etruscan merchant 7, selfmade" voice="ironic" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.etruscan" occupation="Merchant">
     <face>
       <face_key_template value="BodyProperty.villager_empire" />
     </face>
@@ -112,7 +112,7 @@
       <EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="spc_notable_Etruscan_3b" name="{=!}Etruscan merchant 8, jocular" voice="ironic" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.Etruscan" occupation="Merchant">
+  <NPCCharacter id="spc_notable_Etruscan_3b" name="{=!}Etruscan merchant 8, jocular" voice="ironic" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.etruscan" occupation="Merchant">
     <face>
       <face_key_template value="BodyProperty.villager_empire" />
     </face>
@@ -127,7 +127,7 @@
       <EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="spc_notable_Etruscan_4" name="{=!}Etruscan merchant 9, heiress" voice="curt" is_template="true" is_female="true" default_group="Infantry" is_hero="false" culture="Culture.Etruscan" occupation="Merchant">
+  <NPCCharacter id="spc_notable_Etruscan_4" name="{=!}Etruscan merchant 9, heiress" voice="curt" is_template="true" is_female="true" default_group="Infantry" is_hero="false" culture="Culture.etruscan" occupation="Merchant">
     <face>
       <face_key_template value="BodyProperty.townswoman_empire" />
     </face>
@@ -142,7 +142,7 @@
       <EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="spc_notable_Etruscan_4b" name="{=!}Etruscan merchant 10, devious" voice="ironic" is_template="true" is_female="true" default_group="Infantry" is_hero="false" culture="Culture.Etruscan" occupation="Merchant">
+  <NPCCharacter id="spc_notable_Etruscan_4b" name="{=!}Etruscan merchant 10, devious" voice="ironic" is_template="true" is_female="true" default_group="Infantry" is_hero="false" culture="Culture.etruscan" occupation="Merchant">
     <face>
       <face_key_template value="BodyProperty.townswoman_empire" />
     </face>
@@ -159,7 +159,7 @@
       <EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="spc_notable_Etruscan_5" name="{=!}Messianic imperial preacher" voice="earnest" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.Etruscan" occupation="Preacher">
+  <NPCCharacter id="spc_notable_Etruscan_5" name="{=!}Messianic imperial preacher" voice="earnest" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.etruscan" occupation="Preacher">
     <face>
       <face_key_template value="BodyProperty.villager_empire" />
     </face>
@@ -175,7 +175,7 @@
       <EquipmentSet id="spc_notable_empire_5" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="spc_notable_Etruscan_6" name="{=!}Puritan imperial preacher" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.Etruscan" occupation="Preacher">
+  <NPCCharacter id="spc_notable_Etruscan_6" name="{=!}Puritan imperial preacher" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.etruscan" occupation="Preacher">
     <face>
       <face_key_template value="BodyProperty.villager_empire" />
     </face>
@@ -192,7 +192,7 @@
       <EquipmentSet id="spc_notable_empire_6" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="spc_notable_Etruscan_7" name="{=!}Female imperial mystic" voice="earnest" is_template="true" default_group="Infantry" is_female="true" culture="Culture.Etruscan" occupation="Preacher">
+  <NPCCharacter id="spc_notable_Etruscan_7" name="{=!}Female imperial mystic" voice="earnest" is_template="true" default_group="Infantry" is_female="true" culture="Culture.etruscan" occupation="Preacher">
     <face>
       <face_key_template value="BodyProperty.townswoman_empire" />
     </face>
@@ -207,7 +207,7 @@
       <EquipmentSet id="spc_notable_empire_7" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="spc_notable_Etruscan_8" name="{=!}Imperial gruff labor leader" voice="curt" is_template="true" default_group="Infantry" is_female="false" culture="Culture.Etruscan" occupation="Artisan">
+  <NPCCharacter id="spc_notable_Etruscan_8" name="{=!}Imperial gruff labor leader" voice="curt" is_template="true" default_group="Infantry" is_female="false" culture="Culture.etruscan" occupation="Artisan">
     <face>
       <face_key_template value="BodyProperty.villager_empire" />
     </face>
@@ -221,7 +221,7 @@
       <EquipmentSet id="spc_notable_empire_8" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="spc_notable_Etruscan_9" name="{=!}Imperial outgoing labor leader" voice="earnest" is_template="true" default_group="Infantry" is_female="false" culture="Culture.Etruscan" occupation="Artisan">
+  <NPCCharacter id="spc_notable_Etruscan_9" name="{=!}Imperial outgoing labor leader" voice="earnest" is_template="true" default_group="Infantry" is_female="false" culture="Culture.etruscan" occupation="Artisan">
     <face>
       <face_key_template value="BodyProperty.fighter_empire" />
     </face>
@@ -237,7 +237,7 @@
       <EquipmentSet id="spc_notable_empire_9" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="spc_notable_Etruscan_gl1" name="{=!}Protective imperial male gang leader" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.Etruscan" occupation="GangLeader">
+  <NPCCharacter id="spc_notable_Etruscan_gl1" name="{=!}Protective imperial male gang leader" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.etruscan" occupation="GangLeader">
     <face>
       <face_key_template value="BodyProperty.fighter_empire" />
     </face>
@@ -255,7 +255,7 @@
       <EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="spc_notable_Etruscan_10" name="{=!}Ironic imperial gang leader" voice="ironic" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.Etruscan" occupation="GangLeader">
+  <NPCCharacter id="spc_notable_Etruscan_10" name="{=!}Ironic imperial gang leader" voice="ironic" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.etruscan" occupation="GangLeader">
     <face>
       <face_key_template value="BodyProperty.fighter_empire" />
     </face>
@@ -273,7 +273,7 @@
       <EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="spc_notable_Etruscan_11" name="{=!}Intimidating male imperial gang leader" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.Etruscan" occupation="GangLeader">
+  <NPCCharacter id="spc_notable_Etruscan_11" name="{=!}Intimidating male imperial gang leader" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.etruscan" occupation="GangLeader">
     <face>
       <face_key_template value="BodyProperty.fighter_empire" />
     </face>
@@ -291,7 +291,7 @@
       <EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="spc_notable_Etruscan_gl4" name="{=!}Bestial male imperial gang leader" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.Etruscan" occupation="GangLeader">
+  <NPCCharacter id="spc_notable_Etruscan_gl4" name="{=!}Bestial male imperial gang leader" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.etruscan" occupation="GangLeader">
     <face>
       <face_key_template value="BodyProperty.fighter_empire" />
     </face>
@@ -309,7 +309,7 @@
       <EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="spc_notable_Etruscan_12" name="{=!}Female imperial gang leader" voice="ironic" is_template="true" is_female="true" culture="Culture.Etruscan" occupation="GangLeader" default_group="Infantry">
+  <NPCCharacter id="spc_notable_Etruscan_12" name="{=!}Female imperial gang leader" voice="ironic" is_template="true" is_female="true" culture="Culture.etruscan" occupation="GangLeader" default_group="Infantry">
     <face>
       <face_key_template value="BodyProperty.townswoman_empire" />
     </face>
@@ -325,7 +325,7 @@
       <EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="spc_notable_Etruscan_13" name="{=!}Menacing female imperial gang leader" voice="softspoken" is_template="true" is_female="true" culture="Culture.Etruscan" occupation="GangLeader" default_group="Infantry">
+  <NPCCharacter id="spc_notable_Etruscan_13" name="{=!}Menacing female imperial gang leader" voice="softspoken" is_template="true" is_female="true" culture="Culture.etruscan" occupation="GangLeader" default_group="Infantry">
     <face>
       <face_key_template value="BodyProperty.townswoman_empire" />
     </face>
@@ -342,7 +342,7 @@
       <EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="spc_notable_Etruscan_21" name="{=!}Etruscan gruff rural notable" voice="curt" is_template="true" default_group="Infantry" culture="Culture.Etruscan" occupation="RuralNotable">
+  <NPCCharacter id="spc_notable_Etruscan_21" name="{=!}Etruscan gruff rural notable" voice="curt" is_template="true" default_group="Infantry" culture="Culture.etruscan" occupation="RuralNotable">
     <face>
       <face_key_template value="BodyProperty.villager_empire" />
       <!--<hair_tags>
@@ -365,7 +365,7 @@
       <EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="spc_notable_Etruscan_22" name="{=!}Etruscan rural notable agreeable" voice="softspoken" is_template="true" default_group="Infantry" culture="Culture.Etruscan" occupation="RuralNotable">
+  <NPCCharacter id="spc_notable_Etruscan_22" name="{=!}Etruscan rural notable agreeable" voice="softspoken" is_template="true" default_group="Infantry" culture="Culture.etruscan" occupation="RuralNotable">
     <face>
       <face_key_template value="BodyProperty.townsman_empire" />
       <!--<hair_tags>
@@ -387,7 +387,7 @@
       <EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="spc_Etruscan_headman_1" name="{=!}Etruscan rebellious headman" voice="earnest" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.Etruscan" occupation="Headman">
+  <NPCCharacter id="spc_Etruscan_headman_1" name="{=!}Etruscan rebellious headman" voice="earnest" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.etruscan" occupation="Headman">
     <face>
       <face_key_template value="BodyProperty.fighter_empire" />
     </face>
@@ -403,7 +403,7 @@
       <EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="spc_Etruscan_headman_2" name="{=!}Etruscan conservative headman" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.Etruscan" occupation="Headman">
+  <NPCCharacter id="spc_Etruscan_headman_2" name="{=!}Etruscan conservative headman" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.etruscan" occupation="Headman">
     <face>
       <face_key_template value="BodyProperty.villager_empire" />
     </face>
@@ -419,7 +419,7 @@
       <EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="spc_Etruscan_headman_3" name="{=!}Etruscan devious headman" voice="ironic" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.Etruscan" occupation="Headman">
+  <NPCCharacter id="spc_Etruscan_headman_3" name="{=!}Etruscan devious headman" voice="ironic" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.etruscan" occupation="Headman">
     <face>
       <face_key_template value="BodyProperty.villager_empire" />
     </face>
@@ -436,7 +436,7 @@
     </Equipments>
   </NPCCharacter>
   <!--Villager -->
-  <NPCCharacter id="child_template_Etruscan_villager_male" name="{=!}Imperial Child Villager Male" age="6" is_child_template="true" is_female="false" default_group="Infantry" is_hero="false" occupation="Villager" culture="Culture.Etruscan">
+  <NPCCharacter id="child_template_Etruscan_villager_male" name="{=!}Imperial Child Villager Male" age="6" is_child_template="true" is_female="false" default_group="Infantry" is_hero="false" occupation="Villager" culture="Culture.etruscan">
     <face>
       <face_key_template value="BodyProperty.villager_Etruscan" />
     </face>
@@ -456,7 +456,7 @@
       <EquipmentSet id="emp_bat_template_medium" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="child_template_Etruscan_villager_female" name="{=!}Imperial Child Villager Female" age="6" is_child_template="true" is_female="true" default_group="Infantry" is_hero="false" occupation="Villager" culture="Culture.Etruscan">
+  <NPCCharacter id="child_template_Etruscan_villager_female" name="{=!}Imperial Child Villager Female" age="6" is_child_template="true" is_female="true" default_group="Infantry" is_hero="false" occupation="Villager" culture="Culture.etruscan">
     <face>
       <face_key_template value="BodyProperty.townswoman_empire" />
     </face>
@@ -476,7 +476,7 @@
       <EquipmentSet id="emp_bat_template_medium" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="teenager_template_Etruscan_villager_male" name="{=!}Imperial Teenager Villager Male" age="14" is_child_template="true" is_female="false" default_group="Infantry" is_hero="false" occupation="Villager" culture="Culture.Etruscan">
+  <NPCCharacter id="teenager_template_Etruscan_villager_male" name="{=!}Imperial Teenager Villager Male" age="14" is_child_template="true" is_female="false" default_group="Infantry" is_hero="false" occupation="Villager" culture="Culture.etruscan">
     <face>
       <face_key_template value="BodyProperty.villager_Etruscan" />
     </face>
@@ -500,7 +500,7 @@
       <EquipmentSet id="emp_bat_template_medium" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="teenager_template_Etruscan_villager_female" name="{=!}Imperial Teenager Villager Female" age="14" is_child_template="true" is_female="true" default_group="Infantry" is_hero="false" occupation="Villager" culture="Culture.Etruscan">
+  <NPCCharacter id="teenager_template_Etruscan_villager_female" name="{=!}Imperial Teenager Villager Female" age="14" is_child_template="true" is_female="true" default_group="Infantry" is_hero="false" occupation="Villager" culture="Culture.etruscan">
     <face>
       <face_key_template value="BodyProperty.townswoman_empire" />
     </face>
@@ -523,7 +523,7 @@
     </Equipments>
   </NPCCharacter>
   <!--Noble -->
-  <NPCCharacter id="child_template_Etruscan_noble_male" name="{=!}Imperial Child Noble Male" age="6" is_child_template="true" is_female="false" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Etruscan">
+  <NPCCharacter id="child_template_Etruscan_noble_male" name="{=!}Imperial Child Noble Male" age="6" is_child_template="true" is_female="false" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.etruscan">
     <face>
       <face_key_template value="BodyProperty.villager_Etruscan" />
     </face>
@@ -543,7 +543,7 @@
       <EquipmentSet id="emp_bat_template_medium" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="child_template_Etruscan_noble_female" name="{=!}Imperial Child Noble Female" is_child_template="true" age="6" is_female="true" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Etruscan">
+  <NPCCharacter id="child_template_Etruscan_noble_female" name="{=!}Imperial Child Noble Female" is_child_template="true" age="6" is_female="true" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.etruscan">
     <face>
       <face_key_template value="BodyProperty.townswoman_empire" />
     </face>
@@ -563,7 +563,7 @@
       <EquipmentSet id="emp_bat_template_medium" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="teenager_template_Etruscan_noble_male" name="{=!}Imperial Teenager Noble Male" is_child_template="true" age="14" is_female="true" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Etruscan">
+  <NPCCharacter id="teenager_template_Etruscan_noble_male" name="{=!}Imperial Teenager Noble Male" is_child_template="true" age="14" is_female="true" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.etruscan">
     <face>
       <face_key_template value="BodyProperty.villager_Etruscan" />
     </face>
@@ -589,7 +589,7 @@
       <EquipmentSet id="emp_bat_template_medium" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="teenager_template_Etruscan_noble_female" name="{=!}Imperial Teenager Noble Female" is_child_template="true" age="14" is_female="false" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Etruscan">
+  <NPCCharacter id="teenager_template_Etruscan_noble_female" name="{=!}Imperial Teenager Noble Female" is_child_template="true" age="14" is_female="false" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.etruscan">
     <face>
       <face_key_template value="BodyProperty.townswoman_empire" />
     </face>
@@ -611,7 +611,7 @@
     </Equipments>
   </NPCCharacter>
 <!-- Rebel Leader -->
-  <NPCCharacter id="spc_Etruscan_leader_0" name="Etruscan Rebel 1" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.Etruscan" occupation="Lord">
+  <NPCCharacter id="spc_Etruscan_leader_0" name="Etruscan Rebel 1" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.etruscan" occupation="Lord">
     <face>
       <face_key_template value="BodyProperty.fighter_empire" />
     </face>
@@ -647,7 +647,7 @@
       </EquipmentRoster>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="spc_Etruscan_leader_1" name="Etruscan Rebel 2" voice="softspoken" is_template="true" default_group="Infantry" is_female="true" is_hero="false" culture="Culture.Etruscan" occupation="Lord">
+  <NPCCharacter id="spc_Etruscan_leader_1" name="Etruscan Rebel 2" voice="softspoken" is_template="true" default_group="Infantry" is_female="true" is_hero="false" culture="Culture.etruscan" occupation="Lord">
     <face>
       <face_key_template value="BodyProperty.fighter_empire" />
     </face>
@@ -685,7 +685,7 @@
   </NPCCharacter>
 
 <!-- Epirus -->
-  <NPCCharacter id="spc_notable_Epirus_0" name="{=!}Cautious imperial merchant" is_template="true" voice="ironic" default_group="Infantry" is_hero="false" culture="Culture.Epirus" occupation="Merchant">
+  <NPCCharacter id="spc_notable_Epirus_0" name="{=!}Cautious imperial merchant" is_template="true" voice="ironic" default_group="Infantry" is_hero="false" culture="Culture.epirus" occupation="Merchant">
     <face>
       <face_key_template value="BodyProperty.villager_empire" />
     </face>
@@ -702,7 +702,7 @@
       <EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="spc_notable_Epirus_0b" name="{=!}{FIRSTNAME} the Vintner" is_template="true" voice="ironic" default_group="Infantry" is_hero="false" culture="Culture.Epirus" occupation="Merchant">
+  <NPCCharacter id="spc_notable_Epirus_0b" name="{=!}{FIRSTNAME} the Vintner" is_template="true" voice="ironic" default_group="Infantry" is_hero="false" culture="Culture.epirus" occupation="Merchant">
     <face>
       <face_key_template value="BodyProperty.villager_empire" />
     </face>
@@ -720,7 +720,7 @@
       <EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="spc_notable_Epirus_1" name="{=!}Epirus merchant 3, ruthless" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.Epirus" occupation="Merchant">
+  <NPCCharacter id="spc_notable_Epirus_1" name="{=!}Epirus merchant 3, ruthless" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.epirus" occupation="Merchant">
     <face>
       <face_key_template value="BodyProperty.villager_empire" />
     </face>
@@ -735,7 +735,7 @@
       <EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="spc_notable_Epirus_1b" name="{=!}Cold imperial merchant" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.Epirus" occupation="Merchant">
+  <NPCCharacter id="spc_notable_Epirus_1b" name="{=!}Cold imperial merchant" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.epirus" occupation="Merchant">
     <face>
       <face_key_template value="BodyProperty.villager_empire" />
     </face>
@@ -751,7 +751,7 @@
       <EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="spc_notable_Epirus_2" name="{=!}{FIRSTNAME} the Saltpanner" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.Epirus" occupation="Merchant">
+  <NPCCharacter id="spc_notable_Epirus_2" name="{=!}{FIRSTNAME} the Saltpanner" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.epirus" occupation="Merchant">
     <face>
       <face_key_template value="BodyProperty.villager_empire" />
     </face>
@@ -766,7 +766,7 @@
       <EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="spc_notable_Epirus_2b" name="{=!}Epirus merchant 6, cautious" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.Epirus" occupation="Merchant">
+  <NPCCharacter id="spc_notable_Epirus_2b" name="{=!}Epirus merchant 6, cautious" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.epirus" occupation="Merchant">
     <face>
       <face_key_template value="BodyProperty.villager_empire" />
     </face>
@@ -783,7 +783,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Can be acater -->
-  <NPCCharacter id="spc_notable_Epirus_3" name="{=!}Epirus merchant 7, selfmade" voice="ironic" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.Epirus" occupation="Merchant">
+  <NPCCharacter id="spc_notable_Epirus_3" name="{=!}Epirus merchant 7, selfmade" voice="ironic" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.epirus" occupation="Merchant">
     <face>
       <face_key_template value="BodyProperty.villager_empire" />
     </face>
@@ -797,7 +797,7 @@
       <EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="spc_notable_Epirus_3b" name="{=!}Epirus merchant 8, jocular" voice="ironic" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.Epirus" occupation="Merchant">
+  <NPCCharacter id="spc_notable_Epirus_3b" name="{=!}Epirus merchant 8, jocular" voice="ironic" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.epirus" occupation="Merchant">
     <face>
       <face_key_template value="BodyProperty.villager_empire" />
     </face>
@@ -812,7 +812,7 @@
       <EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="spc_notable_Epirus_4" name="{=!}Epirus merchant 9, heiress" voice="curt" is_template="true" is_female="true" default_group="Infantry" is_hero="false" culture="Culture.Epirus" occupation="Merchant">
+  <NPCCharacter id="spc_notable_Epirus_4" name="{=!}Epirus merchant 9, heiress" voice="curt" is_template="true" is_female="true" default_group="Infantry" is_hero="false" culture="Culture.epirus" occupation="Merchant">
     <face>
       <face_key_template value="BodyProperty.townswoman_empire" />
     </face>
@@ -827,7 +827,7 @@
       <EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="spc_notable_Epirus_4b" name="{=!}Epirus merchant 10, devious" voice="ironic" is_template="true" is_female="true" default_group="Infantry" is_hero="false" culture="Culture.Epirus" occupation="Merchant">
+  <NPCCharacter id="spc_notable_Epirus_4b" name="{=!}Epirus merchant 10, devious" voice="ironic" is_template="true" is_female="true" default_group="Infantry" is_hero="false" culture="Culture.epirus" occupation="Merchant">
     <face>
       <face_key_template value="BodyProperty.townswoman_empire" />
     </face>
@@ -844,7 +844,7 @@
       <EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="spc_notable_Epirus_5" name="{=!}Messianic imperial preacher" voice="earnest" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.Epirus" occupation="Preacher">
+  <NPCCharacter id="spc_notable_Epirus_5" name="{=!}Messianic imperial preacher" voice="earnest" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.epirus" occupation="Preacher">
     <face>
       <face_key_template value="BodyProperty.villager_empire" />
     </face>
@@ -860,7 +860,7 @@
       <EquipmentSet id="spc_notable_empire_5" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="spc_notable_Epirus_6" name="{=!}Puritan imperial preacher" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.Epirus" occupation="Preacher">
+  <NPCCharacter id="spc_notable_Epirus_6" name="{=!}Puritan imperial preacher" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.epirus" occupation="Preacher">
     <face>
       <face_key_template value="BodyProperty.villager_empire" />
     </face>
@@ -877,7 +877,7 @@
       <EquipmentSet id="spc_notable_empire_6" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="spc_notable_Epirus_7" name="{=!}Female imperial mystic" voice="earnest" is_template="true" default_group="Infantry" is_female="true" culture="Culture.Epirus" occupation="Preacher">
+  <NPCCharacter id="spc_notable_Epirus_7" name="{=!}Female imperial mystic" voice="earnest" is_template="true" default_group="Infantry" is_female="true" culture="Culture.epirus" occupation="Preacher">
     <face>
       <face_key_template value="BodyProperty.townswoman_empire" />
     </face>
@@ -892,7 +892,7 @@
       <EquipmentSet id="spc_notable_empire_7" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="spc_notable_Epirus_8" name="{=!}Imperial gruff labor leader" voice="curt" is_template="true" default_group="Infantry" is_female="false" culture="Culture.Epirus" occupation="Artisan">
+  <NPCCharacter id="spc_notable_Epirus_8" name="{=!}Imperial gruff labor leader" voice="curt" is_template="true" default_group="Infantry" is_female="false" culture="Culture.epirus" occupation="Artisan">
     <face>
       <face_key_template value="BodyProperty.villager_empire" />
     </face>
@@ -906,7 +906,7 @@
       <EquipmentSet id="spc_notable_empire_8" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="spc_notable_Epirus_9" name="{=!}Imperial outgoing labor leader" voice="earnest" is_template="true" default_group="Infantry" is_female="false" culture="Culture.Epirus" occupation="Artisan">
+  <NPCCharacter id="spc_notable_Epirus_9" name="{=!}Imperial outgoing labor leader" voice="earnest" is_template="true" default_group="Infantry" is_female="false" culture="Culture.epirus" occupation="Artisan">
     <face>
       <face_key_template value="BodyProperty.fighter_empire" />
     </face>
@@ -922,7 +922,7 @@
       <EquipmentSet id="spc_notable_empire_9" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="spc_notable_Epirus_gl1" name="{=!}Protective imperial male gang leader" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.Epirus" occupation="GangLeader">
+  <NPCCharacter id="spc_notable_Epirus_gl1" name="{=!}Protective imperial male gang leader" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.epirus" occupation="GangLeader">
     <face>
       <face_key_template value="BodyProperty.fighter_empire" />
     </face>
@@ -940,7 +940,7 @@
       <EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="spc_notable_Epirus_10" name="{=!}Ironic imperial gang leader" voice="ironic" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.Epirus" occupation="GangLeader">
+  <NPCCharacter id="spc_notable_Epirus_10" name="{=!}Ironic imperial gang leader" voice="ironic" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.epirus" occupation="GangLeader">
     <face>
       <face_key_template value="BodyProperty.fighter_empire" />
     </face>
@@ -958,7 +958,7 @@
       <EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="spc_notable_Epirus_11" name="{=!}Intimidating male imperial gang leader" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.Epirus" occupation="GangLeader">
+  <NPCCharacter id="spc_notable_Epirus_11" name="{=!}Intimidating male imperial gang leader" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.epirus" occupation="GangLeader">
     <face>
       <face_key_template value="BodyProperty.fighter_empire" />
     </face>
@@ -976,7 +976,7 @@
       <EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="spc_notable_Epirus_gl4" name="{=!}Bestial male imperial gang leader" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.Epirus" occupation="GangLeader">
+  <NPCCharacter id="spc_notable_Epirus_gl4" name="{=!}Bestial male imperial gang leader" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.epirus" occupation="GangLeader">
     <face>
       <face_key_template value="BodyProperty.fighter_empire" />
     </face>
@@ -994,7 +994,7 @@
       <EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="spc_notable_Epirus_12" name="{=!}Female imperial gang leader" voice="ironic" is_template="true" is_female="true" culture="Culture.Epirus" occupation="GangLeader" default_group="Infantry">
+  <NPCCharacter id="spc_notable_Epirus_12" name="{=!}Female imperial gang leader" voice="ironic" is_template="true" is_female="true" culture="Culture.epirus" occupation="GangLeader" default_group="Infantry">
     <face>
       <face_key_template value="BodyProperty.townswoman_empire" />
     </face>
@@ -1010,7 +1010,7 @@
       <EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="spc_notable_Epirus_13" name="{=!}Menacing female imperial gang leader" voice="softspoken" is_template="true" is_female="true" culture="Culture.Epirus" occupation="GangLeader" default_group="Infantry">
+  <NPCCharacter id="spc_notable_Epirus_13" name="{=!}Menacing female imperial gang leader" voice="softspoken" is_template="true" is_female="true" culture="Culture.epirus" occupation="GangLeader" default_group="Infantry">
     <face>
       <face_key_template value="BodyProperty.townswoman_empire" />
     </face>
@@ -1027,7 +1027,7 @@
       <EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="spc_notable_Epirus_21" name="{=!}Epirus gruff rural notable" voice="curt" is_template="true" default_group="Infantry" culture="Culture.Epirus" occupation="RuralNotable">
+  <NPCCharacter id="spc_notable_Epirus_21" name="{=!}Epirus gruff rural notable" voice="curt" is_template="true" default_group="Infantry" culture="Culture.epirus" occupation="RuralNotable">
     <face>
       <face_key_template value="BodyProperty.villager_empire" />
       <!--<hair_tags>
@@ -1050,7 +1050,7 @@
       <EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="spc_notable_Epirus_22" name="{=!}Epirus rural notable agreeable" voice="softspoken" is_template="true" default_group="Infantry" culture="Culture.Epirus" occupation="RuralNotable">
+  <NPCCharacter id="spc_notable_Epirus_22" name="{=!}Epirus rural notable agreeable" voice="softspoken" is_template="true" default_group="Infantry" culture="Culture.epirus" occupation="RuralNotable">
     <face>
       <face_key_template value="BodyProperty.townsman_empire" />
       <!--<hair_tags>
@@ -1072,7 +1072,7 @@
       <EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="spc_Epirus_headman_1" name="{=!}Epirus rebellious headman" voice="earnest" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.Epirus" occupation="Headman">
+  <NPCCharacter id="spc_Epirus_headman_1" name="{=!}Epirus rebellious headman" voice="earnest" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.epirus" occupation="Headman">
     <face>
       <face_key_template value="BodyProperty.fighter_empire" />
     </face>
@@ -1088,7 +1088,7 @@
       <EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="spc_Epirus_headman_2" name="{=!}Epirus conservative headman" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.Epirus" occupation="Headman">
+  <NPCCharacter id="spc_Epirus_headman_2" name="{=!}Epirus conservative headman" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.epirus" occupation="Headman">
     <face>
       <face_key_template value="BodyProperty.villager_empire" />
     </face>
@@ -1104,7 +1104,7 @@
       <EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="spc_Epirus_headman_3" name="{=!}Epirus devious headman" voice="ironic" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.Epirus" occupation="Headman">
+  <NPCCharacter id="spc_Epirus_headman_3" name="{=!}Epirus devious headman" voice="ironic" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.epirus" occupation="Headman">
     <face>
       <face_key_template value="BodyProperty.villager_empire" />
     </face>
@@ -1121,7 +1121,7 @@
     </Equipments>
   </NPCCharacter>
   <!--Villager -->
-  <NPCCharacter id="child_template_Epirus_villager_male" name="{=!}Imperial Child Villager Male" age="6" is_child_template="true" is_female="false" default_group="Infantry" is_hero="false" occupation="Villager" culture="Culture.Epirus">
+  <NPCCharacter id="child_template_Epirus_villager_male" name="{=!}Imperial Child Villager Male" age="6" is_child_template="true" is_female="false" default_group="Infantry" is_hero="false" occupation="Villager" culture="Culture.epirus">
     <face>
       <face_key_template value="BodyProperty.villager_Epirus" />
     </face>
@@ -1141,7 +1141,7 @@
       <EquipmentSet id="emp_bat_template_medium" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="child_template_Epirus_villager_female" name="{=!}Imperial Child Villager Female" age="6" is_child_template="true" is_female="true" default_group="Infantry" is_hero="false" occupation="Villager" culture="Culture.Epirus">
+  <NPCCharacter id="child_template_Epirus_villager_female" name="{=!}Imperial Child Villager Female" age="6" is_child_template="true" is_female="true" default_group="Infantry" is_hero="false" occupation="Villager" culture="Culture.epirus">
     <face>
       <face_key_template value="BodyProperty.townswoman_empire" />
     </face>
@@ -1161,7 +1161,7 @@
       <EquipmentSet id="emp_bat_template_medium" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="teenager_template_Epirus_villager_male" name="{=!}Imperial Teenager Villager Male" age="14" is_child_template="true" is_female="false" default_group="Infantry" is_hero="false" occupation="Villager" culture="Culture.Epirus">
+  <NPCCharacter id="teenager_template_Epirus_villager_male" name="{=!}Imperial Teenager Villager Male" age="14" is_child_template="true" is_female="false" default_group="Infantry" is_hero="false" occupation="Villager" culture="Culture.epirus">
     <face>
       <face_key_template value="BodyProperty.villager_Epirus" />
     </face>
@@ -1185,7 +1185,7 @@
       <EquipmentSet id="emp_bat_template_medium" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="teenager_template_Epirus_villager_female" name="{=!}Imperial Teenager Villager Female" age="14" is_child_template="true" is_female="true" default_group="Infantry" is_hero="false" occupation="Villager" culture="Culture.Epirus">
+  <NPCCharacter id="teenager_template_Epirus_villager_female" name="{=!}Imperial Teenager Villager Female" age="14" is_child_template="true" is_female="true" default_group="Infantry" is_hero="false" occupation="Villager" culture="Culture.epirus">
     <face>
       <face_key_template value="BodyProperty.townswoman_empire" />
     </face>
@@ -1208,7 +1208,7 @@
     </Equipments>
   </NPCCharacter>
   <!--Noble -->
-  <NPCCharacter id="child_template_Epirus_noble_male" name="{=!}Imperial Child Noble Male" age="6" is_child_template="true" is_female="false" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Epirus">
+  <NPCCharacter id="child_template_Epirus_noble_male" name="{=!}Imperial Child Noble Male" age="6" is_child_template="true" is_female="false" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.epirus">
     <face>
       <face_key_template value="BodyProperty.villager_Epirus" />
     </face>
@@ -1228,7 +1228,7 @@
       <EquipmentSet id="emp_bat_template_medium" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="child_template_Epirus_noble_female" name="{=!}Imperial Child Noble Female" is_child_template="true" age="6" is_female="true" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Epirus">
+  <NPCCharacter id="child_template_Epirus_noble_female" name="{=!}Imperial Child Noble Female" is_child_template="true" age="6" is_female="true" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.epirus">
     <face>
       <face_key_template value="BodyProperty.townswoman_empire" />
     </face>
@@ -1248,7 +1248,7 @@
       <EquipmentSet id="emp_bat_template_medium" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="teenager_template_Epirus_noble_male" name="{=!}Imperial Teenager Noble Male" is_child_template="true" age="14" is_female="true" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Epirus">
+  <NPCCharacter id="teenager_template_Epirus_noble_male" name="{=!}Imperial Teenager Noble Male" is_child_template="true" age="14" is_female="true" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.epirus">
     <face>
       <face_key_template value="BodyProperty.villager_Epirus" />
     </face>
@@ -1274,7 +1274,7 @@
       <EquipmentSet id="emp_bat_template_medium" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="teenager_template_Epirus_noble_female" name="{=!}Imperial Teenager Noble Female" is_child_template="true" age="14" is_female="false" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Epirus">
+  <NPCCharacter id="teenager_template_Epirus_noble_female" name="{=!}Imperial Teenager Noble Female" is_child_template="true" age="14" is_female="false" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.epirus">
     <face>
       <face_key_template value="BodyProperty.townswoman_empire" />
     </face>
@@ -1296,7 +1296,7 @@
     </Equipments>
   </NPCCharacter>
 <!-- Rebel Leader -->
-  <NPCCharacter id="spc_Epirus_leader_0" name="Epirus Rebel 1" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.Epirus" occupation="Lord">
+  <NPCCharacter id="spc_Epirus_leader_0" name="Epirus Rebel 1" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.epirus" occupation="Lord">
     <face>
       <face_key_template value="BodyProperty.fighter_empire" />
     </face>
@@ -1332,7 +1332,7 @@
       </EquipmentRoster>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="spc_Epirus_leader_1" name="Epirus Rebel 2" voice="softspoken" is_template="true" default_group="Infantry" is_female="true" is_hero="false" culture="Culture.Epirus" occupation="Lord">
+  <NPCCharacter id="spc_Epirus_leader_1" name="Epirus Rebel 2" voice="softspoken" is_template="true" default_group="Infantry" is_female="true" is_hero="false" culture="Culture.epirus" occupation="Lord">
     <face>
       <face_key_template value="BodyProperty.fighter_empire" />
     </face>
@@ -9589,7 +9589,7 @@
 	</NPCCharacter>
 
 	<!-- Baltic -->
-	<NPCCharacter id="spc_notable_Baltic_0" name="{=!}Cautious imperial merchant" is_template="true" voice="ironic" default_group="Infantry" is_hero="false" culture="Culture.Baltic" occupation="Merchant">
+	<NPCCharacter id="spc_notable_Baltic_0" name="{=!}Cautious imperial merchant" is_template="true" voice="ironic" default_group="Infantry" is_hero="false" culture="Culture.baltic" occupation="Merchant">
 		<face>
 			<face_key_template value="BodyProperty.villager_empire" />
 		</face>
@@ -9606,7 +9606,7 @@
 			<EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_notable_Baltic_0b" name="{=!}{FIRSTNAME} the Vintner" is_template="true" voice="ironic" default_group="Infantry" is_hero="false" culture="Culture.Baltic" occupation="Merchant">
+	<NPCCharacter id="spc_notable_Baltic_0b" name="{=!}{FIRSTNAME} the Vintner" is_template="true" voice="ironic" default_group="Infantry" is_hero="false" culture="Culture.baltic" occupation="Merchant">
 		<face>
 			<face_key_template value="BodyProperty.villager_empire" />
 		</face>
@@ -9624,7 +9624,7 @@
 			<EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_notable_Baltic_1" name="{=!}Baltic merchant 3, ruthless" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.Baltic" occupation="Merchant">
+	<NPCCharacter id="spc_notable_Baltic_1" name="{=!}Baltic merchant 3, ruthless" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.baltic" occupation="Merchant">
 		<face>
 			<face_key_template value="BodyProperty.villager_empire" />
 		</face>
@@ -9639,7 +9639,7 @@
 			<EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_notable_Baltic_1b" name="{=!}Cold imperial merchant" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.Baltic" occupation="Merchant">
+	<NPCCharacter id="spc_notable_Baltic_1b" name="{=!}Cold imperial merchant" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.baltic" occupation="Merchant">
 		<face>
 			<face_key_template value="BodyProperty.villager_empire" />
 		</face>
@@ -9655,7 +9655,7 @@
 			<EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_notable_Baltic_2" name="{=!}{FIRSTNAME} the Saltpanner" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.Baltic" occupation="Merchant">
+	<NPCCharacter id="spc_notable_Baltic_2" name="{=!}{FIRSTNAME} the Saltpanner" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.baltic" occupation="Merchant">
 		<face>
 			<face_key_template value="BodyProperty.villager_empire" />
 		</face>
@@ -9670,7 +9670,7 @@
 			<EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_notable_Baltic_2b" name="{=!}Baltic merchant 6, cautious" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.Baltic" occupation="Merchant">
+	<NPCCharacter id="spc_notable_Baltic_2b" name="{=!}Baltic merchant 6, cautious" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.baltic" occupation="Merchant">
 		<face>
 			<face_key_template value="BodyProperty.villager_empire" />
 		</face>
@@ -9687,7 +9687,7 @@
 		</Equipments>
 	</NPCCharacter>
 	<!-- Can be acater -->
-	<NPCCharacter id="spc_notable_Baltic_3" name="{=!}Baltic merchant 7, selfmade" voice="ironic" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.Baltic" occupation="Merchant">
+	<NPCCharacter id="spc_notable_Baltic_3" name="{=!}Baltic merchant 7, selfmade" voice="ironic" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.baltic" occupation="Merchant">
 		<face>
 			<face_key_template value="BodyProperty.villager_empire" />
 		</face>
@@ -9701,7 +9701,7 @@
 			<EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_notable_Baltic_3b" name="{=!}Baltic merchant 8, jocular" voice="ironic" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.Baltic" occupation="Merchant">
+	<NPCCharacter id="spc_notable_Baltic_3b" name="{=!}Baltic merchant 8, jocular" voice="ironic" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.baltic" occupation="Merchant">
 		<face>
 			<face_key_template value="BodyProperty.villager_empire" />
 		</face>
@@ -9716,7 +9716,7 @@
 			<EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_notable_Baltic_4" name="{=!}Baltic merchant 9, heiress" voice="curt" is_template="true" is_female="true" default_group="Infantry" is_hero="false" culture="Culture.Baltic" occupation="Merchant">
+	<NPCCharacter id="spc_notable_Baltic_4" name="{=!}Baltic merchant 9, heiress" voice="curt" is_template="true" is_female="true" default_group="Infantry" is_hero="false" culture="Culture.baltic" occupation="Merchant">
 		<face>
 			<face_key_template value="BodyProperty.townswoman_empire" />
 		</face>
@@ -9731,7 +9731,7 @@
 			<EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_notable_Baltic_4b" name="{=!}Baltic merchant 10, devious" voice="ironic" is_template="true" is_female="true" default_group="Infantry" is_hero="false" culture="Culture.Baltic" occupation="Merchant">
+	<NPCCharacter id="spc_notable_Baltic_4b" name="{=!}Baltic merchant 10, devious" voice="ironic" is_template="true" is_female="true" default_group="Infantry" is_hero="false" culture="Culture.baltic" occupation="Merchant">
 		<face>
 			<face_key_template value="BodyProperty.townswoman_empire" />
 		</face>
@@ -9748,7 +9748,7 @@
 			<EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_notable_Baltic_5" name="{=!}Messianic imperial preacher" voice="earnest" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.Baltic" occupation="Preacher">
+	<NPCCharacter id="spc_notable_Baltic_5" name="{=!}Messianic imperial preacher" voice="earnest" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.baltic" occupation="Preacher">
 		<face>
 			<face_key_template value="BodyProperty.villager_empire" />
 		</face>
@@ -9764,7 +9764,7 @@
 			<EquipmentSet id="spc_notable_empire_5" />
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_notable_Baltic_6" name="{=!}Puritan imperial preacher" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.Baltic" occupation="Preacher">
+	<NPCCharacter id="spc_notable_Baltic_6" name="{=!}Puritan imperial preacher" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.baltic" occupation="Preacher">
 		<face>
 			<face_key_template value="BodyProperty.villager_empire" />
 		</face>
@@ -9781,7 +9781,7 @@
 			<EquipmentSet id="spc_notable_empire_6" />
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_notable_Baltic_7" name="{=!}Female imperial mystic" voice="earnest" is_template="true" default_group="Infantry" is_female="true" culture="Culture.Baltic" occupation="Preacher">
+	<NPCCharacter id="spc_notable_Baltic_7" name="{=!}Female imperial mystic" voice="earnest" is_template="true" default_group="Infantry" is_female="true" culture="Culture.baltic" occupation="Preacher">
 		<face>
 			<face_key_template value="BodyProperty.townswoman_empire" />
 		</face>
@@ -9796,7 +9796,7 @@
 			<EquipmentSet id="spc_notable_empire_7" />
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_notable_Baltic_8" name="{=!}Imperial gruff labor leader" voice="curt" is_template="true" default_group="Infantry" is_female="false" culture="Culture.Baltic" occupation="Artisan">
+	<NPCCharacter id="spc_notable_Baltic_8" name="{=!}Imperial gruff labor leader" voice="curt" is_template="true" default_group="Infantry" is_female="false" culture="Culture.baltic" occupation="Artisan">
 		<face>
 			<face_key_template value="BodyProperty.villager_empire" />
 		</face>
@@ -9810,7 +9810,7 @@
 			<EquipmentSet id="spc_notable_empire_8" />
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_notable_Baltic_9" name="{=!}Imperial outgoing labor leader" voice="earnest" is_template="true" default_group="Infantry" is_female="false" culture="Culture.Baltic" occupation="Artisan">
+	<NPCCharacter id="spc_notable_Baltic_9" name="{=!}Imperial outgoing labor leader" voice="earnest" is_template="true" default_group="Infantry" is_female="false" culture="Culture.baltic" occupation="Artisan">
 		<face>
 			<face_key_template value="BodyProperty.fighter_empire" />
 		</face>
@@ -9826,7 +9826,7 @@
 			<EquipmentSet id="spc_notable_empire_9" />
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_notable_Baltic_gl1" name="{=!}Protective imperial male gang leader" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.Baltic" occupation="GangLeader">
+	<NPCCharacter id="spc_notable_Baltic_gl1" name="{=!}Protective imperial male gang leader" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.baltic" occupation="GangLeader">
 		<face>
 			<face_key_template value="BodyProperty.fighter_empire" />
 		</face>
@@ -9844,7 +9844,7 @@
 			<EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_notable_Baltic_10" name="{=!}Ironic imperial gang leader" voice="ironic" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.Baltic" occupation="GangLeader">
+	<NPCCharacter id="spc_notable_Baltic_10" name="{=!}Ironic imperial gang leader" voice="ironic" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.baltic" occupation="GangLeader">
 		<face>
 			<face_key_template value="BodyProperty.fighter_empire" />
 		</face>
@@ -9862,7 +9862,7 @@
 			<EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_notable_Baltic_11" name="{=!}Intimidating male imperial gang leader" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.Baltic" occupation="GangLeader">
+	<NPCCharacter id="spc_notable_Baltic_11" name="{=!}Intimidating male imperial gang leader" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.baltic" occupation="GangLeader">
 		<face>
 			<face_key_template value="BodyProperty.fighter_empire" />
 		</face>
@@ -9880,7 +9880,7 @@
 			<EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_notable_Baltic_gl4" name="{=!}Bestial male imperial gang leader" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.Baltic" occupation="GangLeader">
+	<NPCCharacter id="spc_notable_Baltic_gl4" name="{=!}Bestial male imperial gang leader" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.baltic" occupation="GangLeader">
 		<face>
 			<face_key_template value="BodyProperty.fighter_empire" />
 		</face>
@@ -9898,7 +9898,7 @@
 			<EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_notable_Baltic_12" name="{=!}Female imperial gang leader" voice="ironic" is_template="true" is_female="true" culture="Culture.Baltic" occupation="GangLeader" default_group="Infantry">
+	<NPCCharacter id="spc_notable_Baltic_12" name="{=!}Female imperial gang leader" voice="ironic" is_template="true" is_female="true" culture="Culture.baltic" occupation="GangLeader" default_group="Infantry">
 		<face>
 			<face_key_template value="BodyProperty.townswoman_empire" />
 		</face>
@@ -9914,7 +9914,7 @@
 			<EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_notable_Baltic_13" name="{=!}Menacing female imperial gang leader" voice="softspoken" is_template="true" is_female="true" culture="Culture.Baltic" occupation="GangLeader" default_group="Infantry">
+	<NPCCharacter id="spc_notable_Baltic_13" name="{=!}Menacing female imperial gang leader" voice="softspoken" is_template="true" is_female="true" culture="Culture.baltic" occupation="GangLeader" default_group="Infantry">
 		<face>
 			<face_key_template value="BodyProperty.townswoman_empire" />
 		</face>
@@ -9931,7 +9931,7 @@
 			<EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_notable_Baltic_21" name="{=!}Baltic gruff rural notable" voice="curt" is_template="true" default_group="Infantry" culture="Culture.Baltic" occupation="RuralNotable">
+	<NPCCharacter id="spc_notable_Baltic_21" name="{=!}Baltic gruff rural notable" voice="curt" is_template="true" default_group="Infantry" culture="Culture.baltic" occupation="RuralNotable">
 		<face>
 			<face_key_template value="BodyProperty.villager_empire" />
 			<!--<hair_tags>
@@ -9954,7 +9954,7 @@
 			<EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_notable_Baltic_22" name="{=!}Baltic rural notable agreeable" voice="softspoken" is_template="true" default_group="Infantry" culture="Culture.Baltic" occupation="RuralNotable">
+	<NPCCharacter id="spc_notable_Baltic_22" name="{=!}Baltic rural notable agreeable" voice="softspoken" is_template="true" default_group="Infantry" culture="Culture.baltic" occupation="RuralNotable">
 		<face>
 			<face_key_template value="BodyProperty.townsman_empire" />
 			<!--<hair_tags>
@@ -9976,7 +9976,7 @@
 			<EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_Baltic_headman_1" name="{=!}Baltic rebellious headman" voice="earnest" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.Baltic" occupation="Headman">
+	<NPCCharacter id="spc_Baltic_headman_1" name="{=!}Baltic rebellious headman" voice="earnest" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.baltic" occupation="Headman">
 		<face>
 			<face_key_template value="BodyProperty.fighter_empire" />
 		</face>
@@ -9992,7 +9992,7 @@
 			<EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_Baltic_headman_2" name="{=!}Baltic conservative headman" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.Baltic" occupation="Headman">
+	<NPCCharacter id="spc_Baltic_headman_2" name="{=!}Baltic conservative headman" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.baltic" occupation="Headman">
 		<face>
 			<face_key_template value="BodyProperty.villager_empire" />
 		</face>
@@ -10008,7 +10008,7 @@
 			<EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_Baltic_headman_3" name="{=!}Baltic devious headman" voice="ironic" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.Baltic" occupation="Headman">
+	<NPCCharacter id="spc_Baltic_headman_3" name="{=!}Baltic devious headman" voice="ironic" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.baltic" occupation="Headman">
 		<face>
 			<face_key_template value="BodyProperty.villager_empire" />
 		</face>
@@ -10025,7 +10025,7 @@
 		</Equipments>
 	</NPCCharacter>
 	<!--Villager -->
-	<NPCCharacter id="child_template_Baltic_villager_male" name="{=!}Imperial Child Villager Male" age="6" is_child_template="true" is_female="false" default_group="Infantry" is_hero="false" occupation="Villager" culture="Culture.Baltic">
+	<NPCCharacter id="child_template_Baltic_villager_male" name="{=!}Imperial Child Villager Male" age="6" is_child_template="true" is_female="false" default_group="Infantry" is_hero="false" occupation="Villager" culture="Culture.baltic">
 		<face>
 			<face_key_template value="BodyProperty.villager_Baltic" />
 		</face>
@@ -10045,7 +10045,7 @@
 			<EquipmentSet id="emp_bat_template_medium" />
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="child_template_Baltic_villager_female" name="{=!}Imperial Child Villager Female" age="6" is_child_template="true" is_female="true" default_group="Infantry" is_hero="false" occupation="Villager" culture="Culture.Baltic">
+	<NPCCharacter id="child_template_Baltic_villager_female" name="{=!}Imperial Child Villager Female" age="6" is_child_template="true" is_female="true" default_group="Infantry" is_hero="false" occupation="Villager" culture="Culture.baltic">
 		<face>
 			<face_key_template value="BodyProperty.townswoman_empire" />
 		</face>
@@ -10065,7 +10065,7 @@
 			<EquipmentSet id="emp_bat_template_medium" />
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="teenager_template_Baltic_villager_male" name="{=!}Imperial Teenager Villager Male" age="14" is_child_template="true" is_female="false" default_group="Infantry" is_hero="false" occupation="Villager" culture="Culture.Baltic">
+	<NPCCharacter id="teenager_template_Baltic_villager_male" name="{=!}Imperial Teenager Villager Male" age="14" is_child_template="true" is_female="false" default_group="Infantry" is_hero="false" occupation="Villager" culture="Culture.baltic">
 		<face>
 			<face_key_template value="BodyProperty.villager_Baltic" />
 		</face>
@@ -10089,7 +10089,7 @@
 			<EquipmentSet id="emp_bat_template_medium" />
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="teenager_template_Baltic_villager_female" name="{=!}Imperial Teenager Villager Female" age="14" is_child_template="true" is_female="true" default_group="Infantry" is_hero="false" occupation="Villager" culture="Culture.Baltic">
+	<NPCCharacter id="teenager_template_Baltic_villager_female" name="{=!}Imperial Teenager Villager Female" age="14" is_child_template="true" is_female="true" default_group="Infantry" is_hero="false" occupation="Villager" culture="Culture.baltic">
 		<face>
 			<face_key_template value="BodyProperty.townswoman_empire" />
 		</face>
@@ -10112,7 +10112,7 @@
 		</Equipments>
 	</NPCCharacter>
 	<!--Noble -->
-	<NPCCharacter id="child_template_Baltic_noble_male" name="{=!}Imperial Child Noble Male" age="6" is_child_template="true" is_female="false" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Baltic">
+	<NPCCharacter id="child_template_Baltic_noble_male" name="{=!}Imperial Child Noble Male" age="6" is_child_template="true" is_female="false" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.baltic">
 		<face>
 			<face_key_template value="BodyProperty.villager_Baltic" />
 		</face>
@@ -10132,7 +10132,7 @@
 			<EquipmentSet id="emp_bat_template_medium" />
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="child_template_Baltic_noble_female" name="{=!}Imperial Child Noble Female" is_child_template="true" age="6" is_female="true" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Baltic">
+	<NPCCharacter id="child_template_Baltic_noble_female" name="{=!}Imperial Child Noble Female" is_child_template="true" age="6" is_female="true" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.baltic">
 		<face>
 			<face_key_template value="BodyProperty.townswoman_empire" />
 		</face>
@@ -10152,7 +10152,7 @@
 			<EquipmentSet id="emp_bat_template_medium" />
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="teenager_template_Baltic_noble_male" name="{=!}Imperial Teenager Noble Male" is_child_template="true" age="14" is_female="true" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Baltic">
+	<NPCCharacter id="teenager_template_Baltic_noble_male" name="{=!}Imperial Teenager Noble Male" is_child_template="true" age="14" is_female="true" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.baltic">
 		<face>
 			<face_key_template value="BodyProperty.villager_Baltic" />
 		</face>
@@ -10178,7 +10178,7 @@
 			<EquipmentSet id="emp_bat_template_medium" />
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="teenager_template_Baltic_noble_female" name="{=!}Imperial Teenager Noble Female" is_child_template="true" age="14" is_female="false" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Baltic">
+	<NPCCharacter id="teenager_template_Baltic_noble_female" name="{=!}Imperial Teenager Noble Female" is_child_template="true" age="14" is_female="false" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.baltic">
 		<face>
 			<face_key_template value="BodyProperty.townswoman_empire" />
 		</face>
@@ -10200,7 +10200,7 @@
 		</Equipments>
 	</NPCCharacter>
 	<!-- Rebel Leader -->
-	<NPCCharacter id="spc_Baltic_leader_0" name="Baltic Rebel 1" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.Baltic" occupation="Lord">
+	<NPCCharacter id="spc_Baltic_leader_0" name="Baltic Rebel 1" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.baltic" occupation="Lord">
 		<face>
 			<face_key_template value="BodyProperty.fighter_empire" />
 		</face>
@@ -10236,7 +10236,7 @@
 			</EquipmentRoster>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_Baltic_leader_1" name="Baltic Rebel 2" voice="softspoken" is_template="true" default_group="Infantry" is_female="true" is_hero="false" culture="Culture.Baltic" occupation="Lord">
+	<NPCCharacter id="spc_Baltic_leader_1" name="Baltic Rebel 2" voice="softspoken" is_template="true" default_group="Infantry" is_female="true" is_hero="false" culture="Culture.baltic" occupation="Lord">
 		<face>
 			<face_key_template value="BodyProperty.fighter_empire" />
 		</face>

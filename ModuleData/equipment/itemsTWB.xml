@@ -180,7 +180,7 @@
 		<Flags UseTeamColor="true" Civilian="true" />
 	</Item>
 
-	<Item id="hayster_lino_3" name="[hellenic] Gray Linothorax" mesh="hayster_lino_3" is_merchandise="true" subtype="body_armor" culture="Culture.Etruscan" value="3500" weight="4.0" difficulty="0" appearance="3"  Type="BodyArmor">
+	<Item id="hayster_lino_3" name="[hellenic] Gray Linothorax" mesh="hayster_lino_3" is_merchandise="true" subtype="body_armor" culture="Culture.etruscan" value="3500" weight="4.0" difficulty="0" appearance="3"  Type="BodyArmor">
 		<ItemComponent>
 			<Armor head_armor="0" arm_armor="5" body_armor="45" leg_armor="10" covers_body="false" covers_legs="false"
 				   modifier_group="Leather" material_type="Leather" />
@@ -204,7 +204,7 @@
 		<Flags UseTeamColor="true" Civilian="true" />
 	</Item>
 
-	<Item id="hayster_lino_6" name="[hellenic] Blue Decorative Linothorax 2" mesh="hayster_lino_6" is_merchandise="true" subtype="body_armor" culture="Culture.Epirus" value="3500" weight="4.0" difficulty="0" appearance="3"  Type="BodyArmor">
+	<Item id="hayster_lino_6" name="[hellenic] Blue Decorative Linothorax 2" mesh="hayster_lino_6" is_merchandise="true" subtype="body_armor" culture="Culture.epirus" value="3500" weight="4.0" difficulty="0" appearance="3"  Type="BodyArmor">
 		<ItemComponent>
 			<Armor head_armor="0" arm_armor="5" body_armor="50" leg_armor="10" covers_body="false" covers_legs="false"
 				   modifier_group="Leather" material_type="Leather" />
@@ -212,7 +212,7 @@
 		<Flags UseTeamColor="true" Civilian="true" />
 	</Item>
 
-	<Item id="hayster_lino_7" name="[hellenic] Blue Linothorax 2" mesh="hayster_lino_7" is_merchandise="true" subtype="body_armor" culture="Culture.Epirus" value="3500" weight="4.0" difficulty="0" appearance="3"  Type="BodyArmor">
+	<Item id="hayster_lino_7" name="[hellenic] Blue Linothorax 2" mesh="hayster_lino_7" is_merchandise="true" subtype="body_armor" culture="Culture.epirus" value="3500" weight="4.0" difficulty="0" appearance="3"  Type="BodyArmor">
 		<ItemComponent>
 			<Armor head_armor="0" arm_armor="5" body_armor="45" leg_armor="10" covers_body="false" covers_legs="false"
 				   modifier_group="Leather" material_type="Leather" />
@@ -228,7 +228,7 @@
 		<Flags UseTeamColor="true" Civilian="true" />
 	</Item>
 
-	<Item id="hayster_lino_9" name="[hellenic] Gray Decorative Scale Linothorax" mesh="hayster_lino_9" is_merchandise="true" subtype="body_armor" culture="Culture.Etruscan" value="3500" weight="4.0" difficulty="0" appearance="3"  Type="BodyArmor">
+	<Item id="hayster_lino_9" name="[hellenic] Gray Decorative Scale Linothorax" mesh="hayster_lino_9" is_merchandise="true" subtype="body_armor" culture="Culture.etruscan" value="3500" weight="4.0" difficulty="0" appearance="3"  Type="BodyArmor">
 		<ItemComponent>
 			<Armor head_armor="0" arm_armor="5" body_armor="60" leg_armor="10" covers_body="false" covers_legs="false"
 				   modifier_group="Leather" material_type="Leather" />
@@ -252,7 +252,7 @@
 		<Flags UseTeamColor="true" Civilian="true" />
 	</Item>
 
-	<Item id="hayster_lino_12" name="[hellenic] Gray Decorative Linothorax" mesh="hayster_lino_12" is_merchandise="true" subtype="body_armor" culture="Culture.Etruscan" value="3500" weight="4.0" difficulty="0" appearance="3"  Type="BodyArmor">
+	<Item id="hayster_lino_12" name="[hellenic] Gray Decorative Linothorax" mesh="hayster_lino_12" is_merchandise="true" subtype="body_armor" culture="Culture.etruscan" value="3500" weight="4.0" difficulty="0" appearance="3"  Type="BodyArmor">
 		<ItemComponent>
 			<Armor head_armor="0" arm_armor="5" body_armor="50" leg_armor="10" covers_body="false" covers_legs="false"
 				   modifier_group="Leather" material_type="Leather" />

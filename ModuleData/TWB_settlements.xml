@@ -3,7 +3,7 @@
   <!-- Empire = 19 towns, 52 villages, 9 castles, 2.73 villages per town, 18% castle ratio -->
   <!-- Ambrela and Myzon - Ruler of aristocratic clan. Northwest-central-->
   <!-- Ambrela - from name of nearby clan -->
-  <Settlement id="castle_EN1" name="{=Settlements.Settlement.name.castle_EN1}Varagos Castle" owner="Faction.clan_empire_north_8" posX="704.443" posY="1174.63" prosperity="420" culture="Culture.Baltic" gate_posX="707.4806" gate_posY="1174.908">
+  <Settlement id="castle_EN1" name="{=Settlements.Settlement.name.castle_EN1}Varagos Castle" owner="Faction.clan_empire_north_8" posX="704.443" posY="1174.63" prosperity="420" culture="Culture.baltic" gate_posX="707.4806" gate_posY="1174.908">
     <Components>
       <Town id="castle_comp_EN1" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_empire_town" gate_rotation="0.908" />
     </Components>
@@ -13,7 +13,7 @@
       <Location id="prison" scene_name="empire_dungeon_a" />
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_EN1_1" name="{=Settlements.Settlement.name.castle_village_EN1_1}Varagos" posX="687.288" posY="1187.996" culture="Culture.Baltic" text="{=Settlements.Settlement.text.castle_village_EN1_1}Varagos sits on the Aris river, a small highland stream that flows into the deep pool known as the Ophthys. The land here is not especially rich, but is sufficient for the raising of sheep.">
+  <Settlement id="castle_village_EN1_1" name="{=Settlements.Settlement.name.castle_village_EN1_1}Varagos" posX="687.288" posY="1187.996" culture="Culture.baltic" text="{=Settlements.Settlement.text.castle_village_EN1_1}Varagos sits on the Aris river, a small highland stream that flows into the deep pool known as the Ophthys. The land here is not especially rich, but is sufficient for the raising of sheep.">
     <Components>
       <Village id="castle_village_comp_EN1_1" village_type="VillageType.silk_plant" hearth="322" gate_rotation="0.008"  bound="Settlement.castle_EN1" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -251,7 +251,7 @@
   </Settlement>
   <!-- Volarias and Tricaea, Northern  clan #2, marcher clan of patriarch faction, -->
   <!-- The allconquering -->
-  <Settlement id="town_EN1" name="{=Settlements.Settlement.name.town_EN1}Epicrotea" owner="Faction.clan_empire_north_8" posX="746.518" posY="1228.253" culture="Culture.Baltic" prosperity="5100" gate_posX="744.3975" gate_posY="1226.225" text="{=n9WMUuSp}Epicrotea, the 'All-Conquering' was named after the eccentric long-haired military genius Sarapios, who crushed a Battanian host and secured the lands west of Lake Laconis for the Empire. Its towers, overlooking the Miron river, have frequently been a northerner's first glimpse of the awesome and terrible force to their south.">
+  <Settlement id="town_EN1" name="{=Settlements.Settlement.name.town_EN1}Epicrotea" owner="Faction.clan_empire_north_8" posX="746.518" posY="1228.253" culture="Culture.baltic" prosperity="5100" gate_posX="744.3975" gate_posY="1226.225" text="{=n9WMUuSp}Epicrotea, the 'All-Conquering' was named after the eccentric long-haired military genius Sarapios, who crushed a Battanian host and secured the lands west of Lake Laconis for the Empire. Its towers, overlooking the Miron river, have frequently been a northerner's first glimpse of the awesome and terrible force to their south.">
     <Components>
       <Town id="town_comp_EN1" is_castle="false" level="3" background_crop_position="0.0" background_mesh="menu_empire_3" wait_mesh="wait_empire_town" gate_rotation="0.208" />
     </Components>
@@ -272,7 +272,7 @@
     </CommonAreas>
   </Settlement>
   <!-- Saffron field -->
-  <Settlement id="village_EN1_1" name="{=Settlements.Settlement.name.village_EN1_1}Marathea" posX="706.855" posY="1196.551" culture="Culture.Baltic" text="{=Settlements.Settlement.text.village_EN1_1}Marathea lies on a narrow shelf of land between the Miron river and Mount Aracathos, the tallest peak in the Dryatic mountains. The villagers are skilled miners, extracting iron ores from the nearby cliffside.">
+  <Settlement id="village_EN1_1" name="{=Settlements.Settlement.name.village_EN1_1}Marathea" posX="706.855" posY="1196.551" culture="Culture.baltic" text="{=Settlements.Settlement.text.village_EN1_1}Marathea lies on a narrow shelf of land between the Miron river and Mount Aracathos, the tallest peak in the Dryatic mountains. The villagers are skilled miners, extracting iron ores from the nearby cliffside.">
     <Components>
       <Village id="village_comp_EN1_1" village_type="VillageType.iron_mine" hearth="322"  bound="Settlement.town_EN1" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -286,7 +286,7 @@
     </CommonAreas>
   </Settlement>
   <!-- Horsefold -->
-  <Settlement id="village_EN1_2" name="{=Settlements.Settlement.name.village_EN1_2}Stathymos" posX="678.664" posY="1208.558" culture="Culture.Baltic" text="{=Settlements.Settlement.text.village_EN1_2}Stathymos lies in a narrow valley beneath a towering ridge of the Dryatic mountains. The highland streams wash fertile soil down the hillsides, making this district one of the breadbaskets of the imperial north.">
+  <Settlement id="village_EN1_2" name="{=Settlements.Settlement.name.village_EN1_2}Stathymos" posX="678.664" posY="1208.558" culture="Culture.baltic" text="{=Settlements.Settlement.text.village_EN1_2}Stathymos lies in a narrow valley beneath a towering ridge of the Dryatic mountains. The highland streams wash fertile soil down the hillsides, making this district one of the breadbaskets of the imperial north.">
     <Components>
       <Village id="village_comp_EN1_2" village_type="VillageType.wheat_farm" hearth="125"  bound="Settlement.town_EN1" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -299,7 +299,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_EN1_3" name="{=Settlements.Settlement.name.village_EN1_3}Gymos" posX="710.748" posY="1218.556" culture="Culture.Baltic" text="{=Settlements.Settlement.text.village_EN1_3}Gymos is a quiet fishing village in the Diathmic Bay, on the far west of Lake Laconis. Villagers harvest pike from the bay's deep waters.">
+  <Settlement id="village_EN1_3" name="{=Settlements.Settlement.name.village_EN1_3}Gymos" posX="710.748" posY="1218.556" culture="Culture.baltic" text="{=Settlements.Settlement.text.village_EN1_3}Gymos is a quiet fishing village in the Diathmic Bay, on the far west of Lake Laconis. Villagers harvest pike from the bay's deep waters.">
     <Components>
       <Village id="village_comp_EN1_3" village_type="VillageType.fisherman" hearth="125"  bound="Settlement.town_EN1" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -421,7 +421,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_village_EN1_2" name="{=Settlements.Settlement.name.castle_village_EN1_2}Aeoria" posX="726.526" posY="1186.957" culture="Culture.Baltic" text="{=Settlements.Settlement.text.village_EN3_2}Aeoria sits in the fertile Vale of the Aris, in the heartland of the Empire. The dialect here is laced with words from Palaic, the language spoken in the center of the continent before the Empire came.">
+  <Settlement id="castle_village_EN1_2" name="{=Settlements.Settlement.name.castle_village_EN1_2}Aeoria" posX="726.526" posY="1186.957" culture="Culture.baltic" text="{=Settlements.Settlement.text.village_EN3_2}Aeoria sits in the fertile Vale of the Aris, in the heartland of the Empire. The dialect here is laced with words from Palaic, the language spoken in the center of the continent before the Empire came.">
     <Components>
       <Village id="castle_village_comp_EN1_2" village_type="VillageType.wheat_farm" hearth="221" gate_rotation="0.158"  bound="Settlement.castle_EN1" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -847,7 +847,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_EW8" name="{=Settlements.Settlement.name.castle_EW8}Gersegos Castle" owner="Faction.clan_empire_west_9" posX="275.744" posY="936.685" culture="Culture.Etruscan" prosperity="610" gate_posX="274.6428" gate_posY="934.486">
+  <Settlement id="castle_EW8" name="{=Settlements.Settlement.name.castle_EW8}Gersegos Castle" owner="Faction.clan_empire_west_9" posX="275.744" posY="936.685" culture="Culture.etruscan" prosperity="610" gate_posX="274.6428" gate_posY="934.486">
     <Components>
       <Town id="castle_comp_EW8" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_empire_town" gate_rotation="0.408" />
     </Components>
@@ -857,7 +857,7 @@
       <Location id="prison" scene_name="empire_dungeon_a" />
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_EW8_1" name="{=Settlements.Settlement.name.castle_village_EW8_1}Gersegos" posX="299.587" posY="897.398" culture="Culture.Etruscan" text="{=Settlements.Settlement.text.castle_village_EW8_1}Gersegos sits in the gorges of the Miron river, as it cuts between the cliffs of the Cursion Escarpment and the Dryatic mountains. Villagers have sunk mines into a spur that overlooks the village, extracting silver and other precious metals.">
+  <Settlement id="castle_village_EW8_1" name="{=Settlements.Settlement.name.castle_village_EW8_1}Gersegos" posX="299.587" posY="897.398" culture="Culture.etruscan" text="{=Settlements.Settlement.text.castle_village_EW8_1}Gersegos sits in the gorges of the Miron river, as it cuts between the cliffs of the Cursion Escarpment and the Dryatic mountains. Villagers have sunk mines into a spur that overlooks the village, extracting silver and other precious metals.">
     <Components>
       <Village id="village_comp_EW8_1" village_type="VillageType.silver_mine" hearth="201"  bound="Settlement.castle_EW8" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -1066,7 +1066,7 @@
   </Settlement>
   <!-- Ortysia sits on a low-lying delta near the end of the lake. Reed-beds, like Itil or Astrakhan -->
   <!-- quailmarsh -->
-  <Settlement id="town_EW4" name="{=Settlements.Settlement.name.town_EW4}Ortysia" owner="Faction.clan_empire_west_8" posX="339.894" posY="895.315" culture="Culture.Etruscan" prosperity="5600" gate_posX="340.1175" gate_posY="898.6075" text="{=JhBSnWAe}Ortysia, named for the quails who inhabit the nearby coastal marshes, was the first Calradian colony on the shores of the Perassic Sea. In its early centuries, it fell under the authority of the Kannic city-state of Quyaz, but the empire's expansion soon united the colony with its mother republic. For centuries, sailors coming from the pirate-infested islands of the Bay of Charas gave thanks when they saw its towers looming through the haze of the western Perassic, signalling a return to safe imperial-patrolled waters.">
+  <Settlement id="town_EW4" name="{=Settlements.Settlement.name.town_EW4}Ortysia" owner="Faction.clan_empire_west_8" posX="339.894" posY="895.315" culture="Culture.etruscan" prosperity="5600" gate_posX="340.1175" gate_posY="898.6075" text="{=JhBSnWAe}Ortysia, named for the quails who inhabit the nearby coastal marshes, was the first Calradian colony on the shores of the Perassic Sea. In its early centuries, it fell under the authority of the Kannic city-state of Quyaz, but the empire's expansion soon united the colony with its mother republic. For centuries, sailors coming from the pirate-infested islands of the Bay of Charas gave thanks when they saw its towers looming through the haze of the western Perassic, signalling a return to safe imperial-patrolled waters.">
     <Components>
       <Town id="town_comp_EW4" is_castle="false" level="2" background_crop_position="0.45" background_mesh="menu_empire_seaside_2" wait_mesh="wait_empire_town" gate_rotation="0.908" />
     </Components>
@@ -1086,7 +1086,7 @@
       <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_EW4_1" name="{=Settlements.Settlement.name.village_EW4_1}Arpotis" posX="363.68" posY="919.306" culture="Culture.Etruscan" text="{=Settlements.Settlement.text.village_EW4_1}Arpotis sits on a high bluff overlooking the confluences of the Aminys, Gavys and Zeos rivers. The sides of the hills are terraced to grow wheat, with cisterns to catch the rain blowing up from the sea.">
+  <Settlement id="village_EW4_1" name="{=Settlements.Settlement.name.village_EW4_1}Arpotis" posX="363.68" posY="919.306" culture="Culture.etruscan" text="{=Settlements.Settlement.text.village_EW4_1}Arpotis sits on a high bluff overlooking the confluences of the Aminys, Gavys and Zeos rivers. The sides of the hills are terraced to grow wheat, with cisterns to catch the rain blowing up from the sea.">
     <Components>
       <Village id="village_comp_EW4_1" village_type="VillageType.wheat_farm" hearth="825" gate_rotation="0.408"  bound="Settlement.town_EW4" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -1112,7 +1112,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_EW4_3" name="{=Settlements.Settlement.name.village_EW4_3}Vinela" posX="313.279" posY="884.142" culture="Culture.Etruscan" text="{=Settlements.Settlement.text.village_EW4_3}Vinela sits beneath the waterfalls where the Aminys river rushes down to join the Perassic Sea. Villagers collect salt from the sea in the shadow of coastal cliffs.">
+  <Settlement id="village_EW4_3" name="{=Settlements.Settlement.name.village_EW4_3}Vinela" posX="313.279" posY="884.142" culture="Culture.etruscan" text="{=Settlements.Settlement.text.village_EW4_3}Vinela sits beneath the waterfalls where the Aminys river rushes down to join the Perassic Sea. Villagers collect salt from the sea in the shadow of coastal cliffs.">
     <Components>
       <Village id="village_comp_EW4_3" village_type="VillageType.salt_mine" hearth="655"  bound="Settlement.town_EW4" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -1125,7 +1125,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_EW4_4" name="{=Settlements.Settlement.name.village_EW4_4}Garengolia" posX="314.678" posY="910.965" culture="Culture.Etruscan" text="{=Settlements.Settlement.text.village_EW4_4}Garengolia lies near a rich vein of silver in hills overlooking the Gavys river. The Empire have minted its denars from these mines for centuries.">
+  <Settlement id="village_EW4_4" name="{=Settlements.Settlement.name.village_EW4_4}Garengolia" posX="314.678" posY="910.965" culture="Culture.etruscan" text="{=Settlements.Settlement.text.village_EW4_4}Garengolia lies near a rich vein of silver in hills overlooking the Gavys river. The Empire have minted its denars from these mines for centuries.">
     <Components>
       <Village id="village_comp_EW4_4" village_type="VillageType.silver_mine" hearth="395"  bound="Settlement.town_EW4" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -1221,7 +1221,7 @@
     </CommonAreas>
   </Settlement>
   <!-- Redrock -->
-  <Settlement id="castle_village_EW8_2" name="{=Settlements.Settlement.name.castle_village_EW8_2}Vathea" posX="291.987" posY="918.268" culture="Culture.Etruscan" text="{=Settlements.Settlement.text.village_EW6_2}Vathea sits high on the slopes of the Dryatic mountains, facing across the valley to the great basalt slab of Mount Erithrys. The villagers mine iron from shafts sunk deep into the cliffs of the mountains.">
+  <Settlement id="castle_village_EW8_2" name="{=Settlements.Settlement.name.castle_village_EW8_2}Vathea" posX="291.987" posY="918.268" culture="Culture.etruscan" text="{=Settlements.Settlement.text.village_EW6_2}Vathea sits high on the slopes of the Dryatic mountains, facing across the valley to the great basalt slab of Mount Erithrys. The villagers mine iron from shafts sunk deep into the cliffs of the mountains.">
     <Components>
       <Village id="castle_village_comp_EW8_2" village_type="VillageType.iron_mine" hearth="104" gate_rotation="0.008"  bound="Settlement.castle_EW8" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -1319,7 +1319,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_ES3" name="{=Settlements.Settlement.name.castle_ES3}Melion Castle" owner="Faction.clan_empire_north_7" posX="721.519" posY="875.307" culture="Culture.Epirus" prosperity="810" gate_posX="720.2406" gate_posY="878.0064">
+  <Settlement id="castle_ES3" name="{=Settlements.Settlement.name.castle_ES3}Melion Castle" owner="Faction.clan_empire_north_7" posX="721.519" posY="875.307" culture="Culture.epirus" prosperity="810" gate_posX="720.2406" gate_posY="878.0064">
     <Components>
       <Town id="castle_comp_ES3" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_empire_town" gate_rotation="0.908" />
     </Components>
@@ -1329,7 +1329,7 @@
       <Location id="prison" scene_name="empire_dungeon_a" />
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_ES3_1" name="{=Settlements.Settlement.name.castle_village_ES3_1}Melion" posX="706.412" posY="885.228" culture="Culture.Epirus" text="{=Settlements.Settlement.text.castle_village_ES3_1}Melion in a narrow valley near the center of the Myzead, a rugged plateau in the east of the Empire. Villagers here cultivate mulberry bushes. The leaves are harvested and fed to silkworks, producing thread much valued by both refined imperial nobles for their courtwear and hard-riding nomads and frontiersmen, who wear it beneath their armor as an extra layer of protection against arrows.">
+  <Settlement id="castle_village_ES3_1" name="{=Settlements.Settlement.name.castle_village_ES3_1}Melion" posX="706.412" posY="885.228" culture="Culture.epirus" text="{=Settlements.Settlement.text.castle_village_ES3_1}Melion in a narrow valley near the center of the Myzead, a rugged plateau in the east of the Empire. Villagers here cultivate mulberry bushes. The leaves are harvested and fed to silkworks, producing thread much valued by both refined imperial nobles for their courtwear and hard-riding nomads and frontiersmen, who wear it beneath their armor as an extra layer of protection against arrows.">
     <Components>
       <Village id="castle_village_comp_ES3_1" village_type="VillageType.silk_plant" hearth="448" gate_rotation="0.308"  bound="Settlement.castle_ES3" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -1342,7 +1342,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_village_ES3_2" name="{=Settlements.Settlement.name.castle_village_ES3_2}Sagolina" posX="700.582" posY="867.045" culture="Culture.Epirus" text="{=Settlements.Settlement.text.castle_village_ES3_2}Sagolina sits at the foot of a narrow valley in the Myzead, a rugged plateau in eastern Calradia. The silver mined from nearby hills helps explain the effort and expense to which the Empire has gone in past centuries to conquer and defend these lands.">
+  <Settlement id="castle_village_ES3_2" name="{=Settlements.Settlement.name.castle_village_ES3_2}Sagolina" posX="700.582" posY="867.045" culture="Culture.epirus" text="{=Settlements.Settlement.text.castle_village_ES3_2}Sagolina sits at the foot of a narrow valley in the Myzead, a rugged plateau in eastern Calradia. The silver mined from nearby hills helps explain the effort and expense to which the Empire has gone in past centuries to conquer and defend these lands.">
     <Components>
       <Village id="castle_village_comp_ES3_2" village_type="VillageType.silver_mine" hearth="448" gate_rotation="0.308"  bound="Settlement.castle_ES3" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -1355,7 +1355,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_ES4" name="{=Settlements.Settlement.name.castle_ES4}Lavenia Castle" owner="Faction.clan_empire_south_4" posX="518.815" posY="914.911" culture="Culture.Etruscan" prosperity="1100" gate_posX="519.5365" gate_posY="917.3104">
+  <Settlement id="castle_ES4" name="{=Settlements.Settlement.name.castle_ES4}Lavenia Castle" owner="Faction.clan_empire_south_4" posX="518.815" posY="914.911" culture="Culture.etruscan" prosperity="1100" gate_posX="519.5365" gate_posY="917.3104">
     <Components>
       <Town id="castle_comp_ES4" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_empire_town" gate_rotation="0.908" />
     </Components>
@@ -1365,7 +1365,7 @@
       <Location id="prison" scene_name="empire_dungeon_a" />
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_ES4_1" name="{=Settlements.Settlement.name.castle_village_ES4_1}Lavenia" posX="554.006" posY="941.902" culture="Culture.Etruscan" text="{=Settlements.Settlement.text.castle_village_ES4_1}Lavenia is a fishing village on the northeastern shores of the Perassic Sea. The nearby castle guards one of the main passages over the network of lakes and salt lagoons known as the Calsea, one of the gateways to Aserai lands.">
+  <Settlement id="castle_village_ES4_1" name="{=Settlements.Settlement.name.castle_village_ES4_1}Lavenia" posX="554.006" posY="941.902" culture="Culture.etruscan" text="{=Settlements.Settlement.text.castle_village_ES4_1}Lavenia is a fishing village on the northeastern shores of the Perassic Sea. The nearby castle guards one of the main passages over the network of lakes and salt lagoons known as the Calsea, one of the gateways to Aserai lands.">
     <Components>
       <Village id="castle_village_comp_ES4_1" village_type="VillageType.fisherman" hearth="378" gate_rotation="0.008"  bound="Settlement.castle_ES4" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -1378,7 +1378,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_village_ES4_2" name="{=Settlements.Settlement.name.castle_village_ES4_2}Ethemisa" posX="567.112" posY="931.621" culture="Culture.Etruscan" text="{=Settlements.Settlement.text.castle_village_ES4_2}Ethemisa sits on the river that the Aserai call the Nahr al-Kals, the Bitter River, and what imperial citizens call the Calsa. Here, the river has just descended from the coastal hills and has not yet reached the alkali plains of the southeast. The lands around produce a fine crop of grain.">
+  <Settlement id="castle_village_ES4_2" name="{=Settlements.Settlement.name.castle_village_ES4_2}Ethemisa" posX="567.112" posY="931.621" culture="Culture.etruscan" text="{=Settlements.Settlement.text.castle_village_ES4_2}Ethemisa sits on the river that the Aserai call the Nahr al-Kals, the Bitter River, and what imperial citizens call the Calsa. Here, the river has just descended from the coastal hills and has not yet reached the alkali plains of the southeast. The lands around produce a fine crop of grain.">
     <Components>
       <Village id="castle_village_comp_ES4_2" village_type="VillageType.wheat_farm" hearth="378" gate_rotation="0.008"  bound="Settlement.castle_ES4" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -1810,7 +1810,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_ES6" name="{=Settlements.Settlement.name.town_ES6}Phycaon" owner="Faction.clan_empire_south_3" posX="515.711" posY="975.512" culture="Culture.Etruscan" prosperity="2600" gate_posX="518.191" gate_posY="974.9539" text="{=RL2vacqv}Phycaon sits at the head of the Sethys valley, one of the main grain-producing regions of the central Empire. Once the largest of the Palaic cities, its leaders led a league of the tribes against imperial encroachment into the region. But when the empire's victory looked inevitable, they made their peace. The population, now thoroughly Calradicized, have a reputation for being serious, respectable and trade-minded, dependable if a bit humorless.">
+  <Settlement id="town_ES6" name="{=Settlements.Settlement.name.town_ES6}Phycaon" owner="Faction.clan_empire_south_3" posX="515.711" posY="975.512" culture="Culture.etruscan" prosperity="2600" gate_posX="518.191" gate_posY="974.9539" text="{=RL2vacqv}Phycaon sits at the head of the Sethys valley, one of the main grain-producing regions of the central Empire. Once the largest of the Palaic cities, its leaders led a league of the tribes against imperial encroachment into the region. But when the empire's victory looked inevitable, they made their peace. The population, now thoroughly Calradicized, have a reputation for being serious, respectable and trade-minded, dependable if a bit humorless.">
     <Components>
       <Town id="town_comp_ES6" is_castle="false" level="3" background_crop_position="0.0" background_mesh="menu_empire_2" wait_mesh="wait_empire_town" gate_rotation="0.508" />
     </Components>
@@ -1830,7 +1830,7 @@
       <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_ES6_1" name="{=Settlements.Settlement.name.village_ES6_1}Saldannis" posX="547.235" posY="964.257" culture="Culture.Etruscan" text="{=Settlements.Settlement.text.village_ES6_1}Saldannis lies beneath gypsum bluffs overlooking the River Sethys. The fine soil of the hills makes for a sticky clay when it washes down to the river, much prized by the potters of the imperial south.">
+  <Settlement id="village_ES6_1" name="{=Settlements.Settlement.name.village_ES6_1}Saldannis" posX="547.235" posY="964.257" culture="Culture.etruscan" text="{=Settlements.Settlement.text.village_ES6_1}Saldannis lies beneath gypsum bluffs overlooking the River Sethys. The fine soil of the hills makes for a sticky clay when it washes down to the river, much prized by the potters of the imperial south.">
     <Components>
       <Village id="village_comp_ES6_1" village_type="VillageType.clay_mine" hearth="248" gate_rotation="0.258"  bound="Settlement.town_ES6" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -1844,7 +1844,7 @@
     </CommonAreas>
   </Settlement>
   <!-- Oakwood -->
-  <Settlement id="village_ES6_2" name="{=Settlements.Settlement.name.village_ES6_2}Spotia" posX="527.41" posY="993.068" culture="Culture.Etruscan" text="{=Settlements.Settlement.text.village_ES6_2}Spotia lies alongside the gently flowing Sethys river. The low rolling hills of this district comprise one of the breadbaskets of the Empire.">
+  <Settlement id="village_ES6_2" name="{=Settlements.Settlement.name.village_ES6_2}Spotia" posX="527.41" posY="993.068" culture="Culture.etruscan" text="{=Settlements.Settlement.text.village_ES6_2}Spotia lies alongside the gently flowing Sethys river. The low rolling hills of this district comprise one of the breadbaskets of the Empire.">
     <Components>
       <Village id="village_comp_ES6_2" village_type="VillageType.wheat_farm" hearth="163" gate_rotation="0.108"  bound="Settlement.town_ES6" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -5053,7 +5053,7 @@
     </CommonAreas>
   </Settlement>
   <!-- White fortress-->
-  <Settlement id="town_K2" name="{=Settlements.Settlement.name.town_K2}Apollonia" owner="Faction.clan_empire_north_7" posX="778.145" posY="905.684" culture="Culture.Epirus" prosperity="1700" gate_posX="778.2256" gate_posY="903.1637" text="{=4UNOQQRa}The town that the Khuzaits know as Akkalat, the White Fortress, was built by the fearsome Padishah Hoshtar on one of his periodic attempts to conquer the Devseg. For decades the sacred flame that burned from the top of the citadel symbolized his suzerainty over the tribes here. But the Padishah's realm like the Empire is on the defensive and has retreated to the east. Today the Khan's horsetail banners fly in its place.">
+  <Settlement id="town_K2" name="{=Settlements.Settlement.name.town_K2}Apollonia" owner="Faction.clan_empire_north_7" posX="778.145" posY="905.684" culture="Culture.epirus" prosperity="1700" gate_posX="778.2256" gate_posY="903.1637" text="{=4UNOQQRa}The town that the Khuzaits know as Akkalat, the White Fortress, was built by the fearsome Padishah Hoshtar on one of his periodic attempts to conquer the Devseg. For decades the sacred flame that burned from the top of the citadel symbolized his suzerainty over the tribes here. But the Padishah's realm like the Empire is on the defensive and has retreated to the east. Today the Khan's horsetail banners fly in its place.">
     <Components>
       <Town id="town_comp_K2" is_castle="false" level="2" background_crop_position="0.0" background_mesh="gui_bg_town_khuzait" wait_mesh="wait_khuzait_town" gate_rotation="0.008" />
     </Components>
@@ -5073,7 +5073,7 @@
       <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_K2_1" name="{=Settlements.Settlement.name.village_K2_1}Karakalat" posX="816.802" posY="891.527" culture="Culture.Epirus" text="{=Settlements.Settlement.text.village_K2_1}Karakalat lies in a basin in the flat, eastern edges of the Devseg plateau. Until recently, this land was dominated by nomads, and it is still famous as a breeding ground for horses.">
+  <Settlement id="village_K2_1" name="{=Settlements.Settlement.name.village_K2_1}Karakalat" posX="816.802" posY="891.527" culture="Culture.epirus" text="{=Settlements.Settlement.text.village_K2_1}Karakalat lies in a basin in the flat, eastern edges of the Devseg plateau. Until recently, this land was dominated by nomads, and it is still famous as a breeding ground for horses.">
     <Components>
       <Village id="village_comp_K2_1" village_type="VillageType.steppe_horse_ranch" hearth="216"  bound="Settlement.town_K2" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait" />
     </Components>
@@ -5086,7 +5086,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_K2_2" name="{=Settlements.Settlement.name.village_K2_2}Tismil" posX="789.764" posY="873.013" culture="Culture.Epirus" text="{=Settlements.Settlement.text.village_K2_2}Tismil sits on the Ozu river, which drains the southern end of the Devseg plateau. The people of this land are sheep-herders, who have thrived under Khuzait overlordship as the khans keep nomadic raiders at bay.">
+  <Settlement id="village_K2_2" name="{=Settlements.Settlement.name.village_K2_2}Tismil" posX="789.764" posY="873.013" culture="Culture.epirus" text="{=Settlements.Settlement.text.village_K2_2}Tismil sits on the Ozu river, which drains the southern end of the Devseg plateau. The people of this land are sheep-herders, who have thrived under Khuzait overlordship as the khans keep nomadic raiders at bay.">
     <Components>
       <Village id="village_comp_K2_2" village_type="VillageType.sheep_farm" hearth="162"  bound="Settlement.town_K2" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait" />
     </Components>
