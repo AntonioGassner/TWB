@@ -901,6 +901,7 @@
         </Equipments>
     </NPCCharacter>
 
+<!--    militia -->
     <NPCCharacter id="latin_militia_slinger"
                   default_group="Ranged"
                   level="11"

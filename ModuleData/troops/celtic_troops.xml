@@ -831,6 +831,7 @@
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
+
     <!-- Breton Troops -->
     <NPCCharacter id="breton_youth"
                   default_group="Infantry"
@@ -2970,6 +2971,7 @@
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
+
     <!-- Scordisci Troops -->
     <NPCCharacter id="scordisci_levy"
                   default_group="Infantry"
@@ -4501,7 +4503,6 @@
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
-
 </NPCCharacters>
 
 
