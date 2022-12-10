@@ -392,13 +392,13 @@
         </relationships>
     </Kingdom>
 
-    <Kingdom id="Marui" owner="Hero.lord_3_17"
+    <Kingdom id="Mauri" owner="Hero.lord_3_17"
              banner_key="34.80.122.2219.2100.773.767.0.0.0.130.146.6.483.429.734.724.0.1.0.500.146.102.717.700.764.764.0.0.0"
              primary_banner_color="7f6b60" secondary_banner_color="b6aba7" label_color="ffB01301" color="FF5C2017"
              color2="FFECBA44" alternative_color="FFDBBA27" alternative_color2="ff910101" culture="Culture.mauri"
-             settlement_banner_mesh="encounter_flag_d" flag_mesh="info_screen_flags_c" name="{=marui1}Marui"
-             short_name="{=Maruian}Maruian" title="{=Marui2}Kingdom of Marui" ruler_title="{=monarch}Monarch"
-             text="{=Marui3)Its native inhabitants, seminomadic pastoralists">
+             settlement_banner_mesh="encounter_flag_d" flag_mesh="info_screen_flags_c" name="{=mauri1}Mauri"
+             short_name="{=Maurian}Maurian" title="{=Mauri2}Kingdom of Mauri" ruler_title="{=monarch}Monarch"
+             text="{=Mauri3)Its native inhabitants, seminomadic pastoralists">
         <relationships>
             <relationship kingdom="Kingdom.Massylii" value="1" isAtWar="false"/>
         </relationships>

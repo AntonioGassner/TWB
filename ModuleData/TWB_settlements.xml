@@ -136,7 +136,7 @@
         </CommonAreas>
     </Settlement>
     <Settlement id="castle_EN5" name="{=Settlements.Settlement.name.castle_EN5}Atrion Castle"
-                owner="Faction.clan_empire_north_1" posX="598.87" posY="1143.099" culture="Culture.empire"
+                owner="Faction.clan_battania_5" posX="598.87" posY="1143.099" culture="Culture.sturgia"
                 prosperity="560" gate_posX="598.7966" gate_posY="1145.995">
         <Components>
             <Town id="castle_comp_EN5" is_castle="true" level="2" background_crop_position="0.0"
@@ -151,7 +151,7 @@
         </Locations>
     </Settlement>
     <Settlement id="castle_village_EN5_1" name="{=Settlements.Settlement.name.castle_village_EN5_1}Atrion"
-                posX="578.224" posY="1159.795" culture="Culture.empire"
+                posX="578.224" posY="1159.795" culture="Culture.sturgia"
                 text="{=Settlements.Settlement.text.castle_village_EN5_1}Atrion in the valley of the Nevys, a cold, slow-moving river that drains into Lake Laconis. The level, wet land here is fine for the growing of flax.">
         <Components>
             <Village id="castle_village_comp_EN5_1" village_type="VillageType.silk_plant" hearth="621"
@@ -169,7 +169,7 @@
         </CommonAreas>
     </Settlement>
     <Settlement id="castle_EN6" name="{=Settlements.Settlement.name.castle_EN6}Ataconia Castle"
-                owner="Faction.clan_empire_north_8" posX="516.992" posY="1105.836" culture="Culture.vlandia"
+                owner="Faction.clan_battania_5" posX="516.992" posY="1105.836" culture="Culture.sturgia"
                 prosperity="960" gate_posX="514.5332" gate_posY="1106.251">
         <Components>
             <Town id="castle_comp_EN6" is_castle="true" level="3" background_crop_position="0.0"
@@ -184,7 +184,7 @@
         </Locations>
     </Settlement>
     <Settlement id="castle_village_EN6_1" name="{=Settlements.Settlement.name.castle_village_EN6_1}Ataconia"
-                posX="487.958" posY="1097.368" culture="Culture.vlandia"
+                posX="487.958" posY="1097.368" culture="Culture.sturgia"
                 text="{=Settlements.Settlement.text.castle_village_EN6_1}Ataconia sits on a plateau in the piedmont of the Dryatic mountains. The people of this area are skilled at finding seams of silver ore exposed by the streams rushing down from the mountains.">
         <Components>
             <Village id="castle_village_comp_EN6_1" village_type="VillageType.silver_mine" hearth="682"
@@ -253,7 +253,7 @@
         </CommonAreas>
     </Settlement>
     <Settlement id="castle_EN8" name="{=Settlements.Settlement.name.castle_EN8}Syratos Castle"
-                owner="Faction.clan_empire_north_8" posX="645.674" posY="1122.338" culture="Culture.empire"
+                owner="Faction.clan_empire_north_1" posX="645.674" posY="1122.338" culture="Culture.sturgia"
                 prosperity="560" gate_posX="645.8876" gate_posY="1119.397">
         <Components>
             <Town id="castle_comp_EN8" is_castle="true" level="3" background_crop_position="0.0"
@@ -268,7 +268,7 @@
         </Locations>
     </Settlement>
     <Settlement id="castle_village_EN8_1" name="{=Settlements.Settlement.name.castle_village_EN8_1}Syratos"
-                posX="665.881" posY="1122.621" culture="Culture.empire"
+                posX="665.881" posY="1122.621" culture="Culture.sturgia"
                 text="{=Settlements.Settlement.text.castle_village_EN8_1}Syratos at the base of an escarpment just north of Lake Tanaesis. Villagers mine the hills above them, where cold winters crack the stone to reveal fine seams of iron ore.">
         <Components>
             <Village id="castle_village_comp_EN8_1" village_type="VillageType.iron_mine" hearth="422"
@@ -286,7 +286,7 @@
         </CommonAreas>
     </Settlement>
     <Settlement id="castle_village_EN8_2" name="{=Settlements.Settlement.name.castle_village_EN8_2}Tememos"
-                posX="648.735" posY="1099.705" culture="Culture.empire"
+                posX="648.735" posY="1099.705" culture="Culture.sturgia"
                 text="{=Settlements.Settlement.text.castle_village_EN8_2}Tememos lies in heavily wooded hill country at the northern end of Lake Tanaesis. Many of the villagers work as foresters, harvesting oak, beech and pine for the sale to the lake cities.">
         <Components>
             <Village id="castle_village_comp_EN8_2" village_type="VillageType.lumberjack" hearth="422"
@@ -517,7 +517,7 @@
         </CommonAreas>
     </Settlement>
     <Settlement id="castle_village_EN5_2" name="{=Settlements.Settlement.name.castle_village_EN5_2}Masangara"
-                posX="617.008" posY="1155.444" culture="Culture.empire"
+                posX="617.008" posY="1155.444" culture="Culture.sturgia"
                 text="{=Settlements.Settlement.text.village_EN2_3}Masangara sits on the banks of the Nevys, a cold, slow-moving river that empties into Lake Laconis. Cattle are raised here in former marshy woodlands, now drained and turned into meadows.">
         <Components>
             <Village id="castle_village_comp_EN5_2" village_type="VillageType.cattle_farm" hearth="652"
@@ -641,7 +641,7 @@
         </CommonAreas>
     </Settlement>
     <Settlement id="castle_village_EN6_2" name="{=Settlements.Settlement.name.castle_village_EN6_2}Potamis"
-                posX="522.772" posY="1122.399" culture="Culture.vlandia"
+                posX="522.772" posY="1122.399" culture="Culture.sturgia"
                 text="{=Settlements.Settlement.text.village_EN4_1}Potamis sits in a valley in the lower Dryatic mountains. The people of these parts have raised cattle since pre-Calradic times, and its milk and butter are sought out by traders and travellers passing through the region.">
         <Components>
             <Village id="castle_village_comp_EN6_2" village_type="VillageType.cattle_farm" hearth="577"
@@ -1789,7 +1789,7 @@
         </CommonAreas>
     </Settlement>
     <Settlement id="castle_ES3" name="{=Settlements.Settlement.name.castle_ES3}Melion Castle"
-                owner="Faction.clan_empire_north_7" posX="721.519" posY="875.307" culture="Culture.epirus"
+                owner="Faction.clan_vlandia_7" posX="721.519" posY="875.307" culture="Culture.epirus"
                 prosperity="810" gate_posX="720.2406" gate_posY="878.0064">
         <Components>
             <Town id="castle_comp_ES3" is_castle="true" level="1" background_crop_position="0.0"
@@ -2644,7 +2644,7 @@
         </CommonAreas>
     </Settlement>
     <Settlement id="castle_S2" name="{=Settlements.Settlement.name.castle_S2}Mazhadan Castle"
-                owner="Faction.clan_sturgia_6" posX="579.056" posY="1423.457" culture="Culture.sturgia" prosperity="830"
+                owner="Faction.clan_sturgia_5" posX="579.056" posY="1423.457" culture="Culture.sturgia" prosperity="830"
                 gate_posX="578.7113" gate_posY="1421.611">
         <Components>
             <Town id="castle_comp_S2" is_castle="true" level="1" background_crop_position="0.0"
@@ -2781,8 +2781,8 @@
             <Area type="Bog" name="{=iXA5SttU}Bog"/>
         </CommonAreas>
     </Settlement>
-    <Settlement id="castle_S5" name="{=Settlements.Settlement.name.castle_S5}Ov Castle" owner="Faction.clan_sturgia_3"
-                posX="641.41" posY="1369.486" culture="Culture.sturgia" prosperity="800" gate_posX="642.9547"
+    <Settlement id="castle_S5" name="{=Settlements.Settlement.name.castle_S5}Ov Castle" owner="Faction.clan_sturgia_2"
+                posX="641.41" posY="1369.486" culture="Culture.kven" prosperity="800" gate_posX="642.9547"
                 gate_posY="1370.334">
         <Components>
             <Town id="castle_comp_S5" is_castle="true" level="1" background_crop_position="0.0"
@@ -2798,7 +2798,7 @@
         </Locations>
     </Settlement>
     <Settlement id="castle_village_S5_1" name="{=Settlements.Settlement.name.castle_village_S5_1}Ov" posX="663.761"
-                posY="1362.494" culture="Culture.sturgia"
+                posY="1362.494" culture="Culture.kven"
                 text="{=Settlements.Settlement.text.castle_village_S5_1}Ov is a recent Sturgian colony in the Ircara wilds, a forest northwest of Lake Laconis. Villagers brave cold, wolves and the sometimes-hostile, sometimes-friendly peoples of the woods in pursuit of fur, the bounty of the northlands.">
         <Components>
             <Village id="castle_village_comp_S5_1" village_type="VillageType.flax_plant" hearth="403"
@@ -2816,7 +2816,7 @@
         </CommonAreas>
     </Settlement>
     <Settlement id="castle_village_S5_2" name="{=Settlements.Settlement.name.castle_village_S5_2}Ferkh" posX="660.839"
-                posY="1387.898" culture="Culture.sturgia"
+                posY="1387.898" culture="Culture.kven"
                 text="{=Settlements.Settlement.text.castle_village_S5_2}Ferkh lies at the northern edge of the Ircara wildlands, a forest northwest of Lake Laconis. It serves as a base for traders venturing deeper into the woods, brave cold, wolves and the sometimes-hostile, sometimes-friendly peoples of the woods in pursuit of fur, the bounty of the northlands.">
         <Components>
             <Village id="castle_village_comp_S5_2" village_type="VillageType.trapper" hearth="403" gate_rotation="0.008"
@@ -2834,7 +2834,7 @@
         </CommonAreas>
     </Settlement>
     <Settlement id="castle_S6" name="{=Settlements.Settlement.name.castle_S6}Takor Castle"
-                owner="Faction.clan_sturgia_1" posX="627.038" posY="1415.363" culture="Culture.sturgia" prosperity="680"
+                owner="Faction.clan_sturgia_1" posX="627.038" posY="1415.363" culture="Culture.kven" prosperity="680"
                 gate_posX="628.0621" gate_posY="1413.774">
         <Components>
             <Town id="castle_comp_S6" is_castle="true" level="1" background_crop_position="0.0"
@@ -2850,7 +2850,7 @@
         </Locations>
     </Settlement>
     <Settlement id="castle_village_S6_1" name="{=Settlements.Settlement.name.castle_village_S6_1}Takor" posX="649.116"
-                posY="1430.84" culture="Culture.sturgia"
+                posY="1430.84" culture="Culture.kven"
                 text="{=Settlements.Settlement.text.castle_village_S6_1}Takor is a cattle raising village at the pass that the Battanians call Mynad Rhyfel, the mountain of war, and their imperial and Sturgian neighbors call Minador. It is one of the main trading and raiding routes between the wild north and the more settled imperial lands.">
         <Components>
             <Village id="castle_village_comp_S6_1" village_type="VillageType.cattle_farm" hearth="544"
@@ -2868,7 +2868,7 @@
         </CommonAreas>
     </Settlement>
     <Settlement id="castle_S7" name="{=Settlements.Settlement.name.castle_S7}Urikskala Castle"
-                owner="Faction.clan_khuzait_5" posX="531.277" posY="1263.229" culture="Culture.sturgia"
+                owner="Faction.clan_sturgia_6" posX="531.277" posY="1263.229" culture="Culture.sturgia"
                 prosperity="660" gate_posX="529.7394" gate_posY="1262.379">
         <Components>
             <Town id="castle_comp_S7" is_castle="true" level="1" background_crop_position="0.0"
@@ -3082,7 +3082,7 @@
     </Settlement>
     <!-- Dvor mouth -->
     <Settlement id="castle_village_S6_2" name="{=Settlements.Settlement.name.castle_village_S6_2}Dvorusta" posX="634.13"
-                posY="1392.696" culture="Culture.sturgia"
+                posY="1392.696" culture="Culture.kven"
                 text="{=Settlements.Settlement.text.village_S2_3}Dvorusta is a fishing village overlooking the rapids linking the Bay of Varcheg with Lake Laconis. Villagers make their way down the cliffsides at dawn to catch salmon leaping over the rocks, as well as herring and cod in the sea.">
         <Components>
             <Village id="castle_village_comp_S6_2" village_type="VillageType.fisherman" hearth="219"
@@ -3165,7 +3165,7 @@
     <!-- Olek's Faction -->
     <!-- Ravenfield -->
     <Settlement id="town_S4" name="{=Settlements.Settlement.name.town_S4}Varnovapol" owner="Faction.clan_sturgia_7"
-                posX="736.13" posY="1346.9" culture="Culture.sturgia" prosperity="3300" gate_posX="735.3426"
+                posX="736.13" posY="1346.9" culture="Culture.kven" prosperity="3300" gate_posX="735.3426"
                 gate_posY="1349.686"
                 text="{=aTMypBiY}Varnovapol, which sits beneath the Chertyg mountains on the crystal waters of Lake Laconis, has the dubious honor of being perhaps the most-often conquered city in Calradia. Originally it was a colony of the Empire, infamous as a place of exile for dissident senators, before it was seized by Nords as a base to expand their influence into the Sturgian fur trade. It was taken by the Alkit tribe from the eastern steppe and briefly served as the capital of a small khanate, before finally falling to the fierce Ormidoving clan.">
         <Components>
@@ -3193,7 +3193,7 @@
     </Settlement>
     <!-- Storm cape-->
     <Settlement id="village_S4_1" name="{=Settlements.Settlement.name.village_S4_1}Borchovagorka" posX="735.924"
-                posY="1360.545" culture="Culture.sturgia"
+                posY="1360.545" culture="Culture.kven"
                 text="{=Settlements.Settlement.text.village_S4_1}Borchovagorka sits on a small rise on the steep northern shores of Lake Laconis. The village depends primarily on fishing, pulling perch, bream, salmon and occasionally large sturgeon and pike from the lake waters.">
         <Components>
             <Village id="village_comp_S4_1" village_type="VillageType.fisherman" hearth="440" gate_rotation="0.758"
@@ -3229,7 +3229,7 @@
         </CommonAreas>
     </Settlement>
     <Settlement id="village_S4_3" name="{=Settlements.Settlement.name.village_S4_3}Omkany" posX="714.458"
-                posY="1337.263" culture="Culture.sturgia"
+                posY="1337.263" culture="Culture.kven"
                 text="{=Settlements.Settlement.text.village_S4_3}Omkany lies where the Lake Laconis coastline rises up to meet the icy Chertyg mountains. Villagers in this district raise hogs, curing their fat with salt and in garlic and selling it throughout the northlands.">
         <Components>
             <Village id="village_comp_S4_3" village_type="VillageType.swine_farm" hearth="283" gate_rotation="0.408"
@@ -3246,7 +3246,7 @@
         </CommonAreas>
     </Settlement>
     <Settlement id="village_S4_4" name="{=Settlements.Settlement.name.village_S4_4}Yangutum" posX="701.326"
-                posY="1374.194" culture="Culture.sturgia"
+                posY="1374.194" culture="Culture.kven"
                 text="{=Settlements.Settlement.text.village_S4_4}Yangutum sits in a nook of the Chertyg mountains on the north shores of Lake Laconis. Villagers here have found iron ore deposits in the mountainsides.">
         <Components>
             <Village id="village_comp_S4_4" village_type="VillageType.iron_mine" hearth="333" gate_rotation="0.408"
@@ -3264,7 +3264,7 @@
     </Settlement>
     <!-- Name of a local clan hero-->
     <Settlement id="town_S5" name="{=Settlements.Settlement.name.town_S5}Tyal" owner="Faction.clan_sturgia_1"
-                posX="662.48" posY="1474.193" culture="Culture.sturgia" prosperity="1700" gate_posX="662.829"
+                posX="662.48" posY="1474.193" culture="Culture.kven" prosperity="1700" gate_posX="662.829"
                 gate_posY="1470.184"
                 text="{=F5HlQdgf}Tyal sits in the western foothills of Mount Iltan, on the eastern borders of the Sturgian lands. This region has long stood aloof from the power struggles of the other Sturgian principalities. Its people are known as wanderers, traders, horse breeders and fur-trappers. The local aristocracy has occasionally exchanged princesses with the steppe tribes to the east to firm up a truce or a trade pact, and proudly includes the names of several great khans on their list of ancestors.">
         <Components>
@@ -3292,7 +3292,7 @@
     </Settlement>
     <!-- High ford -->
     <Settlement id="village_S5_1" name="{=Settlements.Settlement.name.village_S5_1}Visibrot" posX="676.408"
-                posY="1447.88" culture="Culture.sturgia"
+                posY="1447.88" culture="Culture.kven"
                 text="{=Settlements.Settlement.text.village_S5_1}Visibrot is a sheep-rearing village on the lower slopes of Mount Iltan, just below the network of glacial lakes known as the Iltan portages. Though this region is cold and remote, its importance as a trade juncture between Lakes Laconis and Tanaesis, between the Empire and the steppe, mean that it is relatively densely populated.">
         <Components>
             <Village id="village_comp_S5_1" village_type="VillageType.sheep_farm" hearth="530" gate_rotation="0.308"
@@ -3310,7 +3310,7 @@
     </Settlement>
     <!-- Little bull -->
     <Settlement id="village_S5_2" name="{=Settlements.Settlement.name.village_S5_2}Bukits" posX="690.217"
-                posY="1415.885" culture="Culture.sturgia"
+                posY="1415.885" culture="Culture.kven"
                 text="{=Settlements.Settlement.text.village_S5_2}Bukits sits on the eastern slopes of Mount Iltan on the Khuzait frontier. Villagers raise highland cattle here, bred to withstand the icy gusts that tear down the mountain.">
         <Components>
             <Village id="village_comp_S5_2" village_type="VillageType.cattle_farm" hearth="126"
@@ -3346,7 +3346,7 @@
     </Settlement>
     <!-- Name of a local clan hero-->
     <Settlement id="town_S6" name="{=Settlements.Settlement.name.town_S6}Sibir" owner="Faction.clan_sturgia_2"
-                posX="733.992" posY="1438.935" culture="Culture.sturgia" prosperity="1900" gate_posX="729.3396"
+                posX="733.992" posY="1438.935" culture="Culture.kven" prosperity="1900" gate_posX="729.3396"
                 gate_posY="1438.077"
                 text="{=PPadNxa6}Sibir was founded in a dark valley amid the Chertyg mountains by Nordic traders, who wished a base to buy furs from the local Vakken-speaking foresters. As the Sturgian tribes became principalities, and elected chieftains evolved into boyars who demanded taxes and labor as their due, this region became a magnet for Sturgians who had little taste for deference. Today, the ambitious Isyaroving family governs this region, but they must always balance their hunger for wealth and men to fight their wars with their subjects' reluctance to provide it.">
         <Components>
@@ -3373,7 +3373,7 @@
         </CommonAreas>
     </Settlement>
     <Settlement id="village_S6_1" name="{=Settlements.Settlement.name.village_S6_1}Kvol" posX="690.193" posY="1476.067"
-                culture="Culture.sturgia"
+                culture="Culture.kven"
                 text="{=Settlements.Settlement.text.village_S6_1}The villagers of Kvol raise small, sturdy cattle at the base of the Chertyg mountains. They include the descendants of refugees and malcontents from across Calradia, seeking isolation in the cold northern forests.">
         <Components>
             <Village id="village_comp_S6_1" village_type="VillageType.cattle_farm" hearth="508"
@@ -3391,7 +3391,7 @@
     </Settlement>
     <!-- Honeymarket -->
     <Settlement id="village_S6_2" name="{=Settlements.Settlement.name.village_S6_2}Radakmed" posX="712.867"
-                posY="1461.805" culture="Culture.sturgia"
+                posY="1461.805" culture="Culture.kven"
                 text="{=Settlements.Settlement.text.village_S6_2}Radakmed sits in a basin amid the Chertyg mountains. Villagers here grow flax in the marshy valley floor.">
         <Components>
             <Village id="village_comp_S6_2" village_type="VillageType.trapper" hearth="339" bound="Settlement.town_S6"
@@ -3408,7 +3408,7 @@
         </CommonAreas>
     </Settlement>
     <Settlement id="village_S6_3" name="{=Settlements.Settlement.name.village_S6_3}Alebat" posX="718.796"
-                posY="1443.627" culture="Culture.sturgia"
+                posY="1443.627" culture="Culture.kven"
                 text="{=Settlements.Settlement.text.village_S6_3}Alebat sits deep in the forests of northeastern Sturgia. This isolated region has long been a refuge for those fleeing oppression or debt or bloodfeud across the northlands, and the dialect is strongly influenced by the tongue of the Vanni woodspeople.">
         <Components>
             <Village id="village_comp_S6_3" village_type="VillageType.lumberjack" hearth="201"
@@ -3589,7 +3589,7 @@
         </CommonAreas>
     </Settlement>
     <Settlement id="castle_A3" name="{=Settlements.Settlement.name.castle_A3}Ain Baliq Castle"
-                owner="Faction.clan_aserai_5" posX="64.042" posY="660.436" culture="Culture.mauri" prosperity="980"
+                owner="Faction.clan_aserai_4" posX="64.042" posY="660.436" culture="Culture.mauri" prosperity="980"
                 gate_posX="65.46052" gate_posY="661.4896">
         <Components>
             <Town id="castle_comp_A3" is_castle="true" level="1" background_crop_position="0.0"
@@ -3640,7 +3640,7 @@
         </CommonAreas>
     </Settlement>
     <Settlement id="castle_A4" name="{=Settlements.Settlement.name.castle_A4}Medeni Castle"
-                owner="Faction.clan_aserai_4" posX="534.974" posY="738.435" culture="Culture.aserai" prosperity="750"
+                owner="Faction.clan_aserai_1" posX="534.974" posY="738.435" culture="Culture.aserai" prosperity="750"
                 gate_posX="536.7408" gate_posY="738.4577">
         <Components>
             <Town id="castle_comp_A4" is_castle="true" level="1" background_crop_position="0.0"
@@ -4048,7 +4048,7 @@
             <Area type="Bog" name="{=iXA5SttU}Bog"/>
         </CommonAreas>
     </Settlement>
-    <Settlement id="town_A3" name="{=Settlements.Settlement.name.town_A3}Iyakis" owner="Faction.clan_aserai_5"
+    <Settlement id="town_A3" name="{=Settlements.Settlement.name.town_A3}Iyakis" owner="Faction.clan_aserai_4"
                 posX="99.629" posY="659.48" culture="Culture.mauri" prosperity="1800" gate_posX="98.21984"
                 gate_posY="662.1496"
                 text="{=NFIYqaab}Iyakis sits in a cleft in the Jarjara escarpment, where the waters of the fierce but brief desert rains can be trapped and used for irrigation. For generations ago it was an autonomous outpost of the Empire known as Yachios, dominated by the Carasios clan. Fifty years ago however they saw the writing on the wall for imperial dominion in the southlands, and began intermarrying themselves with the tribes of the Nahasa. Today, known as the Qaraz, they take their places in the councils of the sultanate like any other family of the Aserai.">
@@ -4299,7 +4299,7 @@
             <Area type="Bog" name="{=iXA5SttU}Bog"/>
         </CommonAreas>
     </Settlement>
-    <Settlement id="town_A6" name="{=Settlements.Settlement.name.town_A6}Sanala" owner="Faction.clan_aserai_1"
+    <Settlement id="town_A6" name="{=Settlements.Settlement.name.town_A6}Sanala" owner="Faction.clan_aserai_2"
                 posX="334.881" posY="771.133" culture="Culture.aserai" prosperity="4300" gate_posX="337.3747"
                 gate_posY="770.4727"
                 text="{=uO4dxCl8}The port of Sanala is the gateway through which the grain of the lower Damar has flowed forth to feed a hungry world. The Empire's periodic advances south of the Perassic Sea have usually been aimed at seizing this strategic prize. Although the legions were long ago forced to retreat, Sanala remains among the most cosmopolitan cities in Calradia, filled with merchants from many lands bidding for the lowest bulk prices.">
@@ -4636,7 +4636,7 @@
         </CommonAreas>
     </Settlement>
     <Settlement id="castle_V3" name="{=Settlements.Settlement.name.castle_V3}Drapand Castle"
-                owner="Faction.clan_vlandia_7" posX="376.905" posY="1012.303" prosperity="830" culture="Culture.vlandia"
+                owner="Faction.clan_vlandia_1" posX="376.905" posY="1012.303" prosperity="830" culture="Culture.vlandia"
                 gate_posX="377.3889" gate_posY="1013.22">
         <Components>
             <Town id="castle_comp_V3" is_castle="true" level="1" background_crop_position="0.0"
@@ -4754,7 +4754,7 @@
         </CommonAreas>
     </Settlement>
     <Settlement id="castle_V6" name="{=Settlements.Settlement.name.castle_V6}Caleus Castle"
-                owner="Faction.clan_vlandia_1" posX="331.3" posY="995.413" culture="Culture.vlandia" prosperity="760"
+                owner="Faction.clan_vlandia_5" posX="331.3" posY="995.413" culture="Culture.vlandia" prosperity="760"
                 gate_posX="330.3163" gate_posY="995.264">
         <Components>
             <Town id="castle_comp_V6" is_castle="true" level="1" background_crop_position="0.0"
@@ -5562,7 +5562,7 @@
     </Settlement>
     <!-- Battania = 5 towns, 16 villages, 6 castles, 4.00 villages per town, 38% castle ratio -->
     <Settlement id="castle_B1" name="{=Settlements.Settlement.name.castle_B1}Ab Comer Castle"
-                owner="Faction.clan_battania_5" posX="79.264" posY="1210.399" culture="Culture.battania"
+                owner="Faction.clan_battania_3" posX="79.264" posY="1210.399" culture="Culture.battania"
                 prosperity="880" gate_posX="78.97039" gate_posY="1208.186">
         <Components>
             <Town id="castle_comp_B1" is_castle="true" level="2" background_crop_position="0.0"
@@ -5716,7 +5716,7 @@
         </CommonAreas>
     </Settlement>
     <Settlement id="castle_B5" name="{=Settlements.Settlement.name.castle_B5}Rhemtoil Castle"
-                owner="Faction.clan_battania_3" posX="62.03" posY="1170.065" culture="Culture.battania" prosperity="860"
+                owner="Faction.clan_battania_4" posX="62.03" posY="1170.065" culture="Culture.battania" prosperity="860"
                 gate_posX="64.21728" gate_posY="1169.835">
         <Components>
             <Town id="castle_comp_B5" is_castle="true" level="2" background_crop_position="0.0"
@@ -5888,7 +5888,7 @@
         </CommonAreas>
     </Settlement>
     <!-- Ford of the Horse -->
-    <Settlement id="town_B1" name="{=Settlements.Settlement.name.town_B1}Marunath" owner="Faction.clan_battania_4"
+    <Settlement id="town_B1" name="{=Settlements.Settlement.name.town_B1}Marunath" owner="Faction.clan_battania_3"
                 posX="133.789" posY="1193.751" culture="Culture.battania" prosperity="5000" gate_posX="133.7872"
                 gate_posY="1193.764"
                 text="{=Jm2uZiwV}Marunath, the 'Horse of the Ford,' is nowhere near a river. But Battanian bards love nothing more than an incongruous place-name around which a legend can be woven. In this case the hero Ochlaigan, who was foretold to defeat the seven sons of Glanys in seven duels near seven fords, encountered the last of his enemies here. He slit his horse's throat and crossed over the stream of blood that gushed forth, defeating his last enemy and fulfiling the prophecy.">
@@ -6315,7 +6315,7 @@
             <Area type="Bog" name="{=iXA5SttU}Bog"/>
         </CommonAreas>
     </Settlement>
-    <Settlement id="town_B5" name="{=Settlements.Settlement.name.town_B5}Pen Cannoc" owner="Faction.clan_battania_3"
+    <Settlement id="town_B5" name="{=Settlements.Settlement.name.town_B5}Pen Cannoc" owner="Faction.clan_battania_4"
                 posX="107.851" posY="1167.632" culture="Culture.battania" prosperity="3800" gate_posX="107.2433"
                 gate_posY="1170.272"
                 text="{=4OAz8urz}Pen Cannoc sits on a promontory overlooking the Trand river as it plunges from the Uchalion plateau into the Vlandian lowlands. Legends speak of the water-nymphs who live in the dark pools under the rock, luring travellers and invaders to their deaths, except on those rare occasions when they fall in love with a hero and grant him victory and blessings. Certainly the fisherfolk of this region have learned respect for the perils of the upper Trand, where a small misstep on slippery stone can cast one off a precipice into the waters below.">
@@ -6499,7 +6499,7 @@
         </CommonAreas>
     </Settlement>
     <Settlement id="castle_K3" name="{=Settlements.Settlement.name.castle_K3}Hakkun Castle"
-                owner="Faction.clan_khuzait_8" posX="720.345" posY="1125.011" culture="Culture.khuzait" prosperity="660"
+                owner="Faction.clan_sturgia_3" posX="720.345" posY="1125.011" culture="Culture.baltic" prosperity="660"
                 gate_posX="720.8953" gate_posY="1123.289">
         <Components>
             <Town id="castle_comp_K3" is_castle="true" level="3" background_crop_position="0.0"
@@ -6515,7 +6515,7 @@
         </Locations>
     </Settlement>
     <Settlement id="castle_village_K3_1" name="{=Settlements.Settlement.name.castle_village_K3_1}Hakkun" posX="714.91"
-                posY="1098.756" culture="Culture.khuzait"
+                posY="1098.756" culture="Culture.baltic"
                 text="{=Settlements.Settlement.text.castle_village_K3_1}The village of Hakkun is perched atop the escarpment of the Akkan hills. The people of these parts have long mined silver from the mountains, a trade that the Khuzait khans were happy to encourage when they conquered this region.">
         <Components>
             <Village id="castle_village_comp_K3_1" village_type="VillageType.silver_mine" hearth="132"
@@ -6950,7 +6950,7 @@
         </CommonAreas>
     </Settlement>
     <Settlement id="castle_village_K3_2" name="{=Settlements.Settlement.name.castle_village_K3_2}Kiraz" posX="741.249"
-                posY="1097.742" culture="Culture.khuzait"
+                posY="1097.742" culture="Culture.baltic"
                 text="{=Settlements.Settlement.text.village_K2_4}Kiraz lies in a basin at the southern end of the Devseg plateau. Until recently, this land was dominated by nomads, and the people here still make their living by raising sheep.">
         <Components>
             <Village id="castle_village_comp_K3_2" village_type="VillageType.sheep_farm" hearth="253"
@@ -6969,8 +6969,8 @@
     </Settlement>
     <!-- clan 1, Urkhunait, lords 1, 7, 10, 13 -->
     <!-- swamp city, Atil -->
-    <Settlement id="town_K3" name="{=Settlements.Settlement.name.town_K3}Makeb" owner="Faction.clan_khuzait_1"
-                posX="663.068" posY="1166.37" culture="Culture.khuzait" prosperity="3700" gate_posX="664.3403"
+    <Settlement id="town_K3" name="{=Settlements.Settlement.name.town_K3}Makeb" owner="Faction.clan_sturgia_3"
+                posX="663.068" posY="1166.37" culture="Culture.baltic" prosperity="3700" gate_posX="664.3403"
                 gate_posY="1164.609"
                 text="{=bPDqyqkb}Makeb sits on the northern tip of Lake Tanaesis, Tanaz in the steppe tongue. Here, it guards the cataract over which the Karakaz river empties into the lake. This city has long been ruled by petty khans and shahs, who collect tolls from traders forced to haul their boats around the rapids. The last of those rulers was beheaded by Urkhun himself after he refused a demand of tribute, after which the ruling family of the Khuzaits seized this town for themselves.">
         <Components>
@@ -6997,7 +6997,7 @@
         </CommonAreas>
     </Settlement>
     <Settlement id="village_K3_1" name="{=Settlements.Settlement.name.village_K3_1}Shapeshte" posX="675.09"
-                posY="1146.194" culture="Culture.khuzait"
+                posY="1146.194" culture="Culture.baltic"
                 text="{=Settlements.Settlement.text.village_K3_1}Shapeshte sits where the waters of the Zakhan river meet the Karakaz. The village makes its living from mining nearby salt deposits.">
         <Components>
             <Village id="village_comp_K3_1" village_type="VillageType.salt_mine" hearth="212" gate_rotation="0.008"
@@ -7014,7 +7014,7 @@
         </CommonAreas>
     </Settlement>
     <Settlement id="village_K3_2" name="{=Settlements.Settlement.name.village_K3_2}Hanekhy" posX="698.738"
-                posY="1137.105" culture="Culture.khuzait"
+                posY="1137.105" culture="Culture.baltic"
                 text="{=Settlements.Settlement.text.village_K3_2}Hanekhy sits atop a northern spur of the Akkan hills. The reddish streaks in the soil and rocks testify to rich iron deposits, which are mined by the villagers.">
         <Components>
             <Village id="village_comp_K3_2" village_type="VillageType.iron_mine" hearth="139" bound="Settlement.town_K3"
@@ -7031,7 +7031,7 @@
         </CommonAreas>
     </Settlement>
     <Settlement id="village_K3_3" name="{=Settlements.Settlement.name.village_K3_3}Mazen" posX="723.248" posY="1149.501"
-                culture="Culture.khuzait"
+                culture="Culture.baltic"
                 text="{=Settlements.Settlement.text.village_K3_3}The fishing village of Mazen sits on the northern end of Lake Tanaesis, which the Khuzaits call the Tanaz sea. The villagers set nets in the nearby Karakaz river to catch a variety of fish migrating to and from the lake.">
         <Components>
             <Village id="village_comp_K3_3" village_type="VillageType.fisherman" hearth="178" bound="Settlement.town_K3"
