@@ -512,13 +512,10 @@
              name="{=mddbprXj}Vagiroving"
              tier="3"
              owner="Hero.lord_2_5"
-             culture="Culture.kven"
-             super_faction="Kingdom.Kvens"
+             culture="Culture.baltic"
+             super_faction="Kingdom.Pomeranians"
              banner_key="11.71.4.4345.4345.764.764.1.0.0.502.5.0.510.510.764.764.0.0.0.338.5.0.487.487.764.764.0.0.0.503.5.0.109.109.764.624.0.0.0"/>
 
-
-
-<!--todo change all kvenlands to kven culture-->
     <!-- Kvens  -->
     <Faction id="clan_sturgia_1"
              name="{=A4wIVnM4}Gundaroving"
@@ -779,14 +776,14 @@
              name="{=OVQoC9fn}Comnos"
              tier="5"
              owner="Hero.lord_1_7"
-             culture="Culture.empire"
+             culture="Culture.celtiberian"
              super_faction="Kingdom.Lusitani"
              banner_key="34.121.121.2163.2044.764.764.0.1.180.500.145.144.722.705.755.767.0.1.0.512.145.144.624.609.746.765.0.1.0.512.22.144.567.553.746.765.0.1.0.512.116.144.516.504.746.765.0.1.0.510.22.144.506.264.746.762.0.1.89.511.145.144.191.100.660.760.0.1.89.511.145.144.191.100.827.764.0.0.270.511.145.144.191.100.793.760.0.0.270.511.145.144.191.100.692.762.0.1.89" />
     <Faction id="clan_empire_west_2"
              name="{=a4GxTbPD}Varros"
              tier="5"
              owner="Hero.lord_1_9"
-             culture="Culture.empire"
+             culture="Culture.celtiberian"
              super_faction="Kingdom.Lusitani"
              banner_key="34.121.121.2163.2044.764.764.0.1.180.500.145.144.722.705.755.767.0.1.0.512.145.144.624.609.746.765.0.1.0.512.22.144.567.553.746.765.0.1.0.512.116.144.516.504.746.765.0.1.0.510.22.144.506.264.746.762.0.1.89.406.145.144.99.104.668.762.0.1.89.406.145.144.99.104.819.758.0.1.89" />
 

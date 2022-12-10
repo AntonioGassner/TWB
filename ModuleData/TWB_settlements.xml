@@ -2610,7 +2610,7 @@
     </Settlement>
     <!-- Sturgia - 5 towns, 18 villages, 6 castles, 3.60 villages per town, 33.3% castle ratio -->
     <Settlement id="castle_S1" name="{=Settlements.Settlement.name.castle_S1}Ustokol Castle"
-                owner="Faction.clan_sturgia_4" posX="466.269" posY="1334.043" culture="Culture.sturgia" prosperity="890"
+                owner="Faction.clan_sturgia_4" posX="466.269" posY="1334.043" culture="Culture.kven" prosperity="890"
                 gate_posX="465.9684" gate_posY="1332.165">
         <Components>
             <Town id="castle_comp_S1" is_castle="true" level="3" background_crop_position="0.0"
@@ -2626,7 +2626,7 @@
         </Locations>
     </Settlement>
     <Settlement id="castle_village_S1_1" name="{=Settlements.Settlement.name.castle_village_S1_1}Ustokol" posX="466.29"
-                posY="1324.132" culture="Culture.sturgia"
+                posY="1324.132" culture="Culture.kven"
                 text="{=Settlements.Settlement.text.castle_village_S1_1}Ustokol sits on the windswept Kachyar peninsula, between the Bay of Varcheg and the Byalic Sea. Hardy northern cattle have been bred to eat the short grasses that grow among the rocks, supplemented by sea-kelp in hard times.">
         <Components>
             <Village id="castle_village_comp_S1_1" village_type="VillageType.cattle_farm" hearth="240"
@@ -2644,7 +2644,7 @@
         </CommonAreas>
     </Settlement>
     <Settlement id="castle_S2" name="{=Settlements.Settlement.name.castle_S2}Mazhadan Castle"
-                owner="Faction.clan_sturgia_5" posX="579.056" posY="1423.457" culture="Culture.sturgia" prosperity="830"
+                owner="Faction.clan_sturgia_5" posX="579.056" posY="1423.457" culture="Culture.kven" prosperity="830"
                 gate_posX="578.7113" gate_posY="1421.611">
         <Components>
             <Town id="castle_comp_S2" is_castle="true" level="1" background_crop_position="0.0"
@@ -2660,7 +2660,7 @@
         </Locations>
     </Settlement>
     <Settlement id="castle_village_S2_1" name="{=Settlements.Settlement.name.castle_village_S2_1}Mazhadan"
-                posX="550.784" posY="1381.222" culture="Culture.sturgia"
+                posX="550.784" posY="1381.222" culture="Culture.kven"
                 text="{=Settlements.Settlement.text.castle_village_S2_1}Mazhadan sits near the source of the Galchas river, just west of Lake Laconis. Villagers grow flax in the muddy valleys between the hills in this cold, rainy land.">
         <Components>
             <Village id="castle_village_comp_S2_1" village_type="VillageType.flax_plant" hearth="270"
@@ -2678,7 +2678,7 @@
         </CommonAreas>
     </Settlement>
     <Settlement id="castle_S3" name="{=Settlements.Settlement.name.castle_S3}Nevyansk Castle"
-                owner="Faction.clan_sturgia_8" posX="644.421" posY="1330.568" culture="Culture.sturgia" prosperity="470"
+                owner="Faction.clan_sturgia_8" posX="644.421" posY="1330.568" culture="Culture.kven" prosperity="470"
                 gate_posX="646.2071" gate_posY="1331.181">
         <Components>
             <Town id="castle_comp_S3" is_castle="true" level="3" background_crop_position="0.0"
@@ -2694,7 +2694,7 @@
         </Locations>
     </Settlement>
     <Settlement id="castle_village_S3_1" name="{=Settlements.Settlement.name.castle_village_S3_1}Nevyansk"
-                posX="631.036" posY="1303.649" culture="Culture.sturgia"
+                posX="631.036" posY="1303.649" culture="Culture.kven"
                 text="{=Settlements.Settlement.text.castle_village_S3_1}Nevyansk sits on a flat shelf of land overlooking the Bay of Varcheg. The land is cold, but the runoff from the hills brings rich soil, and villagers grow hardy crops like rye and barley.">
         <Components>
             <Village id="castle_village_comp_S3_1" village_type="VillageType.wheat_farm" hearth="106"
@@ -2712,7 +2712,7 @@
         </CommonAreas>
     </Settlement>
     <Settlement id="castle_village_S3_2" name="{=Settlements.Settlement.name.castle_village_S3_2}Dnin" posX="665.894"
-                posY="1337.315" culture="Culture.sturgia"
+                posY="1337.315" culture="Culture.kven"
                 text="{=Settlements.Settlement.text.castle_village_S3_2}Dnin sits on pastures overlooking the narrowest part of the Bay of Varcheg. Horses graze on the heights, glancing down occasionally at the trading longships and fishing boats passing beneath them.">
         <Components>
             <Village id="castle_village_comp_S3_2" village_type="VillageType.sturgian_horse_ranch" hearth="186"
@@ -2730,7 +2730,7 @@
         </CommonAreas>
     </Settlement>
     <Settlement id="castle_S4" name="{=Settlements.Settlement.name.castle_S4}Kranirog Castle"
-                owner="Faction.clan_sturgia_7" posX="704.5" posY="1307.32" culture="Culture.sturgia" prosperity="1000"
+                owner="Faction.clan_sturgia_7" posX="704.5" posY="1307.32" culture="Culture.kven" prosperity="1000"
                 gate_posX="702.9077" gate_posY="1308.041">
         <Components>
             <Town id="castle_comp_S4" is_castle="true" level="3" background_crop_position="0.0"
@@ -2746,7 +2746,7 @@
         </Locations>
     </Settlement>
     <Settlement id="castle_village_S4_1" name="{=Settlements.Settlement.name.castle_village_S4_1}Kranirog"
-                posX="685.184" posY="1318.599" culture="Culture.sturgia"
+                posX="685.184" posY="1318.599" culture="Culture.kven"
                 text="{=Settlements.Settlement.text.castle_village_S4_1}Kranirog sits in a broaded forested valley looking down on the Galcha river. The villagers in these parts are expert trappers, hunting marten, fox and rabbit for the rich pelts much in demand in the south.">
         <Components>
             <Village id="castle_village_comp_S4_1" village_type="VillageType.trapper" hearth="264" gate_rotation="0.008"
@@ -2764,7 +2764,7 @@
         </CommonAreas>
     </Settlement>
     <Settlement id="castle_village_S4_2" name="{=Settlements.Settlement.name.castle_village_S4_2}Ismilkorg"
-                posX="674.053" posY="1285.378" culture="Culture.sturgia"
+                posX="674.053" posY="1285.378" culture="Culture.kven"
                 text="{=Settlements.Settlement.text.castle_village_S4_2}Ismilkorg sits on grassy downs between the Galcha and Vastra rivers, two small tributaries of the Miron. The people here are mostly cattle-herders as well as cattle-rustlers, and have long traded raids with the imperial frontier villages to the east and Battanians to the west.">
         <Components>
             <Village id="castle_village_comp_S4_2" village_type="VillageType.cattle_farm" hearth="333"
@@ -2902,7 +2902,7 @@
         </CommonAreas>
     </Settlement>
     <Settlement id="castle_S8" name="{=Settlements.Settlement.name.castle_S8}Vladiv Castle"
-                owner="Faction.clan_sturgia_9" posX="753.911" posY="1288.256" culture="Culture.sturgia" prosperity="990"
+                owner="Faction.clan_sturgia_9" posX="753.911" posY="1288.256" culture="Culture.kven" prosperity="990"
                 gate_posX="754.1779" gate_posY="1289.821">
         <Components>
             <Town id="castle_comp_S8" is_castle="true" level="2" background_crop_position="0.0"
@@ -2918,7 +2918,7 @@
         </Locations>
     </Settlement>
     <Settlement id="castle_village_S8_1" name="{=Settlements.Settlement.name.castle_village_S8_1}Vladiv" posX="758.815"
-                posY="1302.911" culture="Culture.sturgia"
+                posY="1302.911" culture="Culture.kven"
                 text="{=Settlements.Settlement.text.castle_village_S8_1}Vladiv sits at the base of Mount Iltan, in a cold, dark wooded valley. The hardy cattle of this region have learned to dig through thick winter snows in search of grass to sustain them until the spring.">
         <Components>
             <Village id="castle_village_comp_S8_1" village_type="VillageType.cattle_farm" hearth="152"
@@ -2937,7 +2937,7 @@
     </Settlement>
     <!-- Varcheg, far-flung on peninsula. Probably Sturgian version of Nordic 'Varjag,' sworn companion -->
     <Settlement id="town_S1" name="{=Settlements.Settlement.name.town_S1}Varcheg" owner="Faction.clan_sturgia_4"
-                posX="436.673" posY="1381.318" culture="Culture.sturgia" prosperity="3100" gate_posX="439.7675"
+                posX="436.673" posY="1381.318" culture="Culture.kven" prosperity="3100" gate_posX="439.7675"
                 gate_posY="1384.896">
         <Components>
             <Town id="town_comp_S1" is_castle="false" level="3" background_crop_position="0.0"
@@ -2964,7 +2964,7 @@
     </Settlement>
     <!-- House of Obas -->
     <Settlement id="village_S1_1" name="{=Settlements.Settlement.name.village_S1_1}Rodobas" posX="456.494"
-                posY="1387.298" culture="Culture.sturgia"
+                posY="1387.298" culture="Culture.kven"
                 text="{=Settlements.Settlement.text.village_S1_1}Rodobas, the house of Obas, is named for a long-dead Sturgian hill chieftain. Perched high on a ridge overlooking the wilds of Ircara, it serves as a base for trappers looking for furs in the dark woods below,">
         <Components>
             <Village id="village_comp_S1_1" village_type="VillageType.trapper" hearth="311" gate_rotation="0.008"
@@ -2982,7 +2982,7 @@
     </Settlement>
     <!-- Probably derives from a tribe -->
     <Settlement id="castle_village_S2_2" name="{=Settlements.Settlement.name.castle_village_S2_2}Forin" posX="587.575"
-                posY="1402.867" culture="Culture.sturgia"
+                posY="1402.867" culture="Culture.kven"
                 text="{=Settlements.Settlement.text.village_S1_2}Forin sits among rye and barley fields next to the Galcha river, on the edge of the Ircara wilds. The village thrives on the grain it sells to the woodland fur-trapping communities.">
         <Components>
             <Village id="castle_village_comp_S2_2" village_type="VillageType.sturgian_horse_ranch" hearth="293"
@@ -3001,7 +3001,7 @@
     </Settlement>
     <!-- From Battanian Car Gryff, Gryf's fortress -->
     <Settlement id="village_S1_3" name="{=Settlements.Settlement.name.village_S1_3}Kargrev" posX="438.367"
-                posY="1397.203" culture="Culture.sturgia"
+                posY="1397.203" culture="Culture.kven"
                 text="{=Settlements.Settlement.text.village_S1_3}Kargrev was once Car Gryff, the ringfort of the Battanian chief Gryff, but was conquered by the Sturgians two generations ago. It lies alongside the Bay of Varcheg, where the local fishermen take advantage of the relatively sheltered waters of the bay, where fish of many kinds come to spawn.">
         <Components>
             <Village id="village_comp_S1_3" village_type="VillageType.fisherman" hearth="197" bound="Settlement.town_S1"
@@ -3019,7 +3019,7 @@
     </Settlement>
     <!-- Coastal towns, Raganvad, White Fortress -->
     <Settlement id="town_S2" name="{=Settlements.Settlement.name.town_S2}Balgard" owner="Faction.clan_sturgia_5"
-                posX="562.669" posY="1369.506" culture="Culture.sturgia" prosperity="2300" gate_posX="567.1112"
+                posX="562.669" posY="1369.506" culture="Culture.kven" prosperity="2300" gate_posX="567.1112"
                 gate_posY="1369.405"
                 text="{=Xom9DeXZ}Balgard, which sits on the icy waters of Mazopor bay, was founded by migrants from the Nordlands. Legend holds that the initial wave of Nords arrogantly demanded tribute from the nearby Vakken and Sturgian tribes, who formed an alliance and drove the newcomers back to their ships. But the victors fell out over the spoils, until a canny Nord, Gundar, landed and volunteered to help them fairly divvy up the weapons and armor of his dead kinsmen. The residents recognized Gundar's lordship over the region and his descendants, intermarried with the Sturgians, are today the grand princes of Sturgia.">
         <Components>
@@ -3046,7 +3046,7 @@
         </CommonAreas>
     </Settlement>
     <Settlement id="village_S2_1" name="{=Settlements.Settlement.name.village_S2_1}Safna" posX="524.822" posY="1359.998"
-                culture="Culture.sturgia"
+                culture="Culture.kven"
                 text="{=Settlements.Settlement.text.village_S2_1}Safna sits on a high ridge overlooking the rapids that link Lake Laconis to the narrow Mazopor Bay. Villagers rear cattle on the grassy shelfs overlooking the sea-cliffs.">
         <Components>
             <Village id="village_comp_S2_1" village_type="VillageType.cattle_farm" hearth="112" gate_rotation="0.008"
@@ -3064,7 +3064,7 @@
     </Settlement>
     <!-- Mar's fortress -->
     <Settlement id="village_S2_2" name="{=Settlements.Settlement.name.village_S2_2}Marabrot" posX="550.547"
-                posY="1352.882" culture="Culture.sturgia"
+                posY="1352.882" culture="Culture.kven"
                 text="{=Settlements.Settlement.text.village_S2_2}Marabrot sits on a high rocky ridge between the fjord known as Mazopor Bay and the Byalic Sea. This harsh land would probably not be settled where it not for the rich iron deposits in the hills.">
         <Components>
             <Village id="village_comp_S2_2" village_type="VillageType.iron_mine" hearth="322" gate_rotation="0.168"
@@ -3100,7 +3100,7 @@
         </CommonAreas>
     </Settlement>
     <Settlement id="town_S3" name="{=Settlements.Settlement.name.town_S3}Omor" owner="Faction.clan_sturgia_8"
-                posX="592.596" posY="1308.141" culture="Culture.sturgia" prosperity="3200" gate_posX="595.0994"
+                posX="592.596" posY="1308.141" culture="Culture.kven" prosperity="3200" gate_posX="595.0994"
                 gate_posY="1304.127"
                 text="{=pbHXtJ82}Omor sits on the eastern shores of Lake Laconis. Long before the Sturgians formed themselves into a principality it was a holy site for the forest tribes, who worshipped their gods and ancestors in the sacred oak trees of the nearby woods. Today, it is an emporium for fur trappers and woodsmen who prowl the Ircara wildlands to the east, and the primeval peace of the forests is drowned out by the sounds of bartering, saws, and the unloading of ships at the lake.">
         <Components>
@@ -3128,7 +3128,7 @@
     </Settlement>
     <!-- Blackwood -->
     <Settlement id="village_S3_1" name="{=Settlements.Settlement.name.village_S3_1}Chornobas" posX="609.81"
-                posY="1329.065" culture="Culture.sturgia"
+                posY="1329.065" culture="Culture.kven"
                 text="{=Settlements.Settlement.text.village_S3_1}Chornobas, or Blackwood, sits in lands cleared from the forests overlooking the cataract through which the Miron river empties into Lake Laconis. The villagers grow rye and barley in fields misted by the spray from the falls.">
         <Components>
             <Village id="village_comp_S3_1" village_type="VillageType.wheat_farm" hearth="125" gate_rotation="0.008"
@@ -3145,7 +3145,7 @@
         </CommonAreas>
     </Settlement>
     <Settlement id="village_S3_2" name="{=Settlements.Settlement.name.village_S3_2}Skorin" posX="603.718"
-                posY="1280.328" culture="Culture.sturgia"
+                posY="1280.328" culture="Culture.kven"
                 text="{=Settlements.Settlement.text.village_S3_2}Skorin sits on a promontory separating Dyatom Bay from the wider Lake Laconis. Villagers pull both freshwater flatfish from the shallow bay waters and bigger catch, including pike, from the main lake.">
         <Components>
             <Village id="village_comp_S3_2" village_type="VillageType.fisherman" hearth="161" gate_rotation="0.908"
@@ -3211,7 +3211,7 @@
     </Settlement>
     <!-- Borcha's hill-->
     <Settlement id="castle_village_S8_2" name="{=Settlements.Settlement.name.castle_village_S8_2}Glavstrom"
-                posX="734.721" posY="1280.107" culture="Culture.sturgia"
+                posX="734.721" posY="1280.107" culture="Culture.kven"
                 text="{=Settlements.Settlement.text.village_S4_2}Glavstrom sits beneath Mount Iltan, a craggy peak in eastern Calradia named for a god of the steppe peoples. These wild lands abound with fur-bearing marten, fox, rabbits and other animals.">
         <Components>
             <Village id="castle_village_comp_S8_2" village_type="VillageType.trapper" hearth="283" gate_rotation="0.408"
@@ -3486,7 +3486,7 @@
         </CommonAreas>
     </Settlement>
     <Settlement id="castle_village_S1_2" name="{=Settlements.Settlement.name.castle_village_S1_2}Zhemyan" posX="496.167"
-                posY="1337.841" culture="Culture.sturgia"
+                posY="1337.841" culture="Culture.kven"
                 text="{=Settlements.Settlement.text.village_S7_3}Zhemyan is a fishing village at the northern shores of the Kachyar peninsula. Villagers brave the storms that sweep through the Byalic Sea to pull up ample catches of cod, char, and sometimes even small whales.">
         <Components>
             <Village id="castle_village_comp_S1_2" village_type="VillageType.sturgian_horse_ranch" hearth="100"
