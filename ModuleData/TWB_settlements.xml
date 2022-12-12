@@ -3263,10 +3263,10 @@
         </CommonAreas>
     </Settlement>
     <!-- Name of a local clan hero-->
-    <Settlement id="town_S5" name="{=Settlements.Settlement.name.town_S5}Tyal" owner="Faction.clan_sturgia_1"
+    <Settlement id="town_S5" name="{=Settlements.Settlement.name.town_S5}Bjarg Bœr" owner="Faction.clan_sturgia_1"
                 posX="662.48" posY="1474.193" culture="Culture.kven" prosperity="1700" gate_posX="662.829"
                 gate_posY="1470.184"
-                text="{=F5HlQdgf}Tyal sits in the western foothills of Mount Iltan, on the eastern borders of the Sturgian lands. This region has long stood aloof from the power struggles of the other Sturgian principalities. Its people are known as wanderers, traders, horse breeders and fur-trappers. The local aristocracy has occasionally exchanged princesses with the steppe tribes to the east to firm up a truce or a trade pact, and proudly includes the names of several great khans on their list of ancestors.">
+                text="{=F5HlQdgf}In the far north reaches of Kvenland, Bjarg Bœr sits ambraced by mountains.">
         <Components>
             <Town id="town_comp_S5" is_castle="false" level="3" background_crop_position="0.0"
                   background_mesh="gui_bg_town_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.308"/>
@@ -3345,10 +3345,10 @@
         </CommonAreas>
     </Settlement>
     <!-- Name of a local clan hero-->
-    <Settlement id="town_S6" name="{=Settlements.Settlement.name.town_S6}Sibir" owner="Faction.clan_sturgia_2"
+    <Settlement id="town_S6" name="{=Settlements.Settlement.name.town_S6}Fyrir Austan" owner="Faction.clan_sturgia_2"
                 posX="733.992" posY="1438.935" culture="Culture.kven" prosperity="1900" gate_posX="729.3396"
                 gate_posY="1438.077"
-                text="{=PPadNxa6}Sibir was founded in a dark valley amid the Chertyg mountains by Nordic traders, who wished a base to buy furs from the local Vakken-speaking foresters. As the Sturgian tribes became principalities, and elected chieftains evolved into boyars who demanded taxes and labor as their due, this region became a magnet for Sturgians who had little taste for deference. Today, the ambitious Isyaroving family governs this region, but they must always balance their hunger for wealth and men to fight their wars with their subjects' reluctance to provide it.">
+                text="{=PPadNxa6}">
         <Components>
             <Town id="town_comp_S6" is_castle="false" level="3" background_crop_position="0.0"
                   background_mesh="gui_bg_town_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.308"/>
@@ -3424,10 +3424,10 @@
             <Area type="Bog" name="{=iXA5SttU}Bog"/>
         </CommonAreas>
     </Settlement>
-    <Settlement id="town_S7" name="{=Settlements.Settlement.name.town_S7}Revyl" owner="Faction.clan_khuzait_5"
+    <Settlement id="town_S7" name="{=Settlements.Settlement.name.town_S7}Kaup-staðr" owner="Faction.clan_khuzait_5"
                 posX="595.234" posY="1241.75" culture="Culture.sturgia" prosperity="3100" gate_posX="591.9156"
                 gate_posY="1244.521"
-                text="{=T2E4xKVn}Revyl, chief town of the rocky Kachyar peninsula, was a traditional rival of Balgard. According to legend the Balgardian princess Arkina, whose husband had been slain by the Revylians, accepted a proposal from her enemy's king to marry and settle the feud. On her wedding night, however, she barred the door of his hall and burned him and a hundred of his kinsmen and warriors alive inside. The feud has long since been settled by pacts and marriages with happier outcomes, although Revylians still resent the ascent of the Balgardian Gundaroving dynasty.">
+                text="{=T2E4xKVn}Kaup-staðr lies between Kvenland and Jutland, giving it an advantageous position along the main trade route to mainland europe. While this brought in riches to the Teutones tribe, envy is quick to follow. Kaup-staðr is the jewel of the north, and there's never a shortage of rulers who want to wear it.">
         <Components>
             <Town id="town_comp_S7" is_castle="false" level="3" background_crop_position="0.0"
                   background_mesh="gui_bg_town_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.308"/>

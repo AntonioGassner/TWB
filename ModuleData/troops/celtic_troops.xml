@@ -636,7 +636,7 @@
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.northern_javelin_2_t3"/>
                 <equipment slot="Item1" id="Item.small_flat_heater_shield"/>
-                <equipment slot="Item2" id="Item.vlandia_axe_1_t3"/>
+                <equipment slot="Item2" id="Item.western_spear_4_t4" />
                 <equipment slot="Item3" id="Item.northern_javelin_2_t3"/>
                 <equipment slot="Head" id="Item.AR_battania_helmet_c"/>
                 <equipment slot="Body" id="Item.AR_empire_scout_armor_c"/>
@@ -647,7 +647,7 @@
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.northern_javelin_2_t3"/>
                 <equipment slot="Item1" id="Item.small_flat_heater_shield"/>
-                <equipment slot="Item2" id="Item.small_bit_axe_t2"/>
+                <equipment slot="Item2" id="Item.western_spear_4_t4" />
                 <equipment slot="Item3" id="Item.northern_javelin_2_t3"/>
                 <equipment slot="Head" id="Item.AR_battania_helmet_c"/>
                 <equipment slot="Cape" id="Item.battania_cloak"/>
@@ -660,7 +660,7 @@
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.western_javelin_2_t3"/>
                 <equipment slot="Item1" id="Item.small_flat_heater_shield"/>
-                <equipment slot="Item2" id="Item.battania_axe_1_t2"/>
+                <equipment slot="Item2" id="Item.western_spear_4_t4" />
                 <equipment slot="Item3" id="Item.western_javelin_2_t3"/>
                 <equipment slot="Head" id="Item.AR_battania_helmet_c"/>
                 <equipment slot="Body" id="Item.battania_light_armor_a"/>
@@ -672,7 +672,7 @@
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.western_javelin_2_t3"/>
                 <equipment slot="Item1" id="Item.small_flat_heater_shield"/>
-                <equipment slot="Item2" id="Item.sturgia_sword_2_t3"/>
+                <equipment slot="Item2" id="Item.western_spear_4_t4" />
                 <equipment slot="Item3" id="Item.western_javelin_2_t3"/>
                 <equipment slot="Head" id="Item.AR_battania_helmet_c"/>
                 <equipment slot="Body" id="Item.AR_battania_armor_h"/>
@@ -712,7 +712,7 @@
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.northern_javelin_2_t3"/>
                 <equipment slot="Item1" id="Item.small_flat_heater_shield"/>
-                <equipment slot="Item2" id="Item.vlandia_axe_1_t3"/>
+                <equipment slot="Item2" id="Item.western_spear_4_t4" />
                 <equipment slot="Item3" id="Item.northern_javelin_2_t3"/>
                 <equipment slot="Head" id="Item.AR_battania_helmet_c"/>
                 <equipment slot="Body" id="Item.AR_empire_scout_armor_c"/>
@@ -723,7 +723,7 @@
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.northern_javelin_2_t3"/>
                 <equipment slot="Item1" id="Item.small_flat_heater_shield"/>
-                <equipment slot="Item2" id="Item.small_bit_axe_t2"/>
+                <equipment slot="Item2" id="Item.western_spear_4_t4" />
                 <equipment slot="Item3" id="Item.northern_javelin_2_t3"/>
                 <equipment slot="Head" id="Item.AR_battania_helmet_c"/>
                 <equipment slot="Cape" id="Item.battania_cloak"/>
@@ -736,7 +736,7 @@
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.western_javelin_2_t3"/>
                 <equipment slot="Item1" id="Item.small_flat_heater_shield"/>
-                <equipment slot="Item2" id="Item.battania_axe_1_t2"/>
+                <equipment slot="Item2" id="Item.western_spear_4_t4" />
                 <equipment slot="Item3" id="Item.western_javelin_2_t3"/>
                 <equipment slot="Head" id="Item.AR_battania_helmet_c"/>
                 <equipment slot="Body" id="Item.battania_light_armor_a"/>
@@ -748,7 +748,7 @@
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.western_javelin_2_t3"/>
                 <equipment slot="Item1" id="Item.small_flat_heater_shield"/>
-                <equipment slot="Item2" id="Item.sturgia_sword_2_t3"/>
+                <equipment slot="Item2" id="Item.western_spear_4_t4" />
                 <equipment slot="Item3" id="Item.western_javelin_2_t3"/>
                 <equipment slot="Head" id="Item.AR_battania_helmet_c"/>
                 <equipment slot="Body" id="Item.AR_battania_armor_h"/>
@@ -931,7 +931,7 @@
         <Equipments>
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.celtic_javelin"/>
-                <equipment slot="Item1" id="Item.khuzait_sword_1_t2"/>
+                <equipment slot="Item1" id="Item.vlandia_lance_1_t3" />
                 <equipment slot="Item2" id="Item.AR_shield_infantry_e2"/>
                 <equipment slot="Head" id="Item.battania_earmuff_helmet_b_brnz"/>
                 <equipment slot="Cape" id="Item.AR_imperial_leather_cape_b"/>
@@ -943,7 +943,7 @@
             </EquipmentRoster>
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.celtic_javelin"/>
-                <equipment slot="Item1" id="Item.battania_sword_2_t3"/>
+                <equipment slot="Item1" id="Item.vlandia_lance_1_t3" />
                 <equipment slot="Item2" id="Item.AR_shield_infantry_e2"/>
                 <equipment slot="Head" id="Item.battania_earmuff_helmet_b"/>
                 <equipment slot="Cape" id="Item.varangian_bra_basic"/>
@@ -955,7 +955,7 @@
             </EquipmentRoster>
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.celtic_javelin"/>
-                <equipment slot="Item1" id="Item.sturgia_sword_3_t3"/>
+                <equipment slot="Item1" id="Item.vlandia_lance_1_t3" />
                 <equipment slot="Item2" id="Item.AR_shield_infantry_e"/>
                 <equipment slot="Head" id="Item.battania_earmuff_helmet_b_brnz"/>
                 <equipment slot="Cape" id="Item.AR_imperial_leather_cape_b"/>
@@ -967,7 +967,7 @@
             </EquipmentRoster>
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.celtic_javelin"/>
-                <equipment slot="Item1" id="Item.woodland_axe_t3"/>
+                <equipment slot="Item1" id="Item.vlandia_lance_1_t3" />
                 <equipment slot="Item2" id="Item.AR_shield_infantry_e"/>
                 <equipment slot="Head" id="Item.battania_earmuff_helmet_b"/>
                 <equipment slot="Cape" id="Item.AR_battanian_shoulder_a"/>
@@ -1011,7 +1011,7 @@
         <Equipments>
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.celtic_javelin"/>
-                <equipment slot="Item1" id="Item.empire_sword_4_t4"/>
+                <equipment slot="Item1" id="Item.vlandia_lance_1_t3" />
                 <equipment slot="Item2" id="Item.AR_shield_infantry_e"/>
                 <equipment slot="Head" id="Item.battania_earmuff_helmet_b_brnz"/>
                 <equipment slot="Cape" id="Item.AR_wolf_head_cloak_b"/>
@@ -1023,7 +1023,7 @@
             </EquipmentRoster>
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.celtic_javelin"/>
-                <equipment slot="Item1" id="Item.empire_sword_4_t4"/>
+                <equipment slot="Item1" id="Item.vlandia_lance_1_t3" />
                 <equipment slot="Item2" id="Item.AR_shield_infantry_e"/>
                 <equipment slot="Head" id="Item.battania_earmuff_helmet_b"/>
                 <equipment slot="Cape" id="Item.battanian_mail_scarf"/>
@@ -1035,7 +1035,7 @@
             </EquipmentRoster>
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.celtic_javelin"/>
-                <equipment slot="Item1" id="Item.vlandia_axe_2_t4"/>
+                <equipment slot="Item1" id="Item.vlandia_lance_1_t3" />
                 <equipment slot="Item2" id="Item.AR_shield_infantry_e2"/>
                 <equipment slot="Head" id="Item.battania_earmuff_helmet_b_brnz"/>
                 <equipment slot="Cape" id="Item.tv_battania_cloak_d"/>
@@ -1047,7 +1047,7 @@
             </EquipmentRoster>
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.celtic_javelin"/>
-                <equipment slot="Item1" id="Item.battania_axe_2_t4"/>
+                <equipment slot="Item1" id="Item.vlandia_lance_1_t3" />
                 <equipment slot="Item2" id="Item.AR_shield_infantry_e2"/>
                 <equipment slot="Head" id="Item.battania_earmuff_helmet_b"/>
                 <equipment slot="Cape" id="Item.berserkr_fur_b"/>
@@ -1090,7 +1090,7 @@
         <Equipments>
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.celtic_javelin"/>
-                <equipment slot="Item1" id="Item.battania_noble_sword_2_t5"/>
+                <equipment slot="Item1" id="Item.vlandia_lance_1_t3" />
                 <equipment slot="Item2" id="Item.heavy_round_shield"/>
                 <equipment slot="Head" id="Item.TV_battania_helmet_c"/>
                 <equipment slot="Cape" id="Item.tv_battania_cloak_d"/>
@@ -1102,7 +1102,7 @@
             </EquipmentRoster>
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.celtic_javelin"/>
-                <equipment slot="Item1" id="Item.battania_sword_4_t4"/>
+                <equipment slot="Item1" id="Item.vlandia_lance_1_t3" />
                 <equipment slot="Item2" id="Item.heavy_round_shield"/>
                 <equipment slot="Head" id="Item.TV_battania_helmet_d"/>
                 <equipment slot="Cape" id="Item.AR_wolf_head_cloak_b"/>
@@ -1114,7 +1114,7 @@
             </EquipmentRoster>
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.celtic_javelin"/>
-                <equipment slot="Item1" id="Item.hooked_axe_t4"/>
+                <equipment slot="Item1" id="Item.vlandia_lance_1_t3" />
                 <equipment slot="Item2" id="Item.highland_riders_shield"/>
                 <equipment slot="Head" id="Item.battania_earmuff_helmet_c_brnz"/>
                 <equipment slot="Cape" id="Item.TV_wolf_pelt_f"/>
@@ -1126,7 +1126,7 @@
             </EquipmentRoster>
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.celtic_javelin"/>
-                <equipment slot="Item1" id="Item.broad_arming_sword_t4"/>
+                <equipment slot="Item1" id="Item.vlandia_lance_1_t3" />
                 <equipment slot="Item2" id="Item.heavy_round_shield"/>
                 <equipment slot="Head" id="Item.battania_earmuff_helmet_c"/>
                 <equipment slot="Cape" id="Item.AR_battanian_shoulder_a"/>
@@ -1166,7 +1166,7 @@
         <Equipments>
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.northern_javelin_3_t4"/>
-                <equipment slot="Item1" id="Item.battania_2hsword_5_t5"/>
+                <equipment slot="Item1" id="Item.vlandia_lance_1_t3" />
                 <equipment slot="Item2" id="Item.heavy_round_shield"/>
                 <equipment slot="Head" id="Item.TV_battania_helmet_o"/>
                 <equipment slot="Cape" id="Item.AR_wolf_shoulder_h2"/>
@@ -1178,7 +1178,7 @@
             </EquipmentRoster>
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.northern_javelin_3_t4"/>
-                <equipment slot="Item1" id="Item.battania_noble_sword_3_t5"/>
+                <equipment slot="Item1" id="Item.vlandia_lance_1_t3" />
                 <equipment slot="Item2" id="Item.highland_riders_shield"/>
                 <equipment slot="Head" id="Item.TV_battania_helmet_h"/>
                 <equipment slot="Cape" id="Item.AR_wolf_shoulder_i"/>
@@ -1190,7 +1190,7 @@
             </EquipmentRoster>
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.northern_javelin_3_t4"/>
-                <equipment slot="Item1" id="Item.battania_2hsword_2_t3"/>
+                <equipment slot="Item1" id="Item.vlandia_lance_1_t3" />
                 <equipment slot="Item2" id="Item.highland_riders_shield"/>
                 <equipment slot="Head" id="Item.wolfhelmet"/>
                 <equipment slot="Cape" id="Item.AR_wolf_shoulder_i"/>
@@ -1202,7 +1202,7 @@
             </EquipmentRoster>
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.northern_javelin_3_t4"/>
-                <equipment slot="Item1" id="Item.kaskara_2hsword_t3"/>
+                <equipment slot="Item1" id="Item.vlandia_lance_1_t3" />
                 <equipment slot="Item2" id="Item.heavy_round_shield"/>
                 <equipment slot="Head" id="Item.AR_battania_lord_helmet_i"/>
                 <equipment slot="Cape" id="Item.AR_wolf_shoulder_i2"/>
