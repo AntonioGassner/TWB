@@ -2560,7 +2560,7 @@
 	
 	<Culture id="libyan"
            name="{=libyanfaction}Libyan"
-	       is_main_culture="true"
+	       is_main_culture="false"
 		   color="0xFFc94b4e"
 		   color2="0xFFeae1da"
            elite_basic_troop="NPCCharacter.garamantian_noble"
