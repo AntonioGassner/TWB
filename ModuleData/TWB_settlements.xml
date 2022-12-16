@@ -4326,7 +4326,7 @@
         </CommonAreas>
     </Settlement>
     <Settlement id="village_A6_1" name="{=Settlements.Settlement.name.village_A6_1}Mijayit" posX="391.828"
-                posY="777.599" culture="Culture.massylii"
+                posY="777.599" culture="Culture.aserai"
                 text="{=Settlements.Settlement.text.village_A6_1}Mijayit lies off of the estuary of the Damar river as it reaches the Bahr al-Yeshm sea. The rich silt deposits left by the river make this one of the most fertile regions of the Aserai lands.">
         <Components>
             <Village id="village_comp_A6_1" village_type="VillageType.wheat_farm" hearth="330" gate_rotation="0.008"
@@ -4343,7 +4343,7 @@
         </CommonAreas>
     </Settlement>
     <Settlement id="village_A6_2" name="{=Settlements.Settlement.name.village_A6_2}Hamoshawat" posX="368.656"
-                posY="769.139" culture="Culture.massylii"
+                posY="769.139" culture="Culture.aserai"
                 text="{=Settlements.Settlement.text.village_A6_2}Hamoshawat lies on the lower Damar river, just before it reaches the Bahr al-Yeshm sea. The rich silt deposits left by the river make this one of the most fertile regions of the Aserai lands.">
         <Components>
             <Village id="village_comp_A6_2" village_type="VillageType.wheat_farm" hearth="210" gate_rotation="0.508"
@@ -4377,7 +4377,7 @@
         </CommonAreas>
     </Settlement>
     <Settlement id="village_A6_4" name="{=Settlements.Settlement.name.village_A6_4}Nahlan" posX="344.651" posY="727.815"
-                culture="Culture.massylii"
+                culture="Culture.aserai"
                 text="{=Settlements.Settlement.text.village_A6_4}Nahlan sits on the floodplain of the Damar River as it cuts through the Jarjara escarpment. This soil, refreshed yearly by the silt of the flooding river, produces bountiful crops of wheat.">
         <Components>
             <Village id="village_comp_A6_4" village_type="VillageType.wheat_farm" hearth="220"

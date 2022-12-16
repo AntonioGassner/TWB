@@ -85,6 +85,7 @@
         </banner_bearer_replacement_weapons>
         <default_policies>
             <policy id="policy_senate"/>
+            <policy id="policy_land_grants_for_veterans"/>
         </default_policies>
         <male_names>
             <name name="{=v9B50R0Q}Aemilius"/>
@@ -554,7 +555,7 @@
             <item id="Item.empire_sword_6_t5"/>
         </banner_bearer_replacement_weapons>
         <default_policies>
-            <policy id="policy_council_of_the_commons"/>
+            <policy id="policy_marshals"/>
             <policy id="policy_senate"/>
         </default_policies>
         <male_names>
@@ -884,7 +885,8 @@
             <item id="Item.empire_sword_6_t5"/>
         </banner_bearer_replacement_weapons>
         <default_policies>
-            <policy id="policy_council_of_the_commons"/>
+            <policy id="policy_lawspeakers"/>
+            <policy id="policy_cantons"/>
         </default_policies>
         <male_names>
             <name name="{=AlNameM1}Shane"/>
@@ -1265,8 +1267,8 @@
             <item id="Item.empire_sword_6_t5"/>
         </banner_bearer_replacement_weapons>
         <default_policies>
-            <policy id="policy_grazing_rights"/>
-            <policy id="policy_council_of_the_commons"/>
+            <policy id="policy_lawspeakers"/>
+            <policy id="policy_cantons"/>
         </default_policies>
         <male_names>
             <name name="{=AlNameM1}Shane"/>
@@ -1565,7 +1567,6 @@
         </basic_mercenary_troops>
     </Culture>
 
-
     <Culture id="carthago_nova"
              name="{=carthago_novafaction}Carthago Nova"
              is_main_culture="false"
@@ -1648,7 +1649,8 @@
             <item id="Item.empire_sword_6_t5"/>
         </banner_bearer_replacement_weapons>
         <default_policies>
-            <policy id="policy_castle_charters"/>
+            <policy id="policy_marshals"/>
+            <policy id="policy_senate"/>
         </default_policies>
         <male_names>
             <name name="{=AlNameM1}Shane"/>
@@ -1947,7 +1949,6 @@
         </basic_mercenary_troops>
     </Culture>
 
-
     <Culture id="massylii"
              name="{=massyliifaction}Massylii"
              is_main_culture="false"
@@ -2030,7 +2031,8 @@
             <item id="Item.empire_sword_6_t5"/>
         </banner_bearer_replacement_weapons>
         <default_policies>
-            <policy id="policy_council_of_the_commons"/>
+            <policy id="policy_grazing_rights"/>
+            <policy id="policy_hunting_rights"/>
         </default_policies>
         <male_names>
             <name name="{=n2F4dWOtE}Adram"/>
@@ -2336,7 +2338,8 @@
             <item id="Item.empire_sword_6_t5"/>
         </banner_bearer_replacement_weapons>
         <default_policies>
-            <policy id="policy_council_of_the_commons"/>
+            <policy id="policy_grazing_rights"/>
+            <policy id="policy_hunting_rights"/>
         </default_policies>
         <male_names>
             <name name="{=n2F4dWOtE}Adram"/>
@@ -2642,7 +2645,8 @@
             <item id="Item.empire_sword_6_t5"/>
         </banner_bearer_replacement_weapons>
         <default_policies>
-            <policy id="policy_castle_charters"/>
+            <policy id="policy_grazing_rights"/>
+            <policy id="policy_hunting_rights"/>
         </default_policies>
         <male_names>
             <name name="{=AlNameM1}Adduda"/>
@@ -3025,7 +3029,7 @@
         </banner_bearer_replacement_weapons>
         <default_policies>
             <policy id="policy_lawspeakers"/>
-            <policy id="policy_precarial_land_tenure"/>
+            <policy id="policy_noble_retinues"/>
         </default_policies>
         <male_names>
             <name name="{=jVPr0ZzB}Achyr"/>
@@ -3372,8 +3376,8 @@
             <item id="Item.empire_sword_6_t5"/>
         </banner_bearer_replacement_weapons>
         <default_policies>
-            <policy id="policy_feudal_inheritance"/>
-            <policy id="policy_castle_charters"/>
+            <policy id="policy_cantons"/>
+            <policy id="policy_lawspeakers"/>
         </default_policies>
         <male_names>
             <name name="{=fUQlCkCQ}Acedillus"/>
@@ -4031,7 +4035,7 @@
             <item id="Item.empire_sword_6_t5"/>
         </banner_bearer_replacement_weapons>
         <default_policies>
-            <policy id="policy_grazing_rights"/>
+            <policy id="policy_magistrates"/>
             <policy id="policy_sacred_majesty"/>
         </default_policies>
         <male_names>
@@ -4345,7 +4349,8 @@
             <item id="Item.empire_sword_6_t5"/>
         </banner_bearer_replacement_weapons>
         <default_policies>
-            <policy id="policy_castle_charters"/>
+            <policy id="policy_senate"/>
+            <policy id="policy_magistrates"/>
         </default_policies>
         <male_names>
             <name name="{=AlNameM1}Shane"/>
@@ -4741,7 +4746,8 @@
             <item id="Item.empire_sword_6_t5"/>
         </banner_bearer_replacement_weapons>
         <default_policies>
-            <policy id="policy_castle_charters"/>
+            <policy id="policy_senate"/>
+            <policy id="policy_magistrates"/>
         </default_policies>
         <male_names>
             <name name="{=AlNameM1}Shane"/>
@@ -5137,7 +5143,8 @@
             <item id="Item.empire_sword_6_t5"/>
         </banner_bearer_replacement_weapons>
         <default_policies>
-            <policy id="policy_castle_charters"/>
+            <policy id="policy_senate"/>
+            <policy id="policy_magistrates"/>
         </default_policies>
         <male_names>
             <name name="{=AlNameM1}Shane"/>
@@ -5519,7 +5526,8 @@
             <item id="Item.empire_sword_6_t5"/>
         </banner_bearer_replacement_weapons>
         <default_policies>
-            <policy id="policy_castle_charters"/>
+            <policy id="policy_senate"/>
+            <policy id="policy_magistrates"/>
         </default_policies>
         <male_names>
             <name name="{=AlNameM1}Shane"/>
@@ -5915,7 +5923,8 @@
             <item id="Item.empire_sword_6_t5"/>
         </banner_bearer_replacement_weapons>
         <default_policies>
-            <policy id="policy_castle_charters"/>
+            <policy id="policy_lawspeakers"/>
+            <policy id="policy_cantons"/>
         </default_policies>
         <male_names>
             <name name="{=AlNameM1}Shane"/>
@@ -6311,7 +6320,8 @@
             <item id="Item.empire_sword_6_t5"/>
         </banner_bearer_replacement_weapons>
         <default_policies>
-            <policy id="policy_council_of_the_commons"/>
+            <policy id="policy_lawspeakers"/>
+            <policy id="policy_noble_retinues"/>
         </default_policies>
         <male_names>
             <name name="{=n2F4dWOtE}Adram"/>
@@ -6617,7 +6627,8 @@
             <item id="Item.empire_sword_6_t5"/>
         </banner_bearer_replacement_weapons>
         <default_policies>
-            <policy id="policy_castle_charters"/>
+            <policy id="policy_cantons"/>
+            <policy id="policy_lawspeakers"/>
         </default_policies>
         <male_names>
             <name name="{=AlNameM1}Shane"/>
@@ -7014,7 +7025,8 @@
             <item id="Item.empire_sword_6_t5"/>
         </banner_bearer_replacement_weapons>
         <default_policies>
-            <policy id="policy_castle_charters"/>
+            <policy id="policy_grazing_rights"/>
+            <policy id="policy_hunting_rights"/>
         </default_policies>
         <male_names>
             <name name="{=AlNameM1}Shane"/>
@@ -7411,7 +7423,8 @@
             <item id="Item.empire_sword_6_t5"/>
         </banner_bearer_replacement_weapons>
         <default_policies>
-            <policy id="policy_castle_charters"/>
+            <policy id="policy_lawspeakers"/>
+            <policy id="policy_noble_retinues"/>
         </default_policies>
         <male_names>
             <name name="{=AlNameM1}Shane"/>
@@ -7808,7 +7821,7 @@
         </banner_bearer_replacement_weapons>
         <default_policies>
             <policy id="policy_lawspeakers"/>
-            <policy id="policy_precarial_land_tenure"/>
+            <policy id="policy_noble_retinues"/>
         </default_policies>
         <male_names>
             <name name="{=jVPr0ZzB}Achyr"/>
