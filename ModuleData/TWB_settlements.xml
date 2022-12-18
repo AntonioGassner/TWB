@@ -1737,7 +1737,7 @@
             <Area type="Bog" name="{=iXA5SttU}Bog"/>
         </CommonAreas>
     </Settlement>
-    <Settlement id="castle_ES2" name="{=Settlements.Settlement.name.castle_ES2}Corenia Castle"
+    <Settlement id="castle_ES2" name="{=Settlements.Settlement.name.castle_ES2}Verona"
                 owner="Faction.clan_vlandia_11" posX="558.037" posY="991.792" culture="Culture.vlandia"
                 prosperity="770" gate_posX="557.3226" gate_posY="989.3167">
         <Components>
@@ -1788,7 +1788,7 @@
             <Area type="Bog" name="{=iXA5SttU}Bog"/>
         </CommonAreas>
     </Settlement>
-    <Settlement id="castle_ES3" name="{=Settlements.Settlement.name.castle_ES3}Melion Castle"
+    <Settlement id="castle_ES3" name="{=Settlements.Settlement.name.castle_ES3}Tarentum"
                 owner="Faction.clan_vlandia_7" posX="721.519" posY="875.307" culture="Culture.epirus"
                 prosperity="810" gate_posX="720.2406" gate_posY="878.0064">
         <Components>
@@ -1803,7 +1803,7 @@
             <Location id="prison" scene_name="empire_dungeon_a"/>
         </Locations>
     </Settlement>
-    <Settlement id="castle_village_ES3_1" name="{=Settlements.Settlement.name.castle_village_ES3_1}Melion"
+    <Settlement id="castle_village_ES3_1" name="{=Settlements.Settlement.name.castle_village_ES3_1}Barium"
                 posX="706.412" posY="885.228" culture="Culture.epirus"
                 text="{=Settlements.Settlement.text.castle_village_ES3_1}Melion in a narrow valley near the center of the Myzead, a rugged plateau in the east of the Empire. Villagers here cultivate mulberry bushes. The leaves are harvested and fed to silkworks, producing thread much valued by both refined imperial nobles for their courtwear and hard-riding nomads and frontiersmen, who wear it beneath their armor as an extra layer of protection against arrows.">
         <Components>
@@ -1839,7 +1839,7 @@
             <Area type="Bog" name="{=iXA5SttU}Bog"/>
         </CommonAreas>
     </Settlement>
-    <Settlement id="castle_ES4" name="{=Settlements.Settlement.name.castle_ES4}Lavenia Castle"
+    <Settlement id="castle_ES4" name="{=Settlements.Settlement.name.castle_ES4}Aleria"
                 owner="Faction.clan_empire_south_4" posX="518.815" posY="914.911" culture="Culture.etruscan"
                 prosperity="1100" gate_posX="519.5365" gate_posY="917.3104">
         <Components>
@@ -1854,7 +1854,7 @@
             <Location id="prison" scene_name="empire_dungeon_a"/>
         </Locations>
     </Settlement>
-    <Settlement id="castle_village_ES4_1" name="{=Settlements.Settlement.name.castle_village_ES4_1}Lavenia"
+    <Settlement id="castle_village_ES4_1" name="{=Settlements.Settlement.name.castle_village_ES4_1}Livorno"
                 posX="554.006" posY="941.902" culture="Culture.etruscan"
                 text="{=Settlements.Settlement.text.castle_village_ES4_1}Lavenia is a fishing village on the northeastern shores of the Perassic Sea. The nearby castle guards one of the main passages over the network of lakes and salt lagoons known as the Calsea, one of the gateways to Aserai lands.">
         <Components>
@@ -1872,7 +1872,7 @@
             <Area type="Bog" name="{=iXA5SttU}Bog"/>
         </CommonAreas>
     </Settlement>
-    <Settlement id="castle_village_ES4_2" name="{=Settlements.Settlement.name.castle_village_ES4_2}Ethemisa"
+    <Settlement id="castle_village_ES4_2" name="{=Settlements.Settlement.name.castle_village_ES4_2}Grossetum"
                 posX="567.112" posY="931.621" culture="Culture.etruscan"
                 text="{=Settlements.Settlement.text.castle_village_ES4_2}Ethemisa sits on the river that the Aserai call the Nahr al-Kals, the Bitter River, and what imperial citizens call the Calsa. Here, the river has just descended from the coastal hills and has not yet reached the alkali plains of the southeast. The lands around produce a fine crop of grain.">
         <Components>
@@ -1890,7 +1890,7 @@
             <Area type="Bog" name="{=iXA5SttU}Bog"/>
         </CommonAreas>
     </Settlement>
-    <Settlement id="castle_ES5" name="{=Settlements.Settlement.name.castle_ES5}Morenia Castle"
+    <Settlement id="castle_ES5" name="{=Settlements.Settlement.name.castle_ES5}Syrakō"
                 owner="Faction.clan_empire_south_8" posX="654.98" posY="793.134" culture="Culture.syracuse"
                 prosperity="850" gate_posX="655.3328" gate_posY="790.2151">
         <Components>
@@ -1905,7 +1905,7 @@
             <Location id="prison" scene_name="empire_dungeon_a"/>
         </Locations>
     </Settlement>
-    <Settlement id="castle_village_ES5_1" name="{=Settlements.Settlement.name.castle_village_ES5_1}Morenia"
+    <Settlement id="castle_village_ES5_1" name="{=Settlements.Settlement.name.castle_village_ES5_1}Croton"
                 posX="712.055" posY="838.463" culture="Culture.syracuse"
                 text="{=Settlements.Settlement.text.castle_village_ES5_1}Morenia sits overlooking the Sethys river, on a low pass leading over the hills to the valley of the Lycarea. Villagers collect clay from the riverbanks for the kilns of the imperial southlands.">
         <Components>
@@ -1989,7 +1989,7 @@
             <Area type="Bog" name="{=iXA5SttU}Bog"/>
         </CommonAreas>
     </Settlement>
-    <Settlement id="castle_ES8" name="{=Settlements.Settlement.name.castle_ES8}Chanopsis Castle"
+    <Settlement id="castle_ES8" name="{=Settlements.Settlement.name.castle_ES8}Turii"
                 owner="Faction.clan_empire_south_7" posX="704.378" posY="845.014" culture="Culture.empire"
                 prosperity="480" gate_posX="702.1168" gate_posY="846.3303">
         <Components>
@@ -2004,7 +2004,7 @@
             <Location id="prison" scene_name="empire_dungeon_a"/>
         </Locations>
     </Settlement>
-    <Settlement id="castle_village_ES8_1" name="{=Settlements.Settlement.name.castle_village_ES8_1}Chanopsis"
+    <Settlement id="castle_village_ES8_1" name="{=Settlements.Settlement.name.castle_village_ES8_1}Paestum"
                 posX="672.86" posY="868.644" culture="Culture.empire"
                 text="{=Settlements.Settlement.text.castle_village_ES8_1}Chanopsis sits near the headwaters of the Sethys river in the plateau region known as the Myzead. Wheat grows well on the sun-baked plains.">
         <Components>
@@ -2023,7 +2023,7 @@
         </CommonAreas>
     </Settlement>
     <!-- Imperial subfaction 3 begins -->
-    <Settlement id="town_ES1" name="{=Settlements.Settlement.name.town_ES1}Danustica"
+    <Settlement id="town_ES1" name="{=Settlements.Settlement.name.town_ES1}Ancona"
                 owner="Faction.clan_empire_south_2" posX="620.083" posY="947.332" culture="Culture.empire"
                 prosperity="4900" gate_posX="618.361" gate_posY="945.5024"
                 text="{=xkkI7ejQ}The frontier city of Danustica dominates the network of lakes and lagoons known as the Calsea. It has long held the line against incursions by the Aserai and various Darshi shahs and padishahs further to the east. Many an imperial legionary stationed here has scribbled graffiti on its walls cursing the city's sweltering summers, brackish water and the mosquitos that rise from the Calsea, but the inhabitants are proud of their role as border defenders and mock the soldiers wilting in the heat around them.">
@@ -2068,7 +2068,7 @@
             <Area type="Bog" name="{=iXA5SttU}Bog"/>
         </CommonAreas>
     </Settlement>
-    <Settlement id="village_ES1_2" name="{=Settlements.Settlement.name.village_ES1_2}Polisia" posX="619.422"
+    <Settlement id="village_ES1_2" name="{=Settlements.Settlement.name.village_ES1_2}Camerinum" posX="619.422"
                 posY="922.997" culture="Culture.empire"
                 text="{=Settlements.Settlement.text.village_ES1_2}Polisia sits among the network of rivers and lakes known as the Calsea near the Aserai borderlands. Villagers harvest salt from a lagoon to their west, a former inlet of the Perassic sea that was cut off by a sandspit. These lowlands are shunned by many others in Calradia, who find the air thick and fetid, but the inhabitants are proud of their role keeping watch on the Aserai.">
         <Components>
@@ -2085,7 +2085,7 @@
             <Area type="Bog" name="{=iXA5SttU}Bog"/>
         </CommonAreas>
     </Settlement>
-    <Settlement id="village_ES1_3" name="{=Settlements.Settlement.name.village_ES1_3}Tegresos" posX="604.068"
+    <Settlement id="village_ES1_3" name="{=Settlements.Settlement.name.village_ES1_3}Urbinum Mataurense" posX="604.068"
                 posY="943.195" culture="Culture.empire"
                 text="{=Settlements.Settlement.text.village_ES1_3}Tegresos sits just north of the River Calsa, right before it enters the network of lakes, creeks and lagoons that form the borderlands with the Aserai. The inhabitants of this region have bred sheep that feed on marsh-grasses.">
         <Components>
@@ -2102,7 +2102,7 @@
             <Area type="Bog" name="{=iXA5SttU}Bog"/>
         </CommonAreas>
     </Settlement>
-    <Settlement id="village_ES1_4" name="{=Settlements.Settlement.name.village_ES1_4}Erebulos" posX="643.962"
+    <Settlement id="village_ES1_4" name="{=Settlements.Settlement.name.village_ES1_4}Aesernia" posX="643.962"
                 posY="910.43" culture="Culture.empire"
                 text="{=Settlements.Settlement.text.village_ES1_4}Erebulos lies by a lagoon that was formerly part of the Perassic Sea, closed by a recently formed sandspit. Villagers scoop clay from the creek-bottoms here, selling it to the pottery kilns of Danustica and other nearby towns.">
         <Components>
@@ -2121,7 +2121,7 @@
     </Settlement>
     <!-- Rhogas and Lykaron - west and center of larger southern lake, clan 7, queen-->
     <!-- Rhogas is tight between lake and mountains, like Trebizond -->
-    <Settlement id="town_ES2" name="{=Settlements.Settlement.name.town_ES2}Vostrum" owner="Faction.clan_vlandia_11"
+    <Settlement id="town_ES2" name="{=Settlements.Settlement.name.town_ES2}Patavium" owner="Faction.clan_vlandia_11"
                 posX="603.038" posY="998.454" culture="Culture.vlandia" prosperity="5100" gate_posX="605.8843"
                 gate_posY="1002.373"
                 text="{=ytBRXqt8}Vostrum was founded by the Calradian mercenary Archacos, one of a number of rogue commanders who broke away from the empire during its expansion. Unlike some, who tried to reproduce the empire's republican heritage, he chose to rule as a god-king. His dynasty lasted for generations, until imperial troops overran it and smashed every haloed statue of Archacos and his successors into rubble. Even today, western and northern imperial senators accuse families from this region of being closet monarchists.">
@@ -2147,7 +2147,7 @@
             <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront"/>
         </CommonAreas>
     </Settlement>
-    <Settlement id="castle_village_ES5_2" name="{=Settlements.Settlement.name.castle_village_ES5_2}Atphynia"
+    <Settlement id="castle_village_ES5_2" name="{=Settlements.Settlement.name.castle_village_ES5_2}Catana"
                 posX="658.624" posY="801.829" culture="Culture.syracuse"
                 text="{=Settlements.Settlement.text.village_ES2_1}The village of Atphynia sits near the mouth of the Sethys river, just before it splits into three to form the valley known as Tripotamia. Villagers here have laid out salt pans near where the Sethys estuary joins the Perassic sea.">
         <Components>
@@ -2165,7 +2165,7 @@
             <Area type="Bog" name="{=iXA5SttU}Bog"/>
         </CommonAreas>
     </Settlement>
-    <Settlement id="village_ES2_2" name="{=Settlements.Settlement.name.village_ES2_2}Gorcorys" posX="582.145"
+    <Settlement id="village_ES2_2" name="{=Settlements.Settlement.name.village_ES2_2}Bononia" posX="582.145"
                 posY="970.676" culture="Culture.vlandia"
                 text="{=Settlements.Settlement.text.village_ES2_2}Gorcorys sits on the Gorea, the southernmost tributary of the Sethys river in the valley of Tripotamia. The dark, well-watered soil here makes this region an imperial breadbasket.">
         <Components>
@@ -2218,7 +2218,7 @@
     </Settlement>
     <!-- Akropora and Halmor, belong to clan 5 varros-->
     <!-- High ford-->
-    <Settlement id="town_ES3" name="{=Settlements.Settlement.name.town_ES3}Syracuse" owner="Faction.clan_empire_south_8"
+    <Settlement id="town_ES3" name="{=Settlements.Settlement.name.town_ES3}Pánormos" owner="Faction.clan_empire_south_8"
                 posX="617.185" posY="809.446" culture="Culture.syracuse" prosperity="4500" gate_posX="618.6132"
                 gate_posY="807.4665"
                 text="{=rGXdJybe}The town of Poros sits near the northern shores of the Perassic Sea. The warm rolling hills of these parts are well suited to the raising of sheep and horses. The herdsmen have a reputation for being proud and violent, but the nobles of the Leonipardes clan who rule this land are careful to respect their autonomy. Livestock rustling and blood feuds are common here, and it is said that the Leonipardes will never interfere unless invited by both parties, but when they do, their judgments will be obeyed by all.">
@@ -2244,7 +2244,7 @@
             <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront"/>
         </CommonAreas>
     </Settlement>
-    <Settlement id="village_ES3_1" name="{=Settlements.Settlement.name.village_ES3_1}Canoros" posX="637.306"
+    <Settlement id="village_ES3_1" name="{=Settlements.Settlement.name.village_ES3_1}Agrigentum" posX="637.306"
                 posY="796.429" culture="Culture.syracuse"
                 text="{=Settlements.Settlement.text.village_ES3_1}Canoros sits in the flat southern reaches of the Lycarea plain. This land has been good horse country since even before the Empire came, furnishing the steeds of the Lycarean riders who routed several Calradian armies before their final defeat and absorption into the imperial cavalry.">
         <Components>
@@ -2261,7 +2261,7 @@
             <Area type="Bog" name="{=iXA5SttU}Bog"/>
         </CommonAreas>
     </Settlement>
-    <Settlement id="village_ES3_2" name="{=Settlements.Settlement.name.village_ES3_2}Tevea" posX="693.857"
+    <Settlement id="village_ES3_2" name="{=Settlements.Settlement.name.village_ES3_2}Locri" posX="693.857"
                 posY="822.608" culture="Culture.syracuse"
                 text="{=Settlements.Settlement.text.village_ES3_2}Tevea sits where the plains of Lycarea slowly ascend to meet the base of the Ornian Rock. They raise sheeps on the slopes of this massive outcrop, named for the vultures who glare down from its heights onto the hazy flatlands below.">
         <Components>
@@ -2321,7 +2321,7 @@
             <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront"/>
         </CommonAreas>
     </Settlement>
-    <Settlement id="village_ES4_1" name="{=Settlements.Settlement.name.village_ES4_1}Sagora" posX="615.602"
+    <Settlement id="village_ES4_1" name="{=Settlements.Settlement.name.village_ES4_1}Gaeta" posX="615.602"
                 posY="895.779" culture="Culture.empire"
                 text="{=Settlements.Settlement.text.village_ES4_1}Sagora on a low ridge in the middle of the Lycarean plain. This district is one of the rockier and less fertile parts of the plain, but the valley scrubs still supports the grazing of sheep.">
         <Components>
@@ -2356,7 +2356,7 @@
             <Area type="Bog" name="{=iXA5SttU}Bog"/>
         </CommonAreas>
     </Settlement>
-    <Settlement id="village_ES4_3" name="{=Settlements.Settlement.name.village_ES4_3}Canterion" posX="576.823"
+    <Settlement id="village_ES4_3" name="{=Settlements.Settlement.name.village_ES4_3}Arretium" posX="576.823"
                 posY="947.159" culture="Culture.empire"
                 text="{=Settlements.Settlement.text.village_ES4_3}Canterion lies in the east of the Lycarean plain. The slowly rising land here gets more rain than other parts of the plain, and the rich grasses have made it good horse country since even before the coming of the Empire.">
         <Components>
@@ -2374,7 +2374,7 @@
             <Area type="Bog" name="{=iXA5SttU}Bog"/>
         </CommonAreas>
     </Settlement>
-    <Settlement id="town_ES5" name="{=Settlements.Settlement.name.town_ES5}Onira" owner="Faction.clan_empire_south_6"
+    <Settlement id="town_ES5" name="{=Settlements.Settlement.name.town_ES5}Capua" owner="Faction.clan_empire_south_6"
                 posX="638.533" posY="887.571" culture="Culture.empire" prosperity="3400" gate_posX="637.9388"
                 gate_posY="889.7819"
                 text="{=4ENGzVaC}The tale of Sarpea of Onira is one of the epic poems of the eastern frontier. Like many, it seems written to justify the Empire's conquest. Sarpea, a senator's daughter, was seized by a Palaic chieftain and carried to his citadel here. When the imperial armies appeared before its walls years later to rescue her, she begged them to retreat for the sake of her infant son, whom her fearsome husband had threatened to hurl from the walls instead of allowing him to be captured and raised by his mother's people. The legions withdrew, so the story says, but the boy grew into a warrior who joined the Empire and slew his father. It is now the center of a horse-breeding industry on the eastern plains.">
@@ -2400,7 +2400,7 @@
             <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront"/>
         </CommonAreas>
     </Settlement>
-    <Settlement id="village_ES5_1" name="{=Settlements.Settlement.name.village_ES5_1}Lanthas" posX="683.499"
+    <Settlement id="village_ES5_1" name="{=Settlements.Settlement.name.village_ES5_1}Luceria" posX="683.499"
                 posY="891.541" culture="Culture.empire"
                 text="{=Settlements.Settlement.text.village_ES5_1}Lanthas in the broad plains south of Lake Tanaesis. This is good sheep country, but in a land scoured by imperial fugitives, wild Eleftheroi riders and steppe nomads, the villagers here have learned to watch their flocks closely.">
         <Components>
@@ -2417,7 +2417,7 @@
             <Area type="Bog" name="{=iXA5SttU}Bog"/>
         </CommonAreas>
     </Settlement>
-    <Settlement id="village_ES5_2" name="{=Settlements.Settlement.name.village_ES5_2}Lartusys" posX="662.223"
+    <Settlement id="village_ES5_2" name="{=Settlements.Settlement.name.village_ES5_2}Beneventum" posX="662.223"
                 posY="892.414" culture="Culture.empire"
                 text="{=Settlements.Settlement.text.village_ES5_2}Lartusys lies near the southern end of Lake Tanaesis. The village sits near a deposit of salt, and salt springs occasionally bubble to the surface, feeding the legend that this was once a gateway to a haunted underground sea.">
         <Components>
@@ -2451,7 +2451,7 @@
             <Area type="Bog" name="{=iXA5SttU}Bog"/>
         </CommonAreas>
     </Settlement>
-    <Settlement id="town_ES6" name="{=Settlements.Settlement.name.town_ES6}Phycaon" owner="Faction.clan_empire_south_3"
+    <Settlement id="town_ES6" name="{=Settlements.Settlement.name.town_ES6}Genua" owner="Faction.clan_empire_south_3"
                 posX="515.711" posY="975.512" culture="Culture.etruscan" prosperity="2600" gate_posX="518.191"
                 gate_posY="974.9539"
                 text="{=RL2vacqv}Phycaon sits at the head of the Sethys valley, one of the main grain-producing regions of the central Empire. Once the largest of the Palaic cities, its leaders led a league of the tribes against imperial encroachment into the region. But when the empire's victory looked inevitable, they made their peace. The population, now thoroughly Calradicized, have a reputation for being serious, respectable and trade-minded, dependable if a bit humorless.">
@@ -2477,7 +2477,7 @@
             <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront"/>
         </CommonAreas>
     </Settlement>
-    <Settlement id="village_ES6_1" name="{=Settlements.Settlement.name.village_ES6_1}Saldannis" posX="547.235"
+    <Settlement id="village_ES6_1" name="{=Settlements.Settlement.name.village_ES6_1}Lucca" posX="547.235"
                 posY="964.257" culture="Culture.etruscan"
                 text="{=Settlements.Settlement.text.village_ES6_1}Saldannis lies beneath gypsum bluffs overlooking the River Sethys. The fine soil of the hills makes for a sticky clay when it washes down to the river, much prized by the potters of the imperial south.">
         <Components>
@@ -2530,10 +2530,10 @@
             <Area type="Bog" name="{=iXA5SttU}Bog"/>
         </CommonAreas>
     </Settlement>
-    <Settlement id="town_ES7" name="{=Settlements.Settlement.name.town_ES7}Syronea" owner="Faction.clan_aserai_3"
+    <Settlement id="town_ES7" name="{=Settlements.Settlement.name.town_ES7}Karaly" owner="Faction.clan_aserai_3"
                 posX="511.065" posY="841.098" culture="Culture.aserai" prosperity="4000" gate_posX="511.3678"
                 gate_posY="843.5322"
-                text="{=UHvEEEBb} Syronea sits on the eastern shores of Lake Tanaesis. This city, once peaceful and rich, was once a byword for luxury and decadence. This was the center of the Empire's silk industry and an entrepot for the goods flowing in from what was known as Transtanaesia, the imperial possessions and protectorates beyond the great lake. But the coming of the Khuzaits ripped the Transtanaesia from the Empire's grasp and the Senatorial families of Syronea were forced to relearn the arts of war, dusting off old gilded armors and sharpening bejewelled swords to lead their followers against Urkhun's warriors.">
+                text="{=UHvEEEBb} Karaly sits on the eastern shores of Lake Tanaesis. This city, once peaceful and rich, was once a byword for luxury and decadence. This was the center of the Empire's silk industry and an entrepot for the goods flowing in from what was known as Transtanaesia, the imperial possessions and protectorates beyond the great lake. But the coming of the Khuzaits ripped the Transtanaesia from the Empire's grasp and the Senatorial families of Syronea were forced to relearn the arts of war, dusting off old gilded armors and sharpening bejewelled swords to lead their followers against Urkhun's warriors.">
         <Components>
             <Town id="town_comp_ES7" is_castle="false" level="3" background_crop_position="0.45"
                   background_mesh="menu_empire_seaside_2" wait_mesh="wait_empire_town" gate_rotation="0.908"/>
@@ -2556,9 +2556,9 @@
             <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront"/>
         </CommonAreas>
     </Settlement>
-    <Settlement id="village_ES7_1" name="{=Settlements.Settlement.name.village_ES7_1}Psotai" posX="499.979"
+    <Settlement id="village_ES7_1" name="{=Settlements.Settlement.name.village_ES7_1}Sassari" posX="499.979"
                 posY="875.659" culture="Culture.aserai"
-                text="{=Settlements.Settlement.text.village_ES7_1}Psotai sits near the southern tip of Lake Tanaesis. The low-lying fields here are one of the major grain producing centers of the eastern frontier regions.">
+                text="{=Settlements.Settlement.text.village_ES7_1}Sassari sits near the southern tip of Lake Tanaesis. The low-lying fields here are one of the major grain producing centers of the eastern frontier regions.">
         <Components>
             <Village id="village_comp_ES7_1" village_type="VillageType.wheat_farm" hearth="268" gate_rotation="0.008"
                      bound="Settlement.town_ES7" background_crop_position="0.0" background_mesh="gui_bg_village_empire"
@@ -4126,10 +4126,10 @@
             <Area type="Bog" name="{=iXA5SttU}Bog"/>
         </CommonAreas>
     </Settlement>
-    <Settlement id="town_A4" name="{=Settlements.Settlement.name.town_A4}Razih" owner="Faction.clan_aserai_1"
+    <Settlement id="town_A4" name="{=Settlements.Settlement.name.town_A4}Qrt-Hdšt" owner="Faction.clan_aserai_1"
                 posX="535.725" posY="791.425" culture="Culture.aserai" prosperity="4500" gate_posX="533.9579"
                 gate_posY="788.6962"
-                text="{=jXBnf2hQ}Razih is said to be the base from which Kannic explorers set forth to colonize the shores of the Perassic Sea in the centuries before the coming of the empire, the prows of their ships decorated with the intertwined vine leaves of the Kannic goddess of wealth, wine, love and war. Today, the Kannic tongue has been replaced by Nahasawi dialects and their religion is all but forgotten, but the symbol lives on, said to protect those who risk all for the sake of gain or glory.">
+                text="{=jXBnf2hQ}Qrt-Hdšt is said to be the base from which Kannic explorers set forth to colonize the shores of the Perassic Sea in the centuries before the coming of the empire, the prows of their ships decorated with the intertwined vine leaves of the Kannic goddess of wealth, wine, love and war. Today, the Kannic tongue has been replaced by Nahasawi dialects and their religion is all but forgotten, but the symbol lives on, said to protect those who risk all for the sake of gain or glory.">
         <Components>
             <Town id="town_comp_A4" is_castle="false" level="1" background_crop_position="0.241"
                   background_mesh="menu_aserai_2" wait_mesh="wait_aserai_town" gate_rotation="0.208"/>
