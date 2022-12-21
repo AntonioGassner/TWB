@@ -1774,7 +1774,7 @@
                 posX="578.389" posY="996.512" culture="Culture.vlandia"
                 text="{=Settlements.Settlement.text.castle_village_ES2_2}Metachia is the lies on the southern shores of Lake Tanaesis in the frontier lands beyond River Tiagys. This imperial colony, established in more peaceful times, is a center for mulberry bushes used in silk production.">
         <Components>
-            <Village id="castle_village_comp_ES2_2" village_type="VillageType.silk_plant" hearth="258"
+            <Village id="castle_village_comp_ES2_2" village_type="VillageType.lumberjack" hearth="258"
                      gate_rotation="0.308" bound="Settlement.castle_ES2" background_crop_position="0.0"
                      background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village"
                      castle_background_mesh="gui_bg_castle_empire"/>
@@ -1807,7 +1807,7 @@
                 posX="706.412" posY="885.228" culture="Culture.epirus"
                 text="{=Settlements.Settlement.text.castle_village_ES3_1}Melion in a narrow valley near the center of the Myzead, a rugged plateau in the east of the Empire. Villagers here cultivate mulberry bushes. The leaves are harvested and fed to silkworks, producing thread much valued by both refined imperial nobles for their courtwear and hard-riding nomads and frontiersmen, who wear it beneath their armor as an extra layer of protection against arrows.">
         <Components>
-            <Village id="castle_village_comp_ES3_1" village_type="VillageType.silk_plant" hearth="448"
+            <Village id="castle_village_comp_ES3_1" village_type="VillageType.wheat_farm" hearth="448"
                      gate_rotation="0.308" bound="Settlement.castle_ES3" background_crop_position="0.0"
                      background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village"
                      castle_background_mesh="gui_bg_castle_empire"/>
@@ -1909,7 +1909,7 @@
                 posX="712.055" posY="838.463" culture="Culture.syracuse"
                 text="{=Settlements.Settlement.text.castle_village_ES5_1}Morenia sits overlooking the Sethys river, on a low pass leading over the hills to the valley of the Lycarea. Villagers collect clay from the riverbanks for the kilns of the imperial southlands.">
         <Components>
-            <Village id="castle_village_comp_ES5_1" village_type="VillageType.clay_mine" hearth="497"
+            <Village id="castle_village_comp_ES5_1" village_type="VillageType.salt_mine" hearth="497"
                      gate_rotation="0.008" bound="Settlement.castle_ES5" background_crop_position="0.0"
                      background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village"
                      castle_background_mesh="gui_bg_castle_empire"/>
@@ -2089,7 +2089,7 @@
                 posY="943.195" culture="Culture.empire"
                 text="{=Settlements.Settlement.text.village_ES1_3}Tegresos sits just north of the River Calsa, right before it enters the network of lakes, creeks and lagoons that form the borderlands with the Aserai. The inhabitants of this region have bred sheep that feed on marsh-grasses.">
         <Components>
-            <Village id="village_comp_ES1_3" village_type="VillageType.sheep_farm" hearth="231" gate_rotation="0.008"
+            <Village id="village_comp_ES1_3" village_type="VillageType.flax_plant" hearth="231" gate_rotation="0.008"
                      bound="Settlement.town_ES1" background_crop_position="0.0" background_mesh="gui_bg_village_empire"
                      wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire"/>
         </Components>
@@ -2106,7 +2106,7 @@
                 posY="910.43" culture="Culture.empire"
                 text="{=Settlements.Settlement.text.village_ES1_4}Erebulos lies by a lagoon that was formerly part of the Perassic Sea, closed by a recently formed sandspit. Villagers scoop clay from the creek-bottoms here, selling it to the pottery kilns of Danustica and other nearby towns.">
         <Components>
-            <Village id="village_comp_ES1_4" village_type="VillageType.clay_mine" hearth="231" gate_rotation="0.008"
+            <Village id="village_comp_ES1_4" village_type="VillageType.olive_trees" hearth="231" gate_rotation="0.008"
                      bound="Settlement.town_ES1" background_crop_position="0.0" background_mesh="gui_bg_village_empire"
                      wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire"/>
         </Components>
@@ -2248,7 +2248,7 @@
                 posY="796.429" culture="Culture.syracuse"
                 text="{=Settlements.Settlement.text.village_ES3_1}Canoros sits in the flat southern reaches of the Lycarea plain. This land has been good horse country since even before the Empire came, furnishing the steeds of the Lycarean riders who routed several Calradian armies before their final defeat and absorption into the imperial cavalry.">
         <Components>
-            <Village id="village_comp_ES3_1" village_type="VillageType.europe_horse_ranch" hearth="202"
+            <Village id="village_comp_ES3_1" village_type="VillageType.wheat_farm" hearth="202"
                      bound="Settlement.town_ES3" background_crop_position="0.0" background_mesh="gui_bg_village_empire"
                      wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire"/>
         </Components>
@@ -2282,7 +2282,7 @@
                 posY="807.303" culture="Culture.syracuse"
                 text="{=Settlements.Settlement.text.village_ES3_3}Zestea sits where the plains of Lycarea meet the coastal Iltaric hills. Sheep graze on the low slopes overlooking the hazy flatlands.">
         <Components>
-            <Village id="village_comp_ES3_3" village_type="VillageType.swine_farm" hearth="273" gate_rotation="0.258"
+            <Village id="village_comp_ES3_3" village_type="VillageType.fisherman" hearth="273" gate_rotation="0.258"
                      bound="Settlement.town_ES3" background_crop_position="0.0" background_mesh="gui_bg_village_empire"
                      wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire"/>
         </Components>
@@ -2360,7 +2360,7 @@
                 posY="947.159" culture="Culture.empire"
                 text="{=Settlements.Settlement.text.village_ES4_3}Canterion lies in the east of the Lycarean plain. The slowly rising land here gets more rain than other parts of the plain, and the rich grasses have made it good horse country since even before the coming of the Empire.">
         <Components>
-            <Village id="village_comp_ES4_3" village_type="VillageType.europe_horse_ranch" hearth="169"
+            <Village id="village_comp_ES4_3" village_type="VillageType.vineyard" hearth="169"
                      gate_rotation="0.008" bound="Settlement.town_ES4" background_crop_position="0.0"
                      background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village"
                      castle_background_mesh="gui_bg_castle_empire"/>
@@ -2421,7 +2421,7 @@
                 posY="892.414" culture="Culture.empire"
                 text="{=Settlements.Settlement.text.village_ES5_2}Lartusys lies near the southern end of Lake Tanaesis. The village sits near a deposit of salt, and salt springs occasionally bubble to the surface, feeding the legend that this was once a gateway to a haunted underground sea.">
         <Components>
-            <Village id="village_comp_ES5_2" village_type="VillageType.salt_mine" hearth="288"
+            <Village id="village_comp_ES5_2" village_type="VillageType.cattle_farm" hearth="288"
                      bound="Settlement.town_ES5" background_crop_position="0.0" background_mesh="gui_bg_village_empire"
                      wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire"/>
         </Components>
