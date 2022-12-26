@@ -15,13 +15,7 @@
     </DependedModules>
     <SubModules/>
     <Xmls>
-        <XmlNode>
-            <XmlName id="Items" path="items"/>
-            <IncludedGameTypes>
-                <GameType value="Campaign"/>
-                <GameType value="CampaignStoryMode"/>
-            </IncludedGameTypes>
-        </XmlNode>
+        
         <XmlNode>
             <XmlName id="SPCultures" path="spcultures"/>
             <IncludedGameTypes>
@@ -39,9 +33,17 @@
                 <GameType value="EditorGame"/>
             </IncludedGameTypes>
         </XmlNode>
-
-        <XmlNode>
+		
+		<XmlNode>
             <XmlName id="Kingdoms" path="spkingdoms"/>
+            <IncludedGameTypes>
+                <GameType value="Campaign"/>
+                <GameType value="CampaignStoryMode"/>
+            </IncludedGameTypes>
+        </XmlNode>
+       
+        <XmlNode>
+            <XmlName id="Kingdoms" path="TWB_kingdoms"/>
             <IncludedGameTypes>
                 <GameType value="Campaign"/>
                 <GameType value="CampaignStoryMode"/>
@@ -68,6 +70,17 @@
             <IncludedGameTypes>
                 <GameType value="Campaign"/>
                 <GameType value="CampaignStoryMode"/>
+            </IncludedGameTypes>
+        </XmlNode>
+
+        
+        <XmlNode>
+            <XmlName id="SkillSets" path="TWB_skill_sets"/>
+            <IncludedGameTypes>
+                <GameType value="Campaign"/>
+                <GameType value="CampaignStoryMode"/>
+                <GameType value="CustomGame"/>
+                <GameType value="EditorGame"/>
             </IncludedGameTypes>
         </XmlNode>
 

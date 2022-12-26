@@ -69,6 +69,22 @@
              Type="Pommel"
              scale_factor="100" />
     </Pieces>
-  </CraftedItem>   
+  </CraftedItem>
+<!-- Celtic Spear Length 183 -->
+<CraftedItem id="hans_celtic_spear_a"
+               name="{=hanscelticwrsp}Celtic War Spear"
+               crafting_template="TwoHandedPolearm"
+               culture="Culture.battania"
+               modifier_group="polearm">
+    <Pieces>
+      <Piece id="spear_blade_27"
+             Type="Blade"
+             scale_factor="100" />
+      <Piece id="spear_handle_5"
+             Type="Handle"
+             scale_factor="110" />
+    </Pieces>
+  </CraftedItem>  
+  
   
 </Items>

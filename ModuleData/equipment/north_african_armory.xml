@@ -41,12 +41,12 @@
 			   value="600"
                culture="Culture.aserai">
     <Pieces>
-      <Piece id="spear_blade_1"
+      <Piece id="spear_blade_27"
              Type="Blade"
-             scale_factor="95" />
-      <Piece id="spear_handle_25"
+             scale_factor="100" />
+      <Piece id="spear_handle_5"
              Type="Handle"
-             scale_factor="95" />
+             scale_factor="110" />
     </Pieces>
   </CraftedItem>  
 <!-- Punic spear T3-->
@@ -57,36 +57,12 @@
 		       value="600"
                culture="Culture.aserai">
     <Pieces>
-      <Piece id="spear_blade_20"
+      <Piece id="spear_blade_27"
              Type="Blade"
-             scale_factor="110" />
-      <Piece id="default_polearm_guard"
-             Type="Guard"
-             scale_factor="100" />
+             scale_factor="100" />      
       <Piece id="spear_handle_5"
              Type="Handle"
-             scale_factor="100" />
-      <Piece id="spear_pommel_10"
-             Type="Pommel"
-             scale_factor="100" />
-    </Pieces>
-  </CraftedItem>
-  <CraftedItem id="hans_punic_hoplite_spear_b"
-               name="{=PunicTWBa4}Punic Hoplite Spear b"
-               crafting_template="TwoHandedPolearm"
-			   is_merchandise="true"
-		       value="600"
-               culture="Culture.aserai">
-    <Pieces>
-      <Piece id="spear_blade_40"
-             Type="Blade"
              scale_factor="110" />
-      <Piece id="default_polearm_guard"
-             Type="Guard"
-             scale_factor="100" />
-      <Piece id="spear_handle_5"
-             Type="Handle"
-             scale_factor="100" />
       <Piece id="spear_pommel_10"
              Type="Pommel"
              scale_factor="100" />
@@ -100,15 +76,15 @@
 		       value="600"
                culture="Culture.aserai">
     <Pieces>
-      <Piece id="spear_blade_42"
+      <Piece id="spear_blade_27"
              Type="Blade"
-             scale_factor="110" />
-      <Piece id="default_polearm_guard"
+             scale_factor="100" />
+      <Piece id="spear_banner_3"
              Type="Guard"
              scale_factor="100" />
       <Piece id="spear_handle_5"
              Type="Handle"
-             scale_factor="100" />
+             scale_factor="110" />
       <Piece id="spear_pommel_10"
              Type="Pommel"
              scale_factor="100" />
@@ -124,7 +100,7 @@
     <Pieces>
       <Piece id="spear_blade_37"
              Type="Blade"
-             scale_factor="100" />
+             scale_factor="110" />
       <Piece id="spear_handle_27"
              Type="Handle"
              scale_factor="100" />
