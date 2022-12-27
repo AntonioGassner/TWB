@@ -1,14 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Kingdoms>
   <!--kingdom factions-->
-  <Kingdom id="empire" owner="Hero.lord_1_1" banner_key="11.4.4.4345.4345.764.764.1.0.0.163.5.5.512.512.764.764.1.0.0" primary_banner_color="0xff793191" secondary_banner_color="0xffFCDE90" label_color="FF850C6D" color="FF4E3A55" color2="FFDE9953" alternative_color="FFffffff" alternative_color2="FF660653" culture="Culture.empire" settlement_banner_mesh="encounter_flag_a" flag_mesh="info_screen_flags_b" name="{=NF627oiX}Northern Empire" short_name="{=nsDj8Qxl}northern Empire" title="{=NF627oiX}Northern Empire" ruler_title="{=OoHhCa11}Senator" text="{=aEfsyVH4}Many of the oldest families of the Empire live in the north. They came here as marcher lords, granted vast tracts of land by their colleagues in the Senate to keep 'pacified' northern tribes in check and hold the frontiers against Battanian, Sturgian, and Khuzait raiders. They drained marshes and turned the river floodplains into wheatfields, cut back forests and turned the hillsides into pasture. But as the republic became an empire and as emperors became more and more dependent on money and lands to reward their loyal soldiers, the nobility here began to fear that their estates would one day be seized by some cash-starved tyrant. Consequently, in the ongoing imperial civil war they have become some of the strongest champions of Lucon, who sees a Senate of established property-holders as the supreme authority and the emperor as its servant.">
-    <relationships>
-      <relationship kingdom="Kingdom.khuzait" value="1" isAtWar="false" />
-    </relationships>
-    <policies>
-      <policy id="policy_feudal_inheritance" />
-    </policies>
-  </Kingdom>
+  
   <Kingdom id="Scythia" owner="Hero.lord_NE9_l" banner_key="11.25.10.4345.4345.764.764.1.0.0.449.11.0.327.349.764.649.0.0.0.449.11.0.319.339.764.879.0.0.180.510.11.0.351.240.634.764.0.0.180.510.11.0.351.240.894.764.0.0.180" primary_banner_color="0xfff4ca14" secondary_banner_color="0xff6c1512" label_color="FFDB8330" color="FF9E5072" color2="FFDE9953" alternative_color="FF1F1D1F" alternative_color2="FFc28446" culture="Culture.Scythian" settlement_banner_mesh="encounter_flag_a" flag_mesh="info_screen_flags_a" name="{=yG3YUySN}Scythia" short_name="{=ZEmH0MwL}Scythians" title="{=yG3YUySN}Scythian Tribes" ruler_title="{=Cheif123}Chieftian" text="{=mOZsbV8j}The Scthians were a nomadic tribe of the Steppe. Many fear the brutal raids made by them.">
     <relationships>
       <relationship kingdom="Kingdom.Caledones" value="1" isAtWar="false" />
@@ -124,6 +117,18 @@
 	</Kingdom>
 
 	<Kingdom id="Pomeranians" owner="Hero.lord_NE8_l" banner_key="11.71.4.4345.4345.764.764.1.0.0.502.5.0.510.510.764.764.0.0.0.338.5.0.487.487.764.764.0.0.0.503.5.0.109.109.764.624.0.0.0" primary_banner_color="0xff224277" secondary_banner_color="0xffCEDAE7" label_color="FF1856A1" color="FF1C2A50" color2="FF949CCC" alternative_color="FFFFFFFF" alternative_color2="FF2A4B78" culture="Culture.Baltic" settlement_banner_mesh="encounter_flag_b" flag_mesh="info_screen_flags_c" name="{=Pomeranian}Pomeranian" short_name="{=Pomeranians1}Pomeranians" title="{=Pomeranians2}Pomeranian Tribe" ruler_title="{=hwnp9abW}King" text="{=Pomeranians3}The Pomeranians dwell in the lands along the southern coast of the Baltic sea. they are a hardy and strong people who often found themselves defending their holdings from Scythian raids.">
+		<relationships>
+			<relationship kingdom="Kingdom.Suiones" value="1" isAtWar="false" />
+		</relationships>
+	</Kingdom>
+
+	<Kingdom id="Sweboz" owner="Hero.lord_1_1" banner_key="11.12.12.4345.4345.764.764.1.0.0.462.13.13.512.512.764.764.1.0.0" primary_banner_color="0xff714214" secondary_banner_color="0xffcac1ba" label_color="FF1856A1" color="FF1C2A50" color2="FF949CCC" alternative_color="FFFFFFFF" alternative_color2="FF2A4B78" culture="Culture.sturgia" settlement_banner_mesh="encounter_flag_b" flag_mesh="info_screen_flags_c" name="{=Sweboz16}Sweboz" short_name="{=SwebozqLO}Sweboz" title="{=SwebozuQ}Sweboz Tribe" ruler_title="{=hwnp9abW}King" text="{=Sweboz7Uu}The Germanic Sweboz Tribes">
+		<relationships>
+			<relationship kingdom="Kingdom.Suiones" value="1" isAtWar="false" />
+		</relationships>
+	</Kingdom>
+
+	<Kingdom id="Teutones" owner="Hero.lord_6_17" banner_key="11.12.12.4345.4345.764.764.1.0.0.462.13.13.512.512.764.764.1.0.0" primary_banner_color="0xff8d291a" secondary_banner_color="0xffb6aba7" label_color="FF1856A1" color="FF1C2A50" color2="FF949CCC" alternative_color="FFFFFFFF" alternative_color2="FF2A4B78" culture="Culture.sturgia" settlement_banner_mesh="encounter_flag_b" flag_mesh="info_screen_flags_c" name="{=Teutones1}Teutones" short_name="{=Teutones2}Teutones" title="{=Teutones3}Teutones Tribes" ruler_title="{=hwnp9abW}King" text="{=Teutones4}The Germanic Teutones Tribes">
 		<relationships>
 			<relationship kingdom="Kingdom.Suiones" value="1" isAtWar="false" />
 		</relationships>
