@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Kingdoms>
     <!--kingdom factions-->
 
@@ -11,7 +11,7 @@
              ruler_title="{=Cheif123}Chieftian"
              text="{=mOZsbV8j}The Scthians were a nomadic tribe of the Steppe. Many fear the brutal raids made by them.">
         <relationships>
-            <relationship kingdom="Kingdom.Macedon" value="1" isAtWar="false"/>
+            <relationship kingdom="Kingdom.Caledones" value="1" isAtWar="false"/>
         </relationships>
         <policies>
             <policy id="policy_land_grants_for_veterans"/>
@@ -60,8 +60,7 @@
              ruler_title="{=hwnp9abW}King"
              text="{=Etruria3}Etruria. Once the master of the northern Italia region, Is now finding itself in a bitter war against the Republic of Rome.">
         <relationships>
-            <relationship kingdom="Kingdom.Boii" value="1" isAtWar="false"/>
-			<relationship kingdom="Kingdom.Rome" value="1" isAtWar="false"/>
+            <relationship kingdom="Kingdom.Rome" value="1" isAtWar="false"/>
         </relationships>
         <policies>
             <policy id="policy_royal_privilege"/>
@@ -155,7 +154,7 @@
              ruler_title="{=hwnp9abW}King"
              text="{=Macedon3}Macedonia is a small but quickly expanding empire. that is... until The powerful king of Macedon, Philip II was murdered. Now his ambitious young son Alexander has secured the throne with the help of his mother Olympias.">
         <relationships>
-            <relationship kingdom="Kingdom.Rome" value="1" isAtWar="false"/>
+            <relationship kingdom="Kingdom.empire" value="1" isAtWar="false"/>
         </relationships>
     </Kingdom>
 
@@ -167,7 +166,7 @@
              name="{=Ardiaei}Ardiaei" short_name="{=Ardiaei1}Ardiaeii" title="{=Ardiaei2}Ardiaei Tribe"
              ruler_title="{=hwnp9abW}King" text="{=Ardiaei3}The Ardiaei are an Illyrian tribe">
         <relationships>
-            <relationship kingdom="Kingdom.Macedon" value="-1" isAtWar="true"/>
+            <relationship kingdom="Kingdom.empire" value="1" isAtWar="false"/>
         </relationships>
     </Kingdom>
 
@@ -194,7 +193,7 @@
              name="{=PjO7oY16}Kven" short_name="{=C4qjBqLO}Kvens" title="{=iYCR3xuQ}Kven Tribes"
              ruler_title="{=hwnp9abW}King" text="{=b43h87Uu}The Northern Germanic Kvens Tribes">
         <relationships>
-            <relationship kingdom="Kingdom.Suiones" value="-1" isAtWar="true"/>
+            <relationship kingdom="Kingdom.Suiones" value="1" isAtWar="false"/>
         </relationships>
     </Kingdom>
 
@@ -206,7 +205,7 @@
              name="{=Suiones16}Suiones" short_name="{=SuionesLO}Suiones" title="{=SuionesxuQ}Suiones Tribes"
              ruler_title="{=hwnp9abW}King" text="{=SuionesUu}The Northern Germanic Suiones Tribes">
         <relationships>
-            <relationship kingdom="Kingdom.Kvens" value="-1" isAtWar="true"/>
+            <relationship kingdom="Kingdom.Kvens" value="1" isAtWar="false"/>
         </relationships>
     </Kingdom>
 
@@ -243,7 +242,7 @@
              name="{=Sweboz16}Sweboz" short_name="{=SwebozqLO}Sweboz" title="{=SwebozuQ}Sweboz Tribe"
              ruler_title="{=hwnp9abW}King" text="{=Sweboz7Uu}The Germanic Sweboz Tribes">
         <relationships>
-            <relationship kingdom="Kingdom.Treverii" value="-1" isAtWar="true"/>
+            <relationship kingdom="Kingdom.Suiones" value="1" isAtWar="false"/>
         </relationships>
     </Kingdom>
 
@@ -269,7 +268,7 @@
              name="{=Scordisci}Scordisci" short_name="{=Scordisci1}Scordiscii" title="{=Scordisci2}Scordisci Tribe"
              ruler_title="{=hwnp9abW}King" text="{=Scordisci3}The Scordisci are a Celtic Illyrian tribe">
         <relationships>
-            <relationship kingdom="Kingdom.Macedon" value="-1" isAtWar="true"/>
+            <relationship kingdom="Kingdom.empire" value="1" isAtWar="false"/>
         </relationships>
     </Kingdom>
 
@@ -293,7 +292,7 @@
              name="{=FjwRsf1C}Arverni" short_name="{=8HMyTKF6}Arverians" title="{=lAWwcO6b}Tribe of Arverni"
              ruler_title="{=hwnp9abW}King" text="{=arvtrbep}The Arverni Tribe dwells in the heart of Gaul.">
         <relationships>
-            <relationship kingdom="Kingdom.Aedui" value="1" isAtWar="false"/>
+            <relationship kingdom="Kingdom.Caledones" value="1" isAtWar="false"/>
         </relationships>
     </Kingdom>
 
@@ -305,7 +304,7 @@
              name="{=venetifx}Veneti" short_name="{=ventians}Venetii" title="{=lAWwcO6b}Tribe of Veneti"
              ruler_title="{=hwnp9abW}King" text="{=arvtrbep}The Veneti Tribe dwells in the North West region of Gaul.">
         <relationships>
-            <relationship kingdom="Kingdom.Aedui" value="1" isAtWar="false"/>
+            <relationship kingdom="Kingdom.Caledones" value="1" isAtWar="false"/>
         </relationships>
     </Kingdom>
 
@@ -317,7 +316,7 @@
              name="{=Nrbnsisa}Aquitani" short_name="{=aquitani}Aquitanii" title="{=lAWwcani}Tribe of Aquitani"
              ruler_title="{=hwnp9abW}King" text="{=IudGLWQZ}The Tribe of Aquitani control the Southern Gallic lands.">
         <relationships>
-            <relationship kingdom="Kingdom.Helvetii" value="1" isAtWar="false"/>
+            <relationship kingdom="Kingdom.Arverni" value="1" isAtWar="false"/>
         </relationships>
     </Kingdom>
 
@@ -330,7 +329,7 @@
              ruler_title="{=hwnp9abW}King"
              text="{=Helveti3}The Tribe of Helvetii control the Western Alpine Gallic lands.">
         <relationships>
-            <relationship kingdom="Kingdom.Aquitani" value="1" isAtWar="false"/>
+            <relationship kingdom="Kingdom.Arverni" value="1" isAtWar="false"/>
         </relationships>
     </Kingdom>
 
@@ -342,7 +341,7 @@
              name="{=skicidbo}Boii" short_name="{=boiisuwa}Boii" title="{=slboiifu}Tribe of Boii"
              ruler_title="{=hwnp9abW}King" text="{=dboii4i3}The Boii Tribe controls the Cisalpine Gaul Region.">
         <relationships>
-            <relationship kingdom="Kingdom.Etruria" value="1" isAtWar="false"/>
+            <relationship kingdom="Kingdom.Arverni" value="1" isAtWar="false"/>
         </relationships>
     </Kingdom>
 
@@ -354,11 +353,11 @@
              name="{=Treverii}Treverii" short_name="{=Trever12}Treverii" title="{=Treveri1}Tribe of Treverii"
              ruler_title="{=hwnp9abW}King" text="{=Trever21}The Treverii Tribe dwells in the region of Belgica.">
         <relationships>
-            <relationship kingdom="Kingdom.Sweboz" value="-1" isAtWar="true"/>
+            <relationship kingdom="Kingdom.Caledones" value="1" isAtWar="false"/>
         </relationships>
     </Kingdom>
 
-    <!--    england -->
+<!--    england -->
     <Kingdom id="Caledones" owner="Hero.lord_5_1"
              banner_key="11.146.141.2163.2044.764.764.0.1.180.500.24.24.677.616.763.758.0.1.0.114.24.24.439.467.736.756.0.0.0"
              primary_banner_color="0xff2C4D86" secondary_banner_color="0xffE2BCAF" label_color="FF55831A"
@@ -397,7 +396,7 @@
         </relationships>
     </Kingdom>
 
-    <!--    ireland -->
+<!--    ireland -->
     <Kingdom id="Heremon"
              owner="Hero.lord_5_5"
              banner_key="11.2.2.6296.6296.764.764.1.0.0.460.144.144.457.457.764.764.1.0.0"
@@ -417,7 +416,7 @@
              ruler_title="{=HeremonW}Ri"
              text="{=ZjHeremon}The Leath Heremon dwell in the northern part of Éire">
         <relationships>
-            <relationship kingdom="Kingdom.Eber" value="-1" isAtWar="true"/>
+                        <relationship kingdom="Kingdom.Eber" value="-1" isAtWar="true"/>
         </relationships>
     </Kingdom>
 
@@ -440,7 +439,7 @@
              ruler_title="{=Eber9abW}Ri"
              text="{=ZjEber}The Leath Eber dwell in the southern part of Éire">
         <relationships>
-            <relationship kingdom="Kingdom.Heremon" value="-1" isAtWar="true"/>
+                        <relationship kingdom="Kingdom.Heremon" value="-1" isAtWar="true"/>
         </relationships>
     </Kingdom>
 
@@ -453,7 +452,7 @@
              short_name="{=Carthaginian}Carthaginian" title="{=lAWwcO6b}Kingdom of Carthage"
              ruler_title="{=monarch}Monarch" text="{=IudGLWQZ}Carthage master of the mediterranean.">
         <relationships>
-            <relationship kingdom="Kingdom.Garamantes" value="-1" isAtWar="true"/>
+            <relationship kingdom="Kingdom.Syracuse" value="1" isAtWar="false"/>
         </relationships>
     </Kingdom>
 
@@ -477,7 +476,7 @@
              short_name="{=Garamantes1}Garamantian" title="{=Garamantes2}Kingdom of Garamantia"
              ruler_title="{=monarch}Monarch" text="{=Garamantes3)Its native inhabitants, seminomadic pastoralists">
         <relationships>
-            <relationship kingdom="Kingdom.Carthage" value="-1" isAtWar="true"/>
+            <relationship kingdom="Kingdom.Massylii" value="1" isAtWar="false"/>
         </relationships>
     </Kingdom>
 
@@ -503,7 +502,7 @@
              ruler_title="{=Lusitani4}King"
              text="{=Lusitani5}The Lusitanians (or Latin: Lusitani) were an Indo-European speaking people living in the west of the Iberian Peninsula prior to its conquest by the Roman Republic and the subsequent incorporation of the territory into the Roman province of Lusitania.">
         <relationships>
-            <relationship kingdom="Kingdom.Cantabri" value="1" isAtWar="false"/>
+            <relationship kingdom="Kingdom.Carthage" value="1" isAtWar="false"/>
         </relationships>
     </Kingdom>
 
