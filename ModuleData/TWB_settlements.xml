@@ -285,6 +285,191 @@
         </CommonAreas>
     </Settlement>
 
+<!--    SCOTLAND    -->
+    <Settlement id="town_B2" name="{=Settlements.Settlement.name.town_B2}Lincius" owner="Faction.clan_battania_1"
+                posX="174.55" posY="1253.485" culture="Culture.caledones" prosperity="1066" gate_posX="177.0564"
+                gate_posY="1254.16"
+                text="{=YERtiSUn}Placeholder">
+        <Components>
+            <Town id="town_comp_B2" is_castle="false" level="3" background_crop_position="0.0"
+                  background_mesh="battania_town_3" wait_mesh="wait_battania_town" gate_rotation="0.638"/>
+        </Components>
+        <Locations complex_template="LocationComplexTemplate.town_complex">
+            <Location id="center" scene_name="battania_town_c" scene_name_1="battania_town_c"
+                      scene_name_2="battania_town_c" scene_name_3="battania_town_c"/>
+            <Location id="arena" scene_name="arena_battania_a"/>
+            <Location id="tavern" scene_name="battania_town_house_a_interior_a_tavern"/>
+            <Location id="lordshall" scene_name_1="battania_castle_keep_a_l1_interior"
+                      scene_name_2="battania_castle_keep_a_l2_interior"
+                      scene_name_3="battania_castle_keep_a_l3_interior"/>
+            <Location id="prison" scene_name="battania_dungeon_a"/>
+            <Location id="house_1" scene_name="battania_town_house_b_interior_b_house"/>
+            <Location id="house_2" scene_name="battania_town_house_b_interior_b_house"/>
+            <Location id="house_3" scene_name="battania_town_house_b_interior_b_house"/>
+        </Locations>
+        <CommonAreas>
+            <Area type="Backstreet" name="{=a0MVffcN}Backstreet"/>
+            <Area type="Clearing" name="{=LWHIVshb}Clearing"/>
+            <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront"/>
+        </CommonAreas>
+    </Settlement>
+    <Settlement id="village_B2_1" name="{=Settlements.Settlement.name.village_B2_1}Bearnas" posX="161.405"
+                posY="1262.154" culture="Culture.caledones"
+                text="{=Settlements.Settlement.text.village_B2_1}Placeholder">
+        <Components>
+            <Village id="village_comp_B2_1" village_type="VillageType.cattle_farm" hearth="117" gate_rotation="0.008"
+                     bound="Settlement.town_B2" background_crop_position="0.0" background_mesh="gui_bg_village_battania"
+                     wait_mesh="wait_battania_village" castle_background_mesh="gui_bg_castle_battania"/>
+        </Components>
+        <Locations complex_template="LocationComplexTemplate.village_complex">
+            <Location id="village_center" scene_name="battania_village_j"/>
+        </Locations>
+        <CommonAreas>
+            <Area type="Pasture" name="{=fOUsLdZR}Pasture"/>
+            <Area type="Thicket" name="{=66Mzk0NZ}Thicket"/>
+            <Area type="Bog" name="{=iXA5SttU}Bog"/>
+        </CommonAreas>
+    </Settlement>
+    <Settlement id="village_B2_2" name="{=Settlements.Settlement.name.village_B2_2}Carhan" posX="189.959"
+                posY="1258.44" culture="Culture.caledones"
+                text="{=Settlements.Settlement.text.village_B2_2}Placeholder">
+        <Components>
+            <Village id="village_comp_B2_2" village_type="VillageType.wheat_farm" hearth="108" gate_rotation="0.008"
+                     bound="Settlement.town_B2" background_crop_position="0.0" background_mesh="gui_bg_village_battania"
+                     wait_mesh="wait_battania_village" castle_background_mesh="gui_bg_castle_battania"/>
+        </Components>
+        <Locations complex_template="LocationComplexTemplate.village_complex">
+            <Location id="village_center" scene_name="battania_village_l"/>
+        </Locations>
+        <CommonAreas>
+            <Area type="Pasture" name="{=fOUsLdZR}Pasture"/>
+            <Area type="Thicket" name="{=66Mzk0NZ}Thicket"/>
+            <Area type="Bog" name="{=iXA5SttU}Bog"/>
+        </CommonAreas>
+    </Settlement>
+    <Settlement id="village_B2_3" name="{=Settlements.Settlement.name.village_B2_3}Dunopalator" posX="218.913"
+                posY="1244.048" culture="Culture.caledones"
+                text="{=Settlements.Settlement.text.village_B2_3}Placeholder">
+        <Components>
+            <Village id="village_comp_B2_3" village_type="VillageType.lumberjack" hearth="104"
+                     bound="Settlement.town_B2" background_crop_position="0.0" background_mesh="gui_bg_village_battania"
+                     wait_mesh="wait_battania_village" castle_background_mesh="gui_bg_castle_battania"/>
+        </Components>
+        <Locations complex_template="LocationComplexTemplate.village_complex">
+            <Location id="village_center" scene_name="battania_village_h"/>
+        </Locations>
+        <CommonAreas>
+            <Area type="Pasture" name="{=fOUsLdZR}Pasture"/>
+            <Area type="Thicket" name="{=66Mzk0NZ}Thicket"/>
+            <Area type="Bog" name="{=iXA5SttU}Bog"/>
+        </CommonAreas>
+    </Settlement>
+
+    <Settlement id="castle_B7" name="{=Settlements.Settlement.name.castle_B7}Gill-Iosa"
+                owner="Faction.clan_battania_1" posX="175.279" posY="1303.203" culture="Culture.caledones"
+                prosperity="252" gate_posX="175.9439" gate_posY="1304.069">
+        <Components>
+            <Town id="castle_comp_B7" is_castle="true" level="3" background_crop_position="0.0"
+                  background_mesh="gui_bg_town_battania" wait_mesh="wait_battania_town" gate_rotation="0.908"/>
+        </Components>
+        <Locations complex_template="LocationComplexTemplate.castle_complex">
+            <Location id="center" scene_name="battania_castle_b" scene_name_1="battania_castle_b"
+                      scene_name_2="battania_castle_b" scene_name_3="battania_castle_b"/>
+            <Location id="lordshall" scene_name_1="battania_castle_keep_a_l1_interior"
+                      scene_name_2="battania_castle_keep_a_l2_interior"
+                      scene_name_3="battania_castle_keep_a_l3_interior"/>
+            <Location id="prison" scene_name="battania_dungeon_a"/>
+        </Locations>
+    </Settlement>
+    <Settlement id="castle_village_B7_1" name="{=Settlements.Settlement.name.castle_village_B7_1}Bhaltair" posX="194.95"
+                posY="1315.097" culture="Culture.caledones"
+                text="{=Settlements.Settlement.text.castle_village_B7_1}Placeholder">
+        <Components>
+            <Village id="castle_village_comp_B7_1" village_type="VillageType.iron_mine" hearth="100"
+                     gate_rotation="0.008" bound="Settlement.castle_B7" background_crop_position="0.0"
+                     background_mesh="gui_bg_village_battania" wait_mesh="wait_battania_village"
+                     castle_background_mesh="gui_bg_castle_battania"/>
+        </Components>
+        <Locations complex_template="LocationComplexTemplate.village_complex">
+            <Location id="village_center" scene_name="battania_village_l"/>
+        </Locations>
+        <CommonAreas>
+            <Area type="Pasture" name="{=fOUsLdZR}Pasture"/>
+            <Area type="Thicket" name="{=66Mzk0NZ}Thicket"/>
+            <Area type="Bog" name="{=iXA5SttU}Bog"/>
+        </CommonAreas>
+    </Settlement>
+    <Settlement id="castle_village_B7_2" name="{=Settlements.Settlement.name.castle_village_B7_2}Eanruigh" posX="186.835"
+                posY="1303.948" culture="Culture.caledones"
+                text="{=Settlements.Settlement.text.village_B2_4}Placeholder">
+        <Components>
+            <Village id="castle_village_comp_B7_2" village_type="VillageType.fisherman" hearth="102"
+                     bound="Settlement.castle_B7" background_crop_position="0.0"
+                     background_mesh="gui_bg_village_battania" wait_mesh="wait_battania_village"
+                     castle_background_mesh="gui_bg_castle_battania"/>
+        </Components>
+        <Locations complex_template="LocationComplexTemplate.village_complex">
+            <Location id="village_center" scene_name="battania_village_l"/>
+        </Locations>
+        <CommonAreas>
+            <Area type="Pasture" name="{=fOUsLdZR}Pasture"/>
+            <Area type="Thicket" name="{=66Mzk0NZ}Thicket"/>
+            <Area type="Bog" name="{=iXA5SttU}Bog"/>
+        </CommonAreas>
+    </Settlement>
+
+    <Settlement id="castle_B2" name="{=Settlements.Settlement.name.castle_B2}Cathal Din"
+                owner="Faction.clan_battania_2" posX="236.384" posY="1292.601" culture="Culture.caledones"
+                prosperity="254" gate_posX="235.9255" gate_posY="1291.047">
+        <Components>
+            <Town id="castle_comp_B2" is_castle="true" level="1" background_crop_position="0.0"
+                  background_mesh="gui_bg_town_battania" wait_mesh="wait_battania_town" gate_rotation="0.908"/>
+        </Components>
+        <Locations complex_template="LocationComplexTemplate.castle_complex">
+            <Location id="center" scene_name="battania_castle_b" scene_name_1="battania_castle_b"
+                      scene_name_2="battania_castle_b" scene_name_3="battania_castle_b"/>
+            <Location id="lordshall" scene_name_1="battania_castle_keep_a_l1_interior"
+                      scene_name_2="battania_castle_keep_a_l2_interior"
+                      scene_name_3="battania_castle_keep_a_l3_interior"/>
+            <Location id="prison" scene_name="battania_dungeon_a"/>
+        </Locations>
+    </Settlement>
+    <Settlement id="castle_village_B2_1" name="{=Settlements.Settlement.name.castle_village_B2_1}Deirdrel"
+                posX="203.569" posY="1274.204" culture="Culture.caledones"
+                text="{=Settlements.Settlement.text.castle_village_B2_1}Placeholder">
+        <Components>
+            <Village id="castle_village_comp_B2_1" village_type="VillageType.trapper" hearth="101"
+                     gate_rotation="0.508" bound="Settlement.castle_B2" background_crop_position="0.0"
+                     background_mesh="gui_bg_village_battania" wait_mesh="wait_battania_village"
+                     castle_background_mesh="gui_bg_castle_battania"/>
+        </Components>
+        <Locations complex_template="LocationComplexTemplate.village_complex">
+            <Location id="village_center" scene_name="battania_village_l"/>
+        </Locations>
+        <CommonAreas>
+            <Area type="Pasture" name="{=fOUsLdZR}Pasture"/>
+            <Area type="Thicket" name="{=66Mzk0NZ}Thicket"/>
+            <Area type="Bog" name="{=iXA5SttU}Bog"/>
+        </CommonAreas>
+    </Settlement>
+    <Settlement id="castle_village_B2_2" name="{=Settlements.Settlement.name.castle_village_B2_2}Tranagh" posX="221.83"
+                posY="1280.578" culture="Culture.caledones"
+                text="{=Settlements.Settlement.text.castle_village_B2_2}Placeholder">
+        <Components>
+            <Village id="castle_village_comp_B2_2" village_type="VillageType.sheep_farm" hearth="105"
+                     gate_rotation="0.508" bound="Settlement.castle_B2" background_crop_position="0.0"
+                     background_mesh="gui_bg_village_battania" wait_mesh="wait_battania_village"
+                     castle_background_mesh="gui_bg_castle_battania"/>
+        </Components>
+        <Locations complex_template="LocationComplexTemplate.village_complex">
+            <Location id="village_center" scene_name="battania_village_l"/>
+        </Locations>
+        <CommonAreas>
+            <Area type="Pasture" name="{=fOUsLdZR}Pasture"/>
+            <Area type="Thicket" name="{=66Mzk0NZ}Thicket"/>
+            <Area type="Bog" name="{=iXA5SttU}Bog"/>
+        </CommonAreas>
+    </Settlement>
 
     <!-- Empire = 19 towns, 52 villages, 9 castles, 2.73 villages per town, 18% castle ratio -->
     <!-- Ambrela and Myzon - Ruler of aristocratic clan. Northwest-central-->
@@ -2159,11 +2344,11 @@
         </CommonAreas>
     </Settlement>
     <Settlement id="castle_village_ES4_2" name="{=Settlements.Settlement.name.castle_village_ES4_2}Grossetum"
-                posX="567.112" posY="931.621" culture="Culture.etruscan"
+                posX="567.112" posY="931.621" culture="Culture.empire"
                 text="{=Settlements.Settlement.text.castle_village_ES4_2}Ethemisa sits on the river that the Aserai call the Nahr al-Kals, the Bitter River, and what imperial citizens call the Calsa. Here, the river has just descended from the coastal hills and has not yet reached the alkali plains of the southeast. The lands around produce a fine crop of grain.">
         <Components>
-            <Village id="castle_village_comp_ES4_2" village_type="VillageType.wheat_farm" hearth="378"
-                     gate_rotation="0.008" bound="Settlement.castle_ES4" background_crop_position="0.0"
+            <Village id="castle_village_comp_ES4_2" village_type="VillageType.wheat_farm" hearth="800"
+                     gate_rotation="0.008" bound="Settlement.town_ES4" background_crop_position="0.0"
                      background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village"
                      castle_background_mesh="gui_bg_castle_empire"/>
         </Components>
@@ -2642,12 +2827,13 @@
             <Area type="Bog" name="{=iXA5SttU}Bog"/>
         </CommonAreas>
     </Settlement>
+
     <Settlement id="village_ES4_3" name="{=Settlements.Settlement.name.village_ES4_3}Arretium" posX="576.823"
-                posY="947.159" culture="Culture.empire"
+                posY="947.159" culture="Culture.etruscan"
                 text="{=Settlements.Settlement.text.village_ES4_3}Canterion lies in the east of the Lycarean plain. The slowly rising land here gets more rain than other parts of the plain, and the rich grasses have made it good horse country since even before the coming of the Empire.">
         <Components>
-            <Village id="village_comp_ES4_3" village_type="VillageType.vineyard" hearth="169"
-                     gate_rotation="0.008" bound="Settlement.town_ES4" background_crop_position="0.0"
+            <Village id="village_comp_ES4_3" village_type="VillageType.vineyard" hearth="876"
+                     gate_rotation="0.008" bound="Settlement.castle_ES4" background_crop_position="0.0"
                      background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village"
                      castle_background_mesh="gui_bg_castle_empire"/>
         </Components>
@@ -2660,6 +2846,7 @@
             <Area type="Bog" name="{=iXA5SttU}Bog"/>
         </CommonAreas>
     </Settlement>
+
     <Settlement id="town_ES5" name="{=Settlements.Settlement.name.town_ES5}Capua" owner="Faction.clan_empire_south_6"
                 posX="638.533" posY="887.571" culture="Culture.empire" prosperity="3400" gate_posX="637.9388"
                 gate_posY="889.7819"
@@ -5847,58 +6034,6 @@
         </CommonAreas>
     </Settlement>
     <!-- Battania = 5 towns, 16 villages, 6 castles, 4.00 villages per town, 38% castle ratio -->
-     <Settlement id="castle_B2" name="{=Settlements.Settlement.name.castle_B2}Llanoc Hen Castle"
-                owner="Faction.clan_battania_2" posX="236.384" posY="1292.601" culture="Culture.caledones"
-                prosperity="720" gate_posX="235.9255" gate_posY="1291.047">
-        <Components>
-            <Town id="castle_comp_B2" is_castle="true" level="1" background_crop_position="0.0"
-                  background_mesh="gui_bg_town_battania" wait_mesh="wait_battania_town" gate_rotation="0.908"/>
-        </Components>
-        <Locations complex_template="LocationComplexTemplate.castle_complex">
-            <Location id="center" scene_name="battania_castle_b" scene_name_1="battania_castle_b"
-                      scene_name_2="battania_castle_b" scene_name_3="battania_castle_b"/>
-            <Location id="lordshall" scene_name_1="battania_castle_keep_a_l1_interior"
-                      scene_name_2="battania_castle_keep_a_l2_interior"
-                      scene_name_3="battania_castle_keep_a_l3_interior"/>
-            <Location id="prison" scene_name="battania_dungeon_a"/>
-        </Locations>
-    </Settlement>
-    <Settlement id="castle_village_B2_1" name="{=Settlements.Settlement.name.castle_village_B2_1}Llanoc Hen"
-                posX="203.569" posY="1274.204" culture="Culture.caledones"
-                text="{=Settlements.Settlement.text.castle_village_B2_1}Llanoc Hen sits in a ridge in the heights of the Uchalion massif. The villagers, known as skilled pig-farmers, look down two passes, the western one leading up from Vlandian lands and the eastern one leading up from the Empire.">
-        <Components>
-            <Village id="castle_village_comp_B2_1" village_type="VillageType.swine_farm" hearth="319"
-                     gate_rotation="0.508" bound="Settlement.castle_B2" background_crop_position="0.0"
-                     background_mesh="gui_bg_village_battania" wait_mesh="wait_battania_village"
-                     castle_background_mesh="gui_bg_castle_battania"/>
-        </Components>
-        <Locations complex_template="LocationComplexTemplate.village_complex">
-            <Location id="village_center" scene_name="battania_village_l"/>
-        </Locations>
-        <CommonAreas>
-            <Area type="Pasture" name="{=fOUsLdZR}Pasture"/>
-            <Area type="Thicket" name="{=66Mzk0NZ}Thicket"/>
-            <Area type="Bog" name="{=iXA5SttU}Bog"/>
-        </CommonAreas>
-    </Settlement>
-    <Settlement id="castle_village_B2_2" name="{=Settlements.Settlement.name.castle_village_B2_2}Cantrec" posX="221.83"
-                posY="1280.578" culture="Culture.caledones"
-                text="{=Settlements.Settlement.text.castle_village_B2_2}Cantrec sits in the rocky Glen of Balasog that climbs up from the imperial lands into the plateau of the Uchafion. The lands is not especially fertile here, but pigs thrive in the bush and shrubland of the heights.">
-        <Components>
-            <Village id="castle_village_comp_B2_2" village_type="VillageType.swine_farm" hearth="347"
-                     gate_rotation="0.508" bound="Settlement.castle_B2" background_crop_position="0.0"
-                     background_mesh="gui_bg_village_battania" wait_mesh="wait_battania_village"
-                     castle_background_mesh="gui_bg_castle_battania"/>
-        </Components>
-        <Locations complex_template="LocationComplexTemplate.village_complex">
-            <Location id="village_center" scene_name="battania_village_l"/>
-        </Locations>
-        <CommonAreas>
-            <Area type="Pasture" name="{=fOUsLdZR}Pasture"/>
-            <Area type="Thicket" name="{=66Mzk0NZ}Thicket"/>
-            <Area type="Bog" name="{=iXA5SttU}Bog"/>
-        </CommonAreas>
-    </Settlement>
     <Settlement id="castle_B3" name="{=Settlements.Settlement.name.castle_B3}Druimmor Castle"
                 owner="Faction.clan_battania_6" posX="226.909" posY="1131.555" culture="Culture.battania"
                 prosperity="1060" gate_posX="227.8136" gate_posY="1133.438">
@@ -6019,40 +6154,6 @@
             <Area type="Bog" name="{=iXA5SttU}Bog"/>
         </CommonAreas>
     </Settlement>
-    <Settlement id="castle_B7" name="{=Settlements.Settlement.name.castle_B7}Aster Castle"
-                owner="Faction.clan_battania_1" posX="175.279" posY="1303.203" culture="Culture.caledones"
-                prosperity="652" gate_posX="175.9439" gate_posY="1304.069">
-        <Components>
-            <Town id="castle_comp_B7" is_castle="true" level="3" background_crop_position="0.0"
-                  background_mesh="gui_bg_town_battania" wait_mesh="wait_battania_town" gate_rotation="0.908"/>
-        </Components>
-        <Locations complex_template="LocationComplexTemplate.castle_complex">
-            <Location id="center" scene_name="battania_castle_b" scene_name_1="battania_castle_b"
-                      scene_name_2="battania_castle_b" scene_name_3="battania_castle_b"/>
-            <Location id="lordshall" scene_name_1="battania_castle_keep_a_l1_interior"
-                      scene_name_2="battania_castle_keep_a_l2_interior"
-                      scene_name_3="battania_castle_keep_a_l3_interior"/>
-            <Location id="prison" scene_name="battania_dungeon_a"/>
-        </Locations>
-    </Settlement>
-    <Settlement id="castle_village_B7_1" name="{=Settlements.Settlement.name.castle_village_B7_1}Aster" posX="194.95"
-                posY="1315.097" culture="Culture.caledones"
-                text="{=Settlements.Settlement.text.castle_village_B7_1}Aster sits in a shallow valley between the hills of the northeastern Uchalion and the Rock of Glanys. The people of this region have the reputation of being more focused on trade than warfare, and tribal elders have encouraged the cultivation of mulberry bushes to sustain a small silk industry.">
-        <Components>
-            <Village id="castle_village_comp_B7_1" village_type="VillageType.silk_plant" hearth="809"
-                     gate_rotation="0.008" bound="Settlement.castle_B7" background_crop_position="0.0"
-                     background_mesh="gui_bg_village_battania" wait_mesh="wait_battania_village"
-                     castle_background_mesh="gui_bg_castle_battania"/>
-        </Components>
-        <Locations complex_template="LocationComplexTemplate.village_complex">
-            <Location id="village_center" scene_name="battania_village_l"/>
-        </Locations>
-        <CommonAreas>
-            <Area type="Pasture" name="{=fOUsLdZR}Pasture"/>
-            <Area type="Thicket" name="{=66Mzk0NZ}Thicket"/>
-            <Area type="Bog" name="{=iXA5SttU}Bog"/>
-        </CommonAreas>
-    </Settlement>
     <Settlement id="castle_B8" name="{=Settlements.Settlement.name.castle_B8}Uthelaim Castle"
                 owner="Faction.clan_battania_7" posX="219.312" posY="1217.652" culture="Culture.caledones"
                 prosperity="960" gate_posX="221.1225" gate_posY="1218.751">
@@ -6087,107 +6188,7 @@
             <Area type="Bog" name="{=iXA5SttU}Bog"/>
         </CommonAreas>
     </Settlement>
-    <!-- Ford of the Horse -->
-    <!-- Mengus' inheritance -->
-   <!-- Rock of Glanys -->
-    <Settlement id="town_B2" name="{=Settlements.Settlement.name.town_B2}Dunglanys" owner="Faction.clan_battania_1"
-                posX="174.55" posY="1253.485" culture="Culture.caledones" prosperity="4000" gate_posX="177.0564"
-                gate_posY="1254.16"
-                text="{=YERtiSUn}Dunglanys, the 'Rock of Glanys', stands on a high crag overlooking the Llyn Tywal, the pool of darkness at the heart of the Battanian lands. It was named after a ancient queen who, legend has it, married in succession five high kings of Battania, bestowing sovereignty upon them. It is the center of the rituals that underpin Battanian kingship, and though not every Battanian high king has ruled from here, all are eager to hold it.">
-        <Components>
-            <Town id="town_comp_B2" is_castle="false" level="3" background_crop_position="0.0"
-                  background_mesh="battania_town_3" wait_mesh="wait_battania_town" gate_rotation="0.638"/>
-        </Components>
-        <Locations complex_template="LocationComplexTemplate.town_complex">
-            <Location id="center" scene_name="battania_town_c" scene_name_1="battania_town_c"
-                      scene_name_2="battania_town_c" scene_name_3="battania_town_c"/>
-            <Location id="arena" scene_name="arena_battania_a"/>
-            <Location id="tavern" scene_name="battania_town_house_a_interior_a_tavern"/>
-            <Location id="lordshall" scene_name_1="battania_castle_keep_a_l1_interior"
-                      scene_name_2="battania_castle_keep_a_l2_interior"
-                      scene_name_3="battania_castle_keep_a_l3_interior"/>
-            <Location id="prison" scene_name="battania_dungeon_a"/>
-            <Location id="house_1" scene_name="battania_town_house_b_interior_b_house"/>
-            <Location id="house_2" scene_name="battania_town_house_b_interior_b_house"/>
-            <Location id="house_3" scene_name="battania_town_house_b_interior_b_house"/>
-        </Locations>
-        <CommonAreas>
-            <Area type="Backstreet" name="{=a0MVffcN}Backstreet"/>
-            <Area type="Clearing" name="{=LWHIVshb}Clearing"/>
-            <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront"/>
-        </CommonAreas>
-    </Settlement>
-    <!-- Stoat's escape -->
-    <Settlement id="village_B2_1" name="{=Settlements.Settlement.name.village_B2_1}Diantogmail" posX="161.405"
-                posY="1262.154" culture="Culture.caledones"
-                text="{=Settlements.Settlement.text.village_B2_1}Diantogmail sits on the edge of Llyn Tywal, the dark lake. There are a half-dozen local legends explaining how the region got its name, which means the 'Flight of the Stoat,' but no two of them match in any particulars. Villagers here grow grapes for wine.">
-        <Components>
-            <Village id="village_comp_B2_1" village_type="VillageType.vineyard" hearth="275" gate_rotation="0.008"
-                     bound="Settlement.town_B2" background_crop_position="0.0" background_mesh="gui_bg_village_battania"
-                     wait_mesh="wait_battania_village" castle_background_mesh="gui_bg_castle_battania"/>
-        </Components>
-        <Locations complex_template="LocationComplexTemplate.village_complex">
-            <Location id="village_center" scene_name="battania_village_j"/>
-        </Locations>
-        <CommonAreas>
-            <Area type="Pasture" name="{=fOUsLdZR}Pasture"/>
-            <Area type="Thicket" name="{=66Mzk0NZ}Thicket"/>
-            <Area type="Bog" name="{=iXA5SttU}Bog"/>
-        </CommonAreas>
-    </Settlement>
-    <!-- "Slippyvale, or Valley of the Slippery River" -->
-    <Settlement id="village_B2_2" name="{=Settlements.Settlement.name.village_B2_2}Glenlithrig" posX="189.959"
-                posY="1258.44" culture="Culture.caledones"
-                text="{=Settlements.Settlement.text.village_B2_2}Glenlithrig, the valley of the slippery stream, lies in the highlands of the northern Uchalion. The villagers here are primarily foresters, supplying timber to the nearby fortress-towns of Dunglanys and Car Banseth.">
-        <Components>
-            <Village id="village_comp_B2_2" village_type="VillageType.lumberjack" hearth="529" gate_rotation="0.008"
-                     bound="Settlement.town_B2" background_crop_position="0.0" background_mesh="gui_bg_village_battania"
-                     wait_mesh="wait_battania_village" castle_background_mesh="gui_bg_castle_battania"/>
-        </Components>
-        <Locations complex_template="LocationComplexTemplate.village_complex">
-            <Location id="village_center" scene_name="battania_village_l"/>
-        </Locations>
-        <CommonAreas>
-            <Area type="Pasture" name="{=fOUsLdZR}Pasture"/>
-            <Area type="Thicket" name="{=66Mzk0NZ}Thicket"/>
-            <Area type="Bog" name="{=iXA5SttU}Bog"/>
-        </CommonAreas>
-    </Settlement>
-    <Settlement id="village_B2_3" name="{=Settlements.Settlement.name.village_B2_3}Morihig" posX="218.913"
-                posY="1244.048" culture="Culture.caledones"
-                text="{=Settlements.Settlement.text.village_B2_3}Morihig sits in a basin in the middle of the Uchalion massif. The region is known for its production of wheat and barley.">
-        <Components>
-            <Village id="village_comp_B2_3" village_type="VillageType.wheat_farm" hearth="442"
-                     bound="Settlement.town_B2" background_crop_position="0.0" background_mesh="gui_bg_village_battania"
-                     wait_mesh="wait_battania_village" castle_background_mesh="gui_bg_castle_battania"/>
-        </Components>
-        <Locations complex_template="LocationComplexTemplate.village_complex">
-            <Location id="village_center" scene_name="battania_village_h"/>
-        </Locations>
-        <CommonAreas>
-            <Area type="Pasture" name="{=fOUsLdZR}Pasture"/>
-            <Area type="Thicket" name="{=66Mzk0NZ}Thicket"/>
-            <Area type="Bog" name="{=iXA5SttU}Bog"/>
-        </CommonAreas>
-    </Settlement>
-    <Settlement id="castle_village_B7_2" name="{=Settlements.Settlement.name.castle_village_B7_2}Imlagh" posX="186.835"
-                posY="1303.948" culture="Culture.caledones"
-                text="{=Settlements.Settlement.text.village_B2_4}Imlagh lies on rolling downs in the middle of the Uchalion massif. The village specializes in white grapes for the making of the sweet Battanian wines.">
-        <Components>
-            <Village id="castle_village_comp_B7_2" village_type="VillageType.vineyard" hearth="218"
-                     bound="Settlement.castle_B7" background_crop_position="0.0"
-                     background_mesh="gui_bg_village_battania" wait_mesh="wait_battania_village"
-                     castle_background_mesh="gui_bg_castle_battania"/>
-        </Components>
-        <Locations complex_template="LocationComplexTemplate.village_complex">
-            <Location id="village_center" scene_name="battania_village_l"/>
-        </Locations>
-        <CommonAreas>
-            <Area type="Pasture" name="{=fOUsLdZR}Pasture"/>
-            <Area type="Thicket" name="{=66Mzk0NZ}Thicket"/>
-            <Area type="Bog" name="{=iXA5SttU}Bog"/>
-        </CommonAreas>
-    </Settlement>
+
     <Settlement id="castle_village_B4_2" name="{=Settlements.Settlement.name.castle_village_B4_2}Lindorn" posX="305.02"
                 posY="1154.889" culture="Culture.battania"
                 text="{=Settlements.Settlement.text.village_B2_5}Lindorn sits on the green hills north and west of Llyn Tywal, the dark lake. The surrounding farmlands are sown with wheat and barley.">
