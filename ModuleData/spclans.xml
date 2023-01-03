@@ -669,40 +669,22 @@
     <!--    HEREMON -->
     <Faction id="clan_battania_3"
              name="{=0m0IUnL1}Heremon Taellach"
-             tier="4"
+             tier="5"
              owner="Hero.lord_5_5"
              culture="Culture.battania"
              super_faction="Kingdom.Heremon"
              is_noble="true"
              banner_key="11.2.2.6296.6296.764.764.1.0.0.460.144.144.457.457.764.764.1.0.0" />
 
-    <Faction id="clan_heremon_2"
-             name="{=0m0IUnL1}Ir Taellach"
-             tier="2"
-             owner="Hero.lord_heremon_2"
-             culture="Culture.battania"
-             super_faction="Kingdom.Heremon"
-             is_noble="true"
-             banner_key="11.126.126.6296.6296.764.764.1.0.0.204.126.31.457.457.765.821.1.1.180.134.126.31.457.457.764.764.1.0.0" />
-
     <!--    EBER    -->
     <Faction id="clan_battania_4"
              name="{=k3djFmuO}Eber Taellach"
-             tier="4"
+             tier="5"
              owner="Hero.lord_5_14"
              culture="Culture.battania"
              super_faction="Kingdom.Eber"
              is_noble="true"
              banner_key="11.15.75.4345.4345.764.764.1.0.0.500.145.0.533.533.764.768.0.0.0.406.145.0.438.438.764.764.0.0.0" />
-
-<!--    <Faction id="clan_eber_2"-->
-<!--             name="{=0m0IUnL1}Lughaid Taellach"-->
-<!--             tier="2"-->
-<!--             owner="Hero.lord_5_5"-->
-<!--             culture="Culture.battania"-->
-<!--             super_faction="Kingdom.Eber"-->
-<!--             is_noble="true"-->
-<!--             banner_key="11.2.2.6296.6296.764.764.1.0.0.460.144.144.457.457.764.764.1.0.0" />-->
 
     <!--    DEMETAE -->
     <Faction id="clan_battania_6"

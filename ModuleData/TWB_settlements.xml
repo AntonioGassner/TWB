@@ -5562,7 +5562,7 @@
     </Settlement>
     <!-- Battania = 5 towns, 16 villages, 6 castles, 4.00 villages per town, 38% castle ratio -->
     <Settlement id="castle_B1" name="{=Settlements.Settlement.name.castle_B1}Ab Comer Castle"
-                owner="Faction.clan_heremon_2" posX="79.264" posY="1210.399" culture="Culture.battania"
+                owner="Faction.clan_battania_3" posX="79.264" posY="1210.399" culture="Culture.battania"
                 prosperity="880" gate_posX="78.97039" gate_posY="1208.186">
         <Components>
             <Town id="castle_comp_B1" is_castle="true" level="2" background_crop_position="0.0"
