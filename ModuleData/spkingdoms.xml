@@ -36,6 +36,21 @@
         </policies>
     </Kingdom>
 
+    <Kingdom id="Picentes" owner="Hero.lord_1_15"
+             banner_key="11.38.38.4922.4922.764.764.1.0.0.159.71.71.463.463.889.824.0.0.315.159.71.71.463.463.639.824.0.1.45.340.71.79.463.463.764.514.0.0.0"
+             primary_banner_color="0xffe68c36" secondary_banner_color="0xff710083" label_color="FF6d62b5"
+             color="FFe68c36" color2="FF710083" alternative_color="FFF4CA14" alternative_color2="FF6d62b5"
+             culture="Culture.empire" settlement_banner_mesh="encounter_flag_a" flag_mesh="info_screen_flags_b"
+             name="{=Picentes}Picentes" short_name="{=Picentini}Picentini" title="{=Picentini0}Picentini people"
+             ruler_title="{=Rex321}Rex"
+             text="{=Rome6541}Picentes placeholder description">
+        <relationships>
+        </relationships>
+        <policies>
+            <policy id="policy_royal_privilege"/>
+        </policies>
+    </Kingdom>
+
     <Kingdom id="Etruria" owner="Hero.lord_1_17"
              banner_key="11.76.116.1815.1441.768.788.1.0.270.301.13.116.184.163.891.554.0.0.53.121.13.116.470.415.821.654.0.0.17.144.13.116.725.701.764.764.0.0.0"
              primary_banner_color="0xff5960A8" secondary_banner_color="0xffd5d7d4" label_color="FF6d62b5"
@@ -342,6 +357,7 @@
         </relationships>
     </Kingdom>
 
+<!--    england -->
     <Kingdom id="Caledones" owner="Hero.lord_5_1"
              banner_key="11.146.141.2163.2044.764.764.0.1.180.500.24.24.677.616.763.758.0.1.0.114.24.24.439.467.736.756.0.0.0"
              primary_banner_color="0xff2C4D86" secondary_banner_color="0xffE2BCAF" label_color="FF55831A"
@@ -349,12 +365,38 @@
              culture="Culture.caledones" settlement_banner_mesh="encounter_flag_e" flag_mesh="info_screen_flags_b"
              name="{=si8ch3is}Caledones" short_name="{=ali55sov}Caledones" title="{=di5Hagcu}Caledones Tribe"
              ruler_title="{=hwnp9abW}King"
-             text="{=JGua8ndp}The Caledones Tribe controls the Northern part of Britannia">
+             text="{=JGua8ndp}The Caledones Tribe controls the Northern part of Prydein">
         <relationships>
             <relationship kingdom="Kingdom.empire_w" value="1" isAtWar="false"/>
         </relationships>
     </Kingdom>
 
+    <Kingdom id="Catuvellauni" owner="Hero.lord_5_17"
+             banner_key="11.2.2.6296.6296.764.764.1.0.0.460.3.3.457.457.764.764.1.0.0" primary_banner_color="0xfff0e0a5"
+             secondary_banner_color="0xff3a6298" label_color="FF55831A" color="FF2D3F1D" color2="FFBFCBB0"
+             alternative_color="FFD69516" alternative_color2="FF55831A" culture="Culture.battania"
+             settlement_banner_mesh="encounter_flag_e" flag_mesh="info_screen_flags_b" name="{=Demetae1}Catuvellauni"
+             short_name="{=Demet123}Catuvellauni" title="{=Demet218}Catuvellauni Tribe" ruler_title="{=hwnp9abW}King"
+             text="{=Demeta53}The Catuvellauni dwell in the south of Prydein">
+        <relationships>
+            <relationship kingdom="Kingdom.empire_w" value="1" isAtWar="false"/>
+        </relationships>
+    </Kingdom>
+
+    <Kingdom id="Ordovices" owner="Hero.lord_5_15"
+             banner_key="11.100.100.4345.4345.764.764.1.0.0.504.110.110.80.80.764.978.1.0.180.407.110.110.368.368.764.757.0.0.0.504.110.110.110.110.764.535.1.0.180"
+             primary_banner_color="0xff332c4d"
+             secondary_banner_color="0xffd2d6d5" label_color="FF55831A" color="FF332c4d" color2="FFd2d6d5"
+             alternative_color="FF332c4d" alternative_color2="FFd2d6d5" culture="Culture.battania"
+             settlement_banner_mesh="encounter_flag_e" flag_mesh="info_screen_flags_b" name="{=Demetae1}Ordovices"
+             short_name="{=Demet123}Ordovices" title="{=Demet218}Ordovices Tribe" ruler_title="{=hwnp9abW}King"
+             text="{=Demeta53}The Ordovices dwell in the west tip of Prydein">
+        <relationships>
+            <relationship kingdom="Kingdom.empire_w" value="1" isAtWar="false"/>
+        </relationships>
+    </Kingdom>
+
+<!--    ireland -->
     <Kingdom id="Heremon"
              owner="Hero.lord_5_5"
              banner_key="11.2.2.6296.6296.764.764.1.0.0.460.144.144.457.457.764.764.1.0.0"
@@ -398,18 +440,6 @@
              text="{=ZjEber}The Leath Eber dwell in the southern part of Éire">
         <relationships>
                         <relationship kingdom="Kingdom.Heremon" value="-1" isAtWar="true"/>
-        </relationships>
-    </Kingdom>
-
-    <Kingdom id="Demetae" owner="Hero.lord_5_17"
-             banner_key="11.2.2.6296.6296.764.764.1.0.0.460.3.3.457.457.764.764.1.0.0" primary_banner_color="0xfff0e0a5"
-             secondary_banner_color="0xff3a6298" label_color="FF55831A" color="FF2D3F1D" color2="FFBFCBB0"
-             alternative_color="FFD69516" alternative_color2="FF55831A" culture="Culture.battania"
-             settlement_banner_mesh="encounter_flag_e" flag_mesh="info_screen_flags_b" name="{=Demetae1}Demetae"
-             short_name="{=Demet123}Demetae" title="{=Demet218}Demetae Tribe" ruler_title="{=hwnp9abW}King"
-             text="{=Demeta53}The Demetae dwell in the south of Britannia">
-        <relationships>
-            <relationship kingdom="Kingdom.empire_w" value="1" isAtWar="false"/>
         </relationships>
     </Kingdom>
 
