@@ -48,13 +48,26 @@
             </IncludedGameTypes>
         </XmlNode>
         <XmlNode>
+            <XmlName id="Kingdoms" path="TWB_spkingdoms"/>
+            <IncludedGameTypes>
+                <GameType value="Campaign"/>
+                <GameType value="CampaignStoryMode"/>
+            </IncludedGameTypes>
+        </XmlNode>
+        <XmlNode>
             <XmlName id="Factions" path="spclans"/>
             <IncludedGameTypes>
                 <GameType value="Campaign"/>
                 <GameType value="CampaignStoryMode"/>
             </IncludedGameTypes>
         </XmlNode>
-
+        <XmlNode>
+            <XmlName id="Factions" path="TWB_spclans"/>
+            <IncludedGameTypes>
+                <GameType value="Campaign"/>
+                <GameType value="CampaignStoryMode"/>
+            </IncludedGameTypes>
+        </XmlNode>
         <XmlNode>
             <XmlName id="Settlements" path="settlements"/>
             <IncludedGameTypes>

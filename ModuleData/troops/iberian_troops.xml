@@ -32,7 +32,7 @@
         <Equipments>
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.falcata_a"/>
-                <equipment slot="Item1" id="Item.Phallic_javelin"/>
+                <equipment slot="Item1" id="Item.phallic_javelin"/>
                 <equipment slot="Item2" id="Item.AR_shield_infantry_t2"/>
                 <equipment slot="Head" id="Item.band_1"/>
                 <equipment slot="Cape" id="Item.hmj_battanian_shoulders_b"/>
@@ -41,7 +41,7 @@
             </EquipmentRoster>
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.falcata_a"/>
-                <equipment slot="Item1" id="Item.Phallic_javelin"/>
+                <equipment slot="Item1" id="Item.phallic_javelin"/>
                 <equipment slot="Item2" id="Item.AR_shield_infantry_t2"/>
                 <equipment slot="Head" id="Item.band_1"/>
                 <equipment slot="Cape" id="Item.battania_shoulder_strap_cloak"/>
@@ -50,7 +50,7 @@
             </EquipmentRoster>
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.falcata_a"/>
-                <equipment slot="Item1" id="Item.Phallic_javelin"/>
+                <equipment slot="Item1" id="Item.phallic_javelin"/>
                 <equipment slot="Item2" id="Item.AR_shield_infantry_t2"/>
                 <equipment slot="Head" id="Item.band_1"/>
                 <equipment slot="Cape" id="Item.hmj_battanian_shoulders_b"/>
@@ -59,7 +59,7 @@
             </EquipmentRoster>
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.falcata_a"/>
-                <equipment slot="Item1" id="Item.Phallic_javelin"/>
+                <equipment slot="Item1" id="Item.phallic_javelin"/>
                 <equipment slot="Item2" id="Item.AR_shield_infantry_t2"/>
                 <equipment slot="Head" id="Item.band_1"/>
                 <equipment slot="Cape" id="Item.battania_shoulder_strap_cloak"/>
@@ -100,7 +100,7 @@
         <Equipments>
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.falcata_a"/>
-                <equipment slot="Item1" id="Item.Phallic_javelin"/>
+                <equipment slot="Item1" id="Item.phallic_javelin"/>
                 <equipment slot="Item2" id="Item.AR_shield_infantry_t2"/>
                 <equipment slot="Head" id="Item.band_1"/>
                 <equipment slot="Cape" id="Item.hmj_battanian_shoulders_b"/>
@@ -109,7 +109,7 @@
             </EquipmentRoster>
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.falcata_a"/>
-                <equipment slot="Item1" id="Item.Phallic_javelin"/>
+                <equipment slot="Item1" id="Item.phallic_javelin"/>
                 <equipment slot="Item2" id="Item.AR_shield_infantry_t2"/>
                 <equipment slot="Head" id="Item.band_1"/>
                 <equipment slot="Cape" id="Item.battania_shoulder_strap_cloak"/>
@@ -118,7 +118,7 @@
             </EquipmentRoster>
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.falcata_a"/>
-                <equipment slot="Item1" id="Item.Phallic_javelin"/>
+                <equipment slot="Item1" id="Item.phallic_javelin"/>
                 <equipment slot="Item2" id="Item.AR_shield_infantry_t2"/>
                 <equipment slot="Head" id="Item.band_1"/>
                 <equipment slot="Cape" id="Item.hmj_battanian_shoulders_b"/>
@@ -127,7 +127,7 @@
             </EquipmentRoster>
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.falcata_a"/>
-                <equipment slot="Item1" id="Item.Phallic_javelin"/>
+                <equipment slot="Item1" id="Item.phallic_javelin"/>
                 <equipment slot="Item2" id="Item.AR_shield_infantry_t2"/>
                 <equipment slot="Head" id="Item.band_1"/>
                 <equipment slot="Cape" id="Item.battania_shoulder_strap_cloak"/>
@@ -383,7 +383,7 @@
         <Equipments>
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.falcata_a"/>
-                <equipment slot="Item1" id="Item.Phallic_javelin"/>
+                <equipment slot="Item1" id="Item.phallic_javelin"/>
                 <equipment slot="Item2" id="Item.highland_scouts_shield"/>
                 <equipment slot="Head" id="Item.chalcidian_1"/>
                 <equipment slot="Cape" id="Item.hmj_battanian_shoulders_b"/>
@@ -393,7 +393,7 @@
             </EquipmentRoster>
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.falcata_a"/>
-                <equipment slot="Item1" id="Item.Phallic_javelin"/>
+                <equipment slot="Item1" id="Item.phallic_javelin"/>
                 <equipment slot="Item2" id="Item.highland_scouts_shield"/>
                 <equipment slot="Head" id="Item.chalcidian_1"/>
                 <equipment slot="Cape" id="Item.battania_shoulder_strap_cloak"/>
@@ -403,7 +403,7 @@
             </EquipmentRoster>
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.falcata_a"/>
-                <equipment slot="Item1" id="Item.Phallic_javelin"/>
+                <equipment slot="Item1" id="Item.phallic_javelin"/>
                 <equipment slot="Item2" id="Item.highland_scouts_shield"/>
                 <equipment slot="Head" id="Item.chalcidian_1"/>
                 <equipment slot="Cape" id="Item.hmj_battanian_shoulders_b"/>
@@ -413,7 +413,7 @@
             </EquipmentRoster>
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.falcata_a"/>
-                <equipment slot="Item1" id="Item.Phallic_javelin"/>
+                <equipment slot="Item1" id="Item.phallic_javelin"/>
                 <equipment slot="Item2" id="Item.highland_scouts_shield"/>
                 <equipment slot="Head" id="Item.chalcidian_1"/>
                 <equipment slot="Cape" id="Item.battania_shoulder_strap_cloak"/>
@@ -451,7 +451,7 @@
         <Equipments>
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.highland_spear_t2"/>
-                <equipment slot="Item1" id="Item.Phallic_javelin"/>
+                <equipment slot="Item1" id="Item.phallic_javelin"/>
                 <equipment slot="Item2" id="Item.AR_shield_infantry_t2"/>
                 <equipment slot="Head" id="Item.chalcidian_1"/>
                 <equipment slot="Cape" id="Item.AR_fur_cape_b"/>
@@ -461,7 +461,7 @@
             </EquipmentRoster>
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.highland_spear_t2"/>
-                <equipment slot="Item1" id="Item.Phallic_javelin"/>
+                <equipment slot="Item1" id="Item.phallic_javelin"/>
                 <equipment slot="Item2" id="Item.AR_shield_infantry_t2"/>
                 <equipment slot="Head" id="Item.chalcidian_1"/>
                 <equipment slot="Cape" id="Item.AR_fur_cape_c"/>
@@ -471,7 +471,7 @@
             </EquipmentRoster>
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.highland_spear_t2"/>
-                <equipment slot="Item1" id="Item.Phallic_javelin"/>
+                <equipment slot="Item1" id="Item.phallic_javelin"/>
                 <equipment slot="Item2" id="Item.AR_shield_infantry_t2"/>
                 <equipment slot="Head" id="Item.chalcidian_1"/>
                 <equipment slot="Cape" id="Item.AR_fur_cape_b"/>
@@ -481,7 +481,7 @@
             </EquipmentRoster>
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.highland_spear_t2"/>
-                <equipment slot="Item1" id="Item.Phallic_javelin"/>
+                <equipment slot="Item1" id="Item.phallic_javelin"/>
                 <equipment slot="Item2" id="Item.AR_shield_infantry_t2"/>
                 <equipment slot="Head" id="Item.chalcidian_1"/>
                 <equipment slot="Cape" id="Item.AR_fur_cape_c"/>
@@ -592,7 +592,7 @@
         <Equipments>
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.falcata_a"/>
-                <equipment slot="Item1" id="Item.Phallic_javelin"/>
+                <equipment slot="Item1" id="Item.phallic_javelin"/>
                 <equipment slot="Item2" id="Item.highland_scouts_shield"/>
                 <equipment slot="Head" id="Item.band_1"/>
                 <equipment slot="Cape" id="Item.battania_scarf_a"/>
@@ -602,7 +602,7 @@
             </EquipmentRoster>
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.falcata_a"/>
-                <equipment slot="Item1" id="Item.Phallic_javelin"/>
+                <equipment slot="Item1" id="Item.phallic_javelin"/>
                 <equipment slot="Item2" id="Item.highland_scouts_shield"/>
                 <equipment slot="Head" id="Item.band_1"/>
                 <equipment slot="Cape" id="Item.AR_battanian_shoulder_b"/>
@@ -612,7 +612,7 @@
             </EquipmentRoster>
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.falcata_a"/>
-                <equipment slot="Item1" id="Item.Phallic_javelin"/>
+                <equipment slot="Item1" id="Item.phallic_javelin"/>
                 <equipment slot="Item2" id="Item.highland_scouts_shield"/>
                 <equipment slot="Head" id="Item.band_1"/>
                 <equipment slot="Cape" id="Item.battania_scarf_a"/>
@@ -622,7 +622,7 @@
             </EquipmentRoster>
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.falcata_a"/>
-                <equipment slot="Item1" id="Item.Phallic_javelin"/>
+                <equipment slot="Item1" id="Item.phallic_javelin"/>
                 <equipment slot="Item2" id="Item.highland_scouts_shield"/>
                 <equipment slot="Head" id="Item.band_1"/>
                 <equipment slot="Cape" id="Item.AR_battanian_shoulder_b"/>
@@ -1101,7 +1101,7 @@
         </upgrade_targets>
         <Equipments>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_simple_axe"/>
+                <equipment slot="Item0" id="Item.caledonian_simple_axe"/>
                 <equipment slot="Item1" id="Item.throwing_stone"/>
                 <equipment slot="Item3" id="Item.desert_round_shield"/>
                 <equipment slot="Head" id="Item.band_1"/>
@@ -1109,7 +1109,7 @@
                 <equipment slot="Leg" id="Item.battania_fur_boots"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_simple_axe"/>
+                <equipment slot="Item0" id="Item.caledonian_simple_axe"/>
                 <equipment slot="Item1" id="Item.throwing_stone"/>
                 <equipment slot="Item3" id="Item.desert_round_shield"/>
                 <equipment slot="Head" id="Item.band_1"/>
@@ -1117,7 +1117,7 @@
                 <equipment slot="Leg" id="Item.battania_fur_boots"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_simple_axe"/>
+                <equipment slot="Item0" id="Item.caledonian_simple_axe"/>
                 <equipment slot="Item1" id="Item.throwing_stone"/>
                 <equipment slot="Item3" id="Item.desert_round_shield"/>
                 <equipment slot="Head" id="Item.band_1"/>
@@ -1126,7 +1126,7 @@
                 <equipment slot="Leg" id="Item.battania_fur_boots1"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_simple_axe"/>
+                <equipment slot="Item0" id="Item.caledonian_simple_axe"/>
                 <equipment slot="Item1" id="Item.throwing_stone"/>
                 <equipment slot="Item3" id="Item.desert_round_shield"/>
                 <equipment slot="Head" id="Item.band_1"/>
@@ -1169,7 +1169,7 @@
         </upgrade_targets>
         <Equipments>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_simple_axe"/>
+                <equipment slot="Item0" id="Item.caledonian_simple_axe"/>
                 <equipment slot="Item1" id="Item.celtic_javelin"/>
                 <equipment slot="Item2" id="Item.desert_round_shield"/>
                 <equipment slot="Head" id="Item.battania_fur_cap"/>
@@ -1179,7 +1179,7 @@
                 <equipment slot="Leg" id="Item.battania_fur_boots"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_simple_axe"/>
+                <equipment slot="Item0" id="Item.caledonian_simple_axe"/>
                 <equipment slot="Item1" id="Item.celtic_javelin"/>
                 <equipment slot="Item2" id="Item.desert_round_shield"/>
                 <equipment slot="Head" id="Item.AR_battania_helmet_m"/>
@@ -1189,7 +1189,7 @@
                 <equipment slot="Leg" id="Item.battania_fur_boots"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_simple_axe"/>
+                <equipment slot="Item0" id="Item.caledonian_simple_axe"/>
                 <equipment slot="Item1" id="Item.celtic_javelin"/>
                 <equipment slot="Item2" id="Item.desert_round_shield"/>
                 <equipment slot="Head" id="Item.battania_fur_cap"/>
@@ -1199,7 +1199,7 @@
                 <equipment slot="Leg" id="Item.battania_fur_boots"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_simple_axe"/>
+                <equipment slot="Item0" id="Item.caledonian_simple_axe"/>
                 <equipment slot="Item1" id="Item.celtic_javelin"/>
                 <equipment slot="Item2" id="Item.desert_round_shield"/>
                 <equipment slot="Head" id="Item.AR_battania_helmet_m"/>
@@ -1241,7 +1241,7 @@
         </upgrade_targets>
         <Equipments>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_infantry_axe"/>
+                <equipment slot="Item0" id="Item.caledonian_infantry_axe"/>
                 <equipment slot="Item1" id="Item.celtic_javelin"/>
                 <equipment slot="Item2" id="Item.desert_round_shield"/>
                 <equipment slot="Item3" id="Item.celtic_javelin"/>
@@ -1253,7 +1253,7 @@
                 <equipment slot="Horse" id="Item.noble_horse_battania"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_infantry_axe"/>
+                <equipment slot="Item0" id="Item.caledonian_infantry_axe"/>
                 <equipment slot="Item1" id="Item.celtic_javelin"/>
                 <equipment slot="Item2" id="Item.desert_round_shield"/>
                 <equipment slot="Item3" id="Item.celtic_javelin"/>
@@ -1265,7 +1265,7 @@
                 <equipment slot="Horse" id="Item.noble_horse_battania"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_infantry_axe"/>
+                <equipment slot="Item0" id="Item.caledonian_infantry_axe"/>
                 <equipment slot="Item1" id="Item.celtic_javelin"/>
                 <equipment slot="Item2" id="Item.desert_round_shield"/>
                 <equipment slot="Item3" id="Item.celtic_javelin"/>
@@ -1277,7 +1277,7 @@
                 <equipment slot="Horse" id="Item.noble_horse_battania"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_infantry_axe"/>
+                <equipment slot="Item0" id="Item.caledonian_infantry_axe"/>
                 <equipment slot="Item1" id="Item.celtic_javelin"/>
                 <equipment slot="Item2" id="Item.desert_round_shield"/>
                 <equipment slot="Item3" id="Item.celtic_javelin"/>
@@ -1531,7 +1531,7 @@
         </upgrade_targets>
         <Equipments>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_infantry_axe"/>
+                <equipment slot="Item0" id="Item.caledonian_infantry_axe"/>
                 <equipment slot="Item1" id="Item.celtic_javelin"/>
                 <equipment slot="Item2" id="Item.desert_round_shield"/>
                 <equipment slot="Item3" id="Item.celtic_javelin"/>
@@ -1543,7 +1543,7 @@
                 <equipment slot="Horse" id="Item.t2_battania_horse"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_infantry_axe"/>
+                <equipment slot="Item0" id="Item.caledonian_infantry_axe"/>
                 <equipment slot="Item1" id="Item.celtic_javelin"/>
                 <equipment slot="Item2" id="Item.desert_round_shield"/>
                 <equipment slot="Item3" id="Item.celtic_javelin"/>
@@ -1555,7 +1555,7 @@
                 <equipment slot="Horse" id="Item.t2_battania_horse"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_infantry_axe"/>
+                <equipment slot="Item0" id="Item.caledonian_infantry_axe"/>
                 <equipment slot="Item1" id="Item.celtic_javelin"/>
                 <equipment slot="Item2" id="Item.desert_round_shield"/>
                 <equipment slot="Item3" id="Item.celtic_javelin"/>
@@ -1567,7 +1567,7 @@
                 <equipment slot="Horse" id="Item.t2_battania_horse"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_infantry_axe"/>
+                <equipment slot="Item0" id="Item.caledonian_infantry_axe"/>
                 <equipment slot="Item1" id="Item.celtic_javelin"/>
                 <equipment slot="Item2" id="Item.desert_round_shield"/>
                 <equipment slot="Item3" id="Item.celtic_javelin"/>
@@ -1607,7 +1607,7 @@
         </skills>
         <Equipments>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_infantry_axe"/>
+                <equipment slot="Item0" id="Item.caledonian_infantry_axe"/>
                 <equipment slot="Item1" id="Item.celtic_javelin"/>
                 <equipment slot="Item2" id="Item.desert_round_shield"/>
                 <equipment slot="Item3" id="Item.celtic_javelin"/>
@@ -1619,7 +1619,7 @@
                 <equipment slot="Horse" id="Item.t2_battania_horse"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_infantry_axe"/>
+                <equipment slot="Item0" id="Item.caledonian_infantry_axe"/>
                 <equipment slot="Item1" id="Item.celtic_javelin"/>
                 <equipment slot="Item2" id="Item.desert_round_shield"/>
                 <equipment slot="Item3" id="Item.celtic_javelin"/>
@@ -1631,7 +1631,7 @@
                 <equipment slot="Horse" id="Item.t2_battania_horse"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_infantry_axe"/>
+                <equipment slot="Item0" id="Item.caledonian_infantry_axe"/>
                 <equipment slot="Item1" id="Item.celtic_javelin"/>
                 <equipment slot="Item2" id="Item.desert_round_shield"/>
                 <equipment slot="Item3" id="Item.celtic_javelin"/>
@@ -1643,7 +1643,7 @@
                 <equipment slot="Horse" id="Item.t2_battania_horse"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_infantry_axe"/>
+                <equipment slot="Item0" id="Item.caledonian_infantry_axe"/>
                 <equipment slot="Item1" id="Item.celtic_javelin"/>
                 <equipment slot="Item2" id="Item.desert_round_shield"/>
                 <equipment slot="Item3" id="Item.celtic_javelin"/>
@@ -1687,7 +1687,7 @@
         </upgrade_targets>
         <Equipments>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_infantry_axe"/>
+                <equipment slot="Item0" id="Item.caledonian_infantry_axe"/>
                 <equipment slot="Item1" id="Item.celtic_javelin"/>
                 <equipment slot="Item3" id="Item.desert_round_shield"/>
                 <equipment slot="Head" id="Item.battania_fur_cap"/>
@@ -1697,7 +1697,7 @@
                 <equipment slot="Leg" id="Item.sandals_1"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_infantry_axe"/>
+                <equipment slot="Item0" id="Item.caledonian_infantry_axe"/>
                 <equipment slot="Item1" id="Item.celtic_javelin"/>
                 <equipment slot="Item3" id="Item.desert_round_shield"/>
                 <equipment slot="Head" id="Item.AR_battania_helmet_w2"/>
@@ -1707,7 +1707,7 @@
                 <equipment slot="Leg" id="Item.battania_fur_boots"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_infantry_axe"/>
+                <equipment slot="Item0" id="Item.caledonian_infantry_axe"/>
                 <equipment slot="Item1" id="Item.celtic_javelin"/>
                 <equipment slot="Item3" id="Item.desert_round_shield"/>
                 <equipment slot="Head" id="Item.battania_fur_cap"/>
@@ -1717,7 +1717,7 @@
                 <equipment slot="Leg" id="Item.sandals_1"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_infantry_axe"/>
+                <equipment slot="Item0" id="Item.caledonian_infantry_axe"/>
                 <equipment slot="Item1" id="Item.celtic_javelin"/>
                 <equipment slot="Item3" id="Item.desert_round_shield"/>
                 <equipment slot="Head" id="Item.AR_battania_helmet_w2"/>
@@ -1832,7 +1832,7 @@
         </skills>
         <Equipments>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_simple_axe"/>
+                <equipment slot="Item0" id="Item.caledonian_simple_axe"/>
                 <equipment slot="Item1" id="Item.celtic_javelin"/>
                 <equipment slot="Item2" id="Item.celtic_javelin"/>
                 <equipment slot="Item3" id="Item.battania_targe_b_sparring"/>
@@ -1845,7 +1845,7 @@
                 <equipment slot="HorseHarness" id="Item.battania_horse_harness"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_simple_axe"/>
+                <equipment slot="Item0" id="Item.caledonian_simple_axe"/>
                 <equipment slot="Item1" id="Item.celtic_javelin"/>
                 <equipment slot="Item2" id="Item.celtic_javelin"/>
                 <equipment slot="Item3" id="Item.battania_targe_b_sparring"/>
@@ -1858,7 +1858,7 @@
                 <equipment slot="HorseHarness" id="Item.bandit_saddle_highland"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_simple_axe"/>
+                <equipment slot="Item0" id="Item.caledonian_simple_axe"/>
                 <equipment slot="Item1" id="Item.celtic_javelin"/>
                 <equipment slot="Item2" id="Item.celtic_javelin"/>
                 <equipment slot="Item3" id="Item.battania_targe_b_sparring"/>
@@ -1871,7 +1871,7 @@
                 <equipment slot="HorseHarness" id="Item.battania_horse_harness"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_simple_axe"/>
+                <equipment slot="Item0" id="Item.caledonian_simple_axe"/>
                 <equipment slot="Item1" id="Item.celtic_javelin"/>
                 <equipment slot="Item2" id="Item.celtic_javelin"/>
                 <equipment slot="Item3" id="Item.battania_targe_b_sparring"/>
@@ -1912,7 +1912,7 @@
         </skills>
         <Equipments>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_infantry_axe"/>
+                <equipment slot="Item0" id="Item.caledonian_infantry_axe"/>
                 <equipment slot="Item1" id="Item.AR_sling_b"/>
                 <equipment slot="Item2" id="Item.AR_sling_bullets_c"/>
                 <equipment slot="Item3" id="Item.battania_targe_b_sparring"/>
@@ -1923,7 +1923,7 @@
                 <equipment slot="Leg" id="Item.sandals_1"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_infantry_axe"/>
+                <equipment slot="Item0" id="Item.caledonian_infantry_axe"/>
                 <equipment slot="Item1" id="Item.AR_sling_b"/>
                 <equipment slot="Item2" id="Item.AR_sling_bullets_c"/>
                 <equipment slot="Item3" id="Item.battania_targe_b_sparring"/>
@@ -1934,7 +1934,7 @@
                 <equipment slot="Leg" id="Item.battania_fur_boots"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_infantry_axe"/>
+                <equipment slot="Item0" id="Item.caledonian_infantry_axe"/>
                 <equipment slot="Item1" id="Item.AR_sling_b"/>
                 <equipment slot="Item2" id="Item.AR_sling_bullets_c"/>
                 <equipment slot="Item3" id="Item.battania_targe_b_sparring"/>
@@ -1945,7 +1945,7 @@
                 <equipment slot="Leg" id="Item.sandals_1"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_infantry_axe"/>
+                <equipment slot="Item0" id="Item.caledonian_infantry_axe"/>
                 <equipment slot="Item1" id="Item.AR_sling_b"/>
                 <equipment slot="Item2" id="Item.AR_sling_bullets_c"/>
                 <equipment slot="Item3" id="Item.battania_targe_b_sparring"/>
@@ -2055,7 +2055,7 @@
         </skills>
         <Equipments>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_infantry_axe"/>
+                <equipment slot="Item0" id="Item.caledonian_infantry_axe"/>
                 <equipment slot="Item1" id="Item.celtic_javelin"/>
                 <equipment slot="Item2" id="Item.celtic_javelin"/>
                 <equipment slot="Item3" id="Item.highland_scouts_shield"/>
@@ -2066,7 +2066,7 @@
                 <equipment slot="Leg" id="Item.battania_fur_boots"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_infantry_axe"/>
+                <equipment slot="Item0" id="Item.caledonian_infantry_axe"/>
                 <equipment slot="Item1" id="Item.celtic_javelin"/>
                 <equipment slot="Item2" id="Item.celtic_javelin"/>
                 <equipment slot="Item3" id="Item.highland_scouts_shield"/>
@@ -2077,7 +2077,7 @@
                 <equipment slot="Leg" id="Item.battania_fur_boots"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_infantry_axe"/>
+                <equipment slot="Item0" id="Item.caledonian_infantry_axe"/>
                 <equipment slot="Item1" id="Item.celtic_javelin"/>
                 <equipment slot="Item2" id="Item.celtic_javelin"/>
                 <equipment slot="Item3" id="Item.highland_scouts_shield"/>
@@ -2088,7 +2088,7 @@
                 <equipment slot="Leg" id="Item.battania_fur_boots"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_infantry_axe"/>
+                <equipment slot="Item0" id="Item.caledonian_infantry_axe"/>
                 <equipment slot="Item1" id="Item.celtic_javelin"/>
                 <equipment slot="Item2" id="Item.celtic_javelin"/>
                 <equipment slot="Item3" id="Item.highland_scouts_shield"/>
@@ -2266,7 +2266,7 @@
         <Equipments>
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.hans_espada_short_sword"/>
-                <equipment slot="Item1" id="Item.Phallic_javelin"/>
+                <equipment slot="Item1" id="Item.phallic_javelin"/>
                 <equipment slot="Item2" id="Item.AR_shield_infantry_u2"/>
                 <equipment slot="Head" id="Item.ridged_attic2"/>
                 <equipment slot="Cape" id="Item.round_chestpiece"/>
@@ -2276,7 +2276,7 @@
             </EquipmentRoster>
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.hans_espada_short_sword"/>
-                <equipment slot="Item1" id="Item.Phallic_javelin"/>
+                <equipment slot="Item1" id="Item.phallic_javelin"/>
                 <equipment slot="Item2" id="Item.AR_shield_infantry_u2"/>
                 <equipment slot="Head" id="Item.etruscan_helm"/>
                 <equipment slot="Cape" id="Item.round_chestpiece"/>
@@ -2286,7 +2286,7 @@
             </EquipmentRoster>
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.hans_espada_short_sword"/>
-                <equipment slot="Item1" id="Item.Phallic_javelin"/>
+                <equipment slot="Item1" id="Item.phallic_javelin"/>
                 <equipment slot="Item2" id="Item.AR_shield_infantry_u2"/>
                 <equipment slot="Head" id="Item.ridged_attic2"/>
                 <equipment slot="Cape" id="Item.round_chestpiece"/>
@@ -2296,7 +2296,7 @@
             </EquipmentRoster>
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.hans_espada_short_sword"/>
-                <equipment slot="Item1" id="Item.Phallic_javelin"/>
+                <equipment slot="Item1" id="Item.phallic_javelin"/>
                 <equipment slot="Item2" id="Item.AR_shield_infantry_u2"/>
                 <equipment slot="Head" id="Item.etruscan_helm"/>
                 <equipment slot="Cape" id="Item.round_chestpiece"/>
@@ -2339,8 +2339,8 @@
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.falcata_a"/>
                 <equipment slot="Item1" id="Item.AR_shield_infantry_u2"/>
-                <equipment slot="Item2" id="Item.Phallic_javelin"/>
-                <equipment slot="Item3" id="Item.Phallic_javelin"/>
+                <equipment slot="Item2" id="Item.phallic_javelin"/>
+                <equipment slot="Item3" id="Item.phallic_javelin"/>
                 <equipment slot="Head" id="Item.ridged_attic2"/>
                 <equipment slot="Cape" id="Item.round_chestpiece"/>
                 <equipment slot="Body" id="Item.battania_light_armor_e"/>
@@ -2352,8 +2352,8 @@
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.hans_celtic_sword"/>
                 <equipment slot="Item1" id="Item.AR_shield_infantry_u2"/>
-                <equipment slot="Item2" id="Item.Phallic_javelin"/>
-                <equipment slot="Item3" id="Item.Phallic_javelin"/>
+                <equipment slot="Item2" id="Item.phallic_javelin"/>
+                <equipment slot="Item3" id="Item.phallic_javelin"/>
                 <equipment slot="Head" id="Item.etruscan_helm"/>
                 <equipment slot="Cape" id="Item.round_chestpiece"/>
                 <equipment slot="Body" id="Item.battania_light_armor_e"/>
@@ -2365,8 +2365,8 @@
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.falcata_a"/>
                 <equipment slot="Item1" id="Item.AR_shield_infantry_u2"/>
-                <equipment slot="Item2" id="Item.Phallic_javelin"/>
-                <equipment slot="Item3" id="Item.Phallic_javelin"/>
+                <equipment slot="Item2" id="Item.phallic_javelin"/>
+                <equipment slot="Item3" id="Item.phallic_javelin"/>
                 <equipment slot="Head" id="Item.ridged_attic2"/>
                 <equipment slot="Cape" id="Item.round_chestpiece"/>
                 <equipment slot="Body" id="Item.battania_light_armor_e"/>
@@ -2378,8 +2378,8 @@
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.hans_celtic_sword"/>
                 <equipment slot="Item1" id="Item.AR_shield_infantry_u2"/>
-                <equipment slot="Item2" id="Item.Phallic_javelin"/>
-                <equipment slot="Item3" id="Item.Phallic_javelin"/>
+                <equipment slot="Item2" id="Item.phallic_javelin"/>
+                <equipment slot="Item3" id="Item.phallic_javelin"/>
                 <equipment slot="Head" id="Item.etruscan_helm"/>
                 <equipment slot="Cape" id="Item.round_chestpiece"/>
                 <equipment slot="Body" id="Item.battania_light_armor_e"/>
@@ -2620,8 +2620,8 @@
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.falcata_a"/>
                 <equipment slot="Item1" id="Item.AR_shield_infantry_u2"/>
-                <equipment slot="Item2" id="Item.Phallic_javelin"/>
-                <equipment slot="Item3" id="Item.Phallic_javelin"/>
+                <equipment slot="Item2" id="Item.phallic_javelin"/>
+                <equipment slot="Item3" id="Item.phallic_javelin"/>
                 <equipment slot="Head" id="Item.ridged_attic2"/>
                 <equipment slot="Cape" id="Item.round_chestpiece"/>
                 <equipment slot="Body" id="Item.AR_battania_armor_f"/>
@@ -2633,8 +2633,8 @@
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.hans_celtic_sword"/>
                 <equipment slot="Item1" id="Item.AR_shield_infantry_u2"/>
-                <equipment slot="Item2" id="Item.Phallic_javelin"/>
-                <equipment slot="Item3" id="Item.Phallic_javelin"/>
+                <equipment slot="Item2" id="Item.phallic_javelin"/>
+                <equipment slot="Item3" id="Item.phallic_javelin"/>
                 <equipment slot="Head" id="Item.etruscan_helm"/>
                 <equipment slot="Cape" id="Item.round_chestpiece"/>
                 <equipment slot="Body" id="Item.AR_battania_armor_f"/>
@@ -2646,8 +2646,8 @@
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.falcata_a"/>
                 <equipment slot="Item1" id="Item.AR_shield_infantry_u2"/>
-                <equipment slot="Item2" id="Item.Phallic_javelin"/>
-                <equipment slot="Item3" id="Item.Phallic_javelin"/>
+                <equipment slot="Item2" id="Item.phallic_javelin"/>
+                <equipment slot="Item3" id="Item.phallic_javelin"/>
                 <equipment slot="Head" id="Item.ridged_attic2"/>
                 <equipment slot="Cape" id="Item.round_chestpiece"/>
                 <equipment slot="Body" id="Item.AR_battania_armor_f"/>
@@ -2659,8 +2659,8 @@
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.hans_celtic_sword"/>
                 <equipment slot="Item1" id="Item.AR_shield_infantry_u2"/>
-                <equipment slot="Item2" id="Item.Phallic_javelin"/>
-                <equipment slot="Item3" id="Item.Phallic_javelin"/>
+                <equipment slot="Item2" id="Item.phallic_javelin"/>
+                <equipment slot="Item3" id="Item.phallic_javelin"/>
                 <equipment slot="Head" id="Item.etruscan_helm"/>
                 <equipment slot="Cape" id="Item.round_chestpiece"/>
                 <equipment slot="Body" id="Item.AR_battania_armor_f"/>
@@ -2700,8 +2700,8 @@
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.falcata_a"/>
                 <equipment slot="Item1" id="Item.AR_shield_infantry_u2"/>
-                <equipment slot="Item2" id="Item.Phallic_javelin"/>
-                <equipment slot="Item3" id="Item.Phallic_javelin"/>
+                <equipment slot="Item2" id="Item.phallic_javelin"/>
+                <equipment slot="Item3" id="Item.phallic_javelin"/>
                 <equipment slot="Head" id="Item.celtiberian_crest"/>
                 <equipment slot="Cape" id="Item.round_chestpiece"/>
                 <equipment slot="Body" id="Item.mail_cuirass"/>
@@ -2713,8 +2713,8 @@
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.hans_celtic_sword"/>
                 <equipment slot="Item1" id="Item.AR_shield_infantry_u2"/>
-                <equipment slot="Item2" id="Item.Phallic_javelin"/>
-                <equipment slot="Item3" id="Item.Phallic_javelin"/>
+                <equipment slot="Item2" id="Item.phallic_javelin"/>
+                <equipment slot="Item3" id="Item.phallic_javelin"/>
                 <equipment slot="Head" id="Item.celtiberian_lord_plumed"/>
                 <equipment slot="Cape" id="Item.round_chestpiece"/>
                 <equipment slot="Body" id="Item.mail_cuirass"/>
@@ -2726,8 +2726,8 @@
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.falcata_a"/>
                 <equipment slot="Item1" id="Item.AR_shield_infantry_u2"/>
-                <equipment slot="Item2" id="Item.Phallic_javelin"/>
-                <equipment slot="Item3" id="Item.Phallic_javelin"/>
+                <equipment slot="Item2" id="Item.phallic_javelin"/>
+                <equipment slot="Item3" id="Item.phallic_javelin"/>
                 <equipment slot="Head" id="Item.celtiberian_crest"/>
                 <equipment slot="Cape" id="Item.round_chestpiece"/>
                 <equipment slot="Body" id="Item.mail_cuirass"/>
@@ -2739,8 +2739,8 @@
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.hans_celtic_sword"/>
                 <equipment slot="Item1" id="Item.AR_shield_infantry_u2"/>
-                <equipment slot="Item2" id="Item.Phallic_javelin"/>
-                <equipment slot="Item3" id="Item.Phallic_javelin"/>
+                <equipment slot="Item2" id="Item.phallic_javelin"/>
+                <equipment slot="Item3" id="Item.phallic_javelin"/>
                 <equipment slot="Head" id="Item.celtiberian_lord_plumed"/>
                 <equipment slot="Cape" id="Item.round_chestpiece"/>
                 <equipment slot="Body" id="Item.mail_cuirass"/>
@@ -3288,7 +3288,7 @@
         </upgrade_targets>
         <Equipments>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_pine_spear_vet"/>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear_vet"/>
                 <equipment slot="Item1" id="Item.soliferrum_javelin"/>
                 <equipment slot="Item2" id="Item.celtic_scutum_1"/>
                 <equipment slot="Head" id="Item.crested_chalcidian"/>
@@ -3297,7 +3297,7 @@
                 <equipment slot="Leg" id="Item.armoured_legs_2_7_greaves"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_pine_spear_vet"/>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear_vet"/>
                 <equipment slot="Item1" id="Item.soliferrum_javelin"/>
                 <equipment slot="Item2" id="Item.celtic_scutum_1"/>
                 <equipment slot="Head" id="Item.celtiberian_crest"/>
@@ -3306,7 +3306,7 @@
                 <equipment slot="Leg" id="Item.armoured_legs_2_7_greaves"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_pine_spear_vet"/>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear_vet"/>
                 <equipment slot="Item1" id="Item.soliferrum_javelin"/>
                 <equipment slot="Item2" id="Item.celtic_scutum_1"/>
                 <equipment slot="Head" id="Item.crested_chalcidian"/>
@@ -3315,7 +3315,7 @@
                 <equipment slot="Leg" id="Item.armoured_legs_2_7_greaves"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_pine_spear_vet"/>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear_vet"/>
                 <equipment slot="Item1" id="Item.soliferrum_javelin"/>
                 <equipment slot="Item2" id="Item.celtic_scutum_1"/>
                 <equipment slot="Head" id="Item.celtiberian_crest"/>
@@ -3356,8 +3356,8 @@
         </upgrade_targets>
         <Equipments>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_pine_spear_vet"/>
-                <equipment slot="Item1" id="Item.Phallic_javelin"/>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear_vet"/>
+                <equipment slot="Item1" id="Item.phallic_javelin"/>
                 <equipment slot="Item2" id="Item.cletic_round_shield_1"/>
                 <equipment slot="Head" id="Item.crested_chalcidian"/>
                 <equipment slot="Cape" id="Item.HMJ_battanian_leather_scarf"/>
@@ -3367,8 +3367,8 @@
                 <equipment slot="HorseHarness" id="Item.battania_horse_harness"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_pine_spear_vet"/>
-                <equipment slot="Item1" id="Item.Phallic_javelin"/>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear_vet"/>
+                <equipment slot="Item1" id="Item.phallic_javelin"/>
                 <equipment slot="Item2" id="Item.cletic_round_shield_1"/>
                 <equipment slot="Head" id="Item.celtiberian_crest"/>
                 <equipment slot="Cape" id="Item.AR_empire_shoulders_a"/>
@@ -3378,8 +3378,8 @@
                 <equipment slot="HorseHarness" id="Item.battania_horse_harness"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_pine_spear_vet"/>
-                <equipment slot="Item1" id="Item.Phallic_javelin"/>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear_vet"/>
+                <equipment slot="Item1" id="Item.phallic_javelin"/>
                 <equipment slot="Item2" id="Item.cletic_round_shield_1"/>
                 <equipment slot="Head" id="Item.crested_chalcidian"/>
                 <equipment slot="Cape" id="Item.HMJ_battanian_leather_scarf"/>
@@ -3389,8 +3389,8 @@
                 <equipment slot="HorseHarness" id="Item.battania_horse_harness"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_pine_spear_vet"/>
-                <equipment slot="Item1" id="Item.Phallic_javelin"/>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear_vet"/>
+                <equipment slot="Item1" id="Item.phallic_javelin"/>
                 <equipment slot="Item2" id="Item.cletic_round_shield_1"/>
                 <equipment slot="Head" id="Item.celtiberian_crest"/>
                 <equipment slot="Cape" id="Item.AR_empire_shoulders_a"/>
@@ -3431,8 +3431,8 @@
         </upgrade_targets>
         <Equipments>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_pine_spear_vet"/>
-                <equipment slot="Item1" id="Item.Phallic_javelin"/>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear_vet"/>
+                <equipment slot="Item1" id="Item.phallic_javelin"/>
                 <equipment slot="Item2" id="Item.cletic_round_shield_1"/>
                 <equipment slot="Head" id="Item.crested_chalcidian"/>
                 <equipment slot="Cape" id="Item.HMJ_battanian_leather_scarf"/>
@@ -3442,8 +3442,8 @@
                 <equipment slot="HorseHarness" id="Item.battania_horse_harness"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_pine_spear_vet"/>
-                <equipment slot="Item1" id="Item.Phallic_javelin"/>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear_vet"/>
+                <equipment slot="Item1" id="Item.phallic_javelin"/>
                 <equipment slot="Item2" id="Item.cletic_round_shield_1"/>
                 <equipment slot="Head" id="Item.celtiberian_crest"/>
                 <equipment slot="Cape" id="Item.AR_empire_shoulders_a"/>
@@ -3453,8 +3453,8 @@
                 <equipment slot="HorseHarness" id="Item.battania_horse_harness"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_pine_spear_vet"/>
-                <equipment slot="Item1" id="Item.Phallic_javelin"/>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear_vet"/>
+                <equipment slot="Item1" id="Item.phallic_javelin"/>
                 <equipment slot="Item2" id="Item.cletic_round_shield_1"/>
                 <equipment slot="Head" id="Item.crested_chalcidian"/>
                 <equipment slot="Cape" id="Item.HMJ_battanian_leather_scarf"/>
@@ -3464,8 +3464,8 @@
                 <equipment slot="HorseHarness" id="Item.battania_horse_harness"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_pine_spear_vet"/>
-                <equipment slot="Item1" id="Item.Phallic_javelin"/>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear_vet"/>
+                <equipment slot="Item1" id="Item.phallic_javelin"/>
                 <equipment slot="Item2" id="Item.cletic_round_shield_1"/>
                 <equipment slot="Head" id="Item.celtiberian_crest"/>
                 <equipment slot="Cape" id="Item.AR_empire_shoulders_a"/>
@@ -3503,8 +3503,8 @@
         </skills>
         <Equipments>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_pine_spear_vet"/>
-                <equipment slot="Item1" id="Item.Phallic_javelin"/>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear_vet"/>
+                <equipment slot="Item1" id="Item.phallic_javelin"/>
                 <equipment slot="Item2" id="Item.cletic_round_shield_1"/>
                 <equipment slot="Head" id="Item.crested_chalcidian"/>
                 <equipment slot="Cape" id="Item.HMJ_battanian_leather_scarf"/>
@@ -3514,8 +3514,8 @@
                 <equipment slot="HorseHarness" id="Item.battania_horse_harness"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_pine_spear_vet"/>
-                <equipment slot="Item1" id="Item.Phallic_javelin"/>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear_vet"/>
+                <equipment slot="Item1" id="Item.phallic_javelin"/>
                 <equipment slot="Item2" id="Item.cletic_round_shield_1"/>
                 <equipment slot="Head" id="Item.celtiberian_crest"/>
                 <equipment slot="Cape" id="Item.AR_empire_shoulders_a"/>
@@ -3525,8 +3525,8 @@
                 <equipment slot="HorseHarness" id="Item.battania_horse_harness"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_pine_spear_vet"/>
-                <equipment slot="Item1" id="Item.Phallic_javelin"/>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear_vet"/>
+                <equipment slot="Item1" id="Item.phallic_javelin"/>
                 <equipment slot="Item2" id="Item.cletic_round_shield_1"/>
                 <equipment slot="Head" id="Item.crested_chalcidian"/>
                 <equipment slot="Cape" id="Item.HMJ_battanian_leather_scarf"/>
@@ -3536,8 +3536,8 @@
                 <equipment slot="HorseHarness" id="Item.battania_horse_harness"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_pine_spear_vet"/>
-                <equipment slot="Item1" id="Item.Phallic_javelin"/>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear_vet"/>
+                <equipment slot="Item1" id="Item.phallic_javelin"/>
                 <equipment slot="Item2" id="Item.cletic_round_shield_1"/>
                 <equipment slot="Head" id="Item.celtiberian_crest"/>
                 <equipment slot="Cape" id="Item.AR_empire_shoulders_a"/>
@@ -3578,7 +3578,7 @@
         </upgrade_targets>
         <Equipments>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_pine_spear_vet"/>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear_vet"/>
                 <equipment slot="Item1" id="Item.soliferrum_javelin"/>
                 <equipment slot="Item2" id="Item.celtic_scutum_1"/>
                 <equipment slot="Head" id="Item.crested_chalcidian"/>
@@ -3587,7 +3587,7 @@
                 <equipment slot="Leg" id="Item.armoured_legs_2_7_greaves"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_pine_spear_vet"/>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear_vet"/>
                 <equipment slot="Item1" id="Item.soliferrum_javelin"/>
                 <equipment slot="Item2" id="Item.celtic_scutum_1"/>
                 <equipment slot="Head" id="Item.celtiberian_crest"/>
@@ -3596,7 +3596,7 @@
                 <equipment slot="Leg" id="Item.armoured_legs_2_7_greaves"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_pine_spear_vet"/>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear_vet"/>
                 <equipment slot="Item1" id="Item.soliferrum_javelin"/>
                 <equipment slot="Item2" id="Item.celtic_scutum_1"/>
                 <equipment slot="Head" id="Item.crested_chalcidian"/>
@@ -3605,7 +3605,7 @@
                 <equipment slot="Leg" id="Item.armoured_legs_2_7_greaves"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_pine_spear_vet"/>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear_vet"/>
                 <equipment slot="Item1" id="Item.soliferrum_javelin"/>
                 <equipment slot="Item2" id="Item.celtic_scutum_1"/>
                 <equipment slot="Head" id="Item.celtiberian_crest"/>
@@ -3642,7 +3642,7 @@
         </skills>
         <Equipments>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_pine_spear_vet"/>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear_vet"/>
                 <equipment slot="Item1" id="Item.soliferrum_javelin"/>
                 <equipment slot="Item2" id="Item.celtic_scutum_1"/>
                 <equipment slot="Head" id="Item.celtiberian_lord_plumed"/>
@@ -3651,7 +3651,7 @@
                 <equipment slot="Leg" id="Item.armoured_legs_2_7_greaves"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_pine_spear_vet"/>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear_vet"/>
                 <equipment slot="Item1" id="Item.soliferrum_javelin"/>
                 <equipment slot="Item2" id="Item.celtic_scutum_1"/>
                 <equipment slot="Head" id="Item.TV_battania_helmet_b"/>
@@ -3660,7 +3660,7 @@
                 <equipment slot="Leg" id="Item.armoured_legs_2_7_greaves"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_pine_spear_vet"/>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear_vet"/>
                 <equipment slot="Item1" id="Item.soliferrum_javelin"/>
                 <equipment slot="Item2" id="Item.celtic_scutum_1"/>
                 <equipment slot="Head" id="Item.celtiberian_lord_plumed"/>
@@ -3669,7 +3669,7 @@
                 <equipment slot="Leg" id="Item.armoured_legs_2_7_greaves"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_pine_spear_vet"/>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear_vet"/>
                 <equipment slot="Item1" id="Item.soliferrum_javelin"/>
                 <equipment slot="Item2" id="Item.celtic_scutum_1"/>
                 <equipment slot="Head" id="Item.TV_battania_helmet_b"/>
@@ -3710,32 +3710,32 @@
         </upgrade_targets>
         <Equipments>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_pine_spear"/>
-                <equipment slot="Item1" id="Item.Phallic_javelin"/>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear"/>
+                <equipment slot="Item1" id="Item.phallic_javelin"/>
                 <equipment slot="Item2" id="Item.celtic_scutum_1"/>
                 <equipment slot="Head" id="Item.ao_mabili_leather_headband"/>
                 <equipment slot="Body" id="Item.tv_battania_armor_e"/>
                 <equipment slot="Leg" id="Item.sandals_1"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_pine_spear"/>
-                <equipment slot="Item1" id="Item.Phallic_javelin"/>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear"/>
+                <equipment slot="Item1" id="Item.phallic_javelin"/>
                 <equipment slot="Item2" id="Item.celtic_scutum_1"/>
                 <equipment slot="Head" id="Item.band_1"/>
                 <equipment slot="Body" id="Item.battania_light_armor_a"/>
                 <equipment slot="Leg" id="Item.sandals_1"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_pine_spear"/>
-                <equipment slot="Item1" id="Item.Phallic_javelin"/>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear"/>
+                <equipment slot="Item1" id="Item.phallic_javelin"/>
                 <equipment slot="Item2" id="Item.celtic_scutum_1"/>
                 <equipment slot="Head" id="Item.ao_mabili_leather_headband"/>
                 <equipment slot="Body" id="Item.tv_battania_armor_e"/>
                 <equipment slot="Leg" id="Item.sandals_1"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_pine_spear"/>
-                <equipment slot="Item1" id="Item.Phallic_javelin"/>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear"/>
+                <equipment slot="Item1" id="Item.phallic_javelin"/>
                 <equipment slot="Item2" id="Item.celtic_scutum_1"/>
                 <equipment slot="Head" id="Item.band_1"/>
                 <equipment slot="Body" id="Item.battania_light_armor_a"/>
@@ -3774,37 +3774,37 @@
         </upgrade_targets>
         <Equipments>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_pine_spear"/>
-                <equipment slot="Item1" id="Item.Phallic_javelin"/>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear"/>
+                <equipment slot="Item1" id="Item.phallic_javelin"/>
                 <equipment slot="Item2" id="Item.cletic_round_shield_1"/>
-                <equipment slot="Item3" id="Item.Phallic_javelin"/>
+                <equipment slot="Item3" id="Item.phallic_javelin"/>
                 <equipment slot="Head" id="Item.band_1"/>
                 <equipment slot="Body" id="Item.battania_light_armor_a"/>
                 <equipment slot="Leg" id="Item.sandals_1"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_pine_spear"/>
-                <equipment slot="Item1" id="Item.Phallic_javelin"/>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear"/>
+                <equipment slot="Item1" id="Item.phallic_javelin"/>
                 <equipment slot="Item2" id="Item.cletic_round_shield_1"/>
-                <equipment slot="Item3" id="Item.Phallic_javelin"/>
+                <equipment slot="Item3" id="Item.phallic_javelin"/>
                 <equipment slot="Head" id="Item.band_1"/>
                 <equipment slot="Body" id="Item.battania_light_armor_a"/>
                 <equipment slot="Leg" id="Item.sandals_1"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_pine_spear"/>
-                <equipment slot="Item1" id="Item.Phallic_javelin"/>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear"/>
+                <equipment slot="Item1" id="Item.phallic_javelin"/>
                 <equipment slot="Item2" id="Item.cletic_round_shield_1"/>
-                <equipment slot="Item3" id="Item.Phallic_javelin"/>
+                <equipment slot="Item3" id="Item.phallic_javelin"/>
                 <equipment slot="Head" id="Item.band_1"/>
                 <equipment slot="Body" id="Item.battania_light_armor_a"/>
                 <equipment slot="Leg" id="Item.sandals_1"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_pine_spear"/>
-                <equipment slot="Item1" id="Item.Phallic_javelin"/>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear"/>
+                <equipment slot="Item1" id="Item.phallic_javelin"/>
                 <equipment slot="Item2" id="Item.cletic_round_shield_1"/>
-                <equipment slot="Item3" id="Item.Phallic_javelin"/>
+                <equipment slot="Item3" id="Item.phallic_javelin"/>
                 <equipment slot="Head" id="Item.band_1"/>
                 <equipment slot="Body" id="Item.battania_light_armor_a"/>
                 <equipment slot="Leg" id="Item.sandals_1"/>
@@ -3838,37 +3838,37 @@
         </skills>
         <Equipments>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_pine_spear"/>
-                <equipment slot="Item1" id="Item.Phallic_javelin"/>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear"/>
+                <equipment slot="Item1" id="Item.phallic_javelin"/>
                 <equipment slot="Item2" id="Item.cletic_round_shield_1"/>
-                <equipment slot="Item3" id="Item.Phallic_javelin"/>
+                <equipment slot="Item3" id="Item.phallic_javelin"/>
                 <equipment slot="Head" id="Item.band_1"/>
                 <equipment slot="Body" id="Item.round_plate_tunic"/>
                 <equipment slot="Leg" id="Item.sandals_1"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_pine_spear"/>
-                <equipment slot="Item1" id="Item.Phallic_javelin"/>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear"/>
+                <equipment slot="Item1" id="Item.phallic_javelin"/>
                 <equipment slot="Item2" id="Item.cletic_round_shield_1"/>
-                <equipment slot="Item3" id="Item.Phallic_javelin"/>
+                <equipment slot="Item3" id="Item.phallic_javelin"/>
                 <equipment slot="Head" id="Item.ao_mabili_leather_headband"/>
                 <equipment slot="Body" id="Item.tv_battania_armor_e"/>
                 <equipment slot="Leg" id="Item.sandals_1"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_pine_spear"/>
-                <equipment slot="Item1" id="Item.Phallic_javelin"/>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear"/>
+                <equipment slot="Item1" id="Item.phallic_javelin"/>
                 <equipment slot="Item2" id="Item.cletic_round_shield_1"/>
-                <equipment slot="Item3" id="Item.Phallic_javelin"/>
+                <equipment slot="Item3" id="Item.phallic_javelin"/>
                 <equipment slot="Head" id="Item.band_1"/>
                 <equipment slot="Body" id="Item.round_plate_tunic"/>
                 <equipment slot="Leg" id="Item.sandals_1"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_pine_spear"/>
-                <equipment slot="Item1" id="Item.Phallic_javelin"/>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear"/>
+                <equipment slot="Item1" id="Item.phallic_javelin"/>
                 <equipment slot="Item2" id="Item.cletic_round_shield_1"/>
-                <equipment slot="Item3" id="Item.Phallic_javelin"/>
+                <equipment slot="Item3" id="Item.phallic_javelin"/>
                 <equipment slot="Head" id="Item.ao_mabili_leather_headband"/>
                 <equipment slot="Body" id="Item.tv_battania_armor_e"/>
                 <equipment slot="Leg" id="Item.sandals_1"/>
@@ -3902,7 +3902,7 @@
         </skills>
         <Equipments>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_pine_spear"/>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear"/>
                 <equipment slot="Item1" id="Item.AR_sling_b"/>
                 <equipment slot="Item2" id="Item.AR_sling_bullets_a1"/>
                 <equipment slot="Item3" id="Item.AR_sling_bullets_a1"/>
@@ -3911,7 +3911,7 @@
                 <equipment slot="Leg" id="Item.sandals_1"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_pine_spear"/>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear"/>
                 <equipment slot="Item1" id="Item.AR_sling_b"/>
                 <equipment slot="Item2" id="Item.AR_sling_bullets_a1"/>
                 <equipment slot="Item3" id="Item.AR_sling_bullets_a1"/>
@@ -3920,7 +3920,7 @@
                 <equipment slot="Leg" id="Item.sandals_1"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_pine_spear"/>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear"/>
                 <equipment slot="Item1" id="Item.AR_sling_b"/>
                 <equipment slot="Item2" id="Item.AR_sling_bullets_a1"/>
                 <equipment slot="Item3" id="Item.AR_sling_bullets_a1"/>
@@ -3929,7 +3929,7 @@
                 <equipment slot="Leg" id="Item.sandals_1"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_pine_spear"/>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear"/>
                 <equipment slot="Item1" id="Item.AR_sling_b"/>
                 <equipment slot="Item2" id="Item.AR_sling_bullets_a1"/>
                 <equipment slot="Item3" id="Item.AR_sling_bullets_a1"/>
@@ -3969,32 +3969,32 @@
         </upgrade_targets>
         <Equipments>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_pine_spear"/>
-                <equipment slot="Item1" id="Item.Phallic_javelin"/>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear"/>
+                <equipment slot="Item1" id="Item.phallic_javelin"/>
                 <equipment slot="Item2" id="Item.celtic_scutum_1"/>
                 <equipment slot="Head" id="Item.battania_earmuff_helmet_b_brnz"/>
                 <equipment slot="Body" id="Item.round_plate_tunic"/>
                 <equipment slot="Leg" id="Item.sandals_1_bronze_greaves_dual"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_pine_spear"/>
-                <equipment slot="Item1" id="Item.Phallic_javelin"/>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear"/>
+                <equipment slot="Item1" id="Item.phallic_javelin"/>
                 <equipment slot="Item2" id="Item.celtic_scutum_1"/>
                 <equipment slot="Head" id="Item.battania_earmuff_helmet_b_brnz"/>
                 <equipment slot="Body" id="Item.round_plate_tunic"/>
                 <equipment slot="Leg" id="Item.sandals_1_bronze_greaves_dual"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_pine_spear"/>
-                <equipment slot="Item1" id="Item.Phallic_javelin"/>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear"/>
+                <equipment slot="Item1" id="Item.phallic_javelin"/>
                 <equipment slot="Item2" id="Item.celtic_scutum_1"/>
                 <equipment slot="Head" id="Item.battania_earmuff_helmet_b_brnz"/>
                 <equipment slot="Body" id="Item.round_plate_tunic"/>
                 <equipment slot="Leg" id="Item.sandals_1_bronze_greaves_dual"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_pine_spear"/>
-                <equipment slot="Item1" id="Item.Phallic_javelin"/>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear"/>
+                <equipment slot="Item1" id="Item.phallic_javelin"/>
                 <equipment slot="Item2" id="Item.celtic_scutum_1"/>
                 <equipment slot="Head" id="Item.battania_earmuff_helmet_b_brnz"/>
                 <equipment slot="Body" id="Item.round_plate_tunic"/>
@@ -4160,32 +4160,32 @@
         </skills>
         <Equipments>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_pine_spear"/>
-                <equipment slot="Item1" id="Item.Phallic_javelin"/>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear"/>
+                <equipment slot="Item1" id="Item.phallic_javelin"/>
                 <equipment slot="Item2" id="Item.celtic_scutum_1"/>
                 <equipment slot="Head" id="Item.TV_battania_helmet_r"/>
                 <equipment slot="Body" id="Item.scorilo_leather_lino_1"/>
                 <equipment slot="Leg" id="Item.sandals_1_bronze_greaves_dual"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_pine_spear"/>
-                <equipment slot="Item1" id="Item.Phallic_javelin"/>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear"/>
+                <equipment slot="Item1" id="Item.phallic_javelin"/>
                 <equipment slot="Item2" id="Item.celtic_scutum_1"/>
                 <equipment slot="Head" id="Item.TV_battania_helmet_r2"/>
                 <equipment slot="Body" id="Item.scorilo_leather_lino_2"/>
                 <equipment slot="Leg" id="Item.sandals_1_bronze_greaves_dual"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_pine_spear"/>
-                <equipment slot="Item1" id="Item.Phallic_javelin"/>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear"/>
+                <equipment slot="Item1" id="Item.phallic_javelin"/>
                 <equipment slot="Item2" id="Item.celtic_scutum_1"/>
                 <equipment slot="Head" id="Item.TV_battania_helmet_r"/>
                 <equipment slot="Body" id="Item.scorilo_leather_lino_1"/>
                 <equipment slot="Leg" id="Item.sandals_1_bronze_greaves_dual"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_pine_spear"/>
-                <equipment slot="Item1" id="Item.Phallic_javelin"/>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear"/>
+                <equipment slot="Item1" id="Item.phallic_javelin"/>
                 <equipment slot="Item2" id="Item.celtic_scutum_1"/>
                 <equipment slot="Head" id="Item.TV_battania_helmet_r2"/>
                 <equipment slot="Body" id="Item.scorilo_leather_lino_2"/>
