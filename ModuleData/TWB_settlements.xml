@@ -4,7 +4,7 @@
 <!--    IRELAND-->
 <!--    NORTH-->
     <Settlement id="town_B1" name="{=Settlements.Settlement.name.town_B1}Eblana" owner="Faction.clan_battania_3"
-                posX="133.789" posY="1193.751" culture="Culture.battania" prosperity="1031" gate_posX="133.7872"
+                posX="133.789" posY="1193.751" culture="Culture.battania" prosperity="1057" gate_posX="133.7872"
                 gate_posY="1193.764"
                 text="{=Jm2uZiwV}Placeholder">
                 <Components>
@@ -5900,7 +5900,7 @@
         </CommonAreas>
     </Settlement>
     <Settlement id="castle_B3" name="{=Settlements.Settlement.name.castle_B3}Druimmor Castle"
-                owner="Faction.clan_battania_7" posX="226.909" posY="1131.555" culture="Culture.battania"
+                owner="Faction.clan_battania_6" posX="226.909" posY="1131.555" culture="Culture.battania"
                 prosperity="1060" gate_posX="227.8136" gate_posY="1133.438">
         <Components>
             <Town id="castle_comp_B3" is_castle="true" level="1" background_crop_position="0.0"
@@ -5934,7 +5934,7 @@
         </CommonAreas>
     </Settlement>
     <Settlement id="castle_B4" name="{=Settlements.Settlement.name.castle_B4}Pendraic Castle"
-                owner="Faction.clan_battania_6" posX="321.639" posY="1166.012" culture="Culture.battania"
+                owner="Faction.clan_battania_8" posX="321.639" posY="1166.012" culture="Culture.battania"
                 prosperity="950" gate_posX="323.9004" gate_posY="1167.377">
         <Components>
             <Town id="castle_comp_B4" is_castle="true" level="2" background_crop_position="0.0"
@@ -6054,7 +6054,7 @@
         </CommonAreas>
     </Settlement>
     <Settlement id="castle_B8" name="{=Settlements.Settlement.name.castle_B8}Uthelaim Castle"
-                owner="Faction.clan_battania_2" posX="219.312" posY="1217.652" culture="Culture.caledones"
+                owner="Faction.clan_battania_7" posX="219.312" posY="1217.652" culture="Culture.caledones"
                 prosperity="960" gate_posX="221.1225" gate_posY="1218.751">
         <Components>
             <Town id="castle_comp_B8" is_castle="true" level="1" background_crop_position="0.0"

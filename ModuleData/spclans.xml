@@ -539,8 +539,6 @@
              is_noble="true"
            banner_key="11.71.12.4922.4922.764.764.1.0.0.332.111.0.471.471.764.687.0.0.0.406.111.0.202.202.764.974.0.0.1" />
 
-
-
     <!--    MACEDONIA   -->
     <Faction id="clan_khuzait_1"
              name="{=CRSFOSil}Urkhunait"
@@ -566,7 +564,6 @@
              super_faction="Kingdom.Macedon"
              is_noble="true"
            banner_key="11.25.10.4345.4345.780.802.1.0.0.503.11.0.164.164.904.913.0.0.0.314.11.0.508.508.764.764.0.0.0.503.11.0.164.164.624.913.0.0.0" />
-
 
     <!-- Sweboz -->
     <Faction id="clan_empire_north_1"
@@ -692,25 +689,27 @@
              tier="5"
              owner="Hero.lord_5_17"
              culture="Culture.battania"
-             super_faction="Kingdom.Demetae"
+             super_faction="Kingdom.Catuvellauni"
              is_noble="true"
            banner_key="11.101.75.4345.4345.764.764.1.0.0.504.39.0.90.90.764.942.0.0.180.503.39.0.84.84.764.760.0.0.0.406.39.0.455.455.764.764.0.0.0.504.39.0.90.90.764.587.0.0.0" />
-    <Faction id="clan_battania_7"
-             name="{=HMnHaJac}fen Morcar"
-             tier="4"
-             owner="Hero.lord_5_15"
-             culture="Culture.battania"
-             super_faction="Kingdom.Demetae"
-             is_noble="true"
-           banner_key="11.101.75.4345.4345.764.764.1.0.0.504.39.96.80.80.764.978.1.0.180.407.39.0.368.368.764.757.0.0.0.504.39.96.110.110.764.535.1.0.180" />
     <Faction id="clan_battania_8"
              name="{=14GLGKNj}fen Caernacht"
              tier="3"
              owner="Hero.lord_B8_l"
              culture="Culture.battania"
-             super_faction="Kingdom.Demetae"
+             super_faction="Kingdom.Catuvellauni"
              is_noble="true"
            banner_key="11.101.75.4345.4345.764.764.1.0.0.415.39.0.391.391.764.764.0.0.0" />
+
+<!--    Ordovices   todo need 1 more small clan-->
+    <Faction id="clan_battania_7"
+             name="{=HMnHaJac}Myrddyn"
+             tier="4"
+             owner="Hero.lord_5_15"
+             culture="Culture.battania"
+             super_faction="Kingdom.Ordovices"
+             is_noble="true"
+             banner_key="11.100.100.4345.4345.764.764.1.0.0.504.110.110.80.80.764.978.1.0.180.407.110.110.368.368.764.757.0.0.0.504.110.110.110.110.764.535.1.0.180" />
 
     <!-- Teutones -->
     <Faction id="clan_khuzait_5"
@@ -891,14 +890,16 @@
              super_faction="Kingdom.Rome"
              is_noble="true"
            banner_key="11.71.4.4922.4922.764.764.1.0.0.200.5.0.237.237.683.905.0.0.0.200.5.0.247.237.844.906.0.1.0.326.5.0.215.206.764.714.0.1.0" />
+
+<!--    PICENI  -->
     <Faction id="clan_empire_south_2"
-             name="{=UQHUu2bj}Leonipardes"
-             tier="4"
+             name="{=UQHUu2bj}Tratores"
+             tier="6"
              owner="Hero.lord_1_15"
              culture="Culture.empire"
-             super_faction="Kingdom.Rome"
+             super_faction="Kingdom.Picentes"
              is_noble="true"
-           banner_key="11.71.4.4922.4922.764.764.1.0.0.214.5.0.463.463.764.764.0.0.0" />
+           banner_key="11.38.38.4922.4922.764.764.1.0.0.159.71.71.463.463.889.824.0.0.315.159.71.71.463.463.639.824.0.1.45.340.71.79.463.463.764.514.0.0.0" />
 
 <!--    ETRURIA -->
     <Faction id="clan_empire_south_3"
