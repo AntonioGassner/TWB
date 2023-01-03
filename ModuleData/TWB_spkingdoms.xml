@@ -154,7 +154,6 @@
              ruler_title="{=hwnp9abW}King"
              text="{=Macedon3}Macedonia is a small but quickly expanding empire. that is... until The powerful king of Macedon, Philip II was murdered. Now his ambitious young son Alexander has secured the throne with the help of his mother Olympias.">
         <relationships>
-            <relationship kingdom="Kingdom.empire" value="1" isAtWar="false"/>
         </relationships>
     </Kingdom>
 
@@ -166,7 +165,6 @@
              name="{=Ardiaei}Ardiaei" short_name="{=Ardiaei1}Ardiaeii" title="{=Ardiaei2}Ardiaei Tribe"
              ruler_title="{=hwnp9abW}King" text="{=Ardiaei3}The Ardiaei are an Illyrian tribe">
         <relationships>
-            <relationship kingdom="Kingdom.empire" value="1" isAtWar="false"/>
         </relationships>
     </Kingdom>
 
@@ -268,7 +266,6 @@
              name="{=Scordisci}Scordisci" short_name="{=Scordisci1}Scordiscii" title="{=Scordisci2}Scordisci Tribe"
              ruler_title="{=hwnp9abW}King" text="{=Scordisci3}The Scordisci are a Celtic Illyrian tribe">
         <relationships>
-            <relationship kingdom="Kingdom.empire" value="1" isAtWar="false"/>
         </relationships>
     </Kingdom>
 
@@ -367,7 +364,6 @@
              ruler_title="{=hwnp9abW}King"
              text="{=JGua8ndp}The Caledones Tribe controls the Northern part of Prydein">
         <relationships>
-            <relationship kingdom="Kingdom.empire_w" value="1" isAtWar="false"/>
         </relationships>
     </Kingdom>
 
@@ -379,7 +375,6 @@
              short_name="{=Demet123}Catuvellauni" title="{=Demet218}Catuvellauni Tribe" ruler_title="{=hwnp9abW}King"
              text="{=Demeta53}The Catuvellauni dwell in the south of Prydein">
         <relationships>
-            <relationship kingdom="Kingdom.empire_w" value="1" isAtWar="false"/>
         </relationships>
     </Kingdom>
 
@@ -392,7 +387,6 @@
              short_name="{=Demet123}Ordovices" title="{=Demet218}Ordovices Tribe" ruler_title="{=hwnp9abW}King"
              text="{=Demeta53}The Ordovices dwell in the west tip of Prydein">
         <relationships>
-            <relationship kingdom="Kingdom.empire_w" value="1" isAtWar="false"/>
         </relationships>
     </Kingdom>
 
