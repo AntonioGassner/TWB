@@ -8,6 +8,8 @@
     <!-- Makedon Mercs -->
     <!-- Start Of Militia -->
     <!-- Germanic & Celtic Tribal Militia -->
+    <!-- Celtiberian Militia -->
+    <!-- Punic Militia -->
     <NPCCharacter id="Thracian_Merc_Cav_01"
                   default_group="Cavalry"
                   level="16"
@@ -17,7 +19,7 @@
         <face>
             <face_key_template value="BodyProperty.villager_empire"/>
         </face>
-        <skills>
+        <skills >
             <skill id="Athletics" value="105"/>
             <skill id="Riding" value="80"/>
             <skill id="OneHanded" value="130"/>
@@ -90,7 +92,7 @@
         <face>
             <face_key_template value="BodyProperty.villager_empire"/>
         </face>
-        <skills>
+        <skills >
             <skill id="Athletics" value="100"/>
             <skill id="Riding" value="100"/>
             <skill id="OneHanded" value="170"/>
@@ -159,7 +161,7 @@
         <face>
             <face_key_template value="BodyProperty.villager_empire"/>
         </face>
-        <skills>
+        <skills >
             <skill id="Athletics" value="100"/>
             <skill id="Riding" value="25"/>
             <skill id="OneHanded" value="130"/>
@@ -221,7 +223,7 @@
         <face>
             <face_key_template value="BodyProperty.villager_empire"/>
         </face>
-        <skills>
+        <skills >
             <skill id="Athletics" value="100"/>
             <skill id="Riding" value="25"/>
             <skill id="OneHanded" value="170"/>
@@ -279,7 +281,7 @@
         <face>
             <face_key_template value="BodyProperty.fighter_empire"/>
         </face>
-        <skills>
+        <skills >
             <skill id="Athletics" value="150"/>
             <skill id="Riding" value="10"/>
             <skill id="OneHanded" value="140"/>
@@ -343,7 +345,7 @@
         <face>
             <face_key_template value="BodyProperty.fighter_empire"/>
         </face>
-        <skills>
+        <skills >
             <skill id="Athletics" value="150"/>
             <skill id="Riding" value="10"/>
             <skill id="OneHanded" value="180"/>
@@ -404,7 +406,7 @@
         <face>
             <face_key_template value="BodyProperty.fighter_empire"/>
         </face>
-        <skills>
+        <skills >
             <skill id="Athletics" value="150"/>
             <skill id="Riding" value="10"/>
             <skill id="OneHanded" value="140"/>
@@ -472,7 +474,7 @@
         <face>
             <face_key_template value="BodyProperty.fighter_empire"/>
         </face>
-        <skills>
+        <skills >
             <skill id="Athletics" value="150"/>
             <skill id="Riding" value="20"/>
             <skill id="OneHanded" value="180"/>
@@ -538,7 +540,7 @@
         <face>
             <face_key_template value="BodyProperty.fighter_empire"/>
         </face>
-        <skills>
+        <skills >
             <skill id="Athletics" value="90"/>
             <skill id="Riding" value="0"/>
             <skill id="OneHanded" value="40"/>
@@ -600,7 +602,7 @@
         <face>
             <face_key_template value="BodyProperty.fighter_empire"/>
         </face>
-        <skills>
+        <skills >
             <skill id="Athletics" value="130"/>
             <skill id="Riding" value="0"/>
             <skill id="OneHanded" value="80"/>
@@ -656,7 +658,7 @@
         <face>
             <face_key_template value="BodyProperty.fighter_empire"/>
         </face>
-        <skills>
+        <skills >
             <skill id="Athletics" value="150"/>
             <skill id="Riding" value="0"/>
             <skill id="OneHanded" value="50"/>
@@ -719,7 +721,7 @@
         <face>
             <face_key_template value="BodyProperty.fighter_empire"/>
         </face>
-        <skills>
+        <skills >
             <skill id="Athletics" value="150"/>
             <skill id="Riding" value="0"/>
             <skill id="OneHanded" value="90"/>
@@ -779,7 +781,7 @@
         <face>
             <face_key_template value="BodyProperty.villager_empire"/>
         </face>
-        <skills>
+        <skills >
             <skill id="Athletics" value="130"/>
             <skill id="Riding" value="0"/>
             <skill id="OneHanded" value="0"/>
@@ -840,7 +842,7 @@
         <face>
             <face_key_template value="BodyProperty.villager_empire"/>
         </face>
-        <skills>
+        <skills >
             <skill id="Athletics" value="130"/>
             <skill id="Riding" value="0"/>
             <skill id="OneHanded" value="0"/>
@@ -904,7 +906,7 @@
         <face>
             <face_key_template value="BodyProperty.villager_empire"/>
         </face>
-        <skills>
+        <skills >
             <skill id="Athletics" value="140"/>
             <skill id="Riding" value="0"/>
             <skill id="OneHanded" value="50"/>
@@ -964,7 +966,7 @@
         <face>
             <face_key_template value="BodyProperty.villager_empire"/>
         </face>
-        <skills>
+        <skills >
             <skill id="Athletics" value="140"/>
             <skill id="Riding" value="0"/>
             <skill id="OneHanded" value="90"/>
@@ -1016,4 +1018,513 @@
         </Equipments>
     </NPCCharacter>
     <!-- Celtiberian Militia -->
+    <NPCCharacter id="native_iberian_milites"
+                  default_group="Infantry"
+                  level="6"
+                  name="{=Native Iberian Milites}Native Iberian Milites"
+                  occupation="Soldier"
+                  culture="Culture.celtiberian">
+        <face>
+            <face_key_template value="BodyProperty.fighter_empire"/>
+        </face>
+        <skills >
+            <skill id="Athletics" value="90"/>
+            <skill id="Riding" value="0"/>
+            <skill id="OneHanded" value="40"/>
+            <skill id="TwoHanded" value="0"/>
+            <skill id="Polearm" value="50"/>
+            <skill id="Bow" value="0"/>
+            <skill id="Crossbow" value="0"/>
+            <skill id="Throwing" value="0"/>
+        </skills>
+        <upgrade_targets>
+
+        </upgrade_targets>
+        <Equipments>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.doru_a"/>
+                <equipment slot="Item1" id="Item.celtiberian_round_shield"/>
+                <equipment slot="Item2" id="Item.throwing_stone"/>
+                <equipment slot="Head" id="Item.band_1"/>
+                <equipment slot="Body" id="Item.chiton_sleeves_1"/>
+                <equipment slot="Leg" id="Item.sandals_1"/>
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.doru_a"/>
+                <equipment slot="Item1" id="Item.celtiberian_round_shield"/>
+                <equipment slot="Item2" id="Item.throwing_stone"/>
+                <equipment slot="Head" id="Item.band_1"/>
+                <equipment slot="Body" id="Item.chiton_sleeves_1"/>
+                <equipment slot="Leg" id="Item.sandals_1"/>
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.doru_a"/>
+                <equipment slot="Item1" id="Item.celtiberian_round_shield"/>
+                <equipment slot="Item2" id="Item.throwing_stone"/>
+                <equipment slot="Body" id="Item.chiton_sleeves_1"/>
+                <equipment slot="Leg" id="Item.sandals_1"/>
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.doru_a"/>
+                <equipment slot="Item1" id="Item.celtiberian_round_shield"/>
+                <equipment slot="Item2" id="Item.throwing_stone"/>
+                <equipment slot="Body" id="Item.chiton_sleeves_1"/>
+                <equipment slot="Leg" id="Item.sandals_1"/>
+            </EquipmentRoster>
+            <EquipmentRoster civilian="true">
+                <equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+                <equipment slot="Item2" id="Item.throwing_stone"/>
+                <equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+                <equipment slot="Leg" id="Item.wrapped_shoes"/>
+            </EquipmentRoster>
+        </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="celtiberian_milites"
+                  default_group="Infantry"
+                  level="11"
+                  name="{=Celtiberian Milites}Celtiberian Milites"
+                  occupation="Soldier"
+                  culture="Culture.celtiberian">
+        <face>
+            <face_key_template value="BodyProperty.fighter_empire"/>
+        </face>
+        <skills >
+            <skill id="Athletics" value="130"/>
+            <skill id="Riding" value="0"/>
+            <skill id="OneHanded" value="80"/>
+            <skill id="TwoHanded" value="0"/>
+            <skill id="Polearm" value="90"/>
+            <skill id="Bow" value="0"/>
+            <skill id="Crossbow" value="0"/>
+            <skill id="Throwing" value="0"/>
+        </skills>
+        <Equipments>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.hans_celtic_spear_a"/>
+                <equipment slot="Item1" id="Item.celtiberian_round_shield"/>
+                <equipment slot="Head" id="Item.AR_hat_e"/>
+                <equipment slot="Cape" id="Item.TV_battania_cloak_m3"/>
+                <equipment slot="Body" id="Item.round_plate_tunic"/>
+                <equipment slot="Leg" id="Item.sandals_1"/>
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.celtiberian_spear_conical"/>
+                <equipment slot="Item1" id="Item.celtic_scutum_1"/>
+                <equipment slot="Head" id="Item.AR_hat_f"/>
+                <equipment slot="Body" id="Item.round_plate_tunic"/>
+                <equipment slot="Leg" id="Item.sandals_1"/>
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.hans_celtic_spear_a"/>
+                <equipment slot="Item1" id="Item.celtiberian_round_shield"/>
+                <equipment slot="Body" id="Item.round_plate_tunic"/>
+                <equipment slot="Leg" id="Item.sandals_1"/>
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.celtiberian_spear_conical"/>
+                <equipment slot="Item1" id="Item.celtic_scutum_1"/>
+                <equipment slot="Head" id="Item.AR_hat_e"/>
+                <equipment slot="Cape" id="Item.TV_battania_cloak_o2"/>
+                <equipment slot="Body" id="Item.round_plate_tunic"/>
+                <equipment slot="Leg" id="Item.bronze_greaves_1_left"/>
+            </EquipmentRoster>
+            <EquipmentRoster civilian="true">
+                <equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+                <equipment slot="Item2" id="Item.throwing_stone"/>
+                <equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+                <equipment slot="Leg" id="Item.wrapped_shoes"/>
+            </EquipmentRoster>
+        </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="native_iberian_slinger"
+                  default_group="Ranged"
+                  level="6"
+                  name="{=Native Iberian Slinger}Native Iberian Slinger"
+                  occupation="Soldier"
+                  culture="Culture.celtiberian">
+        <face>
+            <face_key_template value="BodyProperty.fighter_empire"/>
+        </face>
+        <skills >
+            <skill id="Athletics" value="150"/>
+            <skill id="Riding" value="0"/>
+            <skill id="OneHanded" value="50"/>
+            <skill id="TwoHanded" value="0"/>
+            <skill id="Polearm" value="0"/>
+            <skill id="Bow" value="50"/>
+            <skill id="Crossbow" value="50"/>
+            <skill id="Throwing" value="0"/>
+        </skills>
+        <upgrade_targets>
+
+        </upgrade_targets>
+        <Equipments>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.falcata_a"/>
+                <equipment slot="Item1" id="Item.AR_sling_b"/>
+                <equipment slot="Item2" id="Item.AR_sling_bullets_a"/>
+                <equipment slot="Head" id="Item.band_1"/>
+                <equipment slot="Body" id="Item.chiton_sleeves_1"/>
+                <equipment slot="Leg" id="Item.sandals_1"/>
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.falcata_a"/>
+                <equipment slot="Item1" id="Item.AR_sling_b"/>
+                <equipment slot="Item2" id="Item.AR_sling_bullets_a"/>
+                <equipment slot="Head" id="Item.band_1"/>
+                <equipment slot="Body" id="Item.chiton_sleeves_1"/>
+                <equipment slot="Leg" id="Item.sandals_1"/>
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.falcata_a"/>
+                <equipment slot="Item1" id="Item.AR_sling_a"/>
+                <equipment slot="Item2" id="Item.AR_sling_bullets_a"/>
+                <equipment slot="Body" id="Item.chiton_sleeves_1"/>
+                <equipment slot="Leg" id="Item.sandals_1"/>
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.falcata_a"/>
+                <equipment slot="Item1" id="Item.AR_sling_b"/>
+                <equipment slot="Item2" id="Item.AR_sling_bullets_a"/>
+                <equipment slot="Head" id="Item.band_1"/>
+                <equipment slot="Body" id="Item.chiton_sleeves_1"/>
+                <equipment slot="Leg" id="Item.sandals_1"/>
+            </EquipmentRoster>
+            <EquipmentRoster civilian="true">
+                <equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+                <equipment slot="Item2" id="Item.throwing_stone"/>
+                <equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+                <equipment slot="Leg" id="Item.wrapped_shoes"/>
+            </EquipmentRoster>
+        </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="celtiberian_milites_slinger"
+                  default_group="Ranged"
+                  level="11"
+                  name="{=Celtiberian Milites Slinger}Celtiberian Milites Slinger"
+                  occupation="Soldier"
+                  culture="Culture.celtiberian">
+        <face>
+            <face_key_template value="BodyProperty.fighter_empire"/>
+        </face>
+        <skills >
+            <skill id="Athletics" value="150"/>
+            <skill id="Riding" value="0"/>
+            <skill id="OneHanded" value="90"/>
+            <skill id="TwoHanded" value="0"/>
+            <skill id="Polearm" value="0"/>
+            <skill id="Bow" value="90"/>
+            <skill id="Crossbow" value="90"/>
+            <skill id="Throwing" value="0"/>
+        </skills>
+        <Equipments>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.hans_espada_short_sword"/>
+                <equipment slot="Item1" id="Item.AR_sling_b"/>
+                <equipment slot="Item2" id="Item.AR_sling_bullets_a"/>
+                <equipment slot="Head" id="Item.AR_hat_e"/>
+                <equipment slot="Body" id="Item.round_plate_tunic"/>
+                <equipment slot="Leg" id="Item.sandals_1"/>
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.hans_espada_short_sword"/>
+                <equipment slot="Item1" id="Item.phallic_javelin"/>
+                <equipment slot="Item2" id="Item.phallic_javelin"/>
+                <equipment slot="Head" id="Item.AR_hat_f"/>
+                <equipment slot="Body" id="Item.round_plate_tunic"/>
+                <equipment slot="Leg" id="Item.sandals_1"/>
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.hans_espada_short_sword"/>
+                <equipment slot="Item1" id="Item.AR_sling_a"/>
+                <equipment slot="Item2" id="Item.AR_sling_bullets_a"/>
+                <equipment slot="Cape" id="Item.TV_battania_cloak_m3"/>
+                <equipment slot="Body" id="Item.round_plate_tunic"/>
+                <equipment slot="Leg" id="Item.sandals_1"/>
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.hans_espada_short_sword"/>
+                <equipment slot="Item1" id="Item.phallic_javelin"/>
+                <equipment slot="Item2" id="Item.phallic_javelin"/>
+                <equipment slot="Head" id="Item.AR_hat_e"/>
+                <equipment slot="Body" id="Item.round_plate_tunic"/>
+                <equipment slot="Leg" id="Item.sandals_1"/>
+            </EquipmentRoster>
+            <EquipmentRoster civilian="true">
+                <equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+                <equipment slot="Item2" id="Item.throwing_stone"/>
+                <equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+                <equipment slot="Leg" id="Item.wrapped_shoes"/>
+            </EquipmentRoster>
+        </Equipments>
+    </NPCCharacter>
+    <!-- Punic Militia -->
+    <NPCCharacter id="punic_levy_hoplite"
+                  default_group="Infantry"
+                  level="6"
+                  name="{=Punic Levy Hoplite}Punic Levy Hoplite"
+                  occupation="Soldier"
+                  is_basic_troop="true"
+                  culture="Culture.aserai">
+        <face>
+            <face_key_template value="BodyProperty.fighter_north_african"/>
+        </face>
+        <skills >
+            <skill id="Athletics" value="140"/>
+            <skill id="Riding" value="20"/>
+            <skill id="OneHanded" value="50"/>
+            <skill id="TwoHanded" value="20"/>
+            <skill id="Polearm" value="50"/>
+            <skill id="Bow" value="20"/>
+            <skill id="Crossbow" value="20"/>
+            <skill id="Throwing" value="20"/>
+        </skills>
+        <upgrade_targets>
+
+        </upgrade_targets>
+        <Equipments>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.punic_levy_hoplite_spear"/>
+                <equipment slot="Item2" id="Item.hoplon_b_worn"/>
+                <equipment slot="Head" id="Item.AR_roman_hat_d"/>
+                <equipment slot="Body" id="Item.chiton_girdle_1_1"/>
+                <equipment slot="Leg" id="Item.sandals_1"/>
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.punic_levy_hoplite_spear"/>
+                <equipment slot="Head" id="Item.AR_roman_hat_f"/>
+                <equipment slot="Item2" id="Item.hoplon_b_worn"/>
+                <equipment slot="Body" id="Item.chiton_girdle_1_2"/>
+                <equipment slot="Leg" id="Item.sandals_1"/>
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.punic_levy_hoplite_spear"/>
+                <equipment slot="Item2" id="Item.hoplon_b_worn"/>
+                <equipment slot="Head" id="Item.AR_roman_hat_e"/>
+                <equipment slot="Body" id="Item.chiton_girdle_1_1"/>
+                <equipment slot="Gloves" id="Item.armwraps"/>
+                <equipment slot="Leg" id="Item.sandals_1"/>
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.punic_levy_hoplite_spear"/>
+                <equipment slot="Item2" id="Item.hoplon_b_worn"/>
+                <equipment slot="Head" id="Item.AR_roman_hat_f"/>
+                <equipment slot="Body" id="Item.chiton_girdle_1_2"/>
+                <equipment slot="Leg" id="Item.sandals_1"/>
+            </EquipmentRoster>
+            <EquipmentRoster civilian="true">
+                <equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+                <equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+                <equipment slot="Leg" id="Item.wrapped_shoes"/>
+            </EquipmentRoster>
+        </Equipments>
+    </NPCCharacter>
+    <NPCCharacter id="punic_militia_hoplite"
+                  default_group="Infantry"
+                  level="11"
+                  name="{=Punic Light Hoplite}Punic Light Hoplite"
+                  occupation="Soldier"
+                  culture="Culture.aserai">
+        <face>
+            <face_key_template value="BodyProperty.fighter_gaul"/>
+        </face>
+        <skills >
+            <skill id="Athletics" value="130"/>
+            <skill id="Riding" value="50"/>
+            <skill id="OneHanded" value="80"/>
+            <skill id="TwoHanded" value="50"/>
+            <skill id="Polearm" value="90"/>
+            <skill id="Bow" value="50"/>
+            <skill id="Crossbow" value="50"/>
+            <skill id="Throwing" value="50"/>
+        </skills>
+        <upgrade_targets>
+
+        </upgrade_targets>
+        <Equipments>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.punic_levy_hoplite_spear"/>
+                <equipment slot="Item1" id="Item.kopis_a"/>
+                <equipment slot="Item2" id="Item.hoplon_trident"/>
+                <equipment slot="Head" id="Item.AR_roman_hat_d"/>
+                <equipment slot="Cape" id="Item.etruscan_chestpiece"/>
+                <equipment slot="Body" id="Item.thick_punic_chiton_no_faction"/>
+                <equipment slot="Leg" id="Item.sandals_1"/>
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.punic_levy_hoplite_spear"/>
+                <equipment slot="Item1" id="Item.kopis_a"/>
+                <equipment slot="Item2" id="Item.aspis_shield_1"/>
+                <equipment slot="Head" id="Item.AR_roman_hat_f"/>
+                <equipment slot="Cape" id="Item.etruscan_chestpiece"/>
+                <equipment slot="Body" id="Item.thick_punic_chiton_no_faction"/>
+                <equipment slot="Leg" id="Item.sandals_1"/>
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.punic_levy_hoplite_spear"/>
+                <equipment slot="Item1" id="Item.kopis_a"/>
+                <equipment slot="Item2" id="Item.hoplon_squid"/>
+                <equipment slot="Head" id="Item.AR_roman_hat_d"/>
+                <equipment slot="Cape" id="Item.AR_aserai_shoulder_i"/>
+                <equipment slot="Body" id="Item.thick_punic_chiton_no_faction"/>
+                <equipment slot="Gloves" id="Item.armwraps"/>
+                <equipment slot="Leg" id="Item.sandals_1"/>
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.punic_levy_hoplite_spear"/>
+                <equipment slot="Item1" id="Item.kopis_a"/>
+                <equipment slot="Item2" id="Item.aspis_shield_1"/>
+                <equipment slot="Head" id="Item.AR_roman_hat_f"/>
+                <equipment slot="Cape" id="Item.etruscan_chestpiece"/>
+                <equipment slot="Body" id="Item.thick_punic_chiton_no_faction"/>
+                <equipment slot="Leg" id="Item.sandals_1"/>
+            </EquipmentRoster>
+            <EquipmentRoster civilian="true">
+                <equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+                <equipment slot="Item2" id="Item.throwing_stone"/>
+                <equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+                <equipment slot="Leg" id="Item.wrapped_shoes"/>
+            </EquipmentRoster>
+        </Equipments>
+    </NPCCharacter>
+    <NPCCharacter id="punic_slinger"
+                  default_group="Ranged"
+                  level="6"
+                  name="{=Punic Slinger}Punic Slinger"
+                  occupation="Soldier"
+                  culture="Culture.aserai">
+        <face>
+            <face_key_template value="BodyProperty.fighter_garamantian"/>
+        </face>
+        <skills >
+            <skill id="Athletics" value="150"/>
+            <skill id="Riding" value="60"/>
+            <skill id="OneHanded" value="85"/>
+            <skill id="TwoHanded" value="50"/>
+            <skill id="Polearm" value="65"/>
+            <skill id="Bow" value="50"/>
+            <skill id="Crossbow" value="90"/>
+            <skill id="Throwing" value="60"/>
+        </skills>
+        <upgrade_targets>
+            <upgrade_target id="NPCCharacter.libyan_veteran_slinger"/>
+            <upgrade_target id="NPCCharacter.garamantian_bowmen"/>
+        </upgrade_targets>
+        <Equipments>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.AR_sling_b"/>
+                <equipment slot="Item1" id="Item.kopis_a"/>
+                <equipment slot="Item2" id="Item.AR_sling_bullets_a"/>
+                <equipment slot="Item3" id="Item.AR_sling_bullets_a"/>
+                <equipment slot="Head" id="Item.AR_roman_hat_d"/>
+                <equipment slot="Body" id="Item.chiton_girdle_1_1"/>
+                <equipment slot="Leg" id="Item.sandals_1"/>
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.AR_sling_b"/>
+                <equipment slot="Item1" id="Item.kopis_a"/>
+                <equipment slot="Item2" id="Item.AR_sling_bullets_a"/>
+                <equipment slot="Item3" id="Item.AR_sling_bullets_a"/>
+                <equipment slot="Head" id="Item.AR_roman_hat_f"/>
+                <equipment slot="Body" id="Item.chiton_girdle_1_2"/>
+                <equipment slot="Leg" id="Item.sandals_1"/>
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.AR_sling_b"/>
+                <equipment slot="Item1" id="Item.kopis_a"/>
+                <equipment slot="Item2" id="Item.AR_sling_bullets_a"/>
+                <equipment slot="Item3" id="Item.AR_sling_bullets_a"/>
+                <equipment slot="Head" id="Item.AR_roman_hat_d"/>
+                <equipment slot="Body" id="Item.chiton_girdle_1_1"/>
+                <equipment slot="Leg" id="Item.sandals_1"/>
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.AR_sling_b"/>
+                <equipment slot="Item1" id="Item.kopis_a"/>
+                <equipment slot="Item2" id="Item.AR_sling_bullets_a"/>
+                <equipment slot="Item3" id="Item.AR_sling_bullets_a"/>
+                <equipment slot="Head" id="Item.AR_roman_hat_f"/>
+                <equipment slot="Body" id="Item.chiton_girdle_1_2"/>
+                <equipment slot="Leg" id="Item.sandals_1"/>
+            </EquipmentRoster>
+            <EquipmentRoster civilian="true">
+                <equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+                <equipment slot="Item2" id="Item.throwing_stone"/>
+                <equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+                <equipment slot="Leg" id="Item.wrapped_shoes"/>
+            </EquipmentRoster>
+        </Equipments>
+    </NPCCharacter>
+    <NPCCharacter id="punic_levy_slinger"
+                  default_group="Ranged"
+                  level="6"
+                  name="{=Punic Levy Slinger}Punic Levy Slinger"
+                  occupation="Soldier"
+                  culture="Culture.aserai">
+        <face>
+            <face_key_template value="BodyProperty.fighter_garamantian"/>
+        </face>
+        <skills >
+            <skill id="Athletics" value="150"/>
+            <skill id="Riding" value="60"/>
+            <skill id="OneHanded" value="85"/>
+            <skill id="TwoHanded" value="50"/>
+            <skill id="Polearm" value="65"/>
+            <skill id="Bow" value="50"/>
+            <skill id="Crossbow" value="90"/>
+            <skill id="Throwing" value="60"/>
+        </skills>
+        <upgrade_targets>
+            <upgrade_target id="NPCCharacter.libyan_veteran_slinger"/>
+            <upgrade_target id="NPCCharacter.garamantian_bowmen"/>
+        </upgrade_targets>
+        <Equipments>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.AR_sling_b"/>
+                <equipment slot="Item1" id="Item.kopis_a"/>
+                <equipment slot="Item2" id="Item.AR_sling_bullets_a"/>
+                <equipment slot="Item3" id="Item.AR_sling_bullets_a"/>
+                <equipment slot="Head" id="Item.AR_roman_hat_d"/>
+                <equipment slot="Body" id="Item.exomis_cloak"/>
+                <equipment slot="Leg" id="Item.sandals_1"/>
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.AR_sling_b"/>
+                <equipment slot="Item1" id="Item.kopis_a"/>
+                <equipment slot="Item2" id="Item.AR_sling_bullets_a"/>
+                <equipment slot="Item3" id="Item.AR_sling_bullets_a"/>
+                <equipment slot="Head" id="Item.AR_roman_hat_f"/>
+                <equipment slot="Body" id="Item.chiton_no_sleeves_t3_1_2"/>
+                <equipment slot="Leg" id="Item.sandals_1"/>
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.AR_sling_b"/>
+                <equipment slot="Item1" id="Item.kopis_a"/>
+                <equipment slot="Item2" id="Item.AR_sling_bullets_a"/>
+                <equipment slot="Item3" id="Item.AR_sling_bullets_a"/>
+                <equipment slot="Head" id="Item.AR_roman_hat_d"/>
+                <equipment slot="Body" id="Item.exomis_cloak"/>
+                <equipment slot="Leg" id="Item.sandals_1"/>
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.AR_sling_b"/>
+                <equipment slot="Item1" id="Item.kopis_a"/>
+                <equipment slot="Item2" id="Item.AR_sling_bullets_a"/>
+                <equipment slot="Item3" id="Item.AR_sling_bullets_a"/>
+                <equipment slot="Head" id="Item.AR_roman_hat_f"/>
+                <equipment slot="Body" id="Item.chiton_no_sleeves_t3_1_2"/>
+                <equipment slot="Leg" id="Item.sandals_1"/>
+            </EquipmentRoster>
+            <EquipmentRoster civilian="true">
+                <equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+                <equipment slot="Item2" id="Item.throwing_stone"/>
+                <equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+                <equipment slot="Leg" id="Item.wrapped_shoes"/>
+            </EquipmentRoster>
+        </Equipments>
+    </NPCCharacter>
+
 </NPCCharacters>
