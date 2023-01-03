@@ -23,7 +23,15 @@
             </IncludedGameTypes>
         </XmlNode>
         <XmlNode>
-            <XmlName id="SkillSets" path="TWB_skill_sets"/>
+            <XmlName id="SPCultures" path="spcultures"/>
+            <IncludedGameTypes>
+                <GameType value="Campaign"/>
+                <GameType value="CampaignStoryMode"/>
+            </IncludedGameTypes>
+        </XmlNode>
+
+        <XmlNode>
+            <XmlName id="BodyProperties" path="Hans_bodyproperties"/>
             <IncludedGameTypes>
                 <GameType value="Campaign"/>
                 <GameType value="CampaignStoryMode"/>
@@ -31,30 +39,9 @@
                 <GameType value="EditorGame"/>
             </IncludedGameTypes>
         </XmlNode>
+
         <XmlNode>
-            <XmlName id="partyTemplates" path="partyTemplates"/>
-            <IncludedGameTypes>
-                <GameType value="Campaign"/>
-                <GameType value="CampaignStoryMode"/>
-            </IncludedGameTypes>
-        </XmlNode>
-        <XmlNode>
-            <XmlName id="NPCCharacters" path="bandits"/>
-            <IncludedGameTypes>
-                <GameType value="Campaign"/>
-                <GameType value="CampaignStoryMode"/>
-            </IncludedGameTypes>
-        </XmlNode>
-        <XmlNode>
-            <XmlName id="NPCCharacters" path="spspecialcharacters"/>
-            <IncludedGameTypes>
-                <GameType value="Campaign"/>
-                <GameType value="CampaignStoryMode"/>
-                <GameType value="CustomGame"/>
-            </IncludedGameTypes>
-        </XmlNode>
-        <XmlNode>
-            <XmlName id="Kingdoms" path="TWB_kingdoms"/>
+            <XmlName id="Kingdoms" path="spkingdoms"/>
             <IncludedGameTypes>
                 <GameType value="Campaign"/>
                 <GameType value="CampaignStoryMode"/>
@@ -67,6 +54,15 @@
                 <GameType value="CampaignStoryMode"/>
             </IncludedGameTypes>
         </XmlNode>
+
+        <XmlNode>
+            <XmlName id="Settlements" path="settlements"/>
+            <IncludedGameTypes>
+                <GameType value="Campaign"/>
+                <GameType value="CampaignStoryMode"/>
+            </IncludedGameTypes>
+        </XmlNode>
+
         <XmlNode>
             <XmlName id="Settlements" path="TWB_settlements"/>
             <IncludedGameTypes>
@@ -74,8 +70,18 @@
                 <GameType value="CampaignStoryMode"/>
             </IncludedGameTypes>
         </XmlNode>
+
+<!--        <XmlNode>-->
+<!--            <XmlName id="EquipmentRosters" path="TWB_equipment_sets"/>-->
+<!--            <IncludedGameTypes>-->
+<!--                <GameType value="Campaign"/>-->
+<!--                <GameType value="CampaignStoryMode"/>-->
+<!--                <GameType value="CustomGame"/>-->
+<!--                <GameType value="EditorGame"/>-->
+<!--            </IncludedGameTypes>-->
+<!--        </XmlNode>-->
         <XmlNode>
-            <XmlName id="BodyProperties" path="Hans_bodyproperties"/>
+            <XmlName id="SkillSets" path="TWB_skill_sets"/>
             <IncludedGameTypes>
                 <GameType value="Campaign"/>
                 <GameType value="CampaignStoryMode"/>
@@ -83,21 +89,7 @@
                 <GameType value="EditorGame"/>
             </IncludedGameTypes>
         </XmlNode>
-        <XmlNode>
-            <XmlName id="NPCCharacters" path="TWB_spnpccharacters"/>
-            <IncludedGameTypes>
-                <GameType value="Campaign"/>
-                <GameType value="CampaignStoryMode"/>
-                <GameType value="CustomGame"/>
-            </IncludedGameTypes>
-        </XmlNode>
-        <XmlNode>
-            <XmlName id="SPCultures" path="spcultures"/>
-            <IncludedGameTypes>
-                <GameType value="Campaign"/>
-                <GameType value="CampaignStoryMode"/>
-            </IncludedGameTypes>
-        </XmlNode>
+
         <XmlNode>
             <XmlName id="CraftingPieces" path="crafting_pieces"/>
             <IncludedGameTypes>
@@ -147,6 +139,37 @@
                 <GameType value="CampaignStoryMode"/>
                 <GameType value="CustomGame"/>
                 <GameType value="EditorGame"/>
+            </IncludedGameTypes>
+        </XmlNode>
+        <XmlNode>
+            <XmlName id="partyTemplates" path="partyTemplates"/>
+            <IncludedGameTypes>
+                <GameType value="Campaign"/>
+                <GameType value="CampaignStoryMode"/>
+            </IncludedGameTypes>
+        </XmlNode>
+        <XmlNode>
+            <XmlName id="NPCCharacters" path="bandits"/>
+            <IncludedGameTypes>
+                <GameType value="Campaign"/>
+                <GameType value="CampaignStoryMode"/>
+            </IncludedGameTypes>
+        </XmlNode>
+
+        <XmlNode>
+            <XmlName id="NPCCharacters" path="TWB_spnpccharacters"/>
+            <IncludedGameTypes>
+                <GameType value="Campaign"/>
+                <GameType value="CampaignStoryMode"/>
+                <GameType value="CustomGame"/>
+            </IncludedGameTypes>
+        </XmlNode>
+        <XmlNode>
+            <XmlName id="NPCCharacters" path="spspecialcharacters"/>
+            <IncludedGameTypes>
+                <GameType value="Campaign"/>
+                <GameType value="CampaignStoryMode"/>
+                <GameType value="CustomGame"/>
             </IncludedGameTypes>
         </XmlNode>
     </Xmls>
