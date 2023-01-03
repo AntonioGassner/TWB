@@ -11,7 +11,7 @@
              ruler_title="{=Cheif123}Chieftian"
              text="{=mOZsbV8j}The Scthians were a nomadic tribe of the Steppe. Many fear the brutal raids made by them.">
         <relationships>
-            <relationship kingdom="Kingdom.Macedon" value="1" isAtWar="false"/>
+<!--            <relationship kingdom="Kingdom.Caledones" value="1" isAtWar="false"/>-->
         </relationships>
         <policies>
             <policy id="policy_land_grants_for_veterans"/>
@@ -29,7 +29,7 @@
              ruler_title="{=Rome4321}Dictator"
              text="{=Rome6541}After ousting the last Etruscan King that ruled over the eternal city, the Romans formed their Republic.">
         <relationships>
-            <relationship kingdom="Kingdom.Samnites" value="-1" isAtWar="true"/>
+<!--            <relationship kingdom="Kingdom.Samnites" value="-1" isAtWar="true"/>-->
         </relationships>
         <policies>
             <policy id="policy_royal_privilege"/>
@@ -60,8 +60,7 @@
              ruler_title="{=hwnp9abW}King"
              text="{=Etruria3}Etruria. Once the master of the northern Italia region, Is now finding itself in a bitter war against the Republic of Rome.">
         <relationships>
-            <relationship kingdom="Kingdom.Boii" value="1" isAtWar="false"/>
-			<relationship kingdom="Kingdom.Rome" value="1" isAtWar="false"/>
+<!--            <relationship kingdom="Kingdom.Rome" value="1" isAtWar="false"/>-->
         </relationships>
         <policies>
             <policy id="policy_royal_privilege"/>
@@ -76,7 +75,7 @@
              name="{=Samnites}Samnites" short_name="{=Samnite1}Samnites" title="{=Samnite2}Samnites"
              ruler_title="{=hwnp9abW}King" text="{=Samnite3}Samnites dwell in the northern lands of Magna Graecia">
         <relationships>
-            <relationship kingdom="Kingdom.Rome" value="-1" isAtWar="true"/>
+<!--            <relationship kingdom="Kingdom.Rome" value="-1" isAtWar="true"/>-->
         </relationships>
         <policies>
             <policy id="policy_royal_privilege"/>
@@ -93,7 +92,7 @@
              name="{=Syracuse}Syracuse" short_name="{=Syracus1}Syracusians" title="{=Syracus2}Syracuse"
              ruler_title="{=hwnp9abW}King" text="{=Syracus3}Syracuse Controls the Island of Sicily">
         <relationships>
-            <relationship kingdom="Kingdom.Massilia" value="1" isAtWar="false"/>
+<!--            <relationship kingdom="Kingdom.Massilia" value="1" isAtWar="false"/>-->
         </relationships>
         <policies>
             <policy id="policy_royal_privilege"/>
@@ -109,7 +108,7 @@
              ruler_title="{=hwnp9abW}King"
              text="{=Massili3}Massilia was founded by Ionian settlers fleeing the Persians.">
         <relationships>
-            <relationship kingdom="Kingdom.Syracuse" value="1" isAtWar="false"/>
+<!--            <relationship kingdom="Kingdom.Syracuse" value="1" isAtWar="false"/>-->
         </relationships>
         <policies>
             <policy id="policy_royal_privilege"/>
@@ -124,7 +123,7 @@
              name="{=Emporion}Emporion" short_name="{=Emporion1}Emporion" title="{=Emporion2}Emporion"
              ruler_title="{=hwnp9abW}King" text="{=Emporion3}Emporion is a Greek colony in the eastern Iberian region.">
         <relationships>
-            <relationship kingdom="Kingdom.Syracuse" value="1" isAtWar="false"/>
+<!--            <relationship kingdom="Kingdom.Syracuse" value="1" isAtWar="false"/>-->
         </relationships>
         <policies>
             <policy id="policy_royal_privilege"/>
@@ -139,7 +138,7 @@
              name="{=Epirusum}Epirus" short_name="{=Epirus12}Epirotes" title="{=Epirus23}Epirus"
              ruler_title="{=hwnp9abW}King" text="{=Epirus34}Epirus controls the western most reaches of Greece.">
         <relationships>
-            <relationship kingdom="Kingdom.Samnites" value="1" isAtWar="false"/>
+<!--            <relationship kingdom="Kingdom.Samnites" value="1" isAtWar="false"/>-->
         </relationships>
         <policies>
             <policy id="policy_royal_privilege"/>
@@ -155,7 +154,6 @@
              ruler_title="{=hwnp9abW}King"
              text="{=Macedon3}Macedonia is a small but quickly expanding empire. that is... until The powerful king of Macedon, Philip II was murdered. Now his ambitious young son Alexander has secured the throne with the help of his mother Olympias.">
         <relationships>
-            <relationship kingdom="Kingdom.Rome" value="1" isAtWar="false"/>
         </relationships>
     </Kingdom>
 
@@ -167,7 +165,6 @@
              name="{=Ardiaei}Ardiaei" short_name="{=Ardiaei1}Ardiaeii" title="{=Ardiaei2}Ardiaei Tribe"
              ruler_title="{=hwnp9abW}King" text="{=Ardiaei3}The Ardiaei are an Illyrian tribe">
         <relationships>
-            <relationship kingdom="Kingdom.Macedon" value="-1" isAtWar="true"/>
         </relationships>
     </Kingdom>
 
@@ -182,7 +179,7 @@
              ruler_title="{=hwnp9abW}King"
              text="{=Cimbri3}The Tribe Cimbri control the Northern Germanic lands of Jutland.">
         <relationships>
-            <relationship kingdom="Kingdom.Arverni" value="1" isAtWar="false"/>
+<!--            <relationship kingdom="Kingdom.Arverni" value="1" isAtWar="false"/>-->
         </relationships>
     </Kingdom>
 
@@ -194,7 +191,7 @@
              name="{=PjO7oY16}Kven" short_name="{=C4qjBqLO}Kvens" title="{=iYCR3xuQ}Kven Tribes"
              ruler_title="{=hwnp9abW}King" text="{=b43h87Uu}The Northern Germanic Kvens Tribes">
         <relationships>
-            <relationship kingdom="Kingdom.Suiones" value="-1" isAtWar="true"/>
+<!--            <relationship kingdom="Kingdom.Suiones" value="1" isAtWar="false"/>-->
         </relationships>
     </Kingdom>
 
@@ -206,7 +203,7 @@
              name="{=Suiones16}Suiones" short_name="{=SuionesLO}Suiones" title="{=SuionesxuQ}Suiones Tribes"
              ruler_title="{=hwnp9abW}King" text="{=SuionesUu}The Northern Germanic Suiones Tribes">
         <relationships>
-            <relationship kingdom="Kingdom.Kvens" value="-1" isAtWar="true"/>
+<!--            <relationship kingdom="Kingdom.Kvens" value="1" isAtWar="false"/>-->
         </relationships>
     </Kingdom>
 
@@ -218,7 +215,7 @@
              name="{=SuevioY16}Suevi" short_name="{=SueviqLO}Suevii" title="{=SuevixuQ}Suevi Tribes"
              ruler_title="{=Suevi9abW}King" text="{=Suevi7Uu}The Northern Germanic Suevi Tribes">
         <relationships>
-            <relationship kingdom="Kingdom.Kvens" value="1" isAtWar="false"/>
+<!--            <relationship kingdom="Kingdom.Kvens" value="1" isAtWar="false"/>-->
         </relationships>
     </Kingdom>
 
@@ -231,7 +228,7 @@
              title="{=Pomeranians2}Pomeranian Tribe" ruler_title="{=hwnp9abW}King"
              text="{=Pomeranians3}The Pomeranians dwell in the lands along the southern coast of the Baltic sea. they are a hardy and strong people who often found themselves defending their holdings from Scythian raids.">
         <relationships>
-            <relationship kingdom="Kingdom.Suiones" value="1" isAtWar="false"/>
+<!--            <relationship kingdom="Kingdom.Suiones" value="1" isAtWar="false"/>-->
         </relationships>
     </Kingdom>
 
@@ -243,7 +240,7 @@
              name="{=Sweboz16}Sweboz" short_name="{=SwebozqLO}Sweboz" title="{=SwebozuQ}Sweboz Tribe"
              ruler_title="{=hwnp9abW}King" text="{=Sweboz7Uu}The Germanic Sweboz Tribes">
         <relationships>
-            <relationship kingdom="Kingdom.Treverii" value="-1" isAtWar="true"/>
+<!--            <relationship kingdom="Kingdom.Suiones" value="1" isAtWar="false"/>-->
         </relationships>
     </Kingdom>
 
@@ -255,7 +252,7 @@
              name="{=Teutones1}Teutones" short_name="{=Teutones2}Teutones" title="{=Teutones3}Teutones Tribes"
              ruler_title="{=hwnp9abW}King" text="{=Teutones4}The Germanic Teutones Tribes">
         <relationships>
-            <relationship kingdom="Kingdom.Suiones" value="1" isAtWar="false"/>
+<!--            <relationship kingdom="Kingdom.Suiones" value="1" isAtWar="false"/>-->
         </relationships>
     </Kingdom>
 
@@ -269,7 +266,6 @@
              name="{=Scordisci}Scordisci" short_name="{=Scordisci1}Scordiscii" title="{=Scordisci2}Scordisci Tribe"
              ruler_title="{=hwnp9abW}King" text="{=Scordisci3}The Scordisci are a Celtic Illyrian tribe">
         <relationships>
-            <relationship kingdom="Kingdom.Macedon" value="-1" isAtWar="true"/>
         </relationships>
     </Kingdom>
 
@@ -281,7 +277,7 @@
              name="{=FjwRsf1C}Aedui" short_name="{=8HMyTKF6}Aeduins" title="{=lAWwcO6b}Tribe of Aedui"
              ruler_title="{=hwnp9abW}King" text="{=IudGLWQZ}The Tribe Aedui control the Northern Gallic lands.">
         <relationships>
-            <relationship kingdom="Kingdom.Arverni" value="1" isAtWar="false"/>
+<!--            <relationship kingdom="Kingdom.Arverni" value="1" isAtWar="false"/>-->
         </relationships>
     </Kingdom>
 
@@ -293,7 +289,7 @@
              name="{=FjwRsf1C}Arverni" short_name="{=8HMyTKF6}Arverians" title="{=lAWwcO6b}Tribe of Arverni"
              ruler_title="{=hwnp9abW}King" text="{=arvtrbep}The Arverni Tribe dwells in the heart of Gaul.">
         <relationships>
-            <relationship kingdom="Kingdom.Aedui" value="1" isAtWar="false"/>
+<!--            <relationship kingdom="Kingdom.Caledones" value="1" isAtWar="false"/>-->
         </relationships>
     </Kingdom>
 
@@ -305,7 +301,7 @@
              name="{=venetifx}Veneti" short_name="{=ventians}Venetii" title="{=lAWwcO6b}Tribe of Veneti"
              ruler_title="{=hwnp9abW}King" text="{=arvtrbep}The Veneti Tribe dwells in the North West region of Gaul.">
         <relationships>
-            <relationship kingdom="Kingdom.Aedui" value="1" isAtWar="false"/>
+<!--            <relationship kingdom="Kingdom.Caledones" value="1" isAtWar="false"/>-->
         </relationships>
     </Kingdom>
 
@@ -317,7 +313,7 @@
              name="{=Nrbnsisa}Aquitani" short_name="{=aquitani}Aquitanii" title="{=lAWwcani}Tribe of Aquitani"
              ruler_title="{=hwnp9abW}King" text="{=IudGLWQZ}The Tribe of Aquitani control the Southern Gallic lands.">
         <relationships>
-            <relationship kingdom="Kingdom.Helvetii" value="1" isAtWar="false"/>
+<!--            <relationship kingdom="Kingdom.Arverni" value="1" isAtWar="false"/>-->
         </relationships>
     </Kingdom>
 
@@ -330,7 +326,7 @@
              ruler_title="{=hwnp9abW}King"
              text="{=Helveti3}The Tribe of Helvetii control the Western Alpine Gallic lands.">
         <relationships>
-            <relationship kingdom="Kingdom.Aquitani" value="1" isAtWar="false"/>
+<!--            <relationship kingdom="Kingdom.Arverni" value="1" isAtWar="false"/>-->
         </relationships>
     </Kingdom>
 
@@ -342,7 +338,7 @@
              name="{=skicidbo}Boii" short_name="{=boiisuwa}Boii" title="{=slboiifu}Tribe of Boii"
              ruler_title="{=hwnp9abW}King" text="{=dboii4i3}The Boii Tribe controls the Cisalpine Gaul Region.">
         <relationships>
-            <relationship kingdom="Kingdom.Etruria" value="1" isAtWar="false"/>
+<!--            <relationship kingdom="Kingdom.Arverni" value="1" isAtWar="false"/>-->
         </relationships>
     </Kingdom>
 
@@ -354,7 +350,7 @@
              name="{=Treverii}Treverii" short_name="{=Trever12}Treverii" title="{=Treveri1}Tribe of Treverii"
              ruler_title="{=hwnp9abW}King" text="{=Trever21}The Treverii Tribe dwells in the region of Belgica.">
         <relationships>
-            <relationship kingdom="Kingdom.Sweboz" value="-1" isAtWar="true"/>
+<!--            <relationship kingdom="Kingdom.Caledones" value="1" isAtWar="false"/>-->
         </relationships>
     </Kingdom>
 
@@ -368,7 +364,6 @@
              ruler_title="{=hwnp9abW}King"
              text="{=JGua8ndp}The Caledones Tribe controls the Northern part of Prydein">
         <relationships>
-            <relationship kingdom="Kingdom.empire_w" value="1" isAtWar="false"/>
         </relationships>
     </Kingdom>
 
@@ -376,11 +371,10 @@
              banner_key="11.2.2.6296.6296.764.764.1.0.0.460.3.3.457.457.764.764.1.0.0" primary_banner_color="0xfff0e0a5"
              secondary_banner_color="0xff3a6298" label_color="FF55831A" color="FF2D3F1D" color2="FFBFCBB0"
              alternative_color="FFD69516" alternative_color2="FF55831A" culture="Culture.battania"
-             settlement_banner_mesh="encounter_flag_e" flag_mesh="info_screen_flags_b" name="{=Demetae1}Catuvellauni"
-             short_name="{=Demet123}Catuvellauni" title="{=Demet218}Catuvellauni Tribe" ruler_title="{=hwnp9abW}King"
-             text="{=Demeta53}The Catuvellauni dwell in the south of Prydein">
+             settlement_banner_mesh="encounter_flag_e" flag_mesh="info_screen_flags_b" name="{=Catuvellauni0}Catuvellauni"
+             short_name="{=Catuvellauni1}Catuvellauni" title="{=Catuvellauni2}Catuvellauni Tribe" ruler_title="{=Catuvellauni3}King"
+             text="{=Catuvellauni4}The Catuvellauni dwell in the south of Prydein">
         <relationships>
-            <relationship kingdom="Kingdom.empire_w" value="1" isAtWar="false"/>
         </relationships>
     </Kingdom>
 
@@ -389,11 +383,10 @@
              primary_banner_color="0xff332c4d"
              secondary_banner_color="0xffd2d6d5" label_color="FF55831A" color="FF332c4d" color2="FFd2d6d5"
              alternative_color="FF332c4d" alternative_color2="FFd2d6d5" culture="Culture.battania"
-             settlement_banner_mesh="encounter_flag_e" flag_mesh="info_screen_flags_b" name="{=Demetae1}Ordovices"
-             short_name="{=Demet123}Ordovices" title="{=Demet218}Ordovices Tribe" ruler_title="{=hwnp9abW}King"
-             text="{=Demeta53}The Ordovices dwell in the west tip of Prydein">
+             settlement_banner_mesh="encounter_flag_e" flag_mesh="info_screen_flags_b" name="{=Ordovicesa}Ordovices"
+             short_name="{=Ordovices0}Ordovices" title="{=Ordovices1}Ordovices Tribe" ruler_title="{=Ordovices2}King"
+             text="{=Ordovices4}The Ordovices dwell in the west tip of Prydein">
         <relationships>
-            <relationship kingdom="Kingdom.empire_w" value="1" isAtWar="false"/>
         </relationships>
     </Kingdom>
 
@@ -453,7 +446,7 @@
              short_name="{=Carthaginian}Carthaginian" title="{=lAWwcO6b}Kingdom of Carthage"
              ruler_title="{=monarch}Monarch" text="{=IudGLWQZ}Carthage master of the mediterranean.">
         <relationships>
-            <relationship kingdom="Kingdom.Garamantes" value="-1" isAtWar="true"/>
+<!--            <relationship kingdom="Kingdom.Syracuse" value="1" isAtWar="false"/>-->
         </relationships>
     </Kingdom>
 
@@ -465,7 +458,7 @@
              short_name="{=Maurian}Maurian" title="{=Mauri2}Kingdom of Mauri" ruler_title="{=monarch}Monarch"
              text="{=Mauri3)Its native inhabitants, seminomadic pastoralists">
         <relationships>
-            <relationship kingdom="Kingdom.Massylii" value="1" isAtWar="false"/>
+<!--            <relationship kingdom="Kingdom.Massylii" value="1" isAtWar="false"/>-->
         </relationships>
     </Kingdom>
 
@@ -477,7 +470,7 @@
              short_name="{=Garamantes1}Garamantian" title="{=Garamantes2}Kingdom of Garamantia"
              ruler_title="{=monarch}Monarch" text="{=Garamantes3)Its native inhabitants, seminomadic pastoralists">
         <relationships>
-            <relationship kingdom="Kingdom.Carthage" value="-1" isAtWar="true"/>
+<!--            <relationship kingdom="Kingdom.Massylii" value="1" isAtWar="false"/>-->
         </relationships>
     </Kingdom>
 
@@ -489,7 +482,7 @@
              short_name="{=Massylii1}Massylii" title="{=Massylii2}Kingdom of Massylii" ruler_title="{=monarch}Monarch"
              text="{=Massylii3)Its native inhabitants, seminomadic pastoralists">
         <relationships>
-            <relationship kingdom="Kingdom.Carthage" value="1" isAtWar="false"/>
+<!--            <relationship kingdom="Kingdom.Carthage" value="1" isAtWar="false"/>-->
         </relationships>
     </Kingdom>
 
@@ -503,7 +496,7 @@
              ruler_title="{=Lusitani4}King"
              text="{=Lusitani5}The Lusitanians (or Latin: Lusitani) were an Indo-European speaking people living in the west of the Iberian Peninsula prior to its conquest by the Roman Republic and the subsequent incorporation of the territory into the Roman province of Lusitania.">
         <relationships>
-            <relationship kingdom="Kingdom.Cantabri" value="1" isAtWar="false"/>
+<!--            <relationship kingdom="Kingdom.Carthage" value="1" isAtWar="false"/>-->
         </relationships>
     </Kingdom>
 
@@ -516,7 +509,7 @@
              ruler_title="{=Cantabri4}King"
              text="{=Lusitani5}Cantabria, the land of the Cantabri originally comprised much of the highlands of the northern Spanish Atlantic coast including the whole of modern Cantabria province">
         <relationships>
-            <relationship kingdom="Kingdom.Massilia" value="1" isAtWar="false"/>
+<!--            <relationship kingdom="Kingdom.Massilia" value="1" isAtWar="false"/>-->
         </relationships>
     </Kingdom>
 
@@ -528,7 +521,7 @@
              name="{=Gallaeci}Gallaeci" short_name="{=Gallaeci1}Gallaecii" title="{=Gallaeci2}Gallaeci Tribe"
              ruler_title="{=hwnp9abW}King" text="{=Gallaeci3}The Gallaeci dwell in the North West of Iberia">
         <relationships>
-            <relationship kingdom="Kingdom.Lusitani" value="1" isAtWar="false"/>
+<!--            <relationship kingdom="Kingdom.Lusitani" value="1" isAtWar="false"/>-->
         </relationships>
     </Kingdom>
 
@@ -541,7 +534,7 @@
              title="{=Carthago2Nova}Colony of Carthago Nova" ruler_title="{=monarch}Monarch"
              text="{=Carthago3Nova}Carthago Nova is a Punic colony in the southeast of Iberia.">
         <relationships>
-            <relationship kingdom="Kingdom.Carthage" value="1" isAtWar="false"/>
+<!--            <relationship kingdom="Kingdom.Carthage" value="1" isAtWar="false"/>-->
         </relationships>
     </Kingdom>
 </Kingdoms>

@@ -61,6 +61,13 @@
             </IncludedGameTypes>
         </XmlNode>
         <XmlNode>
+            <XmlName id="Kingdoms" path="spkingdoms"/>
+            <IncludedGameTypes>
+                <GameType value="Campaign"/>
+                <GameType value="CampaignStoryMode"/>
+            </IncludedGameTypes>
+        </XmlNode>
+        <XmlNode>
             <XmlName id="Factions" path="spclans"/>
             <IncludedGameTypes>
                 <GameType value="Campaign"/>
