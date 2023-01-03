@@ -666,23 +666,25 @@
              is_noble="true"
            banner_key="11.71.12.4922.4922.764.764.1.0.0.142.29.149.331.331.764.665.0.0.0.146.29.149.311.311.764.863.0.1.0" />
 
-    <!--    EBDANI -->
+    <!--    HEREMON -->
     <Faction id="clan_battania_3"
-             name="{=0m0IUnL1}fen Uvain"
+             name="{=0m0IUnL1}Heremon Taellach"
              tier="5"
              owner="Hero.lord_5_5"
              culture="Culture.battania"
-             super_faction="Kingdom.Ebdani"
+             super_faction="Kingdom.Heremon"
              is_noble="true"
-           banner_key="11.101.75.4345.4345.764.764.1.0.0.427.39.0.261.261.764.869.0.0.359.133.39.0.380.380.764.696.0.0.0" />
+             banner_key="11.2.2.6296.6296.764.764.1.0.0.460.144.144.457.457.764.764.1.0.0" />
+
+    <!--    EBER    -->
     <Faction id="clan_battania_4"
-             name="{=k3djFmuO}fen Penraic"
-             tier="3"
+             name="{=k3djFmuO}Eber Taellach"
+             tier="5"
              owner="Hero.lord_5_14"
              culture="Culture.battania"
-             super_faction="Kingdom.Ebdani"
+             super_faction="Kingdom.Eber"
              is_noble="true"
-           banner_key="11.101.75.4345.4345.764.764.1.0.0.132.39.0.438.438.764.814.0.0.0.302.39.0.438.438.764.714.0.0.0" />
+             banner_key="11.15.75.4345.4345.764.764.1.0.0.500.145.0.533.533.764.768.0.0.0.406.145.0.438.438.764.764.0.0.0" />
 
     <!--    DEMETAE -->
     <Faction id="clan_battania_6"

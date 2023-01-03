@@ -355,15 +355,49 @@
         </relationships>
     </Kingdom>
 
-    <Kingdom id="Ebdani" owner="Hero.lord_5_5" banner_key="11.2.2.6296.6296.764.764.1.0.0.460.3.3.457.457.764.764.1.0.0"
-             primary_banner_color="0xff284E19" secondary_banner_color="0xfff1c232" label_color="FF55831A"
-             color="FF2D3F1D" color2="FFBFCBB0" alternative_color="FFD69516" alternative_color2="FF55831A"
-             culture="Culture.battania" settlement_banner_mesh="encounter_flag_e" flag_mesh="info_screen_flags_b"
-             name="{=0BEbdani}Ebdani" short_name="{=EbdaniHZ}Ebdanii" title="{=qEbdaniC}Ebdani Tribe"
-             ruler_title="{=hwnp9abW}King"
-             text="{=ZjEbdani}The Ebdani dwell in the island off the west coast of Britannia">
+    <Kingdom id="Heremon"
+             owner="Hero.lord_5_5"
+             banner_key="11.2.2.6296.6296.764.764.1.0.0.460.144.144.457.457.764.764.1.0.0"
+             primary_banner_color="0xff284e19"
+             secondary_banner_color="0xfff4ca14"
+             label_color="FF55831A"
+             color="FF34671e"
+             color2="FFf4ca14"
+             alternative_color="FF34671e"
+             alternative_color2="FFf4ca14"
+             culture="Culture.battania"
+             settlement_banner_mesh="encounter_flag_e"
+             flag_mesh="info_screen_flags_b"
+             name="{=0BHeremon}Leath Heremon"
+             short_name="{=HeremonHZ}Leath Heremon"
+             title="{=qHeremonC}Heremon's Gaelic Tribe"
+             ruler_title="{=HeremonW}Ri"
+             text="{=ZjHeremon}The Leath Heremon dwell in the northern part of Éire">
         <relationships>
-            <relationship kingdom="Kingdom.empire_w" value="1" isAtWar="false"/>
+                        <relationship kingdom="Kingdom.Eber" value="-1" isAtWar="true"/>
+        </relationships>
+    </Kingdom>
+
+    <Kingdom id="Eber"
+             owner="Hero.lord_5_14"
+             banner_key="11.15.75.4345.4345.764.764.1.0.0.500.145.0.533.533.764.768.0.0.0.406.145.0.438.438.764.764.0.0.0"
+             primary_banner_color="0xfff7bf46"
+             secondary_banner_color="0xff830808"
+             label_color="FF55831A"
+             color="FF34671e"
+             color2="FF830808"
+             alternative_color="FF34671e"
+             alternative_color2="FF830808"
+             culture="Culture.battania"
+             settlement_banner_mesh="encounter_flag_e"
+             flag_mesh="info_screen_flags_b"
+             name="{=0BEber}Leath Eber"
+             short_name="{=EberHZ}Leath Eber"
+             title="{=qEberC}Eber's Gaelic Tribe"
+             ruler_title="{=Eber9abW}Ri"
+             text="{=ZjEber}The Leath Eber dwell in the southern part of Éire">
+        <relationships>
+                        <relationship kingdom="Kingdom.Heremon" value="-1" isAtWar="true"/>
         </relationships>
     </Kingdom>
 
