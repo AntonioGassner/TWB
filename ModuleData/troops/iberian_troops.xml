@@ -15,7 +15,7 @@
         <face>
             <face_key_template value="BodyProperty.villager_battania"/>
         </face>
-        <skills >
+        <skills>
             <skill id="Athletics" value="100"/>
             <skill id="Riding" value="20"/>
             <skill id="OneHanded" value="50"/>
@@ -31,39 +31,39 @@
         </upgrade_targets>
         <Equipments>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.hans_celtic_sword"/>
+                <equipment slot="Item0" id="Item.falcata_a"/>
                 <equipment slot="Item1" id="Item.phallic_javelin"/>
                 <equipment slot="Item2" id="Item.AR_shield_infantry_t2"/>
                 <equipment slot="Head" id="Item.band_1"/>
                 <equipment slot="Cape" id="Item.hmj_battanian_shoulders_b"/>
-                <equipment slot="Body" id="Item.chiton_sleeves_1"/>
+                <equipment slot="Body" id="Item.chiton_girdle_1_1"/>
                 <equipment slot="Leg" id="Item.TV_battania_boots_x"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.hans_celtic_sword"/>
+                <equipment slot="Item0" id="Item.falcata_a"/>
                 <equipment slot="Item1" id="Item.phallic_javelin"/>
                 <equipment slot="Item2" id="Item.AR_shield_infantry_t2"/>
                 <equipment slot="Head" id="Item.band_1"/>
                 <equipment slot="Cape" id="Item.battania_shoulder_strap_cloak"/>
-                <equipment slot="Body" id="Item.chiton_sleeves_1"/>
+                <equipment slot="Body" id="Item.chiton_girdle_1_2"/>
                 <equipment slot="Leg" id="Item.TV_battania_boots_x"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.hans_celtic_sword"/>
+                <equipment slot="Item0" id="Item.falcata_a"/>
                 <equipment slot="Item1" id="Item.phallic_javelin"/>
                 <equipment slot="Item2" id="Item.AR_shield_infantry_t2"/>
                 <equipment slot="Head" id="Item.band_1"/>
                 <equipment slot="Cape" id="Item.hmj_battanian_shoulders_b"/>
-                <equipment slot="Body" id="Item.chiton_sleeves_1"/>
+                <equipment slot="Body" id="Item.chiton_girdle_1_1"/>
                 <equipment slot="Leg" id="Item.TV_battania_boots_x"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.hans_celtic_sword"/>
+                <equipment slot="Item0" id="Item.falcata_a"/>
                 <equipment slot="Item1" id="Item.phallic_javelin"/>
                 <equipment slot="Item2" id="Item.AR_shield_infantry_t2"/>
                 <equipment slot="Head" id="Item.band_1"/>
                 <equipment slot="Cape" id="Item.battania_shoulder_strap_cloak"/>
-                <equipment slot="Body" id="Item.chiton_sleeves_1"/>
+                <equipment slot="Body" id="Item.chiton_girdle_1_2"/>
                 <equipment slot="Leg" id="Item.TV_battania_boots_x"/>
             </EquipmentRoster>
             <EquipmentRoster civilian="true">
@@ -83,7 +83,7 @@
         <face>
             <face_key_template value="BodyProperty.villager_battania"/>
         </face>
-        <skills >
+        <skills>
             <skill id="Athletics" value="140"/>
             <skill id="Riding" value="40"/>
             <skill id="OneHanded" value="90"/>
@@ -99,7 +99,7 @@
         </upgrade_targets>
         <Equipments>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.hans_celtic_sword"/>
+                <equipment slot="Item0" id="Item.falcata_a"/>
                 <equipment slot="Item1" id="Item.phallic_javelin"/>
                 <equipment slot="Item2" id="Item.AR_shield_infantry_t2"/>
                 <equipment slot="Head" id="Item.band_1"/>
@@ -108,7 +108,7 @@
                 <equipment slot="Leg" id="Item.TV_battania_boots_x"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.hans_celtic_sword"/>
+                <equipment slot="Item0" id="Item.falcata_a"/>
                 <equipment slot="Item1" id="Item.phallic_javelin"/>
                 <equipment slot="Item2" id="Item.AR_shield_infantry_t2"/>
                 <equipment slot="Head" id="Item.band_1"/>
@@ -117,7 +117,7 @@
                 <equipment slot="Leg" id="Item.TV_battania_boots_x"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.hans_celtic_sword"/>
+                <equipment slot="Item0" id="Item.falcata_a"/>
                 <equipment slot="Item1" id="Item.phallic_javelin"/>
                 <equipment slot="Item2" id="Item.AR_shield_infantry_t2"/>
                 <equipment slot="Head" id="Item.band_1"/>
@@ -126,7 +126,7 @@
                 <equipment slot="Leg" id="Item.TV_battania_boots_x"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.hans_celtic_sword"/>
+                <equipment slot="Item0" id="Item.falcata_a"/>
                 <equipment slot="Item1" id="Item.phallic_javelin"/>
                 <equipment slot="Item2" id="Item.AR_shield_infantry_t2"/>
                 <equipment slot="Head" id="Item.band_1"/>
@@ -151,7 +151,7 @@
         <face>
             <face_key_template value="BodyProperty.villager_battania"/>
         </face>
-        <skills >
+        <skills>
             <skill id="Athletics" value="150"/>
             <skill id="Riding" value="20"/>
             <skill id="OneHanded" value="90"/>
@@ -167,7 +167,7 @@
         </upgrade_targets>
         <Equipments>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.hans_celtic_sword"/>
+                <equipment slot="Item0" id="Item.falcata_a"/>
                 <equipment slot="Item1" id="Item.celtic_javelin"/>
                 <equipment slot="Item2" id="Item.AR_shield_infantry_t2"/>
                 <equipment slot="Item3" id="Item.celtic_javelin"/>
@@ -178,7 +178,7 @@
                 <equipment slot="Leg" id="Item.TV_battania_boots_x"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.hans_celtic_sword"/>
+                <equipment slot="Item0" id="Item.falcata_a"/>
                 <equipment slot="Item1" id="Item.celtic_javelin"/>
                 <equipment slot="Item2" id="Item.AR_shield_infantry_t2"/>
                 <equipment slot="Item3" id="Item.celtic_javelin"/>
@@ -189,7 +189,7 @@
                 <equipment slot="Leg" id="Item.TV_battania_boots_x"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.hans_celtic_sworda"/>
+                <equipment slot="Item0" id="Item.falcata_a"/>
                 <equipment slot="Item1" id="Item.celtic_javelin"/>
                 <equipment slot="Item2" id="Item.AR_shield_infantry_t2"/>
                 <equipment slot="Item3" id="Item.celtic_javelin"/>
@@ -200,7 +200,7 @@
                 <equipment slot="Leg" id="Item.TV_battania_boots_x"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.hans_celtic_sword"/>
+                <equipment slot="Item0" id="Item.falcata_a"/>
                 <equipment slot="Item1" id="Item.celtic_javelin"/>
                 <equipment slot="Item2" id="Item.AR_shield_infantry_t2"/>
                 <equipment slot="Item3" id="Item.celtic_javelin"/>
@@ -227,7 +227,7 @@
         <face>
             <face_key_template value="BodyProperty.villager_battania"/>
         </face>
-        <skills >
+        <skills>
             <skill id="Athletics" value="150"/>
             <skill id="Riding" value="20"/>
             <skill id="OneHanded" value="130"/>
@@ -239,44 +239,44 @@
         </skills>
         <Equipments>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.hans_celtic_sword"/>
+                <equipment slot="Item0" id="Item.falcata_a"/>
                 <equipment slot="Item1" id="Item.celtic_javelin"/>
                 <equipment slot="Item2" id="Item.AR_shield_infantry_t2"/>
                 <equipment slot="Item3" id="Item.celtic_javelin"/>
-                <equipment slot="Head" id="Item.chalcidian_1"/>
+                <equipment slot="Head" id="Item.etruscan_helm"/>
                 <equipment slot="Cape" id="Item.hmj_battanian_shoulders_b"/>
                 <equipment slot="Body" id="Item.round_plate_tunic"/>
                 <equipment slot="Gloves" id="Item.northern_brass_bracers"/>
                 <equipment slot="Leg" id="Item.TV_battania_boots_x"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.hans_celtic_sword"/>
+                <equipment slot="Item0" id="Item.falcata_a"/>
                 <equipment slot="Item1" id="Item.celtic_javelin"/>
                 <equipment slot="Item2" id="Item.AR_shield_infantry_t2"/>
                 <equipment slot="Item3" id="Item.celtic_javelin"/>
-                <equipment slot="Head" id="Item.chalcidian_1"/>
+                <equipment slot="Head" id="Item.etruscan_helm"/>
                 <equipment slot="Cape" id="Item.battania_shoulder_strap_cloak"/>
                 <equipment slot="Body" id="Item.round_plate_tunic"/>
                 <equipment slot="Gloves" id="Item.northern_brass_bracers"/>
                 <equipment slot="Leg" id="Item.TV_battania_boots_x"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.hans_celtic_sword"/>
+                <equipment slot="Item0" id="Item.falcata_a"/>
                 <equipment slot="Item1" id="Item.celtic_javelin"/>
                 <equipment slot="Item2" id="Item.AR_shield_infantry_t2"/>
                 <equipment slot="Item3" id="Item.celtic_javelin"/>
-                <equipment slot="Head" id="Item.chalcidian_1"/>
+                <equipment slot="Head" id="Item.etruscan_helm"/>
                 <equipment slot="Cape" id="Item.hmj_battanian_shoulders_b"/>
                 <equipment slot="Body" id="Item.round_plate_tunic"/>
                 <equipment slot="Gloves" id="Item.northern_brass_bracers"/>
                 <equipment slot="Leg" id="Item.TV_battania_boots_x"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.hans_celtic_sword"/>
+                <equipment slot="Item0" id="Item.falcata_a"/>
                 <equipment slot="Item1" id="Item.celtic_javelin"/>
                 <equipment slot="Item2" id="Item.AR_shield_infantry_t2"/>
                 <equipment slot="Item3" id="Item.celtic_javelin"/>
-                <equipment slot="Head" id="Item.chalcidian_1"/>
+                <equipment slot="Head" id="Item.etruscan_helm"/>
                 <equipment slot="Cape" id="Item.battania_shoulder_strap_cloak"/>
                 <equipment slot="Body" id="Item.round_plate_tunic"/>
                 <equipment slot="Gloves" id="Item.northern_brass_bracers"/>
@@ -293,13 +293,13 @@
     <NPCCharacter id="balearic_slingers"
                   default_group="Ranged"
                   level="16"
-                  name="{=Balearic Slingers}Balearic Slingers"
+                  name="{=Balearic Slingers}Gallaeci Balearic Slingers"
                   occupation="Soldier"
                   culture="Culture.celtiberian">
         <face>
             <face_key_template value="BodyProperty.villager_battania"/>
         </face>
-        <skills >
+        <skills>
             <skill id="Athletics" value="150"/>
             <skill id="Riding" value="30"/>
             <skill id="OneHanded" value="130"/>
@@ -367,7 +367,7 @@
         <face>
             <face_key_template value="BodyProperty.villager_battania"/>
         </face>
-        <skills >
+        <skills>
             <skill id="Athletics" value="130"/>
             <skill id="Riding" value="50"/>
             <skill id="OneHanded" value="130"/>
@@ -382,7 +382,7 @@
         </upgrade_targets>
         <Equipments>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.hans_celtic_sword"/>
+                <equipment slot="Item0" id="Item.falcata_a"/>
                 <equipment slot="Item1" id="Item.phallic_javelin"/>
                 <equipment slot="Item2" id="Item.highland_scouts_shield"/>
                 <equipment slot="Head" id="Item.chalcidian_1"/>
@@ -392,7 +392,7 @@
                 <equipment slot="Leg" id="Item.TV_battania_boots_x"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.hans_celtic_sword"/>
+                <equipment slot="Item0" id="Item.falcata_a"/>
                 <equipment slot="Item1" id="Item.phallic_javelin"/>
                 <equipment slot="Item2" id="Item.highland_scouts_shield"/>
                 <equipment slot="Head" id="Item.chalcidian_1"/>
@@ -402,7 +402,7 @@
                 <equipment slot="Leg" id="Item.TV_battania_boots_x"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.hans_celtic_sword"/>
+                <equipment slot="Item0" id="Item.falcata_a"/>
                 <equipment slot="Item1" id="Item.phallic_javelin"/>
                 <equipment slot="Item2" id="Item.highland_scouts_shield"/>
                 <equipment slot="Head" id="Item.chalcidian_1"/>
@@ -412,7 +412,7 @@
                 <equipment slot="Leg" id="Item.TV_battania_boots_x"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.hans_celtic_sword"/>
+                <equipment slot="Item0" id="Item.falcata_a"/>
                 <equipment slot="Item1" id="Item.phallic_javelin"/>
                 <equipment slot="Item2" id="Item.highland_scouts_shield"/>
                 <equipment slot="Head" id="Item.chalcidian_1"/>
@@ -438,7 +438,7 @@
         <face>
             <face_key_template value="BodyProperty.villager_battania"/>
         </face>
-        <skills >
+        <skills>
             <skill id="Athletics" value="130"/>
             <skill id="Riding" value="40"/>
             <skill id="OneHanded" value="105"/>
@@ -450,7 +450,7 @@
         </skills>
         <Equipments>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.hans_celtic_spear_a"/>
+                <equipment slot="Item0" id="Item.highland_spear_t2"/>
                 <equipment slot="Item1" id="Item.phallic_javelin"/>
                 <equipment slot="Item2" id="Item.AR_shield_infantry_t2"/>
                 <equipment slot="Head" id="Item.chalcidian_1"/>
@@ -460,7 +460,7 @@
                 <equipment slot="Leg" id="Item.TV_battania_boots_x"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.hans_celtic_spear_a"/>
+                <equipment slot="Item0" id="Item.highland_spear_t2"/>
                 <equipment slot="Item1" id="Item.phallic_javelin"/>
                 <equipment slot="Item2" id="Item.AR_shield_infantry_t2"/>
                 <equipment slot="Head" id="Item.chalcidian_1"/>
@@ -470,7 +470,7 @@
                 <equipment slot="Leg" id="Item.TV_battania_boots_x"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.hans_celtic_spear_a"/>
+                <equipment slot="Item0" id="Item.highland_spear_t2"/>
                 <equipment slot="Item1" id="Item.phallic_javelin"/>
                 <equipment slot="Item2" id="Item.AR_shield_infantry_t2"/>
                 <equipment slot="Head" id="Item.chalcidian_1"/>
@@ -480,7 +480,7 @@
                 <equipment slot="Leg" id="Item.TV_battania_boots_x"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.hans_celtic_spear_a"/>
+                <equipment slot="Item0" id="Item.highland_spear_t2"/>
                 <equipment slot="Item1" id="Item.phallic_javelin"/>
                 <equipment slot="Item2" id="Item.AR_shield_infantry_t2"/>
                 <equipment slot="Head" id="Item.chalcidian_1"/>
@@ -506,7 +506,7 @@
         <face>
             <face_key_template value="BodyProperty.villager_battania"/>
         </face>
-        <skills >
+        <skills>
             <skill id="Athletics" value="130"/>
             <skill id="Riding" value="50"/>
             <skill id="OneHanded" value="170"/>
@@ -518,7 +518,7 @@
         </skills>
         <Equipments>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.hans_celtic_sword"/>
+                <equipment slot="Item0" id="Item.falcata_a"/>
                 <equipment slot="Item1" id="Item.soliferrum_javelin"/>
                 <equipment slot="Item2" id="Item.highland_scouts_shield"/>
                 <equipment slot="Head" id="Item.etruscan_helm"/>
@@ -528,7 +528,7 @@
                 <equipment slot="Leg" id="Item.TV_battania_boots_x"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.hans_celtic_sword"/>
+                <equipment slot="Item0" id="Item.falcata_a"/>
                 <equipment slot="Item1" id="Item.soliferrum_javelin"/>
                 <equipment slot="Item2" id="Item.highland_scouts_shield"/>
                 <equipment slot="Head" id="Item.etruscan_helm"/>
@@ -538,7 +538,7 @@
                 <equipment slot="Leg" id="Item.TV_battania_boots_x"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.hans_celtic_sword"/>
+                <equipment slot="Item0" id="Item.falcata_a"/>
                 <equipment slot="Item1" id="Item.soliferrum_javelin"/>
                 <equipment slot="Item2" id="Item.highland_scouts_shield"/>
                 <equipment slot="Head" id="Item.etruscan_helm"/>
@@ -548,7 +548,7 @@
                 <equipment slot="Leg" id="Item.TV_battania_boots_x"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.hans_celtic_sword"/>
+                <equipment slot="Item0" id="Item.falcata_a"/>
                 <equipment slot="Item1" id="Item.soliferrum_javelin"/>
                 <equipment slot="Item2" id="Item.highland_scouts_shield"/>
                 <equipment slot="Head" id="Item.etruscan_helm"/>
@@ -575,7 +575,7 @@
         <face>
             <face_key_template value="BodyProperty.villager_empire"/>
         </face>
-        <skills >
+        <skills>
             <skill id="Athletics" value="130"/>
             <skill id="Riding" value="80"/>
             <skill id="OneHanded" value="140"/>
@@ -591,9 +591,9 @@
         </upgrade_targets>
         <Equipments>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.hans_espada_short_sword"/>
-                <equipment slot="Item1" id="Item.soliferrum_javelin"/>
-                <equipment slot="Item2" id="Item.celtiberian_round_shield"/>
+                <equipment slot="Item0" id="Item.falcata_a"/>
+                <equipment slot="Item1" id="Item.phallic_javelin"/>
+                <equipment slot="Item2" id="Item.highland_scouts_shield"/>
                 <equipment slot="Head" id="Item.band_1"/>
                 <equipment slot="Cape" id="Item.battania_scarf_a"/>
                 <equipment slot="Body" id="Item.round_plate_tunic"/>
@@ -601,9 +601,9 @@
                 <equipment slot="Leg" id="Item.TV_battania_boots_y"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.hans_espada_short_sword"/>
-                <equipment slot="Item1" id="Item.soliferrum_javelin"/>
-                <equipment slot="Item2" id="Item.celtiberian_round_shield"/>
+                <equipment slot="Item0" id="Item.falcata_a"/>
+                <equipment slot="Item1" id="Item.phallic_javelin"/>
+                <equipment slot="Item2" id="Item.highland_scouts_shield"/>
                 <equipment slot="Head" id="Item.band_1"/>
                 <equipment slot="Cape" id="Item.AR_battanian_shoulder_b"/>
                 <equipment slot="Body" id="Item.round_plate_tunic"/>
@@ -611,9 +611,9 @@
                 <equipment slot="Leg" id="Item.TV_battania_boots_y"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.hans_espada_short_sword"/>
-                <equipment slot="Item1" id="Item.soliferrum_javelin"/>
-                <equipment slot="Item2" id="Item.celtiberian_round_shield"/>
+                <equipment slot="Item0" id="Item.falcata_a"/>
+                <equipment slot="Item1" id="Item.phallic_javelin"/>
+                <equipment slot="Item2" id="Item.highland_scouts_shield"/>
                 <equipment slot="Head" id="Item.band_1"/>
                 <equipment slot="Cape" id="Item.battania_scarf_a"/>
                 <equipment slot="Body" id="Item.round_plate_tunic"/>
@@ -621,9 +621,9 @@
                 <equipment slot="Leg" id="Item.TV_battania_boots_y"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.hans_espada_short_sword"/>
-                <equipment slot="Item1" id="Item.soliferrum_javelin"/>
-                <equipment slot="Item2" id="Item.celtiberian_round_shield"/>
+                <equipment slot="Item0" id="Item.falcata_a"/>
+                <equipment slot="Item1" id="Item.phallic_javelin"/>
+                <equipment slot="Item2" id="Item.highland_scouts_shield"/>
                 <equipment slot="Head" id="Item.band_1"/>
                 <equipment slot="Cape" id="Item.AR_battanian_shoulder_b"/>
                 <equipment slot="Body" id="Item.round_plate_tunic"/>
@@ -647,7 +647,7 @@
         <face>
             <face_key_template value="BodyProperty.villager_empire"/>
         </face>
-        <skills >
+        <skills>
             <skill id="Athletics" value="130"/>
             <skill id="Riding" value="80"/>
             <skill id="OneHanded" value="180"/>
@@ -662,9 +662,9 @@
         </upgrade_targets>
         <Equipments>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.hans_espada_short_sword"/>
+                <equipment slot="Item0" id="Item.falcata_a"/>
                 <equipment slot="Item1" id="Item.soliferrum_javelin"/>
-                <equipment slot="Item2" id="Item.celtiberian_round_shield"/>
+                <equipment slot="Item2" id="Item.highland_scouts_shield"/>
                 <equipment slot="Head" id="Item.celtiberian_crest"/>
                 <equipment slot="Cape" id="Item.battanian_leather_shoulder_a"/>
                 <equipment slot="Body" id="Item.round_plate_tunic"/>
@@ -672,9 +672,9 @@
                 <equipment slot="Leg" id="Item.TV_battania_boots_y"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.hans_espada_short_sword"/>
+                <equipment slot="Item0" id="Item.falcata_a"/>
                 <equipment slot="Item1" id="Item.soliferrum_javelin"/>
-                <equipment slot="Item2" id="Item.celtiberian_round_shield"/>
+                <equipment slot="Item2" id="Item.highland_scouts_shield"/>
                 <equipment slot="Head" id="Item.etruscan_helm"/>
                 <equipment slot="Cape" id="Item.ao_battanian_medallion"/>
                 <equipment slot="Body" id="Item.round_plate_tunic"/>
@@ -682,9 +682,9 @@
                 <equipment slot="Leg" id="Item.TV_battania_boots_y"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.hans_espada_short_sword"/>
+                <equipment slot="Item0" id="Item.falcata_a"/>
                 <equipment slot="Item1" id="Item.soliferrum_javelin"/>
-                <equipment slot="Item2" id="Item.celtiberian_round_shield"/>
+                <equipment slot="Item2" id="Item.highland_scouts_shield"/>
                 <equipment slot="Head" id="Item.celtiberian_crest"/>
                 <equipment slot="Cape" id="Item.battanian_leather_shoulder_a"/>
                 <equipment slot="Body" id="Item.round_plate_tunic"/>
@@ -692,9 +692,9 @@
                 <equipment slot="Leg" id="Item.TV_battania_boots_y"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.hans_espada_short_sword"/>
+                <equipment slot="Item0" id="Item.falcata_a"/>
                 <equipment slot="Item1" id="Item.soliferrum_javelin"/>
-                <equipment slot="Item2" id="Item.celtiberian_round_shield"/>
+                <equipment slot="Item2" id="Item.highland_scouts_shield"/>
                 <equipment slot="Head" id="Item.etruscan_helm"/>
                 <equipment slot="Cape" id="Item.ao_battanian_medallion"/>
                 <equipment slot="Body" id="Item.round_plate_tunic"/>
@@ -719,7 +719,7 @@
         <face>
             <face_key_template value="BodyProperty.villager_empire"/>
         </face>
-        <skills >
+        <skills>
             <skill id="Athletics" value="100"/>
             <skill id="Riding" value="130"/>
             <skill id="OneHanded" value="170"/>
@@ -735,7 +735,7 @@
         <Equipments>
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.khuzait_lance_2_t4"/>
-                <equipment slot="Item2" id="Item.bound_celtiberian_round_shield"/>
+                <equipment slot="Item2" id="Item.highland_scouts_shield"/>
                 <equipment slot="Head" id="Item.celtiberian_lord_plumed"/>
                 <equipment slot="Cape" id="Item.ao_battanian_medallion"/>
                 <equipment slot="Body" id="Item.round_plate_tunic"/>
@@ -746,7 +746,7 @@
             </EquipmentRoster>
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.khuzait_lance_2_t4"/>
-                <equipment slot="Item2" id="Item.bound_celtiberian_round_shield"/>
+                <equipment slot="Item2" id="Item.highland_scouts_shield"/>
                 <equipment slot="Head" id="Item.chalcidian_1"/>
                 <equipment slot="Cape" id="Item.battanian_leather_shoulder_a"/>
                 <equipment slot="Body" id="Item.round_plate_tunic"/>
@@ -757,7 +757,7 @@
             </EquipmentRoster>
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.khuzait_lance_2_t4"/>
-                <equipment slot="Item2" id="Item.bound_celtiberian_round_shield"/>
+                <equipment slot="Item2" id="Item.highland_scouts_shield"/>
                 <equipment slot="Head" id="Item.celtiberian_lord_plumed"/>
                 <equipment slot="Cape" id="Item.ao_battanian_medallion"/>
                 <equipment slot="Body" id="Item.round_plate_tunic"/>
@@ -768,7 +768,7 @@
             </EquipmentRoster>
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.khuzait_lance_2_t4"/>
-                <equipment slot="Item2" id="Item.bound_celtiberian_round_shield"/>
+                <equipment slot="Item2" id="Item.highland_scouts_shield"/>
                 <equipment slot="Head" id="Item.chalcidian_1"/>
                 <equipment slot="Cape" id="Item.battanian_leather_shoulder_a"/>
                 <equipment slot="Body" id="Item.round_plate_tunic"/>
@@ -794,7 +794,7 @@
         <face>
             <face_key_template value="BodyProperty.villager_empire"/>
         </face>
-        <skills >
+        <skills>
             <skill id="Athletics" value="100"/>
             <skill id="Riding" value="145"/>
             <skill id="OneHanded" value="205"/>
@@ -810,7 +810,7 @@
         <Equipments>
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.khuzait_lance_2_t4"/>
-                <equipment slot="Item2" id="Item.bound_celtiberian_round_shield"/>
+                <equipment slot="Item2" id="Item.highland_scouts_shield"/>
                 <equipment slot="Head" id="Item.celtiberian_lord_plumed"/>
                 <equipment slot="Cape" id="Item.ao_battanian_medallion"/>
                 <equipment slot="Body" id="Item.round_plate_tunic"/>
@@ -821,7 +821,7 @@
             </EquipmentRoster>
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.khuzait_lance_2_t4"/>
-                <equipment slot="Item2" id="Item.bound_celtiberian_round_shield"/>
+                <equipment slot="Item2" id="Item.highland_scouts_shield"/>
                 <equipment slot="Head" id="Item.etruscan_helm"/>
                 <equipment slot="Cape" id="Item.ao_battanian_medallion"/>
                 <equipment slot="Body" id="Item.round_plate_tunic"/>
@@ -832,7 +832,7 @@
             </EquipmentRoster>
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.khuzait_lance_2_t4"/>
-                <equipment slot="Item2" id="Item.bound_celtiberian_round_shield"/>
+                <equipment slot="Item2" id="Item.highland_scouts_shield"/>
                 <equipment slot="Head" id="Item.celtiberian_lord_plumed"/>
                 <equipment slot="Cape" id="Item.ao_battanian_medallion"/>
                 <equipment slot="Body" id="Item.round_plate_tunic"/>
@@ -843,7 +843,7 @@
             </EquipmentRoster>
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.khuzait_lance_2_t4"/>
-                <equipment slot="Item2" id="Item.bound_celtiberian_round_shield"/>
+                <equipment slot="Item2" id="Item.highland_scouts_shield"/>
                 <equipment slot="Head" id="Item.etruscan_helm"/>
                 <equipment slot="Cape" id="Item.ao_battanian_medallion"/>
                 <equipment slot="Body" id="Item.round_plate_tunic"/>
@@ -869,7 +869,7 @@
         <face>
             <face_key_template value="BodyProperty.villager_empire"/>
         </face>
-        <skills >
+        <skills>
             <skill id="Athletics" value="100"/>
             <skill id="Riding" value="160"/>
             <skill id="OneHanded" value="245"/>
@@ -882,7 +882,7 @@
         <Equipments>
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.khuzait_lance_2_t4"/>
-                <equipment slot="Item2" id="Item.bound_celtiberian_round_shield"/>
+                <equipment slot="Item2" id="Item.highland_scouts_shield"/>
                 <equipment slot="Head" id="Item.celtiberian_lord_plumed"/>
                 <equipment slot="Cape" id="Item.ao_battanian_medallion"/>
                 <equipment slot="Body" id="Item.round_plate_tunic"/>
@@ -893,7 +893,7 @@
             </EquipmentRoster>
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.khuzait_lance_2_t4"/>
-                <equipment slot="Item2" id="Item.bound_celtiberian_round_shield"/>
+                <equipment slot="Item2" id="Item.highland_scouts_shield"/>
                 <equipment slot="Head" id="Item.etruscan_helm"/>
                 <equipment slot="Cape" id="Item.ao_battanian_medallion"/>
                 <equipment slot="Body" id="Item.round_plate_tunic"/>
@@ -904,7 +904,7 @@
             </EquipmentRoster>
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.khuzait_lance_2_t4"/>
-                <equipment slot="Item2" id="Item.bound_celtiberian_round_shield"/>
+                <equipment slot="Item2" id="Item.highland_scouts_shield"/>
                 <equipment slot="Head" id="Item.celtiberian_lord_plumed"/>
                 <equipment slot="Cape" id="Item.ao_battanian_medallion"/>
                 <equipment slot="Body" id="Item.round_plate_tunic"/>
@@ -915,7 +915,7 @@
             </EquipmentRoster>
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.khuzait_lance_2_t4"/>
-                <equipment slot="Item2" id="Item.bound_celtiberian_round_shield"/>
+                <equipment slot="Item2" id="Item.highland_scouts_shield"/>
                 <equipment slot="Head" id="Item.etruscan_helm"/>
                 <equipment slot="Cape" id="Item.ao_battanian_medallion"/>
                 <equipment slot="Body" id="Item.round_plate_tunic"/>
@@ -941,7 +941,7 @@
         <face>
             <face_key_template value="BodyProperty.villager_empire"/>
         </face>
-        <skills >
+        <skills>
             <skill id="Athletics" value="130"/>
             <skill id="Riding" value="80"/>
             <skill id="OneHanded" value="220"/>
@@ -958,7 +958,7 @@
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.falcata_a"/>
                 <equipment slot="Item1" id="Item.soliferrum_javelin"/>
-                <equipment slot="Item2" id="Item.bound_celtiberian_round_shield"/>
+                <equipment slot="Item2" id="Item.highland_scouts_shield"/>
                 <equipment slot="Head" id="Item.etruscan_helm"/>
                 <equipment slot="Cape" id="Item.tv_battania_cloak_i"/>
                 <equipment slot="Body" id="Item.round_plate_tunic"/>
@@ -968,7 +968,7 @@
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.falcata_a"/>
                 <equipment slot="Item1" id="Item.soliferrum_javelin"/>
-                <equipment slot="Item2" id="Item.bound_celtiberian_round_shield"/>
+                <equipment slot="Item2" id="Item.highland_scouts_shield"/>
                 <equipment slot="Head" id="Item.celtiberian_crest"/>
                 <equipment slot="Cape" id="Item.ao_battanian_medallion"/>
                 <equipment slot="Body" id="Item.round_plate_tunic"/>
@@ -978,7 +978,7 @@
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.falcata_a"/>
                 <equipment slot="Item1" id="Item.soliferrum_javelin"/>
-                <equipment slot="Item2" id="Item.bound_celtiberian_round_shield"/>
+                <equipment slot="Item2" id="Item.highland_scouts_shield"/>
                 <equipment slot="Head" id="Item.etruscan_helm"/>
                 <equipment slot="Cape" id="Item.tv_battania_cloak_i"/>
                 <equipment slot="Body" id="Item.round_plate_tunic"/>
@@ -988,7 +988,7 @@
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.falcata_a"/>
                 <equipment slot="Item1" id="Item.soliferrum_javelin"/>
-                <equipment slot="Item2" id="Item.bound_celtiberian_round_shield"/>
+                <equipment slot="Item2" id="Item.highland_scouts_shield"/>
                 <equipment slot="Head" id="Item.celtiberian_crest"/>
                 <equipment slot="Cape" id="Item.ao_battanian_medallion"/>
                 <equipment slot="Body" id="Item.round_plate_tunic"/>
@@ -1012,7 +1012,7 @@
         <face>
             <face_key_template value="BodyProperty.villager_empire"/>
         </face>
-        <skills >
+        <skills>
             <skill id="Athletics" value="130"/>
             <skill id="Riding" value="80"/>
             <skill id="OneHanded" value="260"/>
@@ -1024,41 +1024,41 @@
         </skills>
         <Equipments>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.hans_espada_short_sword"/>
+                <equipment slot="Item0" id="Item.falcata_a"/>
                 <equipment slot="Item1" id="Item.soliferrum_javelin"/>
-                <equipment slot="Item2" id="Item.celtic_scutum_1"/>
-                <equipment slot="Head" id="Item.celtiberian_lord_plumed"/>
-                <equipment slot="Cape" id="Item.TV_battania_cloak_m3"/>
+                <equipment slot="Item2" id="Item.highland_scouts_shield"/>
+                <equipment slot="Head" id="Item.etruscan_helm"/>
+                <equipment slot="Cape" id="Item.ao_battanian_medallion"/>
                 <equipment slot="Body" id="Item.round_plate_tunic"/>
                 <equipment slot="Gloves" id="Item.northern_brass_bracers"/>
                 <equipment slot="Leg" id="Item.TV_battania_boots_y"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.hans_espada_short_sword"/>
+                <equipment slot="Item0" id="Item.falcata_a"/>
                 <equipment slot="Item1" id="Item.soliferrum_javelin"/>
-                <equipment slot="Item2" id="Item.celtic_oval_shield"/>
+                <equipment slot="Item2" id="Item.highland_scouts_shield"/>
                 <equipment slot="Head" id="Item.celtiberian_crest"/>
-                <equipment slot="Cape" id="Item.TV_battania_cloak_o2"/>
+                <equipment slot="Cape" id="Item.tv_battania_cloak_i"/>
                 <equipment slot="Body" id="Item.round_plate_tunic"/>
                 <equipment slot="Gloves" id="Item.northern_brass_bracers"/>
                 <equipment slot="Leg" id="Item.TV_battania_boots_y"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.hans_espada_short_sword"/>
+                <equipment slot="Item0" id="Item.falcata_a"/>
                 <equipment slot="Item1" id="Item.soliferrum_javelin"/>
-                <equipment slot="Item2" id="Item.celtic_scutum_1"/>
-                <equipment slot="Head" id="Item.celtiberian_lord_plumed"/>
-                <equipment slot="Cape" id="Item.TV_battania_cloak_m3"/>
+                <equipment slot="Item2" id="Item.highland_scouts_shield"/>
+                <equipment slot="Head" id="Item.etruscan_helm"/>
+                <equipment slot="Cape" id="Item.ao_battanian_medallion"/>
                 <equipment slot="Body" id="Item.round_plate_tunic"/>
                 <equipment slot="Gloves" id="Item.northern_brass_bracers"/>
                 <equipment slot="Leg" id="Item.TV_battania_boots_y"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.hans_espada_short_sword"/>
+                <equipment slot="Item0" id="Item.falcata_a"/>
                 <equipment slot="Item1" id="Item.soliferrum_javelin"/>
-                <equipment slot="Item2" id="Item.celtic_oval_shield"/>
+                <equipment slot="Item2" id="Item.highland_scouts_shield"/>
                 <equipment slot="Head" id="Item.celtiberian_crest"/>
-                <equipment slot="Cape" id="Item.TV_battania_cloak_o2"/>
+                <equipment slot="Cape" id="Item.tv_battania_cloak_i"/>
                 <equipment slot="Body" id="Item.round_plate_tunic"/>
                 <equipment slot="Gloves" id="Item.northern_brass_bracers"/>
                 <equipment slot="Leg" id="Item.TV_battania_boots_y"/>
@@ -1073,7 +1073,6 @@
     </NPCCharacter>
 
     <!-- Cantibri Troops -->
-
     <NPCCharacter id="cantabri_axemen"
                   default_group="Infantry"
                   level="6"
@@ -1084,7 +1083,7 @@
         <face>
             <face_key_template value="BodyProperty.villager_cantabri"/>
         </face>
-        <skills >
+        <skills>
             <skill id="Athletics" value="90"/>
             <skill id="Riding" value="10"/>
             <skill id="OneHanded" value="50"/>
@@ -1152,7 +1151,7 @@
         <face>
             <face_key_template value="BodyProperty.villager_cantabri"/>
         </face>
-        <skills >
+        <skills>
             <skill id="Athletics" value="130"/>
             <skill id="Riding" value="80"/>
             <skill id="OneHanded" value="140"/>
@@ -1227,7 +1226,7 @@
         <face>
             <face_key_template value="BodyProperty.villager_cantabri"/>
         </face>
-        <skills >
+        <skills>
             <skill id="Athletics" value="105"/>
             <skill id="Riding" value="130"/>
             <skill id="OneHanded" value="170"/>
@@ -1306,7 +1305,7 @@
         <face>
             <face_key_template value="BodyProperty.villager_cantabri"/>
         </face>
-        <skills >
+        <skills>
             <skill id="Athletics" value="130"/>
             <skill id="Riding" value="80"/>
             <skill id="OneHanded" value="150"/>
@@ -1321,7 +1320,7 @@
         </upgrade_targets>
         <Equipments>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.battania_2hsword_5_t4"/>
+                <equipment slot="Item0" id="Item.battania_2hsword_1_t2_blunt"/>
                 <equipment slot="Item1" id="Item.celtic_javelin"/>
                 <equipment slot="Item2" id="Item.desert_round_shield"/>
                 <equipment slot="Head" id="Item.battania_fur_cap"/>
@@ -1331,7 +1330,7 @@
                 <equipment slot="Leg" id="Item.battania_fur_boots"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.battania_2hsword_5_t4"/>
+                <equipment slot="Item0" id="Item.battania_2hsword_1_t2_blunt"/>
                 <equipment slot="Item1" id="Item.celtic_javelin"/>
                 <equipment slot="Item2" id="Item.desert_round_shield"/>
                 <equipment slot="Head" id="Item.AR_battania_helmet_m"/>
@@ -1341,7 +1340,7 @@
                 <equipment slot="Leg" id="Item.battania_fur_boots"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.battania_2hsword_5_t4"/>
+                <equipment slot="Item0" id="Item.battania_2hsword_1_t2_blunt"/>
                 <equipment slot="Item1" id="Item.celtic_javelin"/>
                 <equipment slot="Item2" id="Item.desert_round_shield"/>
                 <equipment slot="Head" id="Item.battania_fur_cap"/>
@@ -1351,7 +1350,7 @@
                 <equipment slot="Leg" id="Item.battania_fur_boots"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.battania_2hsword_5_t4"/>
+                <equipment slot="Item0" id="Item.battania_2hsword_1_t2_blunt"/>
                 <equipment slot="Item1" id="Item.celtic_javelin"/>
                 <equipment slot="Item2" id="Item.desert_round_shield"/>
                 <equipment slot="Head" id="Item.AR_battania_helmet_m"/>
@@ -1377,7 +1376,7 @@
         <face>
             <face_key_template value="BodyProperty.villager_cantabri"/>
         </face>
-        <skills >
+        <skills>
             <skill id="Athletics" value="110"/>
             <skill id="Riding" value="80"/>
             <skill id="OneHanded" value="180"/>
@@ -1448,7 +1447,7 @@
         <face>
             <face_key_template value="BodyProperty.villager_cantabri"/>
         </face>
-        <skills >
+        <skills>
             <skill id="Athletics" value="110"/>
             <skill id="Riding" value="80"/>
             <skill id="OneHanded" value="200"/>
@@ -1517,7 +1516,7 @@
         <face>
             <face_key_template value="BodyProperty.villager_cantabri"/>
         </face>
-        <skills >
+        <skills>
             <skill id="Athletics" value="100"/>
             <skill id="Riding" value="145"/>
             <skill id="OneHanded" value="210"/>
@@ -1596,7 +1595,7 @@
         <face>
             <face_key_template value="BodyProperty.villager_cantabri"/>
         </face>
-        <skills >
+        <skills>
             <skill id="Athletics" value="115"/>
             <skill id="Riding" value="160"/>
             <skill id="OneHanded" value="255"/>
@@ -1672,7 +1671,7 @@
         <face>
             <face_key_template value="BodyProperty.villager_cantabri"/>
         </face>
-        <skills >
+        <skills>
             <skill id="Athletics" value="130"/>
             <skill id="Riding" value="10"/>
             <skill id="OneHanded" value="90"/>
@@ -1684,8 +1683,7 @@
         </skills>
         <upgrade_targets>
             <upgrade_target id="NPCCharacter.cantabri_spearmen"/>
-            <upgrade_target id="NPCCharacter.cantabrian_painted_warrior"/>
-            <upgrade_target id="NPCCharacter.cantabrian_painted_maidens"/>
+            <upgrade_target id="NPCCharacter.cantabrian_vetren_axe_warrior"/>
         </upgrade_targets>
         <Equipments>
             <EquipmentRoster>
@@ -1745,7 +1743,7 @@
         <face>
             <face_key_template value="BodyProperty.villager_cantabri"/>
         </face>
-        <skills >
+        <skills>
             <skill id="Athletics" value="150"/>
             <skill id="Riding" value="10"/>
             <skill id="OneHanded" value="90"/>
@@ -1822,7 +1820,7 @@
         <face>
             <face_key_template value="BodyProperty.villager_cantabri"/>
         </face>
-        <skills >
+        <skills>
             <skill id="Athletics" value="150"/>
             <skill id="Riding" value="120"/>
             <skill id="OneHanded" value="120"/>
@@ -1838,7 +1836,7 @@
                 <equipment slot="Item1" id="Item.celtic_javelin"/>
                 <equipment slot="Item2" id="Item.celtic_javelin"/>
                 <equipment slot="Item3" id="Item.battania_targe_b_sparring"/>
-                <equipment slot="Head" id="Item.band_1"/>
+                <equipment slot="Head" id="Item.TV_wolf_pelt_e"/>
                 <equipment slot="Cape" id="Item.TV_wolf_pelt_d"/>
                 <equipment slot="Body" id="Item.chiton_sleeves_1"/>
                 <equipment slot="Gloves" id="Item.rough_tied_bracers"/>
@@ -1851,7 +1849,7 @@
                 <equipment slot="Item1" id="Item.celtic_javelin"/>
                 <equipment slot="Item2" id="Item.celtic_javelin"/>
                 <equipment slot="Item3" id="Item.battania_targe_b_sparring"/>
-                <equipment slot="Head" id="Item.band_1"/>
+                <equipment slot="Head" id="Item.TV_wolf_pelt_c"/>
                 <equipment slot="Cape" id="Item.TV_wolf_pelt_g"/>
                 <equipment slot="Body" id="Item.chiton_sleeves_1"/>
                 <equipment slot="Gloves" id="Item.rough_tied_bracers"/>
@@ -1864,7 +1862,7 @@
                 <equipment slot="Item1" id="Item.celtic_javelin"/>
                 <equipment slot="Item2" id="Item.celtic_javelin"/>
                 <equipment slot="Item3" id="Item.battania_targe_b_sparring"/>
-                <equipment slot="Head" id="Item.band_1"/>
+                <equipment slot="Head" id="Item.TV_wolf_pelt_e"/>
                 <equipment slot="Cape" id="Item.TV_wolf_pelt_d"/>
                 <equipment slot="Body" id="Item.chiton_sleeves_1"/>
                 <equipment slot="Gloves" id="Item.rough_tied_bracers"/>
@@ -1877,7 +1875,7 @@
                 <equipment slot="Item1" id="Item.celtic_javelin"/>
                 <equipment slot="Item2" id="Item.celtic_javelin"/>
                 <equipment slot="Item3" id="Item.battania_targe_b_sparring"/>
-                <equipment slot="Head" id="Item.band_1"/>
+                <equipment slot="Head" id="Item.TV_wolf_pelt_c"/>
                 <equipment slot="Cape" id="Item.TV_wolf_pelt_g"/>
                 <equipment slot="Body" id="Item.chiton_sleeves_1"/>
                 <equipment slot="Gloves" id="Item.rough_tied_bracers"/>
@@ -1902,7 +1900,7 @@
         <face>
             <face_key_template value="BodyProperty.villager_cantabri"/>
         </face>
-        <skills >
+        <skills>
             <skill id="Athletics" value="150"/>
             <skill id="Riding" value="10"/>
             <skill id="OneHanded" value="130"/>
@@ -1974,7 +1972,7 @@
         <face>
             <face_key_template value="BodyProperty.villager_cantabri"/>
         </face>
-        <skills >
+        <skills>
             <skill id="Athletics" value="130"/>
             <skill id="Riding" value="10"/>
             <skill id="OneHanded" value="120"/>
@@ -2036,20 +2034,20 @@
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
-    <NPCCharacter id="cantabrian_painted_warrior"
+    <NPCCharacter id="cantabrian_vetren_axe_warrior"
                   default_group="Infantry"
                   level="16"
-                  name="{=Cantabrian Painted Warrior}Cantabrian Painted Warrior"
+                  name="{=Cantabrian Vetren Axe Warrior}Cantabrian Vetren Axe Warrior"
                   occupation="Soldier"
                   culture="Culture.cantabri">
         <face>
-            <face_key_template value="BodyProperty.fighter_cantabria_painted"/>
+            <face_key_template value="BodyProperty.villager_cantabri"/>
         </face>
-        <skills >
+        <skills>
             <skill id="Athletics" value="130"/>
             <skill id="Riding" value="10"/>
-            <skill id="OneHanded" value="20"/>
-            <skill id="TwoHanded" value="130"/>
+            <skill id="OneHanded" value="130"/>
+            <skill id="TwoHanded" value="20"/>
             <skill id="Polearm" value="20"/>
             <skill id="Bow" value="20"/>
             <skill id="Crossbow" value="20"/>
@@ -2057,119 +2055,46 @@
         </skills>
         <Equipments>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.cantabri_2hclub_1_t2"/>
+                <equipment slot="Item0" id="Item.caledonian_infantry_axe"/>
                 <equipment slot="Item1" id="Item.celtic_javelin"/>
                 <equipment slot="Item2" id="Item.celtic_javelin"/>
                 <equipment slot="Item3" id="Item.highland_scouts_shield"/>
-                <equipment slot="Head" id="Item.battania_earmuff_helmet_b_brnz"/>
-                <equipment slot="Cape" id="Item.AR_wolf_head_cloak_a"/>
-                <equipment slot="Body" id="Item.exomis_cloak_3"/>
+                <equipment slot="Head" id="Item.TV_battania_shoulders_a"/>
+                <equipment slot="Cape" id="Item.a_battania_cloak_a"/>
+                <equipment slot="Body" id="Item.scorilo_leather_lino_2"/>
                 <equipment slot="Gloves" id="Item.rough_tied_bracers"/>
                 <equipment slot="Leg" id="Item.battania_fur_boots"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.cantabri_2hclub_1_t2"/>
+                <equipment slot="Item0" id="Item.caledonian_infantry_axe"/>
                 <equipment slot="Item1" id="Item.celtic_javelin"/>
                 <equipment slot="Item2" id="Item.celtic_javelin"/>
                 <equipment slot="Item3" id="Item.highland_scouts_shield"/>
-                <equipment slot="Head" id="Item.AR_battania_helmet_v2"/>
-                <equipment slot="Cape" id="Item.AR_wolf_head_cloak_b"/>
-                <equipment slot="Body" id="Item.caledonian_savage_armor"/>
+                <equipment slot="Head" id="Item.TV_wolf_pelt_c"/>
+                <equipment slot="Cape" id="Item.battania_woodland_cloak"/>
+                <equipment slot="Body" id="Item.scorilo_leather_lino_1"/>
                 <equipment slot="Gloves" id="Item.rough_tied_bracers"/>
                 <equipment slot="Leg" id="Item.battania_fur_boots"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.cantabri_2hclub_1_t2"/>
+                <equipment slot="Item0" id="Item.caledonian_infantry_axe"/>
                 <equipment slot="Item1" id="Item.celtic_javelin"/>
                 <equipment slot="Item2" id="Item.celtic_javelin"/>
                 <equipment slot="Item3" id="Item.highland_scouts_shield"/>
-                <equipment slot="Head" id="Item.battania_earmuff_helmet_b_brnz"/>
-                <equipment slot="Cape" id="Item.AR_wolf_head_cloak_a"/>
-                <equipment slot="Body" id="Item.exomis_cloak_3"/>
+                <equipment slot="Head" id="Item.TV_battania_shoulders_a"/>
+                <equipment slot="Cape" id="Item.a_battania_cloak_a"/>
+                <equipment slot="Body" id="Item.scorilo_leather_lino_2"/>
                 <equipment slot="Gloves" id="Item.rough_tied_bracers"/>
                 <equipment slot="Leg" id="Item.battania_fur_boots"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.cantabri_2hclub_1_t2"/>
+                <equipment slot="Item0" id="Item.caledonian_infantry_axe"/>
                 <equipment slot="Item1" id="Item.celtic_javelin"/>
                 <equipment slot="Item2" id="Item.celtic_javelin"/>
                 <equipment slot="Item3" id="Item.highland_scouts_shield"/>
-                <equipment slot="Head" id="Item.AR_battania_helmet_v2"/>
-                <equipment slot="Cape" id="Item.AR_wolf_head_cloak_b"/>
-                <equipment slot="Body" id="Item.caledonian_savage_armor"/>
-                <equipment slot="Gloves" id="Item.rough_tied_bracers"/>
-                <equipment slot="Leg" id="Item.battania_fur_boots"/>
-            </EquipmentRoster>
-            <EquipmentRoster civilian="true">
-                <equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
-                <equipment slot="Item2" id="Item.throwing_stone"/>
-                <equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
-                <equipment slot="Leg" id="Item.wrapped_shoes"/>
-            </EquipmentRoster>
-        </Equipments>
-    </NPCCharacter>
-    <NPCCharacter id="cantabrian_painted_maidens"
-                  default_group="Infantry"
-                  is_female="true"
-                  level="16"
-                  name="{=Cantabrian Painted Maidens}Cantabrian Painted Maidens"
-                  occupation="Soldier"
-                  culture="Culture.cantabri">
-        <face>
-            <face_key_template value="BodyProperty.fighter_cantabria_painted"/>
-        </face>
-        <skills >
-            <skill id="Athletics" value="130"/>
-            <skill id="Riding" value="10"/>
-            <skill id="OneHanded" value="20"/>
-            <skill id="TwoHanded" value="130"/>
-            <skill id="Polearm" value="20"/>
-            <skill id="Bow" value="20"/>
-            <skill id="Crossbow" value="20"/>
-            <skill id="Throwing" value="130"/>
-        </skills>
-        <Equipments>
-            <EquipmentRoster>
-                <equipment slot="Item0" id="Item.cantabri_2hclub_1_t2"/>
-                <equipment slot="Item1" id="Item.celtic_javelin"/>
-                <equipment slot="Item2" id="Item.celtic_javelin"/>
-                <equipment slot="Item3" id="Item.highland_scouts_shield"/>
-                <equipment slot="Head" id="Item.AR_battania_helmet_v2"/>
-                <equipment slot="Cape" id="Item.TV_battania_shoulders_c"/>
-                <equipment slot="Body" id="Item.caledonian_savage_armor"/>
-                <equipment slot="Gloves" id="Item.rough_tied_bracers"/>
-                <equipment slot="Leg" id="Item.battania_fur_boots"/>
-            </EquipmentRoster>
-            <EquipmentRoster>
-                <equipment slot="Item0" id="Item.cantabri_2hclub_1_t2"/>
-                <equipment slot="Item1" id="Item.celtic_javelin"/>
-                <equipment slot="Item2" id="Item.celtic_javelin"/>
-                <equipment slot="Item3" id="Item.highland_scouts_shield"/>
-                <equipment slot="Head" id="Item.battania_earmuff_helmet_b_brnz"/>
-                <equipment slot="Cape" id="Item.TV_battania_shoulders_c"/>
-                <equipment slot="Body" id="Item.caledonian_savage_armor"/>
-                <equipment slot="Gloves" id="Item.rough_tied_bracers"/>
-                <equipment slot="Leg" id="Item.battania_fur_boots"/>
-            </EquipmentRoster>
-            <EquipmentRoster>
-                <equipment slot="Item0" id="Item.cantabri_2hclub_1_t2"/>
-                <equipment slot="Item1" id="Item.celtic_javelin"/>
-                <equipment slot="Item2" id="Item.celtic_javelin"/>
-                <equipment slot="Item3" id="Item.highland_scouts_shield"/>
-                <equipment slot="Head" id="Item.AR_battania_helmet_v2"/>
-                <equipment slot="Cape" id="Item.TV_battania_shoulders_c"/>
-                <equipment slot="Body" id="Item.caledonian_savage_armor"/>
-                <equipment slot="Gloves" id="Item.rough_tied_bracers"/>
-                <equipment slot="Leg" id="Item.battania_fur_boots"/>
-            </EquipmentRoster>
-            <EquipmentRoster>
-                <equipment slot="Item0" id="Item.cantabri_2hclub_1_t2"/>
-                <equipment slot="Item1" id="Item.celtic_javelin"/>
-                <equipment slot="Item2" id="Item.celtic_javelin"/>
-                <equipment slot="Item3" id="Item.highland_scouts_shield"/>
-                <equipment slot="Head" id="Item.battania_earmuff_helmet_b_brnz"/>
-                <equipment slot="Cape" id="Item.TV_battania_shoulders_c"/>
-                <equipment slot="Body" id="Item.caledonian_savage_armor"/>
+                <equipment slot="Head" id="Item.TV_wolf_pelt_c"/>
+                <equipment slot="Cape" id="Item.battania_woodland_cloak"/>
+                <equipment slot="Body" id="Item.scorilo_leather_lino_1"/>
                 <equipment slot="Gloves" id="Item.rough_tied_bracers"/>
                 <equipment slot="Leg" id="Item.battania_fur_boots"/>
             </EquipmentRoster>
@@ -2190,7 +2115,7 @@
         <face>
             <face_key_template value="BodyProperty.villager_cantabri"/>
         </face>
-        <skills >
+        <skills>
             <skill id="Athletics" value="130"/>
             <skill id="Riding" value="10"/>
             <skill id="OneHanded" value="170"/>
@@ -2251,7 +2176,6 @@
     </NPCCharacter>
 
     <!-- Carthago Nova Troops -->
-
     <NPCCharacter id="iberian_levy_spearmen"
                   default_group="Infantry"
                   level="6"
@@ -2262,7 +2186,7 @@
         <face>
             <face_key_template value="BodyProperty.villager_battania"/>
         </face>
-        <skills >
+        <skills>
             <skill id="Athletics" value="90"/>
             <skill id="Riding" value="15"/>
             <skill id="OneHanded" value="45"/>
@@ -2280,6 +2204,7 @@
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.hans_punic_hoplite_spear_a"/>
                 <equipment slot="Item1" id="Item.hoplon_b_worn"/>
+                <equipment slot="Item2" id="Item.throwing_stone"/>
                 <equipment slot="Head" id="Item.band_1"/>
                 <equipment slot="Body" id="Item.chiton_sleeves_1"/>
                 <equipment slot="Leg" id="Item.sandals_1"/>
@@ -2287,8 +2212,8 @@
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.hans_punic_hoplite_spear_b"/>
                 <equipment slot="Item1" id="Item.hoplon_b_worn"/>
-                <equipment slot="Head" id="Item.AR_roman_hat_d"/>
-                <equipment slot="Body" id="Item.exomis_1_1"/>
+                <equipment slot="Head" id="Item.band_1"/>
+                <equipment slot="Body" id="Item.chiton_sleeves_1"/>
                 <equipment slot="Leg" id="Item.sandals_1"/>
             </EquipmentRoster>
             <EquipmentRoster>
@@ -2302,8 +2227,8 @@
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.hans_punic_hoplite_spear_b"/>
                 <equipment slot="Item1" id="Item.hoplon_b_worn"/>
-                <equipment slot="Head" id="Item.AR_roman_hat_f"/>
-                <equipment slot="Body" id="Item.exomis_1_1"/>
+                <equipment slot="Head" id="Item.band_1"/>
+                <equipment slot="Body" id="Item.chiton_sleeves_1"/>
                 <equipment slot="Leg" id="Item.sandals_1"/>
             </EquipmentRoster>
             <EquipmentRoster civilian="true">
@@ -2324,7 +2249,7 @@
         <face>
             <face_key_template value="BodyProperty.villager_battania"/>
         </face>
-        <skills >
+        <skills>
             <skill id="Athletics" value="130"/>
             <skill id="Riding" value="40"/>
             <skill id="OneHanded" value="140"/>
@@ -2397,7 +2322,7 @@
         <face>
             <face_key_template value="BodyProperty.villager_battania"/>
         </face>
-        <skills >
+        <skills>
             <skill id="Athletics" value="100"/>
             <skill id="Riding" value="130"/>
             <skill id="OneHanded" value="180"/>
@@ -2480,7 +2405,7 @@
         <face>
             <face_key_template value="BodyProperty.villager_battania"/>
         </face>
-        <skills >
+        <skills>
             <skill id="Athletics" value="100"/>
             <skill id="Riding" value="50"/>
             <skill id="OneHanded" value="170"/>
@@ -2547,7 +2472,7 @@
         <face>
             <face_key_template value="BodyProperty.villager_battania"/>
         </face>
-        <skills >
+        <skills>
             <skill id="Athletics" value="100"/>
             <skill id="Riding" value="50"/>
             <skill id="OneHanded" value="180"/>
@@ -2614,7 +2539,7 @@
         <face>
             <face_key_template value="BodyProperty.villager_battania"/>
         </face>
-        <skills >
+        <skills>
             <skill id="Athletics" value="100"/>
             <skill id="Riding" value="50"/>
             <skill id="OneHanded" value="200"/>
@@ -2678,7 +2603,7 @@
         <face>
             <face_key_template value="BodyProperty.villager_battania"/>
         </face>
-        <skills >
+        <skills>
             <skill id="Athletics" value="110"/>
             <skill id="Riding" value="145"/>
             <skill id="OneHanded" value="220"/>
@@ -2761,7 +2686,7 @@
         <face>
             <face_key_template value="BodyProperty.villager_battania"/>
         </face>
-        <skills >
+        <skills>
             <skill id="Athletics" value="110"/>
             <skill id="Riding" value="145"/>
             <skill id="OneHanded" value="260"/>
@@ -2841,7 +2766,7 @@
         <face>
             <face_key_template value="BodyProperty.villager_battania"/>
         </face>
-        <skills >
+        <skills>
             <skill id="Athletics" value="130"/>
             <skill id="Riding" value="30"/>
             <skill id="OneHanded" value="85"/>
@@ -2859,6 +2784,7 @@
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.hans_punic_hoplite_spear_a"/>
                 <equipment slot="Item1" id="Item.hoplon_b_worn"/>
+                <equipment slot="Item2" id="Item.throwing_stone"/>
                 <equipment slot="Head" id="Item.punic_helm_plain"/>
                 <equipment slot="Body" id="Item.chiton_sleeves_1"/>
                 <equipment slot="Leg" id="Item.sandals_1"/>
@@ -2902,7 +2828,7 @@
         <face>
             <face_key_template value="BodyProperty.villager_battania"/>
         </face>
-        <skills >
+        <skills>
             <skill id="Athletics" value="130"/>
             <skill id="Riding" value="100"/>
             <skill id="OneHanded" value="85"/>
@@ -2919,34 +2845,34 @@
         <Equipments>
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.hans_punic_hoplite_spear_a"/>
-                <equipment slot="Item1" id="Item.celtic_oval_shield"/>
+                <equipment slot="Item1" id="Item.southern_oval_shield"/>
                 <equipment slot="Item2" id="Item.eastern_javelin_1_t2"/>
-                <equipment slot="Head" id="Item.battania_earmuff_helmet_b_brnz"/>
+                <equipment slot="Head" id="Item.AR_roman_hat_f"/>
                 <equipment slot="Body" id="Item.tv_battania_armor_e"/>
                 <equipment slot="Leg" id="Item.sandals_1"/>
             </EquipmentRoster>
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.hans_punic_hoplite_spear_b"/>
-                <equipment slot="Item1" id="Item.celtic_oval_shield"/>
+                <equipment slot="Item1" id="Item.southern_oval_shield"/>
                 <equipment slot="Item2" id="Item.eastern_javelin_1_t2"/>
-                <equipment slot="Head" id="Item.AR_battania_helmet_v2"/>
+                <equipment slot="Head" id="Item.leather_studdedhelm"/>
                 <equipment slot="Body" id="Item.tv_battania_armor_e"/>
                 <equipment slot="Leg" id="Item.sandals_1"/>
             </EquipmentRoster>
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.hans_punic_hoplite_spear_a"/>
-                <equipment slot="Item1" id="Item.celtic_oval_shield"/>
+                <equipment slot="Item1" id="Item.southern_oval_shield"/>
                 <equipment slot="Item2" id="Item.eastern_javelin_1_t2"/>
-                <equipment slot="Head" id="Item.battania_earmuff_helmet_b_brnz"/>
+                <equipment slot="Head" id="Item.AR_roman_hat_f"/>
                 <equipment slot="Body" id="Item.tv_battania_armor_e"/>
                 <equipment slot="Gloves" id="Item.armwraps"/>
                 <equipment slot="Leg" id="Item.sandals_1"/>
             </EquipmentRoster>
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.hans_punic_hoplite_spear_b"/>
-                <equipment slot="Item1" id="Item.celtic_oval_shield"/>
+                <equipment slot="Item1" id="Item.southern_oval_shield"/>
                 <equipment slot="Item2" id="Item.eastern_javelin_1_t2"/>
-                <equipment slot="Head" id="Item.AR_battania_helmet_v2"/>
+                <equipment slot="Head" id="Item.leather_studdedhelm"/>
                 <equipment slot="Body" id="Item.tv_battania_armor_e"/>
                 <equipment slot="Leg" id="Item.sandals_1"/>
             </EquipmentRoster>
@@ -2967,7 +2893,7 @@
         <face>
             <face_key_template value="BodyProperty.villager_battania"/>
         </face>
-        <skills >
+        <skills>
             <skill id="Athletics" value="100"/>
             <skill id="Riding" value="110"/>
             <skill id="OneHanded" value="110"/>
@@ -2980,7 +2906,7 @@
         <Equipments>
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.hans_punic_hoplite_spear_a"/>
-                <equipment slot="Item1" id="Item.celtic_oval_shield"/>
+                <equipment slot="Item1" id="Item.southern_oval_shield"/>
                 <equipment slot="Item2" id="Item.eastern_javelin_1_t2"/>
                 <equipment slot="Head" id="Item.battania_earmuff_helmet_b_brnz"/>
                 <equipment slot="Body" id="Item.mail_cuirass"/>
@@ -2988,7 +2914,7 @@
             </EquipmentRoster>
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.hans_punic_hoplite_spear_b"/>
-                <equipment slot="Item1" id="Item.celtic_oval_shield"/>
+                <equipment slot="Item1" id="Item.southern_oval_shield"/>
                 <equipment slot="Item2" id="Item.eastern_javelin_1_t2"/>
                 <equipment slot="Head" id="Item.AR_battania_helmet_k"/>
                 <equipment slot="Body" id="Item.mail_cuirass"/>
@@ -2996,7 +2922,7 @@
             </EquipmentRoster>
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.hans_punic_hoplite_spear_a"/>
-                <equipment slot="Item1" id="Item.celtic_oval_shield"/>
+                <equipment slot="Item1" id="Item.southern_oval_shield"/>
                 <equipment slot="Item2" id="Item.eastern_javelin_1_t2"/>
                 <equipment slot="Head" id="Item.battania_earmuff_helmet_b_brnz"/>
                 <equipment slot="Body" id="Item.mail_cuirass"/>
@@ -3005,7 +2931,7 @@
             </EquipmentRoster>
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.hans_punic_hoplite_spear_b"/>
-                <equipment slot="Item1" id="Item.celtic_oval_shield"/>
+                <equipment slot="Item1" id="Item.southern_oval_shield"/>
                 <equipment slot="Item2" id="Item.eastern_javelin_1_t2"/>
                 <equipment slot="Head" id="Item.AR_battania_helmet_k"/>
                 <equipment slot="Body" id="Item.mail_cuirass"/>
@@ -3028,7 +2954,7 @@
         <face>
             <face_key_template value="BodyProperty.villager_battania"/>
         </face>
-        <skills >
+        <skills>
             <skill id="Athletics" value="100"/>
             <skill id="Riding" value="110"/>
             <skill id="OneHanded" value="130"/>
@@ -3041,7 +2967,7 @@
         <Equipments>
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.hans_celtic_sword"/>
-                <equipment slot="Item1" id="Item.celtiberian_round_shield"/>
+                <equipment slot="Item1" id="Item.hoplon_bird"/>
                 <equipment slot="Item2" id="Item.eastern_javelin_1_t2"/>
                 <equipment slot="Head" id="Item.battania_earmuff_helmet_b_brnz"/>
                 <equipment slot="Body" id="Item.mail_cuirass"/>
@@ -3050,7 +2976,7 @@
             </EquipmentRoster>
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.hans_celtic_sword"/>
-                <equipment slot="Item1" id="Item.celtiberian_round_shield"/>
+                <equipment slot="Item1" id="Item.hoplon_owl"/>
                 <equipment slot="Item2" id="Item.eastern_javelin_1_t2"/>
                 <equipment slot="Head" id="Item.AR_battania_helmet_v2"/>
                 <equipment slot="Body" id="Item.mail_cuirass"/>
@@ -3059,7 +2985,7 @@
             </EquipmentRoster>
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.hans_celtic_sword"/>
-                <equipment slot="Item1" id="Item.celtiberian_round_shield"/>
+                <equipment slot="Item1" id="Item.hoplon_spiral"/>
                 <equipment slot="Item2" id="Item.eastern_javelin_1_t2"/>
                 <equipment slot="Head" id="Item.battania_earmuff_helmet_b_brnz"/>
                 <equipment slot="Body" id="Item.mail_cuirass"/>
@@ -3068,7 +2994,7 @@
             </EquipmentRoster>
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.hans_celtic_sword"/>
-                <equipment slot="Item1" id="Item.celtiberian_round_shield"/>
+                <equipment slot="Item1" id="Item.hoplon_tripleleg"/>
                 <equipment slot="Item2" id="Item.eastern_javelin_1_t2"/>
                 <equipment slot="Head" id="Item.AR_battania_helmet_v2"/>
                 <equipment slot="Body" id="Item.mail_cuirass"/>
@@ -3092,7 +3018,7 @@
         <face>
             <face_key_template value="BodyProperty.villager_battania"/>
         </face>
-        <skills >
+        <skills>
             <skill id="Athletics" value="130"/>
             <skill id="Riding" value="30"/>
             <skill id="OneHanded" value="120"/>
@@ -3110,8 +3036,9 @@
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.hans_punic_hoplite_spear_a"/>
                 <equipment slot="Item1" id="Item.hoplon_spiral"/>
-                <equipment slot="Head" id="Item.chalcidian_1"/>
-                <equipment slot="Body" id="Item.hayster_lino_1"/>
+                <equipment slot="Head" id="Item.celtiberian_crest"/>
+                <equipment slot="Cape" id="Item.round_chestpiece"/>
+                <equipment slot="Body" id="Item.chiton_sleeves_1"/>
                 <equipment slot="Gloves" id="Item.northern_brass_bracers"/>
                 <equipment slot="Leg" id="Item.sandals_1_bronze_greaves_dual"/>
             </EquipmentRoster>
@@ -3119,15 +3046,17 @@
                 <equipment slot="Item0" id="Item.hans_punic_hoplite_spear_b"/>
                 <equipment slot="Item1" id="Item.hoplon_bird"/>
                 <equipment slot="Head" id="Item.punic_helm_plain"/>
-                <equipment slot="Body" id="Item.hayster_lino_1"/>
+                <equipment slot="Cape" id="Item.round_chestpiece"/>
+                <equipment slot="Body" id="Item.chiton_sleeves_1"/>
                 <equipment slot="Gloves" id="Item.northern_brass_bracers"/>
                 <equipment slot="Leg" id="Item.sandals_1_bronze_greaves_dual"/>
             </EquipmentRoster>
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.hans_punic_hoplite_spear_a"/>
                 <equipment slot="Item1" id="Item.hoplon_tripleleg"/>
-                <equipment slot="Head" id="Item.chalcidian_1"/>
-                <equipment slot="Body" id="Item.hayster_lino_1"/>
+                <equipment slot="Head" id="Item.celtiberian_crest"/>
+                <equipment slot="Cape" id="Item.round_chestpiece"/>
+                <equipment slot="Body" id="Item.chiton_sleeves_1"/>
                 <equipment slot="Gloves" id="Item.northern_brass_bracers"/>
                 <equipment slot="Leg" id="Item.sandals_1_bronze_greaves_dual"/>
             </EquipmentRoster>
@@ -3135,7 +3064,8 @@
                 <equipment slot="Item0" id="Item.hans_punic_hoplite_spear_b"/>
                 <equipment slot="Item1" id="Item.hoplon_owl"/>
                 <equipment slot="Head" id="Item.punic_helm_plain"/>
-                <equipment slot="Body" id="Item.hayster_lino_1"/>
+                <equipment slot="Cape" id="Item.round_chestpiece"/>
+                <equipment slot="Body" id="Item.chiton_sleeves_1"/>
                 <equipment slot="Gloves" id="Item.northern_brass_bracers"/>
                 <equipment slot="Leg" id="Item.sandals_1_bronze_greaves_dual"/>
             </EquipmentRoster>
@@ -3156,7 +3086,7 @@
         <face>
             <face_key_template value="BodyProperty.villager_empire"/>
         </face>
-        <skills >
+        <skills>
             <skill id="Athletics" value="130"/>
             <skill id="Riding" value="15"/>
             <skill id="OneHanded" value="90"/>
@@ -3171,7 +3101,7 @@
                 <equipment slot="Item0" id="Item.hans_punic_hoplite_spear_a"/>
                 <equipment slot="Item2" id="Item.hoplon_bird"/>
                 <equipment slot="Head" id="Item.chalcidian_1"/>
-                <equipment slot="Body" id="Item.hayster_lino_1"/>
+                <equipment slot="Body" id="Item.round_plate_tunic"/>
                 <equipment slot="Gloves" id="Item.northern_brass_bracers"/>
                 <equipment slot="Leg" id="Item.sandals_1_bronze_greaves_dual"/>
             </EquipmentRoster>
@@ -3179,7 +3109,7 @@
                 <equipment slot="Item0" id="Item.hans_punic_hoplite_spear_b"/>
                 <equipment slot="Item2" id="Item.hoplon_spiral"/>
                 <equipment slot="Head" id="Item.bronze_conical_helm"/>
-                <equipment slot="Body" id="Item.hayster_lino_1"/>
+                <equipment slot="Body" id="Item.round_plate_tunic"/>
                 <equipment slot="Gloves" id="Item.northern_brass_bracers"/>
                 <equipment slot="Leg" id="Item.sandals_1_bronze_greaves_dual"/>
             </EquipmentRoster>
@@ -3187,7 +3117,7 @@
                 <equipment slot="Item0" id="Item.hans_punic_hoplite_spear_a"/>
                 <equipment slot="Item2" id="Item.hoplon_owl"/>
                 <equipment slot="Head" id="Item.chalcidian_1"/>
-                <equipment slot="Body" id="Item.hayster_lino_1"/>
+                <equipment slot="Body" id="Item.round_plate_tunic"/>
                 <equipment slot="Gloves" id="Item.northern_brass_bracers"/>
                 <equipment slot="Leg" id="Item.sandals_1_bronze_greaves_dual"/>
             </EquipmentRoster>
@@ -3195,7 +3125,7 @@
                 <equipment slot="Item0" id="Item.hans_punic_hoplite_spear_b"/>
                 <equipment slot="Item2" id="Item.hoplon_pegasus"/>
                 <equipment slot="Head" id="Item.punic_helm_plain"/>
-                <equipment slot="Body" id="Item.hayster_lino_1"/>
+                <equipment slot="Body" id="Item.round_plate_tunic"/>
                 <equipment slot="Gloves" id="Item.northern_brass_bracers"/>
                 <equipment slot="Leg" id="Item.sandals_1_bronze_greaves_dual"/>
             </EquipmentRoster>
@@ -3216,7 +3146,7 @@
         <face>
             <face_key_template value="BodyProperty.villager_celtiberian"/>
         </face>
-        <skills >
+        <skills>
             <skill id="Athletics" value="100"/>
             <skill id="Riding" value="15"/>
             <skill id="OneHanded" value="90"/>
@@ -3276,7 +3206,7 @@
         <face>
             <face_key_template value="BodyProperty.villager_battania"/>
         </face>
-        <skills >
+        <skills>
             <skill id="Athletics" value="150"/>
             <skill id="Riding" value="40"/>
             <skill id="OneHanded" value="130"/>
@@ -3292,8 +3222,8 @@
                 <equipment slot="Item1" id="Item.AR_sling_b"/>
                 <equipment slot="Item2" id="Item.AR_sling_bullets_c"/>
                 <equipment slot="Item3" id="Item.AR_sling_bullets_c"/>
-                <equipment slot="Head" id="Item.band_1"/>
-                <equipment slot="Body" id="Item.round_plate_tunic"/>
+                <equipment slot="Head" id="Item.chalcidian_1"/>
+                <equipment slot="Body" id="Item.chiton_sleeves_1"/>
                 <equipment slot="Leg" id="Item.sandals_1"/>
             </EquipmentRoster>
             <EquipmentRoster>
@@ -3301,8 +3231,8 @@
                 <equipment slot="Item1" id="Item.AR_sling_b"/>
                 <equipment slot="Item2" id="Item.AR_sling_bullets_c"/>
                 <equipment slot="Item3" id="Item.AR_sling_bullets_c"/>
-                <equipment slot="Head" id="Item.band_1"/>
-                <equipment slot="Body" id="Item.round_plate_tunic"/>
+                <equipment slot="Head" id="Item.punic_helm_plain"/>
+                <equipment slot="Body" id="Item.chiton_sleeves_1"/>
                 <equipment slot="Leg" id="Item.sandals_1"/>
             </EquipmentRoster>
             <EquipmentRoster>
@@ -3310,8 +3240,8 @@
                 <equipment slot="Item1" id="Item.AR_sling_b"/>
                 <equipment slot="Item2" id="Item.AR_sling_bullets_c"/>
                 <equipment slot="Item3" id="Item.AR_sling_bullets_c"/>
-                <equipment slot="Head" id="Item.band_1"/>
-                <equipment slot="Body" id="Item.round_plate_tunic"/>
+                <equipment slot="Head" id="Item.chalcidian_1"/>
+                <equipment slot="Body" id="Item.chiton_sleeves_1"/>
                 <equipment slot="Gloves" id="Item.armwraps"/>
                 <equipment slot="Leg" id="Item.sandals_1"/>
             </EquipmentRoster>
@@ -3320,8 +3250,8 @@
                 <equipment slot="Item1" id="Item.AR_sling_b"/>
                 <equipment slot="Item2" id="Item.AR_sling_bullets_c"/>
                 <equipment slot="Item3" id="Item.AR_sling_bullets_c"/>
-                <equipment slot="Head" id="Item.band_1"/>
-                <equipment slot="Body" id="Item.round_plate_tunic"/>
+                <equipment slot="Head" id="Item.punic_helm_plain"/>
+                <equipment slot="Body" id="Item.chiton_sleeves_1"/>
                 <equipment slot="Leg" id="Item.sandals_1"/>
             </EquipmentRoster>
             <EquipmentRoster civilian="true">
@@ -3332,6 +3262,7 @@
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
+
     <!-- Arevaci Troops -->
     <NPCCharacter id="arevaci_noble_guard"
                   default_group="Infantry"
@@ -3342,7 +3273,7 @@
         <face>
             <face_key_template value="BodyProperty.villager_celtiberian"/>
         </face>
-        <skills >
+        <skills>
             <skill id="Athletics" value="100"/>
             <skill id="Riding" value="0"/>
             <skill id="OneHanded" value="0"/>
@@ -3357,7 +3288,7 @@
         </upgrade_targets>
         <Equipments>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.celtiberian_spear_conical"/>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear_vet"/>
                 <equipment slot="Item1" id="Item.soliferrum_javelin"/>
                 <equipment slot="Item2" id="Item.celtic_scutum_1"/>
                 <equipment slot="Head" id="Item.crested_chalcidian"/>
@@ -3366,7 +3297,7 @@
                 <equipment slot="Leg" id="Item.armoured_legs_2_7_greaves"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.celtiberian_spear_conical"/>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear_vet"/>
                 <equipment slot="Item1" id="Item.soliferrum_javelin"/>
                 <equipment slot="Item2" id="Item.celtic_scutum_1"/>
                 <equipment slot="Head" id="Item.celtiberian_crest"/>
@@ -3375,7 +3306,7 @@
                 <equipment slot="Leg" id="Item.armoured_legs_2_7_greaves"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.celtiberian_spear_conical"/>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear_vet"/>
                 <equipment slot="Item1" id="Item.soliferrum_javelin"/>
                 <equipment slot="Item2" id="Item.celtic_scutum_1"/>
                 <equipment slot="Head" id="Item.crested_chalcidian"/>
@@ -3384,7 +3315,7 @@
                 <equipment slot="Leg" id="Item.armoured_legs_2_7_greaves"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.celtiberian_spear_conical"/>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear_vet"/>
                 <equipment slot="Item1" id="Item.soliferrum_javelin"/>
                 <equipment slot="Item2" id="Item.celtic_scutum_1"/>
                 <equipment slot="Head" id="Item.celtiberian_crest"/>
@@ -3410,7 +3341,7 @@
         <face>
             <face_key_template value="BodyProperty.villager_celtiberian"/>
         </face>
-        <skills >
+        <skills>
             <skill id="Athletics" value="100"/>
             <skill id="Riding" value="120"/>
             <skill id="OneHanded" value="0"/>
@@ -3425,7 +3356,7 @@
         </upgrade_targets>
         <Equipments>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.hans_celtic_spear_a"/>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear_vet"/>
                 <equipment slot="Item1" id="Item.phallic_javelin"/>
                 <equipment slot="Item2" id="Item.cletic_round_shield_1"/>
                 <equipment slot="Head" id="Item.crested_chalcidian"/>
@@ -3436,7 +3367,7 @@
                 <equipment slot="HorseHarness" id="Item.battania_horse_harness"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.hans_celtic_spear_a"/>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear_vet"/>
                 <equipment slot="Item1" id="Item.phallic_javelin"/>
                 <equipment slot="Item2" id="Item.cletic_round_shield_1"/>
                 <equipment slot="Head" id="Item.celtiberian_crest"/>
@@ -3447,7 +3378,7 @@
                 <equipment slot="HorseHarness" id="Item.battania_horse_harness"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.hans_celtic_spear_a"/>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear_vet"/>
                 <equipment slot="Item1" id="Item.phallic_javelin"/>
                 <equipment slot="Item2" id="Item.cletic_round_shield_1"/>
                 <equipment slot="Head" id="Item.crested_chalcidian"/>
@@ -3458,7 +3389,7 @@
                 <equipment slot="HorseHarness" id="Item.battania_horse_harness"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.hans_celtic_spear_a"/>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear_vet"/>
                 <equipment slot="Item1" id="Item.phallic_javelin"/>
                 <equipment slot="Item2" id="Item.cletic_round_shield_1"/>
                 <equipment slot="Head" id="Item.celtiberian_crest"/>
@@ -3485,7 +3416,7 @@
         <face>
             <face_key_template value="BodyProperty.villager_celtiberian"/>
         </face>
-        <skills >
+        <skills>
             <skill id="Athletics" value="100"/>
             <skill id="Riding" value="135"/>
             <skill id="OneHanded" value="0"/>
@@ -3500,7 +3431,7 @@
         </upgrade_targets>
         <Equipments>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.hans_celtic_spear_a"/>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear_vet"/>
                 <equipment slot="Item1" id="Item.phallic_javelin"/>
                 <equipment slot="Item2" id="Item.cletic_round_shield_1"/>
                 <equipment slot="Head" id="Item.crested_chalcidian"/>
@@ -3511,7 +3442,7 @@
                 <equipment slot="HorseHarness" id="Item.battania_horse_harness"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.hans_celtic_spear_a"/>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear_vet"/>
                 <equipment slot="Item1" id="Item.phallic_javelin"/>
                 <equipment slot="Item2" id="Item.cletic_round_shield_1"/>
                 <equipment slot="Head" id="Item.celtiberian_crest"/>
@@ -3522,7 +3453,7 @@
                 <equipment slot="HorseHarness" id="Item.battania_horse_harness"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.hans_celtic_spear_a"/>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear_vet"/>
                 <equipment slot="Item1" id="Item.phallic_javelin"/>
                 <equipment slot="Item2" id="Item.cletic_round_shield_1"/>
                 <equipment slot="Head" id="Item.crested_chalcidian"/>
@@ -3533,7 +3464,7 @@
                 <equipment slot="HorseHarness" id="Item.battania_horse_harness"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.hans_celtic_spear_a"/>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear_vet"/>
                 <equipment slot="Item1" id="Item.phallic_javelin"/>
                 <equipment slot="Item2" id="Item.cletic_round_shield_1"/>
                 <equipment slot="Head" id="Item.celtiberian_crest"/>
@@ -3560,7 +3491,7 @@
         <face>
             <face_key_template value="BodyProperty.villager_celtiberian"/>
         </face>
-        <skills >
+        <skills>
             <skill id="Athletics" value="100"/>
             <skill id="Riding" value="150"/>
             <skill id="OneHanded" value="0"/>
@@ -3572,7 +3503,7 @@
         </skills>
         <Equipments>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.hans_celtic_spear_a"/>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear_vet"/>
                 <equipment slot="Item1" id="Item.phallic_javelin"/>
                 <equipment slot="Item2" id="Item.cletic_round_shield_1"/>
                 <equipment slot="Head" id="Item.crested_chalcidian"/>
@@ -3583,7 +3514,7 @@
                 <equipment slot="HorseHarness" id="Item.battania_horse_harness"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.hans_celtic_spear_a"/>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear_vet"/>
                 <equipment slot="Item1" id="Item.phallic_javelin"/>
                 <equipment slot="Item2" id="Item.cletic_round_shield_1"/>
                 <equipment slot="Head" id="Item.celtiberian_crest"/>
@@ -3594,7 +3525,7 @@
                 <equipment slot="HorseHarness" id="Item.battania_horse_harness"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.hans_celtic_spear_a"/>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear_vet"/>
                 <equipment slot="Item1" id="Item.phallic_javelin"/>
                 <equipment slot="Item2" id="Item.cletic_round_shield_1"/>
                 <equipment slot="Head" id="Item.crested_chalcidian"/>
@@ -3605,7 +3536,7 @@
                 <equipment slot="HorseHarness" id="Item.battania_horse_harness"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.hans_celtic_spear_a"/>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear_vet"/>
                 <equipment slot="Item1" id="Item.phallic_javelin"/>
                 <equipment slot="Item2" id="Item.cletic_round_shield_1"/>
                 <equipment slot="Head" id="Item.celtiberian_crest"/>
@@ -3632,7 +3563,7 @@
         <face>
             <face_key_template value="BodyProperty.villager_celtiberian"/>
         </face>
-        <skills >
+        <skills>
             <skill id="Athletics" value="100"/>
             <skill id="Riding" value="0"/>
             <skill id="OneHanded" value="0"/>
@@ -3647,7 +3578,7 @@
         </upgrade_targets>
         <Equipments>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.celtiberian_spear_conical"/>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear_vet"/>
                 <equipment slot="Item1" id="Item.soliferrum_javelin"/>
                 <equipment slot="Item2" id="Item.celtic_scutum_1"/>
                 <equipment slot="Head" id="Item.crested_chalcidian"/>
@@ -3656,7 +3587,7 @@
                 <equipment slot="Leg" id="Item.armoured_legs_2_7_greaves"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.celtiberian_spear_conical"/>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear_vet"/>
                 <equipment slot="Item1" id="Item.soliferrum_javelin"/>
                 <equipment slot="Item2" id="Item.celtic_scutum_1"/>
                 <equipment slot="Head" id="Item.celtiberian_crest"/>
@@ -3665,7 +3596,7 @@
                 <equipment slot="Leg" id="Item.armoured_legs_2_7_greaves"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.celtiberian_spear_conical"/>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear_vet"/>
                 <equipment slot="Item1" id="Item.soliferrum_javelin"/>
                 <equipment slot="Item2" id="Item.celtic_scutum_1"/>
                 <equipment slot="Head" id="Item.crested_chalcidian"/>
@@ -3674,7 +3605,7 @@
                 <equipment slot="Leg" id="Item.armoured_legs_2_7_greaves"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.celtiberian_spear_conical"/>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear_vet"/>
                 <equipment slot="Item1" id="Item.soliferrum_javelin"/>
                 <equipment slot="Item2" id="Item.celtic_scutum_1"/>
                 <equipment slot="Head" id="Item.celtiberian_crest"/>
@@ -3699,7 +3630,7 @@
         <face>
             <face_key_template value="BodyProperty.villager_celtiberian"/>
         </face>
-        <skills >
+        <skills>
             <skill id="Athletics" value="100"/>
             <skill id="Riding" value="0"/>
             <skill id="OneHanded" value="0"/>
@@ -3711,7 +3642,7 @@
         </skills>
         <Equipments>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.celtiberian_spear_conical"/>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear_vet"/>
                 <equipment slot="Item1" id="Item.soliferrum_javelin"/>
                 <equipment slot="Item2" id="Item.celtic_scutum_1"/>
                 <equipment slot="Head" id="Item.celtiberian_lord_plumed"/>
@@ -3720,7 +3651,7 @@
                 <equipment slot="Leg" id="Item.armoured_legs_2_7_greaves"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.celtiberian_spear_conical"/>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear_vet"/>
                 <equipment slot="Item1" id="Item.soliferrum_javelin"/>
                 <equipment slot="Item2" id="Item.celtic_scutum_1"/>
                 <equipment slot="Head" id="Item.TV_battania_helmet_b"/>
@@ -3729,7 +3660,7 @@
                 <equipment slot="Leg" id="Item.armoured_legs_2_7_greaves"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.celtiberian_spear_conical"/>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear_vet"/>
                 <equipment slot="Item1" id="Item.soliferrum_javelin"/>
                 <equipment slot="Item2" id="Item.celtic_scutum_1"/>
                 <equipment slot="Head" id="Item.celtiberian_lord_plumed"/>
@@ -3738,7 +3669,7 @@
                 <equipment slot="Leg" id="Item.armoured_legs_2_7_greaves"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.celtiberian_spear_conical"/>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear_vet"/>
                 <equipment slot="Item1" id="Item.soliferrum_javelin"/>
                 <equipment slot="Item2" id="Item.celtic_scutum_1"/>
                 <equipment slot="Head" id="Item.TV_battania_helmet_b"/>
@@ -3763,7 +3694,7 @@
         <face>
             <face_key_template value="BodyProperty.villager_battania"/>
         </face>
-        <skills >
+        <skills>
             <skill id="Athletics" value="130"/>
             <skill id="Riding" value="0"/>
             <skill id="OneHanded" value="0"/>
@@ -3779,43 +3710,35 @@
         </upgrade_targets>
         <Equipments>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.hans_celtic_spear_a"/>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear"/>
                 <equipment slot="Item1" id="Item.phallic_javelin"/>
-                <equipment slot="Item2" id="Item.celtiberian_round_shield"/>
-                <equipment slot="Head" id="Item.AR_hat_e"/>
-                <equipment slot="Cape" id="Item.hmj_battanian_shoulders_b"/>
-                <equipment slot="Body" id="Item.round_plate_tunic"/>
-                <equipment slot="Gloves" id="Item.celtiberian_padded_vambrace"/>
+                <equipment slot="Item2" id="Item.celtic_scutum_1"/>
+                <equipment slot="Head" id="Item.ao_mabili_leather_headband"/>
+                <equipment slot="Body" id="Item.tv_battania_armor_e"/>
                 <equipment slot="Leg" id="Item.sandals_1"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.hans_celtic_spear_a"/>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear"/>
                 <equipment slot="Item1" id="Item.phallic_javelin"/>
-                <equipment slot="Item2" id="Item.cletic_round_shield_1"/>
-                <equipment slot="Head" id="Item.AR_hat_f"/>
-                <equipment slot="Cape" id="Item.celtiberian_cloak"/>
-                <equipment slot="Body" id="Item.round_plate_tunic"/>
-                <equipment slot="Gloves" id="Item.TV_aserai_gloves_c"/>
+                <equipment slot="Item2" id="Item.celtic_scutum_1"/>
+                <equipment slot="Head" id="Item.band_1"/>
+                <equipment slot="Body" id="Item.battania_light_armor_a"/>
                 <equipment slot="Leg" id="Item.sandals_1"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.hans_celtic_spear_a"/>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear"/>
                 <equipment slot="Item1" id="Item.phallic_javelin"/>
-                <equipment slot="Item2" id="Item.celtiberian_round_shield"/>
-                <equipment slot="Head" id="Item.AR_hat_g"/>
-                <equipment slot="Cape" id="Item.hmj_battanian_shoulders_b"/>
-                <equipment slot="Body" id="Item.round_plate_tunic"/>
-                <equipment slot="Gloves" id="Item.celtiberian_padded_vambrace"/>
+                <equipment slot="Item2" id="Item.celtic_scutum_1"/>
+                <equipment slot="Head" id="Item.ao_mabili_leather_headband"/>
+                <equipment slot="Body" id="Item.tv_battania_armor_e"/>
                 <equipment slot="Leg" id="Item.sandals_1"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.hans_celtic_spear_a"/>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear"/>
                 <equipment slot="Item1" id="Item.phallic_javelin"/>
-                <equipment slot="Item2" id="Item.cletic_round_shield_1"/>
-                <equipment slot="Head" id="Item.AR_hat_e"/>
-                <equipment slot="Cape" id="Item.celtiberian_cloak"/>
-                <equipment slot="Body" id="Item.round_plate_tunic"/>
-                <equipment slot="Gloves" id="Item.TV_aserai_gloves_c"/>
+                <equipment slot="Item2" id="Item.celtic_scutum_1"/>
+                <equipment slot="Head" id="Item.band_1"/>
+                <equipment slot="Body" id="Item.battania_light_armor_a"/>
                 <equipment slot="Leg" id="Item.sandals_1"/>
             </EquipmentRoster>
             <EquipmentRoster civilian="true">
@@ -3835,7 +3758,7 @@
         <face>
             <face_key_template value="BodyProperty.villager_battania"/>
         </face>
-        <skills >
+        <skills>
             <skill id="Athletics" value="140"/>
             <skill id="Riding" value="0"/>
             <skill id="OneHanded" value="0"/>
@@ -3856,18 +3779,7 @@
                 <equipment slot="Item2" id="Item.cletic_round_shield_1"/>
                 <equipment slot="Item3" id="Item.phallic_javelin"/>
                 <equipment slot="Head" id="Item.band_1"/>
-                <equipment slot="Body" id="Item.chiton_no_sleeves_t3_1_2"/>
-                <equipment slot="Gloves" id="Item.celtiberian_padded_vambrace"/>
-                <equipment slot="Leg" id="Item.sandals_1"/>
-            </EquipmentRoster>
-            <EquipmentRoster>
-                <equipment slot="Item0" id="Item.caledonian_pine_spear"/>
-                <equipment slot="Item1" id="Item.phallic_javelin"/>
-                <equipment slot="Item2" id="Item.celtiberian_round_shield"/>
-                <equipment slot="Item3" id="Item.phallic_javelin"/>
-                <equipment slot="Head" id="Item.AR_hat_e"/>
-                <equipment slot="Body" id="Item.chiton_no_sleeves_t3_1_2"/>
-                <equipment slot="Gloves" id="Item.TV_aserai_gloves_c"/>
+                <equipment slot="Body" id="Item.battania_light_armor_a"/>
                 <equipment slot="Leg" id="Item.sandals_1"/>
             </EquipmentRoster>
             <EquipmentRoster>
@@ -3876,18 +3788,25 @@
                 <equipment slot="Item2" id="Item.cletic_round_shield_1"/>
                 <equipment slot="Item3" id="Item.phallic_javelin"/>
                 <equipment slot="Head" id="Item.band_1"/>
-                <equipment slot="Body" id="Item.chiton_no_sleeves_t3_1_2"/>
-                <equipment slot="Gloves" id="Item.celtiberian_padded_vambrace"/>
+                <equipment slot="Body" id="Item.battania_light_armor_a"/>
                 <equipment slot="Leg" id="Item.sandals_1"/>
             </EquipmentRoster>
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.caledonian_pine_spear"/>
                 <equipment slot="Item1" id="Item.phallic_javelin"/>
-                <equipment slot="Item2" id="Item.celtiberian_round_shield"/>
+                <equipment slot="Item2" id="Item.cletic_round_shield_1"/>
                 <equipment slot="Item3" id="Item.phallic_javelin"/>
-                <equipment slot="Head" id="Item.AR_hat_e"/>
-                <equipment slot="Body" id="Item.chiton_no_sleeves_t3_1_2"/>
-                <equipment slot="Gloves" id="Item.TV_aserai_gloves_c"/>
+                <equipment slot="Head" id="Item.band_1"/>
+                <equipment slot="Body" id="Item.battania_light_armor_a"/>
+                <equipment slot="Leg" id="Item.sandals_1"/>
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear"/>
+                <equipment slot="Item1" id="Item.phallic_javelin"/>
+                <equipment slot="Item2" id="Item.cletic_round_shield_1"/>
+                <equipment slot="Item3" id="Item.phallic_javelin"/>
+                <equipment slot="Head" id="Item.band_1"/>
+                <equipment slot="Body" id="Item.battania_light_armor_a"/>
                 <equipment slot="Leg" id="Item.sandals_1"/>
             </EquipmentRoster>
             <EquipmentRoster civilian="true">
@@ -3907,7 +3826,7 @@
         <face>
             <face_key_template value="BodyProperty.villager_battania"/>
         </face>
-        <skills >
+        <skills>
             <skill id="Athletics" value="140"/>
             <skill id="Riding" value="0"/>
             <skill id="OneHanded" value="0"/>
@@ -3925,17 +3844,15 @@
                 <equipment slot="Item3" id="Item.phallic_javelin"/>
                 <equipment slot="Head" id="Item.band_1"/>
                 <equipment slot="Body" id="Item.round_plate_tunic"/>
-                <equipment slot="Gloves" id="Item.celtiberian_padded_vambrace"/>
                 <equipment slot="Leg" id="Item.sandals_1"/>
             </EquipmentRoster>
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.caledonian_pine_spear"/>
                 <equipment slot="Item1" id="Item.phallic_javelin"/>
-                <equipment slot="Item2" id="Item.celtiberian_round_shield"/>
+                <equipment slot="Item2" id="Item.cletic_round_shield_1"/>
                 <equipment slot="Item3" id="Item.phallic_javelin"/>
-                <equipment slot="Head" id="Item.AR_hat_e"/>
-                <equipment slot="Body" id="Item.round_plate_tunic"/>
-                <equipment slot="Gloves" id="Item.TV_aserai_gloves_c"/>
+                <equipment slot="Head" id="Item.ao_mabili_leather_headband"/>
+                <equipment slot="Body" id="Item.tv_battania_armor_e"/>
                 <equipment slot="Leg" id="Item.sandals_1"/>
             </EquipmentRoster>
             <EquipmentRoster>
@@ -3945,17 +3862,15 @@
                 <equipment slot="Item3" id="Item.phallic_javelin"/>
                 <equipment slot="Head" id="Item.band_1"/>
                 <equipment slot="Body" id="Item.round_plate_tunic"/>
-                <equipment slot="Gloves" id="Item.celtiberian_padded_vambrace"/>
                 <equipment slot="Leg" id="Item.sandals_1"/>
             </EquipmentRoster>
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.caledonian_pine_spear"/>
                 <equipment slot="Item1" id="Item.phallic_javelin"/>
-                <equipment slot="Item2" id="Item.celtiberian_round_shield"/>
+                <equipment slot="Item2" id="Item.cletic_round_shield_1"/>
                 <equipment slot="Item3" id="Item.phallic_javelin"/>
-                <equipment slot="Head" id="Item.AR_hat_e"/>
-                <equipment slot="Body" id="Item.round_plate_tunic"/>
-                <equipment slot="Gloves" id="Item.TV_aserai_gloves_c"/>
+                <equipment slot="Head" id="Item.ao_mabili_leather_headband"/>
+                <equipment slot="Body" id="Item.tv_battania_armor_e"/>
                 <equipment slot="Leg" id="Item.sandals_1"/>
             </EquipmentRoster>
             <EquipmentRoster civilian="true">
@@ -3975,7 +3890,7 @@
         <face>
             <face_key_template value="BodyProperty.villager_battania"/>
         </face>
-        <skills >
+        <skills>
             <skill id="Athletics" value="140"/>
             <skill id="Riding" value="0"/>
             <skill id="OneHanded" value="0"/>
@@ -3993,7 +3908,6 @@
                 <equipment slot="Item3" id="Item.AR_sling_bullets_a1"/>
                 <equipment slot="Head" id="Item.band_1"/>
                 <equipment slot="Body" id="Item.round_plate_tunic"/>
-                <equipment slot="Gloves" id="Item.celtiberian_padded_vambrace"/>
                 <equipment slot="Leg" id="Item.sandals_1"/>
             </EquipmentRoster>
             <EquipmentRoster>
@@ -4001,9 +3915,8 @@
                 <equipment slot="Item1" id="Item.AR_sling_b"/>
                 <equipment slot="Item2" id="Item.AR_sling_bullets_a1"/>
                 <equipment slot="Item3" id="Item.AR_sling_bullets_a1"/>
-                <equipment slot="Head" id="Item.AR_hat_e"/>
+                <equipment slot="Head" id="Item.band_1"/>
                 <equipment slot="Body" id="Item.tv_battania_armor_e"/>
-                <equipment slot="Gloves" id="Item.TV_aserai_gloves_c"/>
                 <equipment slot="Leg" id="Item.sandals_1"/>
             </EquipmentRoster>
             <EquipmentRoster>
@@ -4013,7 +3926,6 @@
                 <equipment slot="Item3" id="Item.AR_sling_bullets_a1"/>
                 <equipment slot="Head" id="Item.band_1"/>
                 <equipment slot="Body" id="Item.round_plate_tunic"/>
-                <equipment slot="Gloves" id="Item.celtiberian_padded_vambrace"/>
                 <equipment slot="Leg" id="Item.sandals_1"/>
             </EquipmentRoster>
             <EquipmentRoster>
@@ -4021,9 +3933,8 @@
                 <equipment slot="Item1" id="Item.AR_sling_b"/>
                 <equipment slot="Item2" id="Item.AR_sling_bullets_a1"/>
                 <equipment slot="Item3" id="Item.AR_sling_bullets_a1"/>
-                <equipment slot="Head" id="Item.AR_hat_e"/>
+                <equipment slot="Head" id="Item.band_1"/>
                 <equipment slot="Body" id="Item.tv_battania_armor_e"/>
-                <equipment slot="Gloves" id="Item.TV_aserai_gloves_c"/>
                 <equipment slot="Leg" id="Item.sandals_1"/>
             </EquipmentRoster>
             <EquipmentRoster civilian="true">
@@ -4043,7 +3954,7 @@
         <face>
             <face_key_template value="BodyProperty.villager_battania"/>
         </face>
-        <skills >
+        <skills>
             <skill id="Athletics" value="130"/>
             <skill id="Riding" value="0"/>
             <skill id="OneHanded" value="0"/>
@@ -4060,41 +3971,33 @@
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.caledonian_pine_spear"/>
                 <equipment slot="Item1" id="Item.phallic_javelin"/>
-                <equipment slot="Item2" id="Item.bound_celtiberian_round_shield"/>
-                <equipment slot="Head" id="Item.TV_battania_helmet_s2"/>
-                <equipment slot="Cape" id="Item.TV_battania_cloak_m3"/>
+                <equipment slot="Item2" id="Item.celtic_scutum_1"/>
+                <equipment slot="Head" id="Item.battania_earmuff_helmet_b_brnz"/>
                 <equipment slot="Body" id="Item.round_plate_tunic"/>
-                <equipment slot="Gloves" id="Item.celtiberian_padded_vambrace"/>
                 <equipment slot="Leg" id="Item.sandals_1_bronze_greaves_dual"/>
             </EquipmentRoster>
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.caledonian_pine_spear"/>
                 <equipment slot="Item1" id="Item.phallic_javelin"/>
-                <equipment slot="Item2" id="Item.bound_celtiberian_round_shield"/>
-                <equipment slot="Head" id="Item.TV_battania_helmet_s2"/>
-                <equipment slot="Cape" id="Item.TV_battania_cloak_o2"/>
+                <equipment slot="Item2" id="Item.celtic_scutum_1"/>
+                <equipment slot="Head" id="Item.battania_earmuff_helmet_b_brnz"/>
                 <equipment slot="Body" id="Item.round_plate_tunic"/>
-                <equipment slot="Gloves" id="Item.TV_aserai_gloves_c"/>
                 <equipment slot="Leg" id="Item.sandals_1_bronze_greaves_dual"/>
             </EquipmentRoster>
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.caledonian_pine_spear"/>
                 <equipment slot="Item1" id="Item.phallic_javelin"/>
-                <equipment slot="Item2" id="Item.bound_celtiberian_round_shield"/>
-                <equipment slot="Head" id="Item.TV_battania_helmet_s2"/>
-                <equipment slot="Cape" id="Item.TV_battania_cloak_m3"/>
+                <equipment slot="Item2" id="Item.celtic_scutum_1"/>
+                <equipment slot="Head" id="Item.battania_earmuff_helmet_b_brnz"/>
                 <equipment slot="Body" id="Item.round_plate_tunic"/>
-                <equipment slot="Gloves" id="Item.celtiberian_padded_vambrace"/>
                 <equipment slot="Leg" id="Item.sandals_1_bronze_greaves_dual"/>
             </EquipmentRoster>
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.caledonian_pine_spear"/>
                 <equipment slot="Item1" id="Item.phallic_javelin"/>
-                <equipment slot="Item2" id="Item.bound_celtiberian_round_shield"/>
-                <equipment slot="Head" id="Item.TV_battania_helmet_s2"/>
-                <equipment slot="Cape" id="Item.TV_battania_cloak_o2"/>
+                <equipment slot="Item2" id="Item.celtic_scutum_1"/>
+                <equipment slot="Head" id="Item.battania_earmuff_helmet_b_brnz"/>
                 <equipment slot="Body" id="Item.round_plate_tunic"/>
-                <equipment slot="Gloves" id="Item.TV_aserai_gloves_c"/>
                 <equipment slot="Leg" id="Item.sandals_1_bronze_greaves_dual"/>
             </EquipmentRoster>
             <EquipmentRoster civilian="true">
@@ -4114,7 +4017,7 @@
         <face>
             <face_key_template value="BodyProperty.villager_battania"/>
         </face>
-        <skills >
+        <skills>
             <skill id="Athletics" value="100"/>
             <skill id="Riding" value="0"/>
             <skill id="OneHanded" value="0"/>
@@ -4131,41 +4034,37 @@
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.hans_espada_short_sword"/>
                 <equipment slot="Item1" id="Item.soliferrum_javelin"/>
-                <equipment slot="Item2" id="Item.celtic_oval_shield"/>
-                <equipment slot="Head" id="Item.chalcidian_1"/>
-                <equipment slot="Cape" id="Item.TV_battania_cloak_m3"/>
+                <equipment slot="Item2" id="Item.celtic_scutum_1"/>
+                <equipment slot="Head" id="Item.celtiberian_crest"/>
+                <equipment slot="Cape" id="Item.battania_shoulder_strap_cloak"/>
                 <equipment slot="Body" id="Item.round_plate_tunic"/>
-                <equipment slot="Gloves" id="Item.celtiberian_padded_vambrace"/>
-                <equipment slot="Leg" id="Item.sandals_1_bronze_greaves_dual"/>
-            </EquipmentRoster>
-            <EquipmentRoster>
-                <equipment slot="Item0" id="Item.hans_celtic_sword"/>
-                <equipment slot="Item1" id="Item.soliferrum_javelin"/>
-                <equipment slot="Item2" id="Item.celtic_oval_shield"/>
-                <equipment slot="Head" id="Item.chalcidian_1"/>
-                <equipment slot="Cape" id="Item.TV_battania_cloak_o2"/>
-                <equipment slot="Body" id="Item.tv_battania_armor_e"/>
-                <equipment slot="Gloves" id="Item.TV_aserai_gloves_c"/>
                 <equipment slot="Leg" id="Item.sandals_1_bronze_greaves_dual"/>
             </EquipmentRoster>
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.hans_espada_short_sword"/>
                 <equipment slot="Item1" id="Item.soliferrum_javelin"/>
-                <equipment slot="Item2" id="Item.celtic_oval_shield"/>
-                <equipment slot="Head" id="Item.chalcidian_1"/>
-                <equipment slot="Cape" id="Item.TV_battania_cloak_m3"/>
-                <equipment slot="Body" id="Item.round_plate_tunic"/>
-                <equipment slot="Gloves" id="Item.celtiberian_padded_vambrace"/>
+                <equipment slot="Item2" id="Item.celtic_scutum_1"/>
+                <equipment slot="Head" id="Item.crested_chalcidian"/>
+                <equipment slot="Cape" id="Item.AR_battanian_shoulder_c"/>
+                <equipment slot="Body" id="Item.tv_battania_armor_e"/>
                 <equipment slot="Leg" id="Item.sandals_1_bronze_greaves_dual"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.hans_celtic_sword"/>
+                <equipment slot="Item0" id="Item.hans_espada_short_sword"/>
                 <equipment slot="Item1" id="Item.soliferrum_javelin"/>
-                <equipment slot="Item2" id="Item.celtic_oval_shield"/>
-                <equipment slot="Head" id="Item.chalcidian_1"/>
-                <equipment slot="Cape" id="Item.TV_battania_cloak_o2"/>
+                <equipment slot="Item2" id="Item.celtic_scutum_1"/>
+                <equipment slot="Head" id="Item.celtiberian_crest"/>
+                <equipment slot="Cape" id="Item.battania_shoulder_strap_cloak"/>
+                <equipment slot="Body" id="Item.round_plate_tunic"/>
+                <equipment slot="Leg" id="Item.sandals_1_bronze_greaves_dual"/>
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.hans_espada_short_sword"/>
+                <equipment slot="Item1" id="Item.soliferrum_javelin"/>
+                <equipment slot="Item2" id="Item.celtic_scutum_1"/>
+                <equipment slot="Head" id="Item.crested_chalcidian"/>
+                <equipment slot="Cape" id="Item.AR_battanian_shoulder_c"/>
                 <equipment slot="Body" id="Item.tv_battania_armor_e"/>
-                <equipment slot="Gloves" id="Item.TV_aserai_gloves_c"/>
                 <equipment slot="Leg" id="Item.sandals_1_bronze_greaves_dual"/>
             </EquipmentRoster>
             <EquipmentRoster civilian="true">
@@ -4185,7 +4084,7 @@
         <face>
             <face_key_template value="BodyProperty.villager_battania"/>
         </face>
-        <skills >
+        <skills>
             <skill id="Athletics" value="100"/>
             <skill id="Riding" value="0"/>
             <skill id="OneHanded" value="0"/>
@@ -4201,19 +4100,17 @@
                 <equipment slot="Item1" id="Item.soliferrum_javelin"/>
                 <equipment slot="Item2" id="Item.celtic_scutum_1"/>
                 <equipment slot="Head" id="Item.celtiberian_crest"/>
-                <equipment slot="Cape" id="Item.TV_battania_cloak_m3"/>
+                <equipment slot="Cape" id="Item.battania_shoulder_strap_cloak"/>
                 <equipment slot="Body" id="Item.scorilo_leather_lino_1"/>
-                <equipment slot="Gloves" id="Item.celtiberian_padded_vambrace"/>
                 <equipment slot="Leg" id="Item.sandals_1_bronze_greaves_dual"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.hans_celtic_sword"/>
+                <equipment slot="Item0" id="Item.hans_espada_short_sword"/>
                 <equipment slot="Item1" id="Item.soliferrum_javelin"/>
                 <equipment slot="Item2" id="Item.celtic_scutum_1"/>
                 <equipment slot="Head" id="Item.crested_chalcidian"/>
-                <equipment slot="Cape" id="Item.TV_battania_cloak_o2"/>
+                <equipment slot="Cape" id="Item.tv_battania_cloak_f"/>
                 <equipment slot="Body" id="Item.scorilo_leather_lino_2"/>
-                <equipment slot="Gloves" id="Item.northern_brass_bracers"/>
                 <equipment slot="Leg" id="Item.sandals_1_bronze_greaves_dual"/>
             </EquipmentRoster>
             <EquipmentRoster>
@@ -4221,19 +4118,17 @@
                 <equipment slot="Item1" id="Item.soliferrum_javelin"/>
                 <equipment slot="Item2" id="Item.celtic_scutum_1"/>
                 <equipment slot="Head" id="Item.celtiberian_crest"/>
-                <equipment slot="Cape" id="Item.TV_battania_cloak_m3"/>
+                <equipment slot="Cape" id="Item.battania_shoulder_strap_cloak"/>
                 <equipment slot="Body" id="Item.scorilo_leather_lino_1"/>
-                <equipment slot="Gloves" id="Item.celtiberian_padded_vambrace"/>
                 <equipment slot="Leg" id="Item.sandals_1_bronze_greaves_dual"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.hans_celtic_sword"/>
+                <equipment slot="Item0" id="Item.hans_espada_short_sword"/>
                 <equipment slot="Item1" id="Item.soliferrum_javelin"/>
                 <equipment slot="Item2" id="Item.celtic_scutum_1"/>
                 <equipment slot="Head" id="Item.crested_chalcidian"/>
-                <equipment slot="Cape" id="Item.TV_battania_cloak_o2"/>
+                <equipment slot="Cape" id="Item.tv_battania_cloak_f"/>
                 <equipment slot="Body" id="Item.scorilo_leather_lino_2"/>
-                <equipment slot="Gloves" id="Item.northern_brass_bracers"/>
                 <equipment slot="Leg" id="Item.sandals_1_bronze_greaves_dual"/>
             </EquipmentRoster>
             <EquipmentRoster civilian="true">
@@ -4253,7 +4148,7 @@
         <face>
             <face_key_template value="BodyProperty.villager_battania"/>
         </face>
-        <skills >
+        <skills>
             <skill id="Athletics" value="100"/>
             <skill id="Riding" value="0"/>
             <skill id="OneHanded" value="0"/>
@@ -4265,43 +4160,35 @@
         </skills>
         <Equipments>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.celtiberian_spear_conical"/>
-                <equipment slot="Item1" id="Item.soliferrum_javelin"/>
-                <equipment slot="Item2" id="Item.celtic_oval_shield"/>
-                <equipment slot="Head" id="Item.TV_battania_helmet_s2"/>
-                <equipment slot="Cape" id="Item.TV_battania_cloak_m3"/>
-                <equipment slot="Body" id="Item.scorilo_leather_lino_1"/>
-                <equipment slot="Gloves" id="Item.northern_brass_bracers"/>
-                <equipment slot="Leg" id="Item.sandals_1_bronze_greaves_dual"/>
-            </EquipmentRoster>
-            <EquipmentRoster>
-                <equipment slot="Item0" id="Item.celtiberian_spear_conical"/>
-                <equipment slot="Item1" id="Item.soliferrum_javelin"/>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear"/>
+                <equipment slot="Item1" id="Item.phallic_javelin"/>
                 <equipment slot="Item2" id="Item.celtic_scutum_1"/>
-                <equipment slot="Head" id="Item.TV_battania_helmet_s2"/>
-                <equipment slot="Cape" id="Item.TV_battania_cloak_o2"/>
-                <equipment slot="Body" id="Item.scorilo_leather_lino_2"/>
-                <equipment slot="Gloves" id="Item.northern_brass_bracers"/>
-                <equipment slot="Leg" id="Item.sandals_1_bronze_greaves_dual"/>
-            </EquipmentRoster>
-            <EquipmentRoster>
-                <equipment slot="Item0" id="Item.celtiberian_spear_conical"/>
-                <equipment slot="Item1" id="Item.soliferrum_javelin"/>
-                <equipment slot="Item2" id="Item.celtic_oval_shield"/>
-                <equipment slot="Head" id="Item.TV_battania_helmet_s2"/>
-                <equipment slot="Cape" id="Item.TV_battania_cloak_m3"/>
+                <equipment slot="Head" id="Item.TV_battania_helmet_r"/>
                 <equipment slot="Body" id="Item.scorilo_leather_lino_1"/>
-                <equipment slot="Gloves" id="Item.northern_brass_bracers"/>
                 <equipment slot="Leg" id="Item.sandals_1_bronze_greaves_dual"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.celtiberian_spear_conical"/>
-                <equipment slot="Item1" id="Item.soliferrum_javelin"/>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear"/>
+                <equipment slot="Item1" id="Item.phallic_javelin"/>
                 <equipment slot="Item2" id="Item.celtic_scutum_1"/>
-                <equipment slot="Head" id="Item.TV_battania_helmet_s2"/>
-                <equipment slot="Cape" id="Item.TV_battania_cloak_o2"/>
+                <equipment slot="Head" id="Item.TV_battania_helmet_r2"/>
                 <equipment slot="Body" id="Item.scorilo_leather_lino_2"/>
-                <equipment slot="Gloves" id="Item.northern_brass_bracers"/>
+                <equipment slot="Leg" id="Item.sandals_1_bronze_greaves_dual"/>
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear"/>
+                <equipment slot="Item1" id="Item.phallic_javelin"/>
+                <equipment slot="Item2" id="Item.celtic_scutum_1"/>
+                <equipment slot="Head" id="Item.TV_battania_helmet_r"/>
+                <equipment slot="Body" id="Item.scorilo_leather_lino_1"/>
+                <equipment slot="Leg" id="Item.sandals_1_bronze_greaves_dual"/>
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear"/>
+                <equipment slot="Item1" id="Item.phallic_javelin"/>
+                <equipment slot="Item2" id="Item.celtic_scutum_1"/>
+                <equipment slot="Head" id="Item.TV_battania_helmet_r2"/>
+                <equipment slot="Body" id="Item.scorilo_leather_lino_2"/>
                 <equipment slot="Leg" id="Item.sandals_1_bronze_greaves_dual"/>
             </EquipmentRoster>
             <EquipmentRoster civilian="true">

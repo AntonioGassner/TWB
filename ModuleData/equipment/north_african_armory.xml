@@ -11,10 +11,10 @@
         <Pieces>
             <Piece id="spear_blade_4"
                    Type="Blade"
-                   scale_factor="100" />
+                   scale_factor="100"/>
             <Piece id="spear_handle_23"
                    Type="Handle"
-                   scale_factor="100" />
+                   scale_factor="100"/>
         </Pieces>
     </CraftedItem>
     <!-- Punic Lance T4-->
@@ -27,10 +27,10 @@
         <Pieces>
             <Piece id="spear_blade_6"
                    Type="Blade"
-                   scale_factor="100" />
+                   scale_factor="100"/>
             <Piece id="spear_handle_23"
                    Type="Handle"
-                   scale_factor="100" />
+                   scale_factor="100"/>
         </Pieces>
     </CraftedItem>
     <!-- Punic spear T2 -->
@@ -41,12 +41,12 @@
                  value="600"
                  culture="Culture.aserai">
         <Pieces>
-            <Piece id="spear_blade_27"
+            <Piece id="spear_blade_1"
                    Type="Blade"
-                   scale_factor="100" />
-            <Piece id="spear_handle_5"
+                   scale_factor="95"/>
+            <Piece id="spear_handle_25"
                    Type="Handle"
-                   scale_factor="110" />
+                   scale_factor="95"/>
         </Pieces>
     </CraftedItem>
     <!-- Punic spear T3-->
@@ -57,15 +57,39 @@
                  value="600"
                  culture="Culture.aserai">
         <Pieces>
-            <Piece id="spear_blade_27"
+            <Piece id="spear_blade_20"
                    Type="Blade"
-                   scale_factor="100" />
+                   scale_factor="110"/>
+            <Piece id="default_polearm_guard"
+                   Type="Guard"
+                   scale_factor="100"/>
             <Piece id="spear_handle_5"
                    Type="Handle"
-                   scale_factor="110" />
+                   scale_factor="100"/>
             <Piece id="spear_pommel_10"
                    Type="Pommel"
-                   scale_factor="100" />
+                   scale_factor="100"/>
+        </Pieces>
+    </CraftedItem>
+    <CraftedItem id="hans_punic_hoplite_spear_b"
+                 name="{=PunicTWBa4}Punic Hoplite Spear b"
+                 crafting_template="TwoHandedPolearm"
+                 is_merchandise="true"
+                 value="600"
+                 culture="Culture.aserai">
+        <Pieces>
+            <Piece id="spear_blade_40"
+                   Type="Blade"
+                   scale_factor="110"/>
+            <Piece id="default_polearm_guard"
+                   Type="Guard"
+                   scale_factor="100"/>
+            <Piece id="spear_handle_5"
+                   Type="Handle"
+                   scale_factor="100"/>
+            <Piece id="spear_pommel_10"
+                   Type="Pommel"
+                   scale_factor="100"/>
         </Pieces>
     </CraftedItem>
     <!-- Punic Sacred Band spear T5-->
@@ -76,18 +100,18 @@
                  value="600"
                  culture="Culture.aserai">
         <Pieces>
-            <Piece id="spear_blade_27"
+            <Piece id="spear_blade_42"
                    Type="Blade"
-                   scale_factor="100" />
-            <Piece id="spear_banner_3"
+                   scale_factor="110"/>
+            <Piece id="default_polearm_guard"
                    Type="Guard"
-                   scale_factor="100" />
+                   scale_factor="100"/>
             <Piece id="spear_handle_5"
                    Type="Handle"
-                   scale_factor="110" />
+                   scale_factor="100"/>
             <Piece id="spear_pommel_10"
                    Type="Pommel"
-                   scale_factor="100" />
+                   scale_factor="100"/>
         </Pieces>
     </CraftedItem>
     <!-- Punic Pike T3-->
@@ -100,10 +124,10 @@
         <Pieces>
             <Piece id="spear_blade_37"
                    Type="Blade"
-                   scale_factor="110" />
+                   scale_factor="100"/>
             <Piece id="spear_handle_27"
                    Type="Handle"
-                   scale_factor="100" />
+                   scale_factor="100"/>
         </Pieces>
     </CraftedItem>
     <!-- African Axes T3-->
@@ -117,10 +141,10 @@
         <Pieces>
             <Piece id="axe_craft_27_head"
                    Type="Blade"
-                   scale_factor="100" />
+                   scale_factor="100"/>
             <Piece id="axe_craft_25_handle"
                    Type="Handle"
-                   scale_factor="100" />
+                   scale_factor="100"/>
         </Pieces>
     </CraftedItem>
     <!-- African Axes T4-->
@@ -133,10 +157,10 @@
         <Pieces>
             <Piece id="axe_craft_19_head"
                    Type="Blade"
-                   scale_factor="100" />
+                   scale_factor="100"/>
             <Piece id="axe_craft_23_handle"
                    Type="Handle"
-                   scale_factor="100" />
+                   scale_factor="100"/>
         </Pieces>
     </CraftedItem>
 
@@ -150,13 +174,13 @@
         <Pieces>
             <Piece id="spear_blade_20"
                    Type="Blade"
-                   scale_factor="100" />
+                   scale_factor="100"/>
             <Piece id="spear_banner_16"
                    Type="Guard"
-                   scale_factor="100" />
+                   scale_factor="100"/>
             <Piece id="spear_handle_5"
                    Type="Handle"
-                   scale_factor="100" />
+                   scale_factor="100"/>
         </Pieces>
     </CraftedItem>
     <CraftedItem id="hans_african_tribal_lance"
@@ -168,10 +192,10 @@
         <Pieces>
             <Piece id="spear_blade_20"
                    Type="Blade"
-                   scale_factor="100" />
+                   scale_factor="100"/>
             <Piece id="spear_handle_23"
                    Type="Handle"
-                   scale_factor="100" />
+                   scale_factor="100"/>
         </Pieces>
     </CraftedItem>
     <!-- African lance T3-->
@@ -184,10 +208,10 @@
         <Pieces>
             <Piece id="spear_blade_6"
                    Type="Blade"
-                   scale_factor="100" />
+                   scale_factor="100"/>
             <Piece id="spear_handle_27"
                    Type="Handle"
-                   scale_factor="100" />
+                   scale_factor="100"/>
         </Pieces>
     </CraftedItem>
     <!-- African Spears T4-->
@@ -200,13 +224,13 @@
         <Pieces>
             <Piece id="spear_blade_42"
                    Type="Blade"
-                   scale_factor="100" />
+                   scale_factor="100"/>
             <Piece id="spear_banner_16"
                    Type="Guard"
-                   scale_factor="100" />
+                   scale_factor="100"/>
             <Piece id="spear_handle_5"
                    Type="Handle"
-                   scale_factor="100" />
+                   scale_factor="100"/>
         </Pieces>
     </CraftedItem>
     <!-- Spear B-->
@@ -219,13 +243,13 @@
         <Pieces>
             <Piece id="spear_blade_42"
                    Type="Blade"
-                   scale_factor="100" />
+                   scale_factor="100"/>
             <Piece id="spear_banner_17"
                    Type="Guard"
-                   scale_factor="100" />
+                   scale_factor="100"/>
             <Piece id="spear_handle_5"
                    Type="Handle"
-                   scale_factor="100" />
+                   scale_factor="100"/>
         </Pieces>
     </CraftedItem>
     <!-- Libyan Long Spear T2-->
@@ -238,13 +262,13 @@
         <Pieces>
             <Piece id="spear_blade_20"
                    Type="Blade"
-                   scale_factor="95" />
+                   scale_factor="95"/>
             <Piece id="default_polearm_guard"
                    Type="Guard"
-                   scale_factor="90" />
+                   scale_factor="90"/>
             <Piece id="spear_handle_27"
                    Type="Handle"
-                   scale_factor="95" />
+                   scale_factor="95"/>
         </Pieces>
     </CraftedItem>
     <!-- Libyan Throwing Spear T2-->
@@ -257,10 +281,10 @@
         <Pieces>
             <Piece id="spear_blade_41"
                    Type="Blade"
-                   scale_factor="100" />
+                   scale_factor="100"/>
             <Piece id="spear_handle_14"
                    Type="Handle"
-                   scale_factor="90" />
+                   scale_factor="90"/>
         </Pieces>
     </CraftedItem>
     <!-- Libyan Throwing Dart T2-->
@@ -274,16 +298,16 @@
         <Pieces>
             <Piece id="spear_blade_16"
                    Type="Blade"
-                   scale_factor="100" />
+                   scale_factor="100"/>
             <Piece id="default_polearm_guard"
                    Type="Guard"
-                   scale_factor="100" />
+                   scale_factor="100"/>
             <Piece id="spear_handle_9"
                    Type="Handle"
-                   scale_factor="100" />
+                   scale_factor="100"/>
             <Piece id="default_polearm_pommel"
                    Type="Pommel"
-                   scale_factor="100" />
+                   scale_factor="100"/>
         </Pieces>
     </CraftedItem>
     <!-- North African Bows-->
@@ -318,10 +342,10 @@
                              NotUsableWithOneHand="true"
                              TwoHandIdleOnMount="true"
                              AutoReload="true"
-                             UnloadWhenSheathed="true" />
+                             UnloadWhenSheathed="true"/>
             </Weapon>
         </ItemComponent>
-        <Flags ForceAttachOffHandPrimaryItemBone="true" />
+        <Flags ForceAttachOffHandPrimaryItemBone="true"/>
     </Item>
     <!-- #endregion -->
     <!-- #region Tier 3 -->
@@ -356,10 +380,10 @@
                              NotUsableWithOneHand="true"
                              TwoHandIdleOnMount="true"
                              AutoReload="true"
-                             UnloadWhenSheathed="true" />
+                             UnloadWhenSheathed="true"/>
             </Weapon>
         </ItemComponent>
-        <Flags ForceAttachOffHandPrimaryItemBone="true" />
+        <Flags ForceAttachOffHandPrimaryItemBone="true"/>
     </Item>
     <!-- #endregion -->
     <!-- #region Tier 4 -->
@@ -394,10 +418,10 @@
                              NotUsableWithOneHand="true"
                              TwoHandIdleOnMount="true"
                              AutoReload="true"
-                             UnloadWhenSheathed="true" />
+                             UnloadWhenSheathed="true"/>
             </Weapon>
         </ItemComponent>
-        <Flags ForceAttachOffHandPrimaryItemBone="true" />
+        <Flags ForceAttachOffHandPrimaryItemBone="true"/>
     </Item>
     <Item id="hans_afr_nomad_bow"
           name="{=African}African Nomad Bow"
@@ -430,10 +454,10 @@
                              NotUsableWithOneHand="true"
                              TwoHandIdleOnMount="true"
                              AutoReload="true"
-                             UnloadWhenSheathed="true" />
+                             UnloadWhenSheathed="true"/>
             </Weapon>
         </ItemComponent>
-        <Flags ForceAttachOffHandPrimaryItemBone="true" />
+        <Flags ForceAttachOffHandPrimaryItemBone="true"/>
     </Item>
     <!-- #endregion -->
     <!-- #region Tier 5 -->
@@ -468,10 +492,10 @@
                              NotUsableWithOneHand="true"
                              TwoHandIdleOnMount="true"
                              AutoReload="true"
-                             UnloadWhenSheathed="true" />
+                             UnloadWhenSheathed="true"/>
             </Weapon>
         </ItemComponent>
-        <Flags ForceAttachOffHandPrimaryItemBone="true" />
+        <Flags ForceAttachOffHandPrimaryItemBone="true"/>
     </Item>
     <Item id="hans_afr_noble_long_bow"
           name="{=African}African Noble Long Bow"
@@ -504,10 +528,10 @@
                              NotUsableWithOneHand="true"
                              TwoHandIdleOnMount="true"
                              AutoReload="true"
-                             UnloadWhenSheathed="true" />
+                             UnloadWhenSheathed="true"/>
             </Weapon>
         </ItemComponent>
-        <Flags ForceAttachOffHandPrimaryItemBone="true" />
+        <Flags ForceAttachOffHandPrimaryItemBone="true"/>
     </Item>
     <!-- North African Arrows-->
     <Item id="hans_afr_arrows"
@@ -543,10 +567,10 @@
                     modifier_group="arrow">
                 <WeaponFlags Consumable="true"
                              AmmoSticksWhenShot="true"
-                             AmmoBreaksOnBounceBack="true" />
+                             AmmoBreaksOnBounceBack="true"/>
             </Weapon>
         </ItemComponent>
-        <Flags />
+        <Flags/>
     </Item>
     <Item id="hans_african_stacked_arrows"
           name="{=African}Stacked African Arrows"
@@ -581,10 +605,10 @@
                     modifier_group="arrow">
                 <WeaponFlags Consumable="true"
                              AmmoSticksWhenShot="true"
-                             AmmoBreaksOnBounceBack="true" />
+                             AmmoBreaksOnBounceBack="true"/>
             </Weapon>
         </ItemComponent>
-        <Flags />
+        <Flags/>
     </Item>
     <!-- END-->
-</Items> 
+</Items>

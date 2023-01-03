@@ -789,7 +789,10 @@
             <skill id="Crossbow" value="0"/>
             <skill id="Throwing" value="0"/>
         </skills>
-
+        <upgrade_targets>
+            <upgrade_target id="NPCCharacter.copy_basic_root0"/>
+            <upgrade_target id="NPCCharacter.copy_basic_root1"/>
+        </upgrade_targets>
         <Equipments>
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.celtic_spear"/>
