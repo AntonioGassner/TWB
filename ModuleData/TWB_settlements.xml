@@ -2741,10 +2741,10 @@
     </Settlement>
     <Settlement id="castle_village_ES4_2" name="{=Settlements.Settlement.name.castle_village_ES4_2}Grossetum"
                 posX="567.112" posY="931.621" culture="Culture.empire"
-                text="{=Settlements.Settlement.text.castle_village_ES4_2}Ethemisa sits on the river that the Aserai call the Nahr al-Kals, the Bitter River, and what imperial citizens call the Calsa. Here, the river has just descended from the coastal hills and has not yet reached the alkali plains of the southeast. The lands around produce a fine crop of grain.">
-        <Components>
-            <Village id="castle_village_comp_ES4_2" village_type="VillageType.wheat_farm" hearth="800"
-                     gate_rotation="0.008" bound="Settlement.town_ES4" background_crop_position="0.0"
+                text="{=Settlements.Settlement.text.castle_village_ES4_2}Placeholder">
+    <Components>
+            <Village id="castle_village_comp_ES4_2" village_type="VillageType.vineyard" hearth="876"
+                     gate_rotation="0.008" bound="Settlement.castle_ES4" background_crop_position="0.0"
                      background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village"
                      castle_background_mesh="gui_bg_castle_empire"/>
         </Components>
@@ -3226,10 +3226,10 @@
 
     <Settlement id="village_ES4_3" name="{=Settlements.Settlement.name.village_ES4_3}Arretium" posX="576.823"
                 posY="947.159" culture="Culture.etruscan"
-                text="{=Settlements.Settlement.text.village_ES4_3}Canterion lies in the east of the Lycarean plain. The slowly rising land here gets more rain than other parts of the plain, and the rich grasses have made it good horse country since even before the coming of the Empire.">
+                text="{=Settlements.Settlement.text.village_ES4_3}Placeholder">
         <Components>
-            <Village id="village_comp_ES4_3" village_type="VillageType.vineyard" hearth="876"
-                     gate_rotation="0.008" bound="Settlement.castle_ES4" background_crop_position="0.0"
+            <Village id="village_comp_ES4_3" village_type="VillageType.wheat_farm" hearth="881"
+                     gate_rotation="0.008" bound="Settlement.town_ES4" background_crop_position="0.0"
                      background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village"
                      castle_background_mesh="gui_bg_castle_empire"/>
         </Components>
