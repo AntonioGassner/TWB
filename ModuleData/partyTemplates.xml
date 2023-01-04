@@ -1197,7 +1197,7 @@
             <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.baltic_heavy_spearmen"/>
 
             <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.baltic_noble"/>
-            <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.baltic_Noble_rider"/>
+            <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.baltic_noble_rider"/>
             <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.baltic_horse_bowmen"/>
             <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.baltic_noble_horse_bowmen"/>
             <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.baltic_noble_bow_horsemen"/>
