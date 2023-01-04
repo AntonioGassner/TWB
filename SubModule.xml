@@ -48,7 +48,7 @@
             </IncludedGameTypes>
         </XmlNode>
         <XmlNode>
-            <XmlName id="Kingdoms" path="TWB_spkingdoms"/>
+            <XmlName id="Kingdoms" path="TWB_kingdoms"/>
             <IncludedGameTypes>
                 <GameType value="Campaign"/>
                 <GameType value="CampaignStoryMode"/>
