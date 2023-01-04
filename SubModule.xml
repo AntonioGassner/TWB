@@ -1,7 +1,7 @@
 <Module>
     <Name value="Total_War_Bannerlord"/>
     <Id value="Total_War_Bannerlord"/>
-    <Version value="e1.8.0"/>
+    <Version value="v1.0.0"/>
     <DefaultModule value="false"/>
     <SingleplayerModule value="true"/>
     <MultiplayerModule value="false"/>
@@ -31,7 +31,7 @@
         </XmlNode>
 
         <XmlNode>
-            <XmlName id="BodyProperties" path="Hans_bodyproperties"/>
+            <XmlName id="BodyProperties" path="hans_bodyproperties"/>
             <IncludedGameTypes>
                 <GameType value="Campaign"/>
                 <GameType value="CampaignStoryMode"/>
@@ -48,7 +48,7 @@
             </IncludedGameTypes>
         </XmlNode>
         <XmlNode>
-            <XmlName id="Kingdoms" path="TWB_spkingdoms"/>
+            <XmlName id="Kingdoms" path="TWB_kingdoms"/>
             <IncludedGameTypes>
                 <GameType value="Campaign"/>
                 <GameType value="CampaignStoryMode"/>
