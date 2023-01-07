@@ -1622,7 +1622,7 @@
 <!--    DANEMARK    -->
 <!--    TEUTONES    -->
     <Settlement id="town_S7" name="{=Settlements.Settlement.name.town_S7}Kaup-staðr" owner="Faction.clan_khuzait_5"
-                posX="595.234" posY="1241.75" culture="Culture.sturgia" prosperity="3100" gate_posX="591.9156"
+                posX="595.234" posY="1241.75" culture="Culture.sturgia" prosperity="2860" gate_posX="591.9156"
                 gate_posY="1244.521"
                 text="{=T2E4xKVn}Kaup-staðr lies between Kvenland and Jutland, giving it an advantageous position along the main trade route to mainland europe. While this brought in riches to the Teutones tribe, envy is quick to follow. Kaup-staðr is the jewel of the north, and there's never a shortage of rulers who want to wear it.">
         <Components>
@@ -1648,11 +1648,11 @@
             <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront"/>
         </CommonAreas>
     </Settlement>
-    <Settlement id="village_S7_1" name="{=Settlements.Settlement.name.village_S7_1}Korsyas" posX="613.735"
+    <Settlement id="village_S7_1" name="{=Settlements.Settlement.name.village_S7_1}Gargan" posX="613.735"
                 posY="1251.555" culture="Culture.sturgia"
                 text="{=Settlements.Settlement.text.village_S7_1}Placeholder">
         <Components>
-            <Village id="village_comp_S7_1" village_type="VillageType.fisherman" hearth="527" gate_rotation="0.758"
+            <Village id="village_comp_S7_1" village_type="VillageType.fisherman" hearth="184" gate_rotation="0.758"
                      bound="Settlement.town_S7" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia"
                      wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia"/>
         </Components>
@@ -1665,11 +1665,11 @@
             <Area type="Bog" name="{=iXA5SttU}Bog"/>
         </CommonAreas>
     </Settlement>
-    <Settlement id="village_S7_2" name="{=Settlements.Settlement.name.village_S7_2}Karbur" posX="631.878"
+    <Settlement id="village_S7_2" name="{=Settlements.Settlement.name.village_S7_2}Brut-pæning" posX="631.878"
                 posY="1274.644" culture="Culture.sturgia"
                 text="{=Settlements.Settlement.text.village_S7_2}Placeholder">
         <Components>
-            <Village id="village_comp_S7_2" village_type="VillageType.wheat_farm" hearth="296" gate_rotation="0.758"
+            <Village id="village_comp_S7_2" village_type="VillageType.trapper" hearth="134" gate_rotation="0.758"
                      bound="Settlement.town_S7" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia"
                      wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia"/>
         </Components>
@@ -1682,9 +1682,9 @@
             <Area type="Bog" name="{=iXA5SttU}Bog"/>
         </CommonAreas>
     </Settlement>
-    <Settlement id="castle_S7" name="{=Settlements.Settlement.name.castle_S7}Urikskala Castle"
+    <Settlement id="castle_S7" name="{=Settlements.Settlement.name.castle_S7}Cimbrodunon"
                 owner="Faction.clan_sturgia_6" posX="531.277" posY="1263.229" culture="Culture.sturgia"
-                prosperity="660" gate_posX="529.7394" gate_posY="1262.379">
+                prosperity="656" gate_posX="529.7394" gate_posY="1262.379">
         <Components>
             <Town id="castle_comp_S7" is_castle="true" level="1" background_crop_position="0.0"
                   background_mesh="gui_bg_castle_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.908"/>
@@ -1698,11 +1698,11 @@
             <Location id="prison" scene_name="sturgia_dungeon_a"/>
         </Locations>
     </Settlement>
-    <Settlement id="castle_village_S7_1" name="{=Settlements.Settlement.name.castle_village_S7_1}Urikskala"
+    <Settlement id="castle_village_S7_1" name="{=Settlements.Settlement.name.castle_village_S7_1}Elhus"
                 posX="521.041" posY="1283.346" culture="Culture.sturgia"
                 text="{=Settlements.Settlement.text.castle_village_S7_1}Placeholder">
         <Components>
-            <Village id="castle_village_comp_S7_1" village_type="VillageType.fisherman" hearth="572"
+            <Village id="castle_village_comp_S7_1" village_type="VillageType.fisherman" hearth="605"
                      gate_rotation="0.208" bound="Settlement.castle_S7" background_crop_position="0.0"
                      background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village"
                      castle_background_mesh="gui_bg_castle_sturgia"/>
@@ -1716,11 +1716,11 @@
             <Area type="Bog" name="{=iXA5SttU}Bog"/>
         </CommonAreas>
     </Settlement>
-    <Settlement id="castle_village_S7_2" name="{=Settlements.Settlement.name.castle_village_S7_2}Alov" posX="548.292"
+    <Settlement id="castle_village_S7_2" name="{=Settlements.Settlement.name.castle_village_S7_2}Lila" posX="548.292"
                 posY="1238.05" culture="Culture.sturgia"
                 text="{=Settlements.Settlement.text.village_S5_3}Placeholder">
         <Components>
-            <Village id="castle_village_comp_S7_2" village_type="VillageType.wheat_farm" hearth="157"
+            <Village id="castle_village_comp_S7_2" village_type="VillageType.lumberjack" hearth="559"
                      bound="Settlement.castle_S7" background_crop_position="0.0"
                      background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village"
                      castle_background_mesh="gui_bg_castle_sturgia"/>
@@ -1735,8 +1735,8 @@
         </CommonAreas>
     </Settlement>
     <!--    CIMBRI  -->
-    <Settlement id="town_EN2" name="{=Settlements.Settlement.name.town_EN2}Diathma" owner="Faction.clan_empire_north_5"
-                posX="540.618" posY="1184.005" culture="Culture.cimbri" prosperity="4700" gate_posX="544.1642"
+    <Settlement id="town_EN2" name="{=Settlements.Settlement.name.town_EN2}Oltne" owner="Faction.clan_empire_north_5"
+                posX="540.618" posY="1184.005" culture="Culture.cimbri" prosperity="3998" gate_posX="544.1642"
                 gate_posY="1180.704"
                 text="{=wKMo2CUP}Placeholder">
         <Components>
@@ -1761,11 +1761,11 @@
             <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront"/>
         </CommonAreas>
     </Settlement>
-    <Settlement id="village_EN2_1" name="{=Settlements.Settlement.name.village_EN2_1}Alosea" posX="515.37"
+    <Settlement id="village_EN2_1" name="{=Settlements.Settlement.name.village_EN2_1}Satene" posX="515.37"
                 posY="1203.052" culture="Culture.cimbri"
                 text="{=Settlements.Settlement.text.village_EN2_1}Placeholder">
         <Components>
-            <Village id="village_comp_EN2_1" village_type="VillageType.fisherman" hearth="532" gate_rotation="0.758"
+            <Village id="village_comp_EN2_1" village_type="VillageType.fisherman" hearth="559" gate_rotation="0.758"
                      bound="Settlement.town_EN2" background_crop_position="0.0" background_mesh="gui_bg_village_empire"
                      wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire"/>
         </Components>
@@ -1778,11 +1778,11 @@
             <Area type="Bog" name="{=iXA5SttU}Bog"/>
         </CommonAreas>
     </Settlement>
-    <Settlement id="village_EN2_2" name="{=Settlements.Settlement.name.village_EN2_2}Jeracos" posX="570.299"
+    <Settlement id="village_EN2_2" name="{=Settlements.Settlement.name.village_EN2_2}Leufana" posX="570.299"
                 posY="1186.559" culture="Culture.cimbri"
                 text="{=Settlements.Settlement.text.village_EN2_2}Placeholder">
         <Components>
-            <Village id="village_comp_EN2_2" village_type="VillageType.silver_mine" hearth="705" gate_rotation="0.008"
+            <Village id="village_comp_EN2_2" village_type="VillageType.iron_mine" hearth="513" gate_rotation="0.008"
                      bound="Settlement.town_EN2" background_crop_position="0.0" background_mesh="gui_bg_village_empire"
                      wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire"/>
         </Components>
@@ -1795,9 +1795,9 @@
             <Area type="Bog" name="{=iXA5SttU}Bog"/>
         </CommonAreas>
     </Settlement>
-    <Settlement id="castle_EN2" name="{=Settlements.Settlement.name.castle_EN2}Lochana Castle"
+    <Settlement id="castle_EN2" name="{=Settlements.Settlement.name.castle_EN2}Vennesdal"
                 owner="Faction.clan_empire_north_6" posX="625.732" posY="1222.018" culture="Culture.cimbri"
-                prosperity="500" gate_posX="624.9712" gate_posY="1219.63">
+                prosperity="938" gate_posX="624.9712" gate_posY="1219.63">
         <Components>
             <Town id="castle_comp_EN2" is_castle="true" level="3" background_crop_position="0.0"
                   background_mesh="menu_empire_1" wait_mesh="wait_empire_town" gate_rotation="0.908"/>
@@ -1810,11 +1810,11 @@
             <Location id="prison" scene_name="empire_dungeon_a"/>
         </Locations>
     </Settlement>
-    <Settlement id="castle_village_EN2_1" name="{=Settlements.Settlement.name.castle_village_EN2_1}Lochana"
+    <Settlement id="castle_village_EN2_1" name="{=Settlements.Settlement.name.castle_village_EN2_1}Dybhus"
                 posX="602.906" posY="1199.454" culture="Culture.cimbri"
                 text="{=Settlements.Settlement.text.castle_village_EN2_1}Placeholder">
         <Components>
-            <Village id="castle_village_comp_EN2_1" village_type="VillageType.silk_plant" hearth="557"
+            <Village id="castle_village_comp_EN2_1" village_type="VillageType.wheat_farm" hearth="582"
                      gate_rotation="0.008" bound="Settlement.castle_EN2" background_crop_position="0.0"
                      background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village"
                      castle_background_mesh="gui_bg_castle_empire"/>
@@ -1828,11 +1828,11 @@
             <Area type="Bog" name="{=iXA5SttU}Bog"/>
         </CommonAreas>
     </Settlement>
-    <Settlement id="castle_village_EN2_2" name="{=Settlements.Settlement.name.castle_village_EN2_2}Nortanisa"
+    <Settlement id="castle_village_EN2_2" name="{=Settlements.Settlement.name.castle_village_EN2_2}Tamae"
                 posX="642.249" posY="1204.584" culture="Culture.cimbri"
                 text="{=Settlements.Settlement.text.village_EN4_3}Placeholder">
         <Components>
-            <Village id="castle_village_comp_EN2_2" village_type="VillageType.fisherman" hearth="346"
+            <Village id="castle_village_comp_EN2_2" village_type="VillageType.sturgian_horse_ranch" hearth="536"
                      gate_rotation="0.008" bound="Settlement.castle_EN2" background_crop_position="0.0"
                      background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village"
                      castle_background_mesh="gui_bg_castle_empire"/>
@@ -1966,7 +1966,7 @@
         </CommonAreas>
     </Settlement>
     <Settlement id="castle_EN4" name="{=Settlements.Settlement.name.castle_EN4}Gaos Castle"
-                owner="Faction.clan_empire_south_5" posX="585.254" posY="1065.383" culture="Culture.vlandia"
+                owner="Faction.clan_vlandia_11" posX="585.254" posY="1065.383" culture="Culture.vlandia"
                 prosperity="860" gate_posX="582.5021" gate_posY="1065.831">
         <Components>
             <Town id="castle_comp_EN4" is_castle="true" level="1" background_crop_position="0.0"
@@ -2417,7 +2417,7 @@
         </CommonAreas>
     </Settlement>
     <!-- Argoron, pre-calradic name for a citadel. Lucon -->
-    <Settlement id="town_EN4" name="{=Settlements.Settlement.name.town_EN4}Argoron" owner="Faction.clan_khuzait_6"
+    <Settlement id="town_EN4" name="{=Settlements.Settlement.name.town_EN4}Argoron" owner="Faction.clan_vlandia_11"
                 posX="667.634" posY="1062.391" culture="Culture.scordisci" prosperity="2800" gate_posX="667.5823"
                 gate_posY="1060.068"
                 text="{=LqPJY4s9}The city of Argoron sits where the cold, slow moving Nevys River meets Lake Laconis. This was once the land of the Laconians, who saw the Empire as a protector against the more warlike Palaic peoples. They welcomed and intermarried with imperial settlers and their chiefs joined the Senate, and their old language and customs faded away.">
@@ -3523,7 +3523,7 @@
         </CommonAreas>
     </Settlement>
     <Settlement id="castle_ES2" name="{=Settlements.Settlement.name.castle_ES2}Verona"
-                owner="Faction.clan_vlandia_11" posX="558.037" posY="991.792" culture="Culture.vlandia"
+                owner="Faction.clan_empire_south_5" posX="558.037" posY="991.792" culture="Culture.vlandia"
                 prosperity="770" gate_posX="557.3226" gate_posY="989.3167">
         <Components>
             <Town id="castle_comp_ES2" is_castle="true" level="3" background_crop_position="0.0"
@@ -3742,7 +3742,7 @@
         </CommonAreas>
     </Settlement>
     <Settlement id="castle_ES7" name="{=Settlements.Settlement.name.castle_ES7}Jogurys Castle"
-                owner="Faction.clan_empire_south_5" posX="614.324" posY="1038.803" culture="Culture.vlandia"
+                owner="Faction.clan_vlandia_11" posX="614.324" posY="1038.803" culture="Culture.vlandia"
                 prosperity="1050" gate_posX="617.2125" gate_posY="1038.126">
         <Components>
             <Town id="castle_comp_ES7" is_castle="true" level="1" background_crop_position="0.0"
@@ -3904,7 +3904,7 @@
             <Area type="Bog" name="{=iXA5SttU}Bog"/>
         </CommonAreas>
     </Settlement>
-    <Settlement id="town_ES2" name="{=Settlements.Settlement.name.town_ES2}Patavium" owner="Faction.clan_vlandia_11"
+    <Settlement id="town_ES2" name="{=Settlements.Settlement.name.town_ES2}Patavium" owner="Faction.clan_empire_south_5"
                 posX="603.038" posY="998.454" culture="Culture.vlandia" prosperity="5100" gate_posX="605.8843"
                 gate_posY="1002.373"
                 text="{=ytBRXqt8}Vostrum was founded by the Calradian mercenary Archacos, one of a number of rogue commanders who broke away from the empire during its expansion. Unlike some, who tried to reproduce the empire's republican heritage, he chose to rule as a god-king. His dynasty lasted for generations, until imperial troops overran it and smashed every haloed statue of Archacos and his successors into rubble. Even today, western and northern imperial senators accuse families from this region of being closet monarchists.">
@@ -6453,7 +6453,7 @@
 
 
     <!-- Khuzaits, 6 cities, 19 villages, 5 castles, 3.16 villages per town, 26% castle ratio  -->
-    <Settlement id="castle_K1" name="{=Settlements.Settlement.name.castle_K1}Usek Castle" owner="Faction.clan_khuzait_9"
+    <Settlement id="castle_K1" name="{=Settlements.Settlement.name.castle_K1}Usek Castle" owner="Faction.clan_khuzait_1"
                 posX="695.527" posY="975.302" culture="Culture.khuzait" prosperity="420" gate_posX="693.5497"
                 gate_posY="975.7935">
         <Components>
@@ -6574,7 +6574,7 @@
         </CommonAreas>
     </Settlement>
     <Settlement id="castle_K4" name="{=Settlements.Settlement.name.castle_K4}Tepes Castle"
-                owner="Faction.clan_khuzait_3" posX="822.776" posY="1221.531" culture="Culture.scythian"
+                owner="Faction.clan_empire_north_9" posX="822.776" posY="1221.531" culture="Culture.scythian"
                 prosperity="530"
                 gate_posX="820.9154" gate_posY="1220.952">
         <Components>
@@ -6643,7 +6643,7 @@
         </CommonAreas>
     </Settlement>
     <Settlement id="castle_K6" name="{=Settlements.Settlement.name.castle_K6}Dinar Castle"
-                owner="Faction.clan_empire_north_9" posX="810.641" posY="1062.959" culture="Culture.scythian"
+                owner="Faction.clan_khuzait_3" posX="810.641" posY="1062.959" culture="Culture.scythian"
                 prosperity="620" gate_posX="810.5973" gate_posY="1061.181">
         <Components>
             <Town id="castle_comp_K6" is_castle="true" level="2" background_crop_position="0.0"
@@ -6695,7 +6695,7 @@
         </CommonAreas>
     </Settlement>
     <Settlement id="castle_K7" name="{=Settlements.Settlement.name.castle_K7}Simira Castle"
-                owner="Faction.clan_khuzait_7" posX="732.369" posY="1061.611" culture="Culture.scordisci"
+                owner="Faction.clan_khuzait_6" posX="732.369" posY="1061.611" culture="Culture.scordisci"
                 prosperity="420" gate_posX="732.097" gate_posY="1059.826">
         <Components>
             <Town id="castle_comp_K7" is_castle="true" level="1" background_crop_position="0.0"
@@ -7011,7 +7011,7 @@
     </Settlement>
     <!-- clan 1, Urkhunait, lords 1, 7, 10, 13 -->
     <!-- swamp city, Atil -->
-    <Settlement id="town_K3" name="{=Settlements.Settlement.name.town_K3}Makeb" owner="Faction.clan_sturgia_3"
+    <Settlement id="town_K3" name="{=Settlements.Settlement.name.town_K3}Makeb" owner="Faction.clan_empire_north_1"
                 posX="663.068" posY="1166.37" culture="Culture.baltic" prosperity="3700" gate_posX="664.3403"
                 gate_posY="1164.609"
                 text="{=bPDqyqkb}Makeb sits on the northern tip of Lake Tanaesis, Tanaz in the steppe tongue. Here, it guards the cataract over which the Karakaz river empties into the lake. This city has long been ruled by petty khans and shahs, who collect tolls from traders forced to haul their boats around the rapids. The last of those rulers was beheaded by Urkhun himself after he refused a demand of tribute, after which the ruling family of the Khuzaits seized this town for themselves.">
@@ -7090,7 +7090,7 @@
         </CommonAreas>
     </Settlement>
     <!-- clan 2, Khergits. lords 3, 4f, 8, 14 -->
-    <Settlement id="town_K4" name="{=Settlements.Settlement.name.town_K4}Ortongard" owner="Faction.clan_khuzait_3"
+    <Settlement id="town_K4" name="{=Settlements.Settlement.name.town_K4}Ortongard" owner="Faction.clan_empire_north_9"
                 posX="805.803" posY="1183.145" culture="Culture.scythian" prosperity="3200" gate_posX="810.816"
                 gate_posY="1185.022"
                 text="{=Dxnj5JQE}Ortongard sits in the dry center of the Devseg plateau, which is dry for most of the year but offers rich grazing in the spring. Founded by Darshi-speaking merchants, it made its wealth buying horses, sheep and cattle from the surrounding herding villages and sending them west to the markets of the empire in huge drives, accompanied by guards to ward off raiders from the steppes. Neither its walls nor its mercenary armies could withstand the coming of Khan Urkhun, however, who it granted to the Khergit clan in recognition of their valor.">
@@ -7186,7 +7186,7 @@
             <Area type="Bog" name="{=iXA5SttU}Bog"/>
         </CommonAreas>
     </Settlement>
-    <Settlement id="town_K5" name="{=Settlements.Settlement.name.town_K5}Chaikand" owner="Faction.clan_khuzait_8"
+    <Settlement id="town_K5" name="{=Settlements.Settlement.name.town_K5}Chaikand" owner="Faction.clan_khuzait_6"
                 posX="698.757" posY="1015.879" culture="Culture.khuzait" prosperity="3900" gate_posX="701.2109"
                 gate_posY="1016.46"
                 text="{=SUnaVliN}Chaikand sits by the reed-marshes on the edge of Lake Tanaesis. In the years when the east was an imperial protectorate, boats laden with hides, wool and salt shuttled across the lake's placid waters, returning with imperial silks and silver. With the coming of the Khuzaits and the subsequent wars the water-trade stopped, but Chaikand remains a major trade entrepot and military base, the fief of the ruling Urkhunait clan. From the pavilions of his palace, the khan can look out across the lake and see the hazy outline of hills that he may one day graze his horses upon.">
@@ -7282,7 +7282,7 @@
             <Area type="Bog" name="{=iXA5SttU}Bog"/>
         </CommonAreas>
     </Settlement>
-    <Settlement id="town_K6" name="{=Settlements.Settlement.name.town_K6}Odokh" owner="Faction.clan_empire_north_9"
+    <Settlement id="town_K6" name="{=Settlements.Settlement.name.town_K6}Odokh" owner="Faction.clan_khuzait_3"
                 posX="758.574" posY="1117.888" culture="Culture.scythian" prosperity="1700" gate_posX="759.5419"
                 gate_posY="1115.559"
                 text="{=ygJkPxyc}The town of Odokh sits at the foot of Kohi Rohini, the mountains of the dawn. Among the most remote of the towns of the Devseg, it is reputed to have been the abode of King Ahhak, a mythical tyrant from whose shoulders flowed serpents. Even today the Kohi Rohini has a reputation for black magic and mystery that helps keep outsiders at bay. The city fell during the Khuzait conquest to the Harfit clan, who have intermarried with the mountain peoples, and who honor their customs, participate in their rituals, and keep their secrets.">

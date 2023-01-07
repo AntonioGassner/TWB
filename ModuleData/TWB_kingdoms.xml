@@ -1,24 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Kingdoms>
-    <!--kingdom factions-->
 
-    <Kingdom id="Scythia" owner="Hero.lord_NE9_l"
-             banner_key="11.25.10.4345.4345.764.764.1.0.0.449.11.0.327.349.764.649.0.0.0.449.11.0.319.339.764.879.0.0.180.510.11.0.351.240.634.764.0.0.180.510.11.0.351.240.894.764.0.0.180"
-             primary_banner_color="0xfff4ca14" secondary_banner_color="0xff6c1512" label_color="FFDB8330"
-             color="FF9E5072" color2="FFDE9953" alternative_color="FF1F1D1F" alternative_color2="FFc28446"
-             culture="Culture.scythian" settlement_banner_mesh="encounter_flag_a" flag_mesh="info_screen_flags_a"
-             name="{=yG3YUySN}Scythia" short_name="{=ZEmH0MwL}Scythians" title="{=yG3YUySN}Scythian Tribes"
-             ruler_title="{=Cheif123}Chieftian"
-             text="{=mOZsbV8j}The Scthians were a nomadic tribe of the Steppe. Many fear the brutal raids made by them.">
-        <relationships>
-            <relationship kingdom="Kingdom.Macedon" value="1" isAtWar="false"/>
-        </relationships>
-        <policies>
-            <policy id="policy_land_grants_for_veterans"/>
-        </policies>
-    </Kingdom>
-
-    <!--latin kingdom factions-->
+    <!--italian kingdom factions-->
 
     <Kingdom id="Rome" owner="Hero.lord_1_14"
              banner_key="34.142.148.2438.2270.760.779.0.0.0.500.143.122.844.823.758.762.0.0.0.106.143.143.664.614.754.769.0.1.0"
@@ -81,6 +64,17 @@
         <policies>
             <policy id="policy_royal_privilege"/>
         </policies>
+    </Kingdom>
+
+    <Kingdom id="Senones" owner="Hero.lord_1_63"
+             banner_key="31.129.22.1350.1350.764.764.0.0.45.139.129.129.320.320.764.764.0.0.0"
+             primary_banner_color="0xff000000" secondary_banner_color="0xff000000" label_color="ffB01301"
+             color="FF5C2017" color2="FFECBA44" alternative_color="FFDBBA27" alternative_color2="ff910101"
+             culture="Culture.vlandia" settlement_banner_mesh="encounter_flag_d" flag_mesh="info_screen_flags_c"
+             name="{=skicidbo}Senones" short_name="{=boiisuwa}Senones" title="{=slboiifu}Tribe of Senones"
+             ruler_title="{=hwnp9abW}King" text="{=dboii4i3}Senones master of padania.">
+        <relationships>
+        </relationships>
     </Kingdom>
 
     <!--greek kingdom factions-->
@@ -159,18 +153,6 @@
         </relationships>
     </Kingdom>
 
-    <Kingdom id="Ardiaei" owner="Hero.lord_6_20"
-             banner_key="11.10.10.1536.1536.764.764.1.0.0.461.11.11.497.497.764.764.1.0.0"
-             primary_banner_color="0xffe9e2c5" secondary_banner_color="0xff2C4D86" label_color="FF7CC8EB"
-             color="FF58888B" color2="FFCCBB89" alternative_color="FF787878" alternative_color2="FF6caecc"
-             culture="Culture.khuzait" settlement_banner_mesh="encounter_flag_f" flag_mesh="info_screen_flags_b"
-             name="{=Ardiaei}Ardiaei" short_name="{=Ardiaei1}Ardiaeii" title="{=Ardiaei2}Ardiaei Tribe"
-             ruler_title="{=hwnp9abW}King" text="{=Ardiaei3}The Ardiaei are an Illyrian tribe">
-        <relationships>
-            <relationship kingdom="Kingdom.Macedon" value="-1" isAtWar="true"/>
-        </relationships>
-    </Kingdom>
-
     <!--germanic/baltic kingdom factions-->
 
     <Kingdom id="Cimbri" owner="Hero.lord_1_50"
@@ -222,35 +204,10 @@
         </relationships>
     </Kingdom>
 
-    <Kingdom id="Pomeranians" owner="Hero.lord_NE8_l"
-             banner_key="11.71.4.4345.4345.764.764.1.0.0.502.5.0.510.510.764.764.0.0.0.338.5.0.487.487.764.764.0.0.0.503.5.0.109.109.764.624.0.0.0"
-             primary_banner_color="0xff224277" secondary_banner_color="0xffCEDAE7" label_color="FF1856A1"
-             color="FF1C2A50" color2="FF949CCC" alternative_color="FFFFFFFF" alternative_color2="FF2A4B78"
-             culture="Culture.baltic" settlement_banner_mesh="encounter_flag_b" flag_mesh="info_screen_flags_c"
-             name="{=Pomeranian}Pomeranian" short_name="{=Pomeranians1}Pomeranians"
-             title="{=Pomeranians2}Pomeranian Tribe" ruler_title="{=hwnp9abW}King"
-             text="{=Pomeranians3}The Pomeranians dwell in the lands along the southern coast of the Baltic sea. they are a hardy and strong people who often found themselves defending their holdings from Scythian raids.">
-        <relationships>
-            <relationship kingdom="Kingdom.Suiones" value="1" isAtWar="false"/>
-        </relationships>
-    </Kingdom>
-
-    <Kingdom id="Sweboz" owner="Hero.lord_1_1"
-             banner_key="11.12.12.4345.4345.764.764.1.0.0.462.13.13.512.512.764.764.1.0.0"
-             primary_banner_color="0xff714214" secondary_banner_color="0xffcac1ba" label_color="FF1856A1"
-             color="FF1C2A50" color2="FF949CCC" alternative_color="FFFFFFFF" alternative_color2="FF2A4B78"
-             culture="Culture.sturgia" settlement_banner_mesh="encounter_flag_b" flag_mesh="info_screen_flags_c"
-             name="{=Sweboz16}Sweboz" short_name="{=SwebozqLO}Sweboz" title="{=SwebozuQ}Sweboz Tribe"
-             ruler_title="{=hwnp9abW}King" text="{=Sweboz7Uu}The Germanic Sweboz Tribes">
-        <relationships>
-            <relationship kingdom="Kingdom.Treverii" value="-1" isAtWar="true"/>
-        </relationships>
-    </Kingdom>
-
     <Kingdom id="Teutones" owner="Hero.lord_6_17"
-             banner_key="11.12.12.4345.4345.764.764.1.0.0.462.13.13.512.512.764.764.1.0.0"
-             primary_banner_color="0xff8d291a" secondary_banner_color="0xffb6aba7" label_color="FF1856A1"
-             color="FF1C2A50" color2="FF949CCC" alternative_color="FFFFFFFF" alternative_color2="FF2A4B78"
+             banner_key="31.22.18.935.918.764.764.0.0.45.515.22.22.209.209.764.764.0.0.0.150.116.116.610.610.750.595.0.1.10.217.22.22.230.230.934.934.0.1.45.217.22.22.230.230.594.934.0.1.-45"
+             primary_banner_color="0xff000000" secondary_banner_color="0xff000000" label_color="FF1856A1"
+             color="FFaec382" color2="FFf5f5f5" alternative_color="FFFFFFFF" alternative_color2="FF2A4B78"
              culture="Culture.sturgia" settlement_banner_mesh="encounter_flag_b" flag_mesh="info_screen_flags_c"
              name="{=Teutones1}Teutones" short_name="{=Teutones2}Teutones" title="{=Teutones3}Teutones Tribes"
              ruler_title="{=hwnp9abW}King" text="{=Teutones4}The Germanic Teutones Tribes">
@@ -259,7 +216,73 @@
         </relationships>
     </Kingdom>
 
+<!--    new-->
+    <Kingdom id="Rugii" owner="Hero.lord_NE8_l"
+             banner_key="11.71.4.4345.4345.764.764.1.0.0.502.5.0.510.510.764.764.0.0.0.338.5.0.487.487.764.764.0.0.0.503.5.0.109.109.764.624.0.0.0"
+             primary_banner_color="0xff224277" secondary_banner_color="0xffCEDAE7" label_color="FF1856A1"
+             color="FF1C2A50" color2="FF949CCC" alternative_color="FFFFFFFF" alternative_color2="FF2A4B78"
+             culture="Culture.baltic" settlement_banner_mesh="encounter_flag_b" flag_mesh="info_screen_flags_c"
+             name="{=Rugii}Rugii" short_name="{=Rugii1}Rugii"
+             title="{=Rugii2}Rugii Tribe" ruler_title="{=hwnp9abW}King"
+             text="{=Rugii3}The Rugii dwell in the lands along the southern coast of the Baltic sea. they are a hardy and strong people who often found themselves defending their holdings from Gepid raids.">
+        <relationships>
+            <relationship kingdom="Kingdom.Suiones" value="1" isAtWar="false"/>
+        </relationships>
+    </Kingdom>
+
+    <Kingdom id="Burgundiones" owner="Hero.lord_1_1"
+             banner_key="11.22.22.690.800.763.764.0.0.0.316.77.82.627.627.764.764.0.0.0.336.22.82.392.392.764.764.0.0.0"
+             primary_banner_color="0xff714214" secondary_banner_color="0xffcac1ba" label_color="FF1856A1"
+             color="FF1C2A50" color2="FF949CCC" alternative_color="FFFFFFFF" alternative_color2="FF2A4B78"
+             culture="Culture.sturgia" settlement_banner_mesh="encounter_flag_b" flag_mesh="info_screen_flags_c"
+             name="{=Burgundiones16}Burgundiones" short_name="{=BurgundionesqLO}Burgundiones" title="{=BurgundionesuQ}Burgundiones Tribe"
+             ruler_title="{=hwnp9abW}King" text="{=Burgundiones7Uu}The Germanic Burgundiones Tribes">
+        <relationships>
+            <relationship kingdom="Kingdom.Frisones" value="-1" isAtWar="true"/>
+        </relationships>
+    </Kingdom>
+
+    <Kingdom id="Helveconae" owner="Hero.lord_6_5"
+             banner_key="11.12.12.4345.4345.764.764.1.0.0.462.13.13.512.512.764.764.1.0.0"
+             primary_banner_color="0xff714214" secondary_banner_color="0xffcac1ba" label_color="FF1856A1"
+             color="FF1C2A50" color2="FF949CCC" alternative_color="FFFFFFFF" alternative_color2="FF2A4B78"
+             culture="Culture.sturgia" settlement_banner_mesh="encounter_flag_b" flag_mesh="info_screen_flags_c"
+             name="{=Helveconae}Helveconae" short_name="{=Helveconae}Helveconae" title="{=Helveconae}Helveconae Tribe"
+             ruler_title="{=hwnp9abW}King" text="{=Helveconae}The Germanic Helveconae Tribes">
+        <relationships>
+        </relationships>
+    </Kingdom>
+
+    <Kingdom id="Gepids" owner="Hero.lord_NE9_l"
+             banner_key="26.104.37.690.800.763.764.0.0.0.313.116.82.627.627.736.821.0.0.0"
+             primary_banner_color="0xfff4ca14" secondary_banner_color="0xff6c1512" label_color="FFDB8330"
+             color="FF9E5072" color2="FFDE9953" alternative_color="FF1F1D1F" alternative_color2="FFc28446"
+             culture="Culture.scythian" settlement_banner_mesh="encounter_flag_a" flag_mesh="info_screen_flags_a"
+             name="{=yG3YUySN}Gepids" short_name="{=ZEmH0MwL}Gepids" title="{=yG3YUySN}Gepids Tribes"
+             ruler_title="{=Cheif123}Chieftian"
+             text="{=mOZsbV8j}The Scthians were a nomadic tribe of the Steppe. Many fear the brutal raids made by them.">
+        <relationships>
+        </relationships>
+        <policies>
+            <policy id="policy_land_grants_for_veterans"/>
+        </policies>
+    </Kingdom>
+
+    <!--    <Kingdom id="Ardiaei" owner="Hero.lord_6_20"-->
+    <!--             banner_key="11.10.10.1536.1536.764.764.1.0.0.461.11.11.497.497.764.764.1.0.0"-->
+    <!--             primary_banner_color="0xffe9e2c5" secondary_banner_color="0xff2C4D86" label_color="FF7CC8EB"-->
+    <!--             color="FF58888B" color2="FFCCBB89" alternative_color="FF787878" alternative_color2="FF6caecc"-->
+    <!--             culture="Culture.khuzait" settlement_banner_mesh="encounter_flag_f" flag_mesh="info_screen_flags_b"-->
+    <!--             name="{=Ardiaei}Ardiaei" short_name="{=Ardiaei1}Ardiaeii" title="{=Ardiaei2}Ardiaei Tribe"-->
+    <!--             ruler_title="{=hwnp9abW}King" text="{=Ardiaei3}The Ardiaei are an Illyrian tribe">-->
+    <!--        <relationships>-->
+    <!--            <relationship kingdom="Kingdom.Macedon" value="-1" isAtWar="true"/>-->
+    <!--        </relationships>-->
+    <!--    </Kingdom>-->
+
     <!--celtic kingdom factions-->
+
+<!--    gallic  -->
 
     <Kingdom id="Scordisci" owner="Hero.lord_6_18"
              banner_key="34.122.92.1836.1593.760.799.1.1.0.500.144.22.582.532.772.796.1.1.0.406.120.142.338.309.771.793.1.1.0"
@@ -273,8 +296,19 @@
         </relationships>
     </Kingdom>
 
+    <Kingdom id="Allobrogeni" owner="Hero.lord_1_20"
+             banner_key="24.35.145.690.800.764.764.0.0.0.429.22.129.627.627.590.767.0.0.0.429.22.129.627.627.931.767.0.0.0"
+             primary_banner_color="0xff8D291A" secondary_banner_color="0xffF7BF46" label_color="ffB01301"
+             color="FF5C2017" color2="FFECBA44" alternative_color="FFDBBA27" alternative_color2="ff910101"
+             culture="Culture.vlandia" settlement_banner_mesh="encounter_flag_d" flag_mesh="info_screen_flags_c"
+             name="{=FjwRsf1C}Allobrogeni" short_name="{=8HMyTKF6}Allobrogeni" title="{=lAWwcO6b}Tribe of Allobrogeni"
+             ruler_title="{=hwnp9abW}King" text="{=IudGLWQZ}Placeholder">
+        <relationships>
+        </relationships>
+    </Kingdom>
+
     <Kingdom id="Aedui" owner="Hero.lord_4_3"
-             banner_key="11.14.14.1536.1536.764.764.1.0.0.160.15.15.497.497.764.764.1.0.0"
+             banner_key="13.116.16.831.1117.762.576.0.0.0.437.22.129.627.627.764.764.0.0.0"
              primary_banner_color="0xff8D291A" secondary_banner_color="0xffF7BF46" label_color="ffB01301"
              color="FF5C2017" color2="FFECBA44" alternative_color="FFDBBA27" alternative_color2="ff910101"
              culture="Culture.vlandia" settlement_banner_mesh="encounter_flag_d" flag_mesh="info_screen_flags_c"
@@ -321,6 +355,17 @@
         </relationships>
     </Kingdom>
 
+    <Kingdom id="Volcae" owner="Hero.lord_4_16"
+             banner_key="11.22.22.690.800.763.764.0.0.0.406.82.82.627.627.764.764.0.0.0"
+             primary_banner_color="0xffA34402" secondary_banner_color="0xff7F8CC0" label_color="ffB01301"
+             color="FF5C2017" color2="FFECBA44" alternative_color="FFDBBA27" alternative_color2="ff910101"
+             culture="Culture.vlandia" settlement_banner_mesh="encounter_flag_d" flag_mesh="info_screen_flags_c"
+             name="{=Nrbnsisa}Volcae" short_name="{=aquitani}Volcae" title="{=lAWwcani}Tribe of Volcae"
+             ruler_title="{=hwnp9abW}King" text="{=IudGLWQZ}The Tribe of Volcae control the Southern Gallic lands.">
+        <relationships>
+        </relationships>
+    </Kingdom>
+
     <Kingdom id="Helvetii" owner="Hero.lord_4_27"
              banner_key="11.71.14.4922.4922.764.764.1.0.0.335.15.0.499.499.764.764.0.0.0.336.15.0.186.186.764.744.0.0.0"
              primary_banner_color="0xffc3c3c3" secondary_banner_color="0xffDEA940" label_color="ffB01301"
@@ -346,17 +391,30 @@
         </relationships>
     </Kingdom>
 
-    <Kingdom id="Treverii" owner="Hero.lord_1_5"
+    <Kingdom id="Belgae" owner="Hero.lord_4_24"
+             banner_key="27.133.91.1000.1000.764.764.0.0.0.415.22.129.627.627.764.764.0.0.0"
+             primary_banner_color="0xff000000" secondary_banner_color="0xff000000" label_color="FF55831A"
+             color="FF2D3F1D" color2="FFBFCBB0" alternative_color="FFD69516" alternative_color2="FF55831A"
+             culture="Culture.vlandia" settlement_banner_mesh="encounter_flag_d" flag_mesh="info_screen_flags_c"
+             name="{=Belgae}Belgae" short_name="{=Belgae}Belgae" title="{=Belgae}Tribe of Belgae"
+             ruler_title="{=hwnp9abW}King" text="{=Belgae}Placeholder">
+        <relationships>
+        </relationships>
+    </Kingdom>
+
+    <Kingdom id="Frisones" owner="Hero.lord_1_5"
              banner_key="34.126.126.2438.2270.760.779.0.0.0.510.142.143.119.160.655.798.0.0.179.500.91.143.866.803.754.783.0.0.0.510.142.143.135.348.767.742.0.0.89.510.142.143.119.160.831.798.0.0.179.510.142.143.167.348.724.748.0.0.-91.510.142.143.103.348.769.881.0.1.90.510.142.143.119.160.833.851.0.1.0.510.142.143.115.155.836.687.0.1.0.510.142.143.115.155.667.693.0.1.0.510.142.143.288.188.751.637.0.0.0.510.91.143.474.410.764.662.0.0.0.503.91.122.213.184.544.658.0.0.0.503.91.122.213.184.963.660.0.0.0.500.142.143.165.153.544.657.0.0.0.510.142.143.119.160.654.849.0.0.-1.510.142.143.103.348.718.879.0.0.-91.500.142.143.165.153.965.661.0.0.0.510.122.143.436.410.744.823.0.0.-91.510.91.143.324.304.744.823.0.0.-1.503.91.122.213.184.742.993.0.0.0.500.142.143.165.153.744.994.0.0.0"
              primary_banner_color="0xff000000" secondary_banner_color="0xff000000" label_color="FF55831A"
              color="FF2D3F1D" color2="FFBFCBB0" alternative_color="FFD69516" alternative_color2="FF55831A"
              culture="Culture.vlandia" settlement_banner_mesh="encounter_flag_d" flag_mesh="info_screen_flags_c"
-             name="{=Treverii}Treverii" short_name="{=Trever12}Treverii" title="{=Treveri1}Tribe of Treverii"
-             ruler_title="{=hwnp9abW}King" text="{=Trever21}The Treverii Tribe dwells in the region of Belgica.">
+             name="{=Frisones}Frisones" short_name="{=Trever12}Frisones" title="{=Treveri1}Tribe of Frisones"
+             ruler_title="{=hwnp9abW}King" text="{=Trever21}Placeholder.">
         <relationships>
-            <relationship kingdom="Kingdom.Sweboz" value="-1" isAtWar="true"/>
+            <relationship kingdom="Kingdom.Burgundiones" value="-1" isAtWar="true"/>
         </relationships>
     </Kingdom>
+
+<!--    britones    -->
 
     <Kingdom id="Caledones" owner="Hero.lord_5_1"
              banner_key="11.146.141.2163.2044.764.764.0.1.180.500.24.24.677.616.763.758.0.1.0.114.24.24.439.467.736.756.0.0.0"
@@ -394,6 +452,7 @@
         </relationships>
     </Kingdom>
 
+<!--    gaelic  -->
 
     <Kingdom id="Heremon"
              owner="Hero.lord_5_5"
@@ -440,8 +499,6 @@
 
         </relationships>
     </Kingdom>
-
-
 
     <!--desert kingdom factions-->
     <Kingdom id="Carthage" owner="Hero.lord_3_1"
