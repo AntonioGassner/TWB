@@ -575,7 +575,7 @@
              culture="Culture.sturgia"
              super_faction="Kingdom.Burgundiones"
              is_noble="true"
-           banner_key="111.22.22.690.800.763.764.0.0.0.316.77.82.627.627.764.764.0.0.0.336.22.82.392.392.764.764.0.0.0" />
+           banner_key="11.22.22.690.800.763.764.0.0.0.316.77.82.627.627.764.764.0.0.0.336.22.82.392.392.764.764.0.0.0"/>
     <Faction id="clan_battania_5"
              name="{=ObBvcDhJ}fen Giall"
              tier="2"
@@ -583,8 +583,7 @@
              culture="Culture.sturgia"
              super_faction="Kingdom.Burgundiones"
              is_noble="true"
-           banner_key="11.22.22.690.800.763.764.0.0.0.316.77.82.627.627.764.764.0.0.0.336.22.82.392.392.764.764.0.0.0"/>
-
+             banner_key="11.22.22.690.800.763.764.0.0.0.316.77.82.627.627.764.764.0.0.0.336.22.82.392.392.764.764.0.0.0"/>
     <!--    EPIRUS  -->
     <Faction id="clan_empire_north_7"
              name="{=CibaXzG8}Phalentes"
@@ -761,15 +760,7 @@
              super_faction="Kingdom.Carthage"
              is_noble="true"
            banner_key="11.101.75.4345.4345.764.764.1.0.0.212.1.0.454.454.764.764.0.0.359" />
-    <Faction id="clan_aserai_2"
-             name="{=fvYgmrjG}Banu Sarran"
-             tier="4"
-             owner="Hero.lord_3_3"
-             culture="Culture.aserai"
-             super_faction="Kingdom.Carthage"
-             is_noble="true"
-           banner_key="34.111.142.2240.2217.766.758.0.0.0.427.126.142.223.233.750.550.0.1.180.503.126.142.167.175.750.592.0.1.180.450.145.145.377.394.748.843.0.1.0.510.145.142.117.221.642.750.0.1.-90.510.145.142.117.221.857.756.0.1.-90.500.126.142.780.817.760.752.0.1.180" />
-    <Faction id="clan_aserai_3"
+  <Faction id="clan_aserai_3"
              name="{=wFR1ukg9}Banu Qild"
              tier="5"
              owner="Hero.lord_3_5"
@@ -777,6 +768,16 @@
              super_faction="Kingdom.Carthage"
              is_noble="true"
            banner_key="34.142.142.2240.2217.766.758.0.0.0.427.111.142.223.233.750.550.0.1.180.503.111.142.167.175.750.592.0.1.180.450.111.145.377.394.748.843.0.1.0.510.111.142.117.221.642.750.0.1.-90.510.111.142.117.221.857.756.0.1.-90.500.111.142.780.817.760.752.0.1.180" />
+
+<!--    LIXOS - PUNIC   -->
+    <Faction id="clan_aserai_2"
+             name="{=fvYgmrjG}Banu Sarran"
+             tier="4"
+             owner="Hero.lord_3_3"
+             culture="Culture.aserai"
+             super_faction="Kingdom.Lixos"
+             is_noble="true"
+             banner_key="34.111.142.2240.2217.766.758.0.0.0.427.126.142.223.233.750.550.0.1.180.503.126.142.167.175.750.592.0.1.180.450.145.145.377.394.748.843.0.1.0.510.145.142.117.221.642.750.0.1.-90.510.145.142.117.221.857.756.0.1.-90.500.126.142.780.817.760.752.0.1.180" />
 
     <!-- MAURI -->
     <Faction id="clan_aserai_5"
@@ -861,32 +862,34 @@
              super_faction="Kingdom.Cantabri"
              is_noble="true"
            banner_key="34.24.23.2163.2044.764.764.0.1.180.500.144.144.690.674.755.767.0.1.0.406.144.144.234.229.756.696.0.1.0.413.144.144.159.155.630.857.0.1.0.413.144.144.159.155.861.857.0.1.0" />
+
+<!--    AREVACI -->
     <Faction id="clan_empire_west_4"
-             name="{=xqkKtWqa}Elaches"
+             name="{=xqkKtWqa}Arevaci"
              tier="4"
              owner="Hero.lord_1_40"
              culture="Culture.cantabri"
-             super_faction="Kingdom.Cantabri"
+             super_faction="Kingdom.Arevaci"
              is_noble="true"
-           banner_key="34.24.23.2163.2044.764.764.0.1.180.500.144.144.690.674.755.767.0.1.0.139.144.144.459.448.764.764.0.0.0" />
+           banner_key="24.94.22.690.800.763.764.0.0.0.153.77.138.300.300.931.764.0.1.0.153.82.82.300.300.596.764.0.0.0.201.143.143.361.361.764.602.0.0.0" />
 
-<!--    CARTHAGO NOVA   -->
+<!--    IBERIAN   -->
     <Faction id="clan_empire_west_6"
              name="{=ApJrV7bA}Sorados"
              tier="5"
              owner="Hero.lord_1_52"
-             culture="Culture.carthago_nova"
-             super_faction="Kingdom.Carthago_Nova"
+             culture="Culture.celtiberian"
+             super_faction="Kingdom.Iberians"
              is_noble="true"
-           banner_key="34.142.142.2240.2217.766.758.0.0.0.450.111.145.377.394.751.771.0.1.0.510.111.142.117.221.645.678.0.1.-90.510.111.142.117.221.860.684.0.1.-90.500.111.142.794.827.756.750.0.1.-90" />
+           banner_key="11.22.22.690.800.763.764.0.0.0.113.77.138.627.627.764.764.0.0.0.222.82.82.175.175.805.730.0.0.0" />
     <Faction id="clan_empire_west_7"
              name="{=bjemmmcF}Corenios"
              tier="4"
              owner="Hero.lord_1_53"
-             culture="Culture.carthago_nova"
-             super_faction="Kingdom.Carthago_Nova"
+             culture="Culture.celtiberian"
+             super_faction="Kingdom.Iberians"
              is_noble="true"
-           banner_key="34.142.142.2240.2217.766.758.0.0.0.450.111.145.377.394.751.771.0.1.0.510.111.142.117.221.645.678.0.1.-90.510.111.142.117.221.860.684.0.1.-90.500.111.142.794.827.756.750.0.1.-90" />
+           banner_key="11.22.22.690.800.763.764.0.0.0.113.77.138.627.627.764.764.0.0.0.222.82.82.175.175.805.730.0.0.0" />
 
 <!--    EMPORION    -->
     <Faction id="clan_empire_west_8"
@@ -978,25 +981,27 @@
              culture="Culture.libyan"
              super_faction="Kingdom.Garamantes"
              is_noble="true"
-           banner_key="34.126.122.2163.2044.764.764.0.0.0.500.92.126.728.700.752.763.0.0.0.144.122.126.596.573.762.744.0.1.359" />
+             banner_key="34.122.122.2163.2044.764.764.0.0.0.427.126.126.266.115.759.708.0.0.179.510.126.126.481.235.764.764.0.0.89.427.126.126.266.115.761.566.0.0.179.427.126.126.266.115.761.640.0.0.179.506.39.126.167.72.692.791.0.0.270.506.39.126.167.72.827.797.0.0.270.211.39.126.81.74.771.510.0.0.1.500.126.126.662.646.760.754.0.0.1" />
 
-<!--    MASSYLII    -->
+<!--    Numidia West    -->
     <Faction id="clan_aserai_8"
              name="{=o4wKMT9x}Banu Habbab"
              tier="4"
              owner="Hero.lord_3_22"
              culture="Culture.massylii"
-             super_faction="Kingdom.Massylii"
+             super_faction="Kingdom.Numidia_west"
              is_noble="true"
            banner_key="34.146.141.2163.2044.764.764.0.1.180.500.80.80.668.653.752.764.0.1.0.130.80.80.459.448.732.734.0.1.0" />
+
+<!--    numidia east-->
     <Faction id="clan_aserai_9"
              name="{=NI1paia1}Banu Ruwaid"
              tier="3"
              owner="Hero.lord_A9_l"
              culture="Culture.massylii"
-             super_faction="Kingdom.Massylii"
+             super_faction="Kingdom.Numidia_east"
              is_noble="true"
-           banner_key="34.146.141.2163.2044.764.764.0.1.180.500.80.80.735.719.752.764.0.1.0.344.80.80.506.494.730.753.0.0.0.510.80.80.262.183.765.616.0.0.-29" />
+             banner_key="34.122.122.2163.2044.764.764.0.0.0.427.126.126.266.115.759.708.0.0.179.510.126.126.481.235.764.764.0.0.89.427.126.126.266.115.761.566.0.0.179.427.126.126.266.115.761.640.0.0.179.506.39.126.167.72.692.791.0.0.270.506.39.126.167.72.827.797.0.0.270.211.39.126.81.74.771.510.0.0.1.500.126.126.662.646.760.754.0.0.1" />
 
 <!--    AEDUI   -->
     <Faction id="clan_vlandia_2"
@@ -1027,7 +1032,6 @@
              super_faction="Kingdom.Aquitani"
              is_noble="true"
            banner_key="1.87.137.690.800.763.764.0.0.0.416.144.144.627.627.764.764.0.0.0" />
-
 <!--    1.87.137.690.800.763.764.0.0.0.416.144.144.627.627.764.764.0.0.0-->
 
 <!--    VOLCAE  -->

@@ -232,7 +232,7 @@
 
     <Kingdom id="Burgundiones" owner="Hero.lord_1_1"
              banner_key="11.22.22.690.800.763.764.0.0.0.316.77.82.627.627.764.764.0.0.0.336.22.82.392.392.764.764.0.0.0"
-             primary_banner_color="0xff714214" secondary_banner_color="0xffcac1ba" label_color="FF1856A1"
+             primary_banner_color="0xff000000" secondary_banner_color="0xff000000" label_color="FF1856A1"
              color="FF1C2A50" color2="FF949CCC" alternative_color="FFFFFFFF" alternative_color2="FF2A4B78"
              culture="Culture.sturgia" settlement_banner_mesh="encounter_flag_b" flag_mesh="info_screen_flags_c"
              name="{=Burgundiones16}Burgundiones" short_name="{=BurgundionesqLO}Burgundiones" title="{=BurgundionesuQ}Burgundiones Tribe"
@@ -503,7 +503,7 @@
     <!--desert kingdom factions-->
     <Kingdom id="Carthage" owner="Hero.lord_3_1"
              banner_key="26.8.71.2219.2100.765.768.0.0.0.427.143.142.223.233.746.608.0.1.0.450.143.142.377.394.748.843.0.1.0.510.143.142.117.221.642.750.0.1.-90.510.143.142.117.221.857.756.0.1.-90"
-             primary_banner_color="793191" secondary_banner_color="f4ca14" label_color="ffB01301" color="FF5C2017"
+             primary_banner_color="0xff000000" secondary_banner_color="0xff000000" label_color="ffB01301" color="FF5C2017"
              color2="FFECBA44" alternative_color="FFDBBA27" alternative_color2="ff910101" culture="Culture.aserai"
              settlement_banner_mesh="encounter_flag_d" flag_mesh="info_screen_flags_c" name="{=Carthage}Carthage"
              short_name="{=Carthaginian}Carthaginian" title="{=lAWwcO6b}Kingdom of Carthage"
@@ -521,13 +521,13 @@
              short_name="{=Maurian}Maurian" title="{=Mauri2}Kingdom of Mauri" ruler_title="{=monarch}Monarch"
              text="{=Mauri3)Its native inhabitants, seminomadic pastoralists">
         <relationships>
-            <relationship kingdom="Kingdom.Massylii" value="1" isAtWar="false"/>
+            <relationship kingdom="Kingdom.Numidia_west" value="1" isAtWar="false"/>
         </relationships>
     </Kingdom>
 
     <Kingdom id="Garamantes" owner="Hero.lord_3_18"
              banner_key="34.122.122.2163.2044.764.764.0.0.0.427.126.126.266.115.759.708.0.0.179.510.126.126.481.235.764.764.0.0.89.427.126.126.266.115.761.566.0.0.179.427.126.126.266.115.761.640.0.0.179.506.39.126.167.72.692.791.0.0.270.506.39.126.167.72.827.797.0.0.270.211.39.126.81.74.771.510.0.0.1.500.126.126.662.646.760.754.0.0.1"
-             primary_banner_color="7f6b60" secondary_banner_color="b6aba7" label_color="ffB01301" color="FF5C2017"
+             primary_banner_color="0xff000000" secondary_banner_color="0xff000000" label_color="ffB01301" color="FF5C2017"
              color2="FFECBA44" alternative_color="FFDBBA27" alternative_color2="ff910101" culture="Culture.libyan"
              settlement_banner_mesh="encounter_flag_d" flag_mesh="info_screen_flags_c" name="{=Garamantes}Garamantes"
              short_name="{=Garamantes1}Garamantian" title="{=Garamantes2}Kingdom of Garamantia"
@@ -537,15 +537,39 @@
         </relationships>
     </Kingdom>
 
-    <Kingdom id="Massylii" owner="Hero.lord_3_22"
+    <Kingdom id="Numidia_west" owner="Hero.lord_3_22"
              banner_key="34.146.141.2163.2044.764.764.0.1.180.500.80.80.668.653.752.764.0.1.0.130.80.80.459.448.732.734.0.1.0"
-             primary_banner_color="7f6b60" secondary_banner_color="b6aba7" label_color="ffB01301" color="FF5C2017"
+             primary_banner_color="0xff000000" secondary_banner_color="0xff000000" label_color="ffB01301" color="FF5C2017"
              color2="FFECBA44" alternative_color="FFDBBA27" alternative_color2="ff910101" culture="Culture.massylii"
              settlement_banner_mesh="encounter_flag_d" flag_mesh="info_screen_flags_c" name="{=Massylii}Massylii"
-             short_name="{=Massylii1}Massylii" title="{=Massylii2}Kingdom of Massylii" ruler_title="{=monarch}Monarch"
+             short_name="{=Numidia_west1}Numidia_west" title="{=Numidia_west2}Kingdom of Numidia_west" ruler_title="{=monarch}Monarch"
+             text="{=Numidia_west3)Its native inhabitants, seminomadic pastoralists">
+        <relationships>
+            <relationship kingdom="Kingdom.Carthage" value="1" isAtWar="false"/>
+        </relationships>
+    </Kingdom>
+
+    <Kingdom id="Numidia_east" owner="Hero.lord_A9_l"
+             banner_key="34.122.122.2163.2044.764.764.0.0.0.427.126.126.266.115.759.708.0.0.179.510.126.126.481.235.764.764.0.0.89.427.126.126.266.115.761.566.0.0.179.427.126.126.266.115.761.640.0.0.179.506.39.126.167.72.692.791.0.0.270.506.39.126.167.72.827.797.0.0.270.211.39.126.81.74.771.510.0.0.1.500.126.126.662.646.760.754.0.0.1"
+             primary_banner_color="0xff000000" secondary_banner_color="0xff000000" label_color="ffB01301" color="FF5C2017"
+             color2="FFECBA44" alternative_color="FFDBBA27" alternative_color2="ff910101" culture="Culture.massylii"
+             settlement_banner_mesh="encounter_flag_d" flag_mesh="info_screen_flags_c" name="{=Massylii}Numidia"
+             short_name="{=Massylii1}Numidia" title="{=Massylii2}Kingdom of Eastern Numidia" ruler_title="{=monarch}Monarch"
              text="{=Massylii3)Its native inhabitants, seminomadic pastoralists">
         <relationships>
             <relationship kingdom="Kingdom.Carthage" value="1" isAtWar="false"/>
+        </relationships>
+    </Kingdom>
+
+    <Kingdom id="Lixos" owner="Hero.lord_3_3"
+             banner_key="34.111.142.2240.2217.766.758.0.0.0.427.126.142.223.233.750.550.0.1.180.503.126.142.167.175.750.592.0.1.180.450.145.145.377.394.748.843.0.1.0.510.145.142.117.221.642.750.0.1.-90.510.145.142.117.221.857.756.0.1.-90.500.126.142.780.817.760.752.0.1.180"
+             primary_banner_color="0xff000000" secondary_banner_color="0xff000000" label_color="ffB01301" color="FF5C2017"
+             color2="FFECBA44" alternative_color="FFDBBA27" alternative_color2="ff910101" culture="Culture.aserai"
+             settlement_banner_mesh="encounter_flag_d" flag_mesh="info_screen_flags_c" name="{=Carthage}Lixos"
+             short_name="{=Carthaginian}Lixos" title="{=lAWwcO6b}Lixos"
+             ruler_title="{=monarch}Sopht" text="{=IudGLWQZ}Lixos, punic colony.">
+        <relationships>
+            <relationship kingdom="Kingdom.Garamantes" value="-1" isAtWar="true"/>
         </relationships>
     </Kingdom>
 
@@ -576,6 +600,19 @@
         </relationships>
     </Kingdom>
 
+    <Kingdom id="Arevaci" owner="Hero.lord_1_40"
+             banner_key="24.94.22.690.800.763.764.0.0.0.153.77.138.300.300.931.764.0.1.0.153.82.82.300.300.596.764.0.0.0.201.143.143.361.361.764.602.0.0.0"
+             primary_banner_color="0xff000000" secondary_banner_color="0xff000000" label_color="FF55831A" color="FF2D3F1D"
+             color2="FFBFCBB0" alternative_color="FFD69516" alternative_color2="FF55831A" culture="Culture.cantabri"
+             settlement_banner_mesh="encounter_flag_e" flag_mesh="info_screen_flags_b" name="{=Cantabri1}Arevaci"
+             short_name="{=Cantabrians2}Arevaci" title="{=Lusitani3}Kingdom Of Arevaci"
+             ruler_title="{=Cantabri4}King"
+             text="{=Lusitani5}Arevaci, the land of the Arevaci originally comprised much of the highlands of the northern Spanish Atlantic coast including the whole of modern Cantabria province">
+        <relationships>
+            <relationship kingdom="Kingdom.Massilia" value="1" isAtWar="false"/>
+        </relationships>
+    </Kingdom>
+
     <Kingdom id="Gallaeci" owner="Hero.lord_1_45"
              banner_key="34.116.125.2163.2044.764.764.0.1.180.500.145.144.722.705.755.767.0.1.0.406.145.144.594.620.750.765.0.1.89.407.145.144.162.169.752.767.0.1.89"
              primary_banner_color="0xfff0e0a5" secondary_banner_color="0xff3a6298" label_color="FF55831A"
@@ -588,14 +625,14 @@
         </relationships>
     </Kingdom>
 
-    <Kingdom id="Carthago_Nova" owner="Hero.lord_1_52"
-             banner_key="34.142.142.2240.2217.766.758.0.0.0.450.111.145.377.394.751.771.0.1.0.510.111.142.117.221.645.678.0.1.-90.510.111.142.117.221.860.684.0.1.-90.500.111.142.794.827.756.750.0.1.-90"
-             primary_banner_color="830808" secondary_banner_color="f3f3f3" label_color="ffB01301" color="FF5C2017"
+    <Kingdom id="Iberians" owner="Hero.lord_1_52"
+             banner_key="11.22.22.690.800.763.764.0.0.0.113.77.138.627.627.764.764.0.0.0.222.82.82.175.175.805.730.0.0.0"
+             primary_banner_color="0xff000000" secondary_banner_color="0xff000000" label_color="ffB01301" color="FF5C2017"
              color2="FFECBA44" alternative_color="FFDBBA27" alternative_color2="ff910101"
-             culture="Culture.carthago_nova" settlement_banner_mesh="encounter_flag_d" flag_mesh="info_screen_flags_c"
-             name="{=CarthagoNova}Carthago Nova" short_name="{=Carthago1Nova}Carthago Nova"
-             title="{=Carthago2Nova}Colony of Carthago Nova" ruler_title="{=monarch}Monarch"
-             text="{=Carthago3Nova}Carthago Nova is a Punic colony in the southeast of Iberia.">
+             culture="Culture.celtiberian" settlement_banner_mesh="encounter_flag_d" flag_mesh="info_screen_flags_c"
+             name="{=Iberians}Iberians" short_name="{=Carthago1Nova}Iberians"
+             title="{=Iberians}Iberians" ruler_title="{=monarch}Re"
+             text="{=Iberians}Iberians.">
         <relationships>
             <relationship kingdom="Kingdom.Carthage" value="1" isAtWar="false"/>
         </relationships>
