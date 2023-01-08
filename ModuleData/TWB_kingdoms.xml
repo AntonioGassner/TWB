@@ -3,15 +3,14 @@
     <!--    ITALY   -->
     <Kingdom id="Etruria" owner="Hero.lord_1_17"
              banner_key="11.76.116.1815.1441.768.788.1.0.270.301.13.116.184.163.891.554.0.0.53.121.13.116.470.415.821.654.0.0.17.144.13.116.725.701.764.764.0.0.0"
-             primary_banner_color="0xff5960A8" secondary_banner_color="0xffd5d7d4" label_color="FF6d62b5"
+             primary_banner_color="0xff5960A8" secondary_banner_color="0xffd5d7d4"
+             label_color="FF6d62b5"
              color="FF9382D0" color2="FFDE9953" alternative_color="FFF4CA14" alternative_color2="FF6d62b5"
              culture="Culture.etruscan" settlement_banner_mesh="encounter_flag_a" flag_mesh="info_screen_flags_b"
              name="{=frEturia}Etruria" short_name="{=Etruria1}Etruscans" title="{=Etruria2}Etruria"
              ruler_title="{=hwnp9abW}King"
              text="{=Etruria3}Etruria. Once the master of the northern Italia region, Is now finding itself in a bitter war against the Republic of Rome.">
         <relationships>
-            <relationship kingdom="Kingdom.Boii" value="1" isAtWar="false"/>
-            <relationship kingdom="Kingdom.Rome" value="1" isAtWar="false"/>
         </relationships>
         <policies>
             <policy id="policy_royal_privilege"/>
@@ -79,7 +78,6 @@
              name="{=Emporion}Emporion" short_name="{=Emporion1}Emporion" title="{=Emporion2}Emporion"
              ruler_title="{=hwnp9abW}King" text="{=Emporion3}Emporion is a Greek colony in the eastern Iberian region.">
         <relationships>
-            <relationship kingdom="Kingdom.Syracuse" value="1" isAtWar="false"/>
         </relationships>
         <policies>
             <policy id="policy_royal_privilege"/>
@@ -93,7 +91,6 @@
              name="{=Epirusum}Epirus" short_name="{=Epirus12}Epirotes" title="{=Epirus23}Epirus"
              ruler_title="{=hwnp9abW}King" text="{=Epirus34}Epirus controls the western most reaches of Greece.">
         <relationships>
-            <relationship kingdom="Kingdom.Samnites" value="1" isAtWar="false"/>
         </relationships>
         <policies>
             <policy id="policy_royal_privilege"/>
@@ -108,7 +105,6 @@
              ruler_title="{=hwnp9abW}King"
              text="{=Macedon3}Macedonia is a small but quickly expanding empire. that is... until The powerful king of Macedon, Philip II was murdered. Now his ambitious young son Alexander has secured the throne with the help of his mother Olympias.">
         <relationships>
-            <relationship kingdom="Kingdom.Rome" value="1" isAtWar="false"/>
         </relationships>
     </Kingdom>
     <Kingdom id="Massilia" owner="Hero.lord_SE9_l"
@@ -120,7 +116,6 @@
              ruler_title="{=hwnp9abW}King"
              text="{=Massili3}Massilia was founded by Ionian settlers fleeing the Persians.">
         <relationships>
-            <relationship kingdom="Kingdom.Syracuse" value="1" isAtWar="false"/>
         </relationships>
         <policies>
             <policy id="policy_royal_privilege"/>
@@ -134,33 +129,130 @@
              name="{=Syracuse}Syracuse" short_name="{=Syracus1}Syracusians" title="{=Syracus2}Syracuse"
              ruler_title="{=hwnp9abW}King" text="{=Syracus3}Syracuse Controls the Island of Sicily">
         <relationships>
-            <relationship kingdom="Kingdom.Massilia" value="1" isAtWar="false"/>
         </relationships>
         <policies>
             <policy id="policy_royal_privilege"/>
         </policies>
     </Kingdom>
-    <!--    NORWAY/SWEDEN   -->
-    <Kingdom id="Suevi" owner="Hero.lord_2_16"
+    <!--    ATLAS MOUNTAINS AFRICA-->
+    <Kingdom id="Carthage" owner="Hero.lord_3_1"
+             banner_key="26.8.71.2219.2100.765.768.0.0.0.427.143.142.223.233.746.608.0.1.0.450.143.142.377.394.748.843.0.1.0.510.143.142.117.221.642.750.0.1.-90.510.143.142.117.221.857.756.0.1.-90"
+             primary_banner_color="0xff000000" secondary_banner_color="0xff000000" label_color="ffB01301"
+             color="FF5C2017"
+             color2="FFECBA44" alternative_color="FFDBBA27" alternative_color2="ff910101" culture="Culture.aserai"
+             settlement_banner_mesh="encounter_flag_d" flag_mesh="info_screen_flags_c" name="{=Carthage}Carthage"
+             short_name="{=Carthaginian}Carthaginian" title="{=lAWwcO6b}Kingdom of Carthage"
+             ruler_title="{=monarch}Sopht" text="{=IudGLWQZ}Carthage, Phoenician colony.">
+        <relationships>
+        </relationships>
+    </Kingdom>
+    <Kingdom id="Lixos" owner="Hero.lord_3_3"
+             banner_key="34.111.142.2240.2217.766.758.0.0.0.427.126.142.223.233.750.550.0.1.180.503.126.142.167.175.750.592.0.1.180.450.145.145.377.394.748.843.0.1.0.510.145.142.117.221.642.750.0.1.-90.510.145.142.117.221.857.756.0.1.-90.500.126.142.780.817.760.752.0.1.180"
+             primary_banner_color="0xff000000" secondary_banner_color="0xff000000" label_color="ffB01301"
+             color="FF5C2017"
+             color2="FFECBA44" alternative_color="FFDBBA27" alternative_color2="ff910101" culture="Culture.aserai"
+             settlement_banner_mesh="encounter_flag_d" flag_mesh="info_screen_flags_c" name="{=Carthage}Lixos"
+             short_name="{=Carthaginian}Lixosian" title="{=lAWwcO6b}Lixos"
+             ruler_title="{=monarch}Sopht" text="{=IudGLWQZ}Lixos, Phoenician colony.">
+        <relationships>
+        </relationships>
+    </Kingdom>
+    <Kingdom id="Garamantes" owner="Hero.lord_3_18"
+             banner_key="34.122.122.2163.2044.764.764.0.0.0.427.126.126.266.115.759.708.0.0.179.510.126.126.481.235.764.764.0.0.89.427.126.126.266.115.761.566.0.0.179.427.126.126.266.115.761.640.0.0.179.506.39.126.167.72.692.791.0.0.270.506.39.126.167.72.827.797.0.0.270.211.39.126.81.74.771.510.0.0.1.500.126.126.662.646.760.754.0.0.1"
+             primary_banner_color="0xff000000" secondary_banner_color="0xff000000" label_color="ffB01301"
+             color="FF5C2017"
+             color2="FFECBA44" alternative_color="FFDBBA27" alternative_color2="ff910101" culture="Culture.libyan"
+             settlement_banner_mesh="encounter_flag_d" flag_mesh="info_screen_flags_c" name="{=Garamantes}Garamantes"
+             short_name="{=Garamantes1}Garamantian" title="{=Garamantes2}Kingdom of Garamantia"
+             ruler_title="{=monarch}Agellid" text="{=Garamantes3)Its native inhabitants, seminomadic pastoralists">
+        <relationships>
+        </relationships>
+    </Kingdom>
+    <Kingdom id="Mauritania" owner="Hero.lord_3_17"
+             banner_key="34.80.122.2219.2100.773.767.0.0.0.130.146.6.483.429.734.724.0.1.0.500.146.102.717.700.764.764.0.0.0"
+             primary_banner_color="7f6b60" secondary_banner_color="b6aba7" label_color="ffB01301" color="FF5C2017"
+             color2="FFECBA44" alternative_color="FFDBBA27" alternative_color2="ff910101" culture="Culture.mauri"
+             settlement_banner_mesh="encounter_flag_d" flag_mesh="info_screen_flags_c" name="{=Mauritania1}Mauritania"
+             short_name="{=Mauritaniaan}Mauritanian" title="{=Mauritania2}Kingdom of Mauritania" ruler_title="{=monarch}Agellid"
+             text="{=Mauritania3)Its native inhabitants, seminomadic pastoralists">
+        <relationships>
+        </relationships>
+    </Kingdom>
+    <Kingdom id="Numidia_east" owner="Hero.lord_A9_l"
+             banner_key="34.126.122.2163.2044.764.764.0.0.0.500.92.126.728.700.752.763.0.0.0.144.122.126.596.573.762.744.0.1.359"
+             primary_banner_color="0xff000000" secondary_banner_color="0xff000000"
+             label_color="ffB01301"
+             color="FF5C2017"
+             color2="FFECBA44" alternative_color="FFDBBA27" alternative_color2="ff910101" culture="Culture.massylii"
+             settlement_banner_mesh="encounter_flag_d" flag_mesh="info_screen_flags_c" name="{=Massylii}Massaesylii"
+             short_name="{=Massylii1}Massaesylian" title="{=Massylii2}Kingdom of Eastern Numidia"
+             ruler_title="{=monarch}Agellid"
+             text="{=Massylii3)Its native inhabitants, seminomadic pastoralists">
+        <relationships>
+        </relationships>
+    </Kingdom>
+    <Kingdom id="Numidia_west" owner="Hero.lord_3_22"
+             banner_key="34.146.141.2163.2044.764.764.0.1.180.500.80.80.735.719.752.764.0.1.0.344.80.80.506.494.730.753.0.0.0.510.80.80.262.183.765.616.0.0.-29"
+             primary_banner_color="0xff000000" secondary_banner_color="0xff000000" label_color="ffB01301"
+             color="FF5C2017"
+             color2="FFECBA44" alternative_color="FFDBBA27" alternative_color2="ff910101" culture="Culture.massylii"
+             settlement_banner_mesh="encounter_flag_d" flag_mesh="info_screen_flags_c" name="{=Massylii}Massylii"
+             short_name="{=Numidia_west1}Massylian" title="{=Numidia_west2}Kingdom of Western Numidia"
+             ruler_title="{=monarch}Agellid"
+             text="{=Numidia_west3)Its native inhabitants, seminomadic pastoralists">
+        <relationships>
+        </relationships>
+    </Kingdom>
+    <!--    NORWAY/SWEDEN-->
+    <Kingdom id="Arochi" owner="Hero.lord_2_16"
              banner_key="1.146.152.4922.4922.764.764.0.0.90.411.84.84.463.463.760.624.0.0.0.427.140.139.463.463.762.933.0.0.0"
+             primary_banner_color="0xff000000" secondary_banner_color="0xff000000" label_color="FF1856A1"
+             color="FF830808" color2="FFe9a74d" alternative_color="FFFFFFFF" alternative_color2="FF2A4B78"
+             culture="Culture.sturgia" settlement_banner_mesh="encounter_flag_b" flag_mesh="info_screen_flags_c"
+             name="{=PjO7oY16}Arochi" short_name="{=C4qjBqLO}Arochi" title="{=iYCR3xuQ}Arochi Tribes"
+             ruler_title="{=hwnp9abW}Konungr" text="{=b43h87Uu}Placeholder">
+        <relationships>
+        </relationships>
+    </Kingdom>
+    <Kingdom id="Finns" owner="Hero.lord_S9_l"
+             banner_key="31.130.120.1300.1300.764.764.0.0.45.124.116.140.463.463.754.754.0.0.0.449.130.130.424.424.764.1021.0.0.0.124.24.140.463.463.764.764.0.0.0"
+             primary_banner_color="0xff000000" secondary_banner_color="0xff000000" label_color="FF1856A1"
+             color="FF41281b" color2="FFea4f00" alternative_color="FFFFFFFF" alternative_color2="FF2A4B78"
+             culture="Culture.sturgia" settlement_banner_mesh="encounter_flag_b" flag_mesh="info_screen_flags_c"
+             name="{=Suiones16}Finns" short_name="{=SuionesLO}Finns" title="{=SuionesxuQ}Finns Tribes"
+             ruler_title="{=hwnp9abW}Konungr" text="{=SuionesUu}Placeholder">
+        <relationships>
+        </relationships>
+    </Kingdom>
+    <Kingdom id="Granni" owner="Hero.lord_2_17"
+             banner_key="18.77.75.750.750.758.767.0.0.0.342.77.77.420.420.934.614.0.0.0.342.77.139.420.420.594.929.0.1.180"
              primary_banner_color="0xff000000" secondary_banner_color="0xff000000" label_color="FF1856A1"
              color="FFb5d0fd" color2="FFfde217" alternative_color="FFFFFFFF" alternative_color2="FF2A4B78"
              culture="Culture.sturgia" settlement_banner_mesh="encounter_flag_b" flag_mesh="info_screen_flags_c"
-             name="{=SuevioY16}Suevi" short_name="{=SueviqLO}Suevii" title="{=SuevixuQ}Suevi Tribes"
-             ruler_title="{=Suevi9abW}King" text="{=Suevi7Uu}The Northern Germanic Suevi Tribes">
+             name="{=SuevioY16}Granni" short_name="{=SueviqLO}Granni" title="{=SuevixuQ}Granni Tribes"
+             ruler_title="{=Suevi9abW}Konungr" text="{=Suevi7Uu}Placeholder">
         <relationships>
-            <relationship kingdom="Kingdom.Kvens" value="1" isAtWar="false"/>
         </relationships>
     </Kingdom>
     <Kingdom id="Kvens" owner="Hero.lord_2_1"
-             banner_key="25.145.127.891.800.843.763.0.0.0.532.126.140.397.397.601.772.0.0.0.526.155.140.302.302.905.917.0.0.0.534.71.140.281.281.881.571.0.0.0.502.142.140.704.872.764.764.0.0.0"
+             banner_key="25.145.127.891.800.843.763.0.0.0.532.126.140.397.397.601.772.0.0.0.526.155.140.302.302.905.917.0.0.0.534.71.140.281.281.881.571.0.0.0.502.142.140.704.872.764.764.0.0.0
+"
              primary_banner_color="0xff000000" secondary_banner_color="0xff000000" label_color="FF1856A1"
              color="FF830808" color2="FFe9a74d" alternative_color="FFFFFFFF" alternative_color2="FF2A4B78"
              culture="Culture.sturgia" settlement_banner_mesh="encounter_flag_b" flag_mesh="info_screen_flags_c"
              name="{=PjO7oY16}Kven" short_name="{=C4qjBqLO}Kvens" title="{=iYCR3xuQ}Kven Tribes"
-             ruler_title="{=hwnp9abW}King" text="{=b43h87Uu}The Northern Germanic Kvens Tribes">
+             ruler_title="{=hwnp9abW}Konungr" text="{=b43h87Uu}Placeholder">
         <relationships>
-            <relationship kingdom="Kingdom.Suiones" value="-1" isAtWar="true"/>
+        </relationships>
+    </Kingdom>
+    <Kingdom id="Sitones" owner="Hero.lord_2_3"
+             banner_key="6.77.75.750.750.758.767.0.0.0.332.116.140.463.463.750.746.0.0.0.456.139.139.224.224.754.685.0.0.0"
+             primary_banner_color="0xff000000" secondary_banner_color="0xff000000" label_color="FF1856A1"
+             color="FFb5d0fd" color2="FFfde217" alternative_color="FFFFFFFF" alternative_color2="FF2A4B78"
+             culture="Culture.sturgia" settlement_banner_mesh="encounter_flag_b" flag_mesh="info_screen_flags_c"
+             name="{=SuevioY16}Sitones" short_name="{=SueviqLO}Sitones" title="{=SuevixuQ}Sitones Tribes"
+             ruler_title="{=Suevi9abW}Konungr" text="{=Suevi7Uu}Placeholder">
+        <relationships>
         </relationships>
     </Kingdom>
     <Kingdom id="Suiones" owner="Hero.lord_2_19"
@@ -169,9 +261,30 @@
              color="FF41281b" color2="FFea4f00" alternative_color="FFFFFFFF" alternative_color2="FF2A4B78"
              culture="Culture.sturgia" settlement_banner_mesh="encounter_flag_b" flag_mesh="info_screen_flags_c"
              name="{=Suiones16}Suiones" short_name="{=SuionesLO}Suiones" title="{=SuionesxuQ}Suiones Tribes"
-             ruler_title="{=hwnp9abW}King" text="{=SuionesUu}The Northern Germanic Suiones Tribes">
+             ruler_title="{=hwnp9abW}Konungr" text="{=SuionesUu}Placeholder">
         <relationships>
-            <relationship kingdom="Kingdom.Kvens" value="-1" isAtWar="true"/>
+        </relationships>
+    </Kingdom>
+<!--    DANEMARK    -->
+    <Kingdom id="Heruli" owner="Hero.lord_6_17"
+             banner_key="31.22.18.935.918.764.764.0.0.45.515.22.22.209.209.764.764.0.0.0.150.116.116.610.610.750.595.0.1.10.217.22.22.230.230.934.934.0.1.45.217.22.22.230.230.594.934.0.1.-45"
+             primary_banner_color="0xff000000" secondary_banner_color="0xff000000" label_color="FF1856A1"
+             color="FFaec382" color2="FFf5f5f5" alternative_color="FFFFFFFF" alternative_color2="FF2A4B78"
+             culture="Culture.sturgia" settlement_banner_mesh="encounter_flag_b" flag_mesh="info_screen_flags_c"
+             name="{=Heruli1}Heruli" short_name="{=Heruli2}Heruli" title="{=Heruli3}Heruli Tribes"
+             ruler_title="{=hwnp9abW}Konungr" text="{=Heruli4}The Germanic Heruli Tribes">
+        <relationships>
+        </relationships>
+    </Kingdom>
+    <Kingdom id="Cimbri" owner="Hero.lord_1_50"
+             banner_key="34.135.100.2240.2217.760.782.0.0.0.500.136.142.789.784.750.782.0.1.-1.203.92.135.439.491.586.770.0.1.-1.148.116.135.355.382.738.885.0.1.0.203.92.135.439.491.915.788.0.1.-1.427.126.135.439.116.750.1007.0.0.180.503.122.135.474.159.742.1048.0.0.180.437.116.135.167.139.740.1043.0.0.-1.115.116.135.120.100.694.560.0.0.-1"
+             primary_banner_color="0xff000000" secondary_banner_color="0xff000000" label_color="ffB01301"
+             color="FF5C2017" color2="FFECBA44" alternative_color="FFDBBA27" alternative_color2="ff910101"
+             culture="Culture.cimbri" settlement_banner_mesh="encounter_flag_d" flag_mesh="info_screen_flags_c"
+             name="{=Cimbri1}Cimbri" short_name="{=Cimbri}Cimbrians" title="{=Cimbri2}Cimbrian Tribe"
+             ruler_title="{=hwnp9abW}Konungr"
+             text="{=Cimbri3}The Tribe Cimbri control the Northern Germanic lands of Jutland.">
+        <relationships>
         </relationships>
     </Kingdom>
     <!--    GERMANIC TRIBES  -->
@@ -182,50 +295,36 @@
              culture="Culture.sturgia" settlement_banner_mesh="encounter_flag_b" flag_mesh="info_screen_flags_c"
              name="{=Burgundiones16}Burgundiones" short_name="{=BurgundionesqLO}Burgundiones"
              title="{=BurgundionesuQ}Burgundiones Tribe"
-             ruler_title="{=hwnp9abW}King" text="{=Burgundiones7Uu}The Germanic Burgundiones Tribes">
+             ruler_title="{=hwnp9abW}Konungr" text="{=Burgundiones7Uu}The Germanic Burgundiones Tribes">
         <relationships>
-            <relationship kingdom="Kingdom.Frisones" value="-1" isAtWar="true"/>
         </relationships>
     </Kingdom>
-    <Kingdom id="Cimbri" owner="Hero.lord_1_50"
-             banner_key="34.135.100.2240.2217.760.782.0.0.0.500.136.142.789.784.750.782.0.1.-1.203.92.135.439.491.586.770.0.1.-1.148.116.135.355.382.738.885.0.1.0.203.92.135.439.491.915.788.0.1.-1.427.126.135.439.116.750.1007.0.0.180.503.122.135.474.159.742.1048.0.0.180.437.116.135.167.139.740.1043.0.0.-1.115.116.135.120.100.694.560.0.0.-1"
-             primary_banner_color="0xff000000" secondary_banner_color="0xff000000" label_color="ffB01301"
-             color="FF5C2017" color2="FFECBA44" alternative_color="FFDBBA27" alternative_color2="ff910101"
-             culture="Culture.cimbri" settlement_banner_mesh="encounter_flag_d" flag_mesh="info_screen_flags_c"
-             name="{=Cimbri1}Cimbri" short_name="{=Cimbri}Cimbrians" title="{=Cimbri2}Cimbrian Tribe"
-             ruler_title="{=hwnp9abW}King"
-             text="{=Cimbri3}The Tribe Cimbri control the Northern Germanic lands of Jutland.">
+    <Kingdom id="Cotini" owner="Hero.lord_5_16"
+             banner_key="1.48.74.690.800.763.764.0.0.0.431.22.22.392.392.764.614.0.1.180.431.22.22.392.392.764.914.0.0.0"
+             primary_banner_color="0xff000000" secondary_banner_color="0xff000000" label_color="FF1856A1"
+             color="FF1C2A50" color2="FF949CCC" alternative_color="FFFFFFFF" alternative_color2="FF2A4B78"
+             culture="Culture.sturgia" settlement_banner_mesh="encounter_flag_b" flag_mesh="info_screen_flags_c"
+             name="{=Burgundiones16}Cotini" short_name="{=BurgundionesqLO}Cotini"
+             title="{=BurgundionesuQ}Cotini Tribe"
+             ruler_title="{=hwnp9abW}Konungr" text="{=Burgundiones7Uu}The Germanic Cotini Tribe">
         <relationships>
-            <relationship kingdom="Kingdom.Arverni" value="1" isAtWar="false"/>
         </relationships>
     </Kingdom>
-    <Kingdom id="Rugii" owner="Hero.lord_NE8_l"
+    <Kingdom id="Pomerania" owner="Hero.lord_NE8_l"
              banner_key="11.71.4.4345.4345.764.764.1.0.0.502.5.0.510.510.764.764.0.0.0.338.5.0.487.487.764.764.0.0.0.503.5.0.109.109.764.624.0.0.0"
              primary_banner_color="0xff224277" secondary_banner_color="0xffCEDAE7" label_color="FF1856A1"
              color="FF1C2A50" color2="FF949CCC" alternative_color="FFFFFFFF" alternative_color2="FF2A4B78"
-             culture="Culture.baltic" settlement_banner_mesh="encounter_flag_b" flag_mesh="info_screen_flags_c"
-             name="{=Rugii}Rugii" short_name="{=Rugii1}Rugii"
-             title="{=Rugii2}Rugii Tribe" ruler_title="{=hwnp9abW}King"
-             text="{=Rugii3}The Rugii dwell in the lands along the southern coast of the Baltic sea. they are a hardy and strong people who often found themselves defending their holdings from Gepid raids.">
-        <relationships>
-            <relationship kingdom="Kingdom.Suiones" value="1" isAtWar="false"/>
-        </relationships>
-    </Kingdom>
-    <Kingdom id="Teutones" owner="Hero.lord_6_17"
-             banner_key="31.22.18.935.918.764.764.0.0.45.515.22.22.209.209.764.764.0.0.0.150.116.116.610.610.750.595.0.1.10.217.22.22.230.230.934.934.0.1.45.217.22.22.230.230.594.934.0.1.-45"
-             primary_banner_color="0xff000000" secondary_banner_color="0xff000000" label_color="FF1856A1"
-             color="FFaec382" color2="FFf5f5f5" alternative_color="FFFFFFFF" alternative_color2="FF2A4B78"
              culture="Culture.sturgia" settlement_banner_mesh="encounter_flag_b" flag_mesh="info_screen_flags_c"
-             name="{=Teutones1}Teutones" short_name="{=Teutones2}Teutones" title="{=Teutones3}Teutones Tribes"
-             ruler_title="{=hwnp9abW}King" text="{=Teutones4}The Germanic Teutones Tribes">
+             name="{=Pomerania}Pomerania" short_name="{=Pomerania1}Pomeranian"
+             title="{=Pomerania2}Pomerania Tribe" ruler_title="{=hwnp9abW}Konungr"
+             text="{=Pomerania3}The Pomerania dwell in the lands along the southern coast of the Baltic sea. they are a hardy and strong people who often found themselves defending their holdings from Gepid raids.">
         <relationships>
-            <relationship kingdom="Kingdom.Suiones" value="1" isAtWar="false"/>
+
         </relationships>
     </Kingdom>
-    <!--  POLAND  -->
     <Kingdom id="Gepids" owner="Hero.lord_NE9_l"
-             banner_key="26.104.37.690.800.763.764.0.0.0.313.116.82.627.627.736.821.0.0.0"
-             primary_banner_color="0xfff4ca14" secondary_banner_color="0xff6c1512" label_color="FFDB8330"
+             banner_key="26.104.76.690.800.763.764.0.0.0.114.22.82.627.627.754.774.0.0.0.114.121.82.627.627.764.764.0.0.0"
+             primary_banner_color="0xff000000" secondary_banner_color="0xff000000" label_color="FFDB8330"
              color="FF9E5072" color2="FFDE9953" alternative_color="FF1F1D1F" alternative_color2="FFc28446"
              culture="Culture.scythian" settlement_banner_mesh="encounter_flag_a" flag_mesh="info_screen_flags_a"
              name="{=yG3YUySN}Gepids" short_name="{=ZEmH0MwL}Gepids" title="{=yG3YUySN}Gepids Tribes"
@@ -237,17 +336,7 @@
             <policy id="policy_land_grants_for_veterans"/>
         </policies>
     </Kingdom>
-    <Kingdom id="Helveconae" owner="Hero.lord_6_5"
-             banner_key="11.12.12.4345.4345.764.764.1.0.0.462.13.13.512.512.764.764.1.0.0"
-             primary_banner_color="0xff714214" secondary_banner_color="0xffcac1ba" label_color="FF1856A1"
-             color="FF1C2A50" color2="FF949CCC" alternative_color="FFFFFFFF" alternative_color2="FF2A4B78"
-             culture="Culture.sturgia" settlement_banner_mesh="encounter_flag_b" flag_mesh="info_screen_flags_c"
-             name="{=Helveconae}Helveconae" short_name="{=Helveconae}Helveconae" title="{=Helveconae}Helveconae Tribe"
-             ruler_title="{=hwnp9abW}King" text="{=Helveconae}The Germanic Helveconae Tribes">
-        <relationships>
-        </relationships>
-    </Kingdom>
-    <!--  ILLIRIA  -->
+<!--    CELTIC FACTIONS-->
     <Kingdom id="Scordisci" owner="Hero.lord_6_18"
              banner_key="34.122.92.1836.1593.760.799.1.1.0.500.144.22.582.532.772.796.1.1.0.406.120.142.338.309.771.793.1.1.0"
              primary_banner_color="0xff000000" secondary_banner_color="0xff000000" label_color="FF7CC8EB"
@@ -256,7 +345,16 @@
              name="{=Scordisci}Scordisci" short_name="{=Scordisci1}Scordiscii" title="{=Scordisci2}Scordisci Tribe"
              ruler_title="{=hwnp9abW}King" text="{=Scordisci3}The Scordisci are a Celtic Illyrian tribe">
         <relationships>
-            <relationship kingdom="Kingdom.Macedon" value="-1" isAtWar="true"/>
+        </relationships>
+    </Kingdom>
+    <Kingdom id="Dacia" owner="Hero.lord_6_5"
+             banner_key="11.116.22.690.800.763.764.0.0.0.439.22.22.392.392.764.764.0.0.0"
+             primary_banner_color="0xff000000" secondary_banner_color="0xff000000" label_color="FF1856A1"
+             color="FF1C2A50" color2="FF949CCC" alternative_color="FFFFFFFF" alternative_color2="FF2A4B78"
+             culture="Culture.vlandia" settlement_banner_mesh="encounter_flag_b" flag_mesh="info_screen_flags_c"
+             name="{=Dacia}Dacia" short_name="{=Dacia}Dacian" title="{=Dacia}Dacian Tribe"
+             ruler_title="{=hwnp9abW}King" text="{=Dacia}The Dacian Tribes">
+        <relationships>
         </relationships>
     </Kingdom>
     <!--    GALLIC TRIBES   -->
@@ -268,12 +366,12 @@
              name="{=FjwRsf1C}Aedui" short_name="{=8HMyTKF6}Aeduins" title="{=lAWwcO6b}Tribe of Aedui"
              ruler_title="{=hwnp9abW}King" text="{=IudGLWQZ}The Tribe Aedui control the Northern Gallic lands.">
         <relationships>
-            <relationship kingdom="Kingdom.Arverni" value="1" isAtWar="false"/>
         </relationships>
     </Kingdom>
     <Kingdom id="Allobrogeni" owner="Hero.lord_1_20"
              banner_key="24.35.145.690.800.764.764.0.0.0.429.22.129.627.627.590.767.0.0.0.429.22.129.627.627.931.767.0.0.0"
-             primary_banner_color="0xff8D291A" secondary_banner_color="0xffF7BF46" label_color="ffB01301"
+             primary_banner_color="0xff000000" secondary_banner_color="0xff000000"
+             label_color="ffB01301"
              color="FF5C2017" color2="FFECBA44" alternative_color="FFDBBA27" alternative_color2="ff910101"
              culture="Culture.vlandia" settlement_banner_mesh="encounter_flag_d" flag_mesh="info_screen_flags_c"
              name="{=FjwRsf1C}Allobrogeni" short_name="{=8HMyTKF6}Allobrogeni" title="{=lAWwcO6b}Tribe of Allobrogeni"
@@ -283,13 +381,12 @@
     </Kingdom>
     <Kingdom id="Aquitani" owner="Hero.lord_4_16"
              banner_key="11.71.14.4922.4922.764.764.1.0.0.424.15.0.377.377.764.764.0.0.0.220.15.0.138.132.884.939.0.0.0.220.15.0.138.138.644.939.0.0.0"
-             primary_banner_color="0xffA34402" secondary_banner_color="0xff7F8CC0" label_color="ffB01301"
+             primary_banner_color="0xff000000" secondary_banner_color="0xff000000" label_color="ffB01301"
              color="FF5C2017" color2="FFECBA44" alternative_color="FFDBBA27" alternative_color2="ff910101"
              culture="Culture.vlandia" settlement_banner_mesh="encounter_flag_d" flag_mesh="info_screen_flags_c"
              name="{=Nrbnsisa}Aquitani" short_name="{=aquitani}Aquitanii" title="{=lAWwcani}Tribe of Aquitani"
              ruler_title="{=hwnp9abW}King" text="{=IudGLWQZ}The Tribe of Aquitani control the Southern Gallic lands.">
         <relationships>
-            <relationship kingdom="Kingdom.Helvetii" value="1" isAtWar="false"/>
         </relationships>
     </Kingdom>
     <Kingdom id="Arverni" owner="Hero.lord_4_1"
@@ -300,7 +397,6 @@
              name="{=FjwRsf1C}Arverni" short_name="{=8HMyTKF6}Arverians" title="{=lAWwcO6b}Tribe of Arverni"
              ruler_title="{=hwnp9abW}King" text="{=arvtrbep}The Arverni Tribe dwells in the heart of Gaul.">
         <relationships>
-            <relationship kingdom="Kingdom.Aedui" value="1" isAtWar="false"/>
         </relationships>
     </Kingdom>
     <Kingdom id="Belgae" owner="Hero.lord_4_24"
@@ -321,7 +417,6 @@
              name="{=skicidbo}Boii" short_name="{=boiisuwa}Boii" title="{=slboiifu}Tribe of Boii"
              ruler_title="{=hwnp9abW}King" text="{=dboii4i3}The Boii Tribe controls the Cisalpine Gaul Region.">
         <relationships>
-            <relationship kingdom="Kingdom.Etruria" value="1" isAtWar="false"/>
         </relationships>
     </Kingdom>
     <Kingdom id="Frisones" owner="Hero.lord_1_5"
@@ -332,7 +427,6 @@
              name="{=Frisones}Frisones" short_name="{=Trever12}Frisones" title="{=Treveri1}Tribe of Frisones"
              ruler_title="{=hwnp9abW}King" text="{=Trever21}Placeholder.">
         <relationships>
-            <relationship kingdom="Kingdom.Burgundiones" value="-1" isAtWar="true"/>
         </relationships>
     </Kingdom>
     <Kingdom id="Helvetii" owner="Hero.lord_4_27"
@@ -344,7 +438,6 @@
              ruler_title="{=hwnp9abW}King"
              text="{=Helveti3}The Tribe of Helvetii control the Western Alpine Gallic lands.">
         <relationships>
-            <relationship kingdom="Kingdom.Aquitani" value="1" isAtWar="false"/>
         </relationships>
     </Kingdom>
     <Kingdom id="Veneti" owner="Hero.lord_4_22"
@@ -355,7 +448,6 @@
              name="{=venetifx}Veneti" short_name="{=ventians}Venetii" title="{=lAWwcO6b}Tribe of Veneti"
              ruler_title="{=hwnp9abW}King" text="{=arvtrbep}The Veneti Tribe dwells in the North West region of Gaul.">
         <relationships>
-            <relationship kingdom="Kingdom.Aedui" value="1" isAtWar="false"/>
         </relationships>
     </Kingdom>
     <Kingdom id="Volcae" owner="Hero.lord_4_16"
@@ -378,7 +470,6 @@
              ruler_title="{=hwnp9abW}King"
              text="{=JGua8ndp}The Caledones Tribe controls the Northern part of Prydein">
         <relationships>
-            <relationship kingdom="Kingdom.Etruria" value="1" isAtWar="false"/>
         </relationships>
     </Kingdom>
     <Kingdom id="Catuvellauni" owner="Hero.lord_5_17"
@@ -422,7 +513,7 @@
              ruler_title="{=HeremonW}Ri"
              text="{=ZjHeremon}The Leath Heremon dwell in the northern part of Eire">
         <relationships>
-
+            <relationship kingdom="Kingdom.Eber" value="-1" isAtWar="true"/>
         </relationships>
     </Kingdom>
     <Kingdom id="Eber"
@@ -444,82 +535,8 @@
              ruler_title="{=HeremonW}Ri"
              text="{=ZjEber}The Leath Eber dwell in the southern part of Eire">
         <relationships>
+            <relationship kingdom="Kingdom.Heremon" value="-1" isAtWar="true"/>
 
-        </relationships>
-    </Kingdom>
-    <!--    ATLAS MOUNTAINS AFRICA-->
-    <Kingdom id="Carthage" owner="Hero.lord_3_1"
-             banner_key="26.8.71.2219.2100.765.768.0.0.0.427.143.142.223.233.746.608.0.1.0.450.143.142.377.394.748.843.0.1.0.510.143.142.117.221.642.750.0.1.-90.510.143.142.117.221.857.756.0.1.-90"
-             primary_banner_color="0xff000000" secondary_banner_color="0xff000000" label_color="ffB01301"
-             color="FF5C2017"
-             color2="FFECBA44" alternative_color="FFDBBA27" alternative_color2="ff910101" culture="Culture.aserai"
-             settlement_banner_mesh="encounter_flag_d" flag_mesh="info_screen_flags_c" name="{=Carthage}Carthage"
-             short_name="{=Carthaginian}Carthaginian" title="{=lAWwcO6b}Kingdom of Carthage"
-             ruler_title="{=monarch}Monarch" text="{=IudGLWQZ}Carthage master of the mediterranean.">
-        <relationships>
-            <relationship kingdom="Kingdom.Garamantes" value="-1" isAtWar="true"/>
-        </relationships>
-    </Kingdom>
-    <Kingdom id="Lixos" owner="Hero.lord_3_3"
-             banner_key="34.111.142.2240.2217.766.758.0.0.0.427.126.142.223.233.750.550.0.1.180.503.126.142.167.175.750.592.0.1.180.450.145.145.377.394.748.843.0.1.0.510.145.142.117.221.642.750.0.1.-90.510.145.142.117.221.857.756.0.1.-90.500.126.142.780.817.760.752.0.1.180"
-             primary_banner_color="0xff000000" secondary_banner_color="0xff000000" label_color="ffB01301"
-             color="FF5C2017"
-             color2="FFECBA44" alternative_color="FFDBBA27" alternative_color2="ff910101" culture="Culture.aserai"
-             settlement_banner_mesh="encounter_flag_d" flag_mesh="info_screen_flags_c" name="{=Carthage}Lixos"
-             short_name="{=Carthaginian}Lixos" title="{=lAWwcO6b}Lixos"
-             ruler_title="{=monarch}Sopht" text="{=IudGLWQZ}Lixos, punic colony.">
-        <relationships>
-            <relationship kingdom="Kingdom.Garamantes" value="-1" isAtWar="true"/>
-        </relationships>
-    </Kingdom>
-    <!--    TODO Garamantes is a placeholder right now, it's city should be part of Numidia East-->
-    <Kingdom id="Garamantes" owner="Hero.lord_3_18"
-             banner_key="34.122.122.2163.2044.764.764.0.0.0.427.126.126.266.115.759.708.0.0.179.510.126.126.481.235.764.764.0.0.89.427.126.126.266.115.761.566.0.0.179.427.126.126.266.115.761.640.0.0.179.506.39.126.167.72.692.791.0.0.270.506.39.126.167.72.827.797.0.0.270.211.39.126.81.74.771.510.0.0.1.500.126.126.662.646.760.754.0.0.1"
-             primary_banner_color="0xff000000" secondary_banner_color="0xff000000" label_color="ffB01301"
-             color="FF5C2017"
-             color2="FFECBA44" alternative_color="FFDBBA27" alternative_color2="ff910101" culture="Culture.libyan"
-             settlement_banner_mesh="encounter_flag_d" flag_mesh="info_screen_flags_c" name="{=Garamantes}Garamantes"
-             short_name="{=Garamantes1}Garamantian" title="{=Garamantes2}Kingdom of Garamantia"
-             ruler_title="{=monarch}Monarch" text="{=Garamantes3)Its native inhabitants, seminomadic pastoralists">
-        <relationships>
-            <relationship kingdom="Kingdom.Carthage" value="-1" isAtWar="true"/>
-        </relationships>
-    </Kingdom>
-    <Kingdom id="Mauri" owner="Hero.lord_3_17"
-             banner_key="34.80.122.2219.2100.773.767.0.0.0.130.146.6.483.429.734.724.0.1.0.500.146.102.717.700.764.764.0.0.0"
-             primary_banner_color="7f6b60" secondary_banner_color="b6aba7" label_color="ffB01301" color="FF5C2017"
-             color2="FFECBA44" alternative_color="FFDBBA27" alternative_color2="ff910101" culture="Culture.mauri"
-             settlement_banner_mesh="encounter_flag_d" flag_mesh="info_screen_flags_c" name="{=mauri1}Mauri"
-             short_name="{=Maurian}Maurian" title="{=Mauri2}Kingdom of Mauri" ruler_title="{=monarch}Monarch"
-             text="{=Mauri3)Its native inhabitants, seminomadic pastoralists">
-        <relationships>
-            <relationship kingdom="Kingdom.Numidia_west" value="1" isAtWar="false"/>
-        </relationships>
-    </Kingdom>
-    <Kingdom id="Numidia_east" owner="Hero.lord_A9_l"
-             banner_key="34.122.122.2163.2044.764.764.0.0.0.427.126.126.266.115.759.708.0.0.179.510.126.126.481.235.764.764.0.0.89.427.126.126.266.115.761.566.0.0.179.427.126.126.266.115.761.640.0.0.179.506.39.126.167.72.692.791.0.0.270.506.39.126.167.72.827.797.0.0.270.211.39.126.81.74.771.510.0.0.1.500.126.126.662.646.760.754.0.0.1"
-             primary_banner_color="0xff000000" secondary_banner_color="0xff000000" label_color="ffB01301"
-             color="FF5C2017"
-             color2="FFECBA44" alternative_color="FFDBBA27" alternative_color2="ff910101" culture="Culture.massylii"
-             settlement_banner_mesh="encounter_flag_d" flag_mesh="info_screen_flags_c" name="{=Massylii}Numidia"
-             short_name="{=Massylii1}Numidia" title="{=Massylii2}Kingdom of Eastern Numidia"
-             ruler_title="{=monarch}Monarch"
-             text="{=Massylii3)Its native inhabitants, seminomadic pastoralists">
-        <relationships>
-            <relationship kingdom="Kingdom.Carthage" value="1" isAtWar="false"/>
-        </relationships>
-    </Kingdom>
-    <Kingdom id="Numidia_west" owner="Hero.lord_3_22"
-             banner_key="34.146.141.2163.2044.764.764.0.1.180.500.80.80.668.653.752.764.0.1.0.130.80.80.459.448.732.734.0.1.0"
-             primary_banner_color="0xff000000" secondary_banner_color="0xff000000" label_color="ffB01301"
-             color="FF5C2017"
-             color2="FFECBA44" alternative_color="FFDBBA27" alternative_color2="ff910101" culture="Culture.massylii"
-             settlement_banner_mesh="encounter_flag_d" flag_mesh="info_screen_flags_c" name="{=Massylii}Massylii"
-             short_name="{=Numidia_west1}Numidia_west" title="{=Numidia_west2}Kingdom of Numidia_west"
-             ruler_title="{=monarch}Monarch"
-             text="{=Numidia_west3)Its native inhabitants, seminomadic pastoralists">
-        <relationships>
-            <relationship kingdom="Kingdom.Carthage" value="1" isAtWar="false"/>
         </relationships>
     </Kingdom>
     <!--    SPAIN  -->
@@ -533,7 +550,6 @@
              ruler_title="{=Cantabri4}King"
              text="{=Lusitani5}Arevaci, the land of the Arevaci originally comprised much of the highlands of the northern Spanish Atlantic coast including the whole of modern Cantabria province">
         <relationships>
-            <relationship kingdom="Kingdom.Massilia" value="1" isAtWar="false"/>
         </relationships>
     </Kingdom>
     <Kingdom id="Cantabri" owner="Hero.lord_1_11"
@@ -546,7 +562,6 @@
              ruler_title="{=Cantabri4}King"
              text="{=Lusitani5}Cantabria, the land of the Cantabri originally comprised much of the highlands of the northern Spanish Atlantic coast including the whole of modern Cantabria province">
         <relationships>
-            <relationship kingdom="Kingdom.Massilia" value="1" isAtWar="false"/>
         </relationships>
     </Kingdom>
     <Kingdom id="Gallaeci" owner="Hero.lord_1_45"
@@ -557,7 +572,6 @@
              name="{=Gallaeci}Gallaeci" short_name="{=Gallaeci1}Gallaecii" title="{=Gallaeci2}Gallaeci Tribe"
              ruler_title="{=hwnp9abW}King" text="{=Gallaeci3}The Gallaeci dwell in the North West of Iberia">
         <relationships>
-            <relationship kingdom="Kingdom.Lusitani" value="1" isAtWar="false"/>
         </relationships>
     </Kingdom>
     <Kingdom id="Iberians" owner="Hero.lord_1_52"
@@ -570,7 +584,6 @@
              title="{=Iberians}Iberians" ruler_title="{=monarch}Re"
              text="{=Iberians}Iberians.">
         <relationships>
-            <relationship kingdom="Kingdom.Carthage" value="1" isAtWar="false"/>
         </relationships>
     </Kingdom>
     <Kingdom id="Lusitani" owner="Hero.lord_1_7"
@@ -582,7 +595,6 @@
              ruler_title="{=Lusitani4}King"
              text="{=Lusitani5}The Lusitanians (or Latin: Lusitani) were an Indo-European speaking people living in the west of the Iberian Peninsula prior to its conquest by the Roman Republic and the subsequent incorporation of the territory into the Roman province of Lusitania.">
         <relationships>
-            <relationship kingdom="Kingdom.Cantabri" value="1" isAtWar="false"/>
         </relationships>
     </Kingdom>
 </Kingdoms>
@@ -595,7 +607,6 @@
         <!--             name="{=Ardiaei}Ardiaei" short_name="{=Ardiaei1}Ardiaeii" title="{=Ardiaei2}Ardiaei Tribe"-->
         <!--             ruler_title="{=hwnp9abW}King" text="{=Ardiaei3}The Ardiaei are an Illyrian tribe">-->
         <!--        <relationships>-->
-        <!--            <relationship kingdom="Kingdom.Macedon" value="-1" isAtWar="true"/>-->
         <!--        </relationships>-->
         <!--    </Kingdom>-->
 
