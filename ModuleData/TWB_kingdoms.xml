@@ -358,7 +358,7 @@
         </relationships>
     </Kingdom>
     <!--    GALLIC TRIBES   -->
-    <Kingdom id="Aedui" owner="Hero.lord_4_3"
+    <Kingdom id="Aedui" owner="Hero.lord_4_24"
              banner_key="13.116.16.831.1117.762.576.0.0.0.437.22.129.627.627.764.764.0.0.0"
              primary_banner_color="0xff8D291A" secondary_banner_color="0xffF7BF46" label_color="ffB01301"
              color="FF5C2017" color2="FFECBA44" alternative_color="FFDBBA27" alternative_color2="ff910101"
@@ -399,7 +399,7 @@
         <relationships>
         </relationships>
     </Kingdom>
-    <Kingdom id="Belgae" owner="Hero.lord_4_24"
+    <Kingdom id="Belgae" owner="Hero.lord_4_3"
              banner_key="27.133.91.1000.1000.764.764.0.0.0.415.22.129.627.627.764.764.0.0.0"
              primary_banner_color="0xff000000" secondary_banner_color="0xff000000" label_color="FF55831A"
              color="FF2D3F1D" color2="FFBFCBB0" alternative_color="FFD69516" alternative_color2="FF55831A"

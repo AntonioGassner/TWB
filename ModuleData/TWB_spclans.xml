@@ -529,7 +529,6 @@
              super_faction="Kingdom.Senones"
              is_noble="true"
              banner_key="31.129.22.1350.1350.764.764.0.0.45.139.129.129.320.320.764.764.0.0.0"/>
-
     <!--    HELLENISTIC FACTIONS -->
     <!--    EMPORION    -->
     <Faction id="clan_empire_west_8"
@@ -652,7 +651,7 @@
              super_faction="Kingdom.Garamantes"
              is_noble="true"
              banner_key="34.122.122.2163.2044.764.764.0.0.0.427.126.126.266.115.759.708.0.0.179.510.126.126.481.235.764.764.0.0.89.427.126.126.266.115.761.566.0.0.179.427.126.126.266.115.761.640.0.0.179.506.39.126.167.72.692.791.0.0.270.506.39.126.167.72.827.797.0.0.270.211.39.126.81.74.771.510.0.0.1.500.126.126.662.646.760.754.0.0.1"/>
-    <!-- Mauritania -->
+    <!-- MAURITANIA -->
     <Faction id="clan_aserai_5"
              name="{=zY2TQC9t}Banu Arbas"
              tier="5"
@@ -669,7 +668,7 @@
              super_faction="Kingdom.Mauritania"
              is_noble="true"
              banner_key="34.80.122.2219.2100.773.767.0.0.0.130.146.6.483.429.734.724.0.1.0.500.146.102.717.700.764.764.0.0.0"/>
-    <!--    NUMIDIA EAST    -->
+    <!--    NUMIDIA EAST - MASSYLII   -->
     <Faction id="clan_aserai_9"
              name="{=NI1paia1}Banu Ruwaid"
              tier="3"
@@ -678,7 +677,7 @@
              super_faction="Kingdom.Numidia_east"
              is_noble="true"
              banner_key="34.126.122.2163.2044.764.764.0.0.0.500.92.126.728.700.752.763.0.0.0.144.122.126.596.573.762.744.0.1.359"/>
-    <!--    NUMIDIA WEST-->
+    <!--    NUMIDIA WEST - MASSAESAYLII-->
     <Faction id="clan_aserai_8"
              name="{=o4wKMT9x}Banu Habbab"
              tier="4"
@@ -794,7 +793,7 @@
              super_faction="Kingdom.Cimbri"
              is_noble="true"
              banner_key="34.135.100.2240.2217.760.782.0.0.0.500.136.142.789.784.750.782.0.1.-1.203.92.135.439.491.586.770.0.1.-1.148.116.135.355.382.738.885.0.1.0.203.92.135.439.491.915.788.0.1.-1.427.126.135.439.116.750.1007.0.0.180.503.122.135.474.159.742.1048.0.0.180.437.116.135.167.139.740.1043.0.0.-1.115.116.135.120.100.694.560.0.0.-1"/>
-<!--   GERMANIANS-->
+<!--   GERMANS-->
     <!-- BURGUNDIONES -->
     <Faction id="clan_empire_north_1"
              name="{=fXENjJJL}Burgundiones"
@@ -868,14 +867,14 @@
              banner_key="11.25.10.4345.4345.764.764.1.0.0.117.11.0.346.346.841.838.0.0.179.508.11.0.110.110.638.876.0.0.0.117.11.0.342.342.692.687.0.0.0.508.11.0.108.108.890.648.0.0.0"/>
 <!--    GALLIA-->
     <!--    AEDUI   -->
-    <Faction id="clan_vlandia_2"
-             name="{=qFntgcGy}dey Tihr"
-             tier="5"
-             owner="Hero.lord_4_3"
+    <Faction id="clan_vlandia_8"
+             name="{=9NWQNInC}dey Molarn"
+             tier="3"
+             owner="Hero.lord_4_24"
              culture="Culture.vlandia"
              super_faction="Kingdom.Aedui"
              is_noble="true"
-             banner_key="13.116.16.831.1117.762.576.0.0.0.437.22.129.627.627.764.764.0.0.0"/>
+             banner_key="27.133.91.1000.1000.764.764.0.0.0.415.22.129.627.627.764.764.0.0.0"/>
     <!--    ALLOBROGENI-->
     <Faction id="clan_empire_north_4"
              name="{=tA3IRBgv}Impestores"
@@ -913,14 +912,14 @@
              is_noble="true"
              banner_key="34.126.2.2244.2090.764.764.0.0.0.500.142.122.761.742.758.762.0.0.0.149.144.143.631.584.743.767.0.1.0.414.142.122.125.116.819.740.0.1.0"/>
     <!--    BELGAE  -->
-    <Faction id="clan_vlandia_8"
-             name="{=9NWQNInC}dey Molarn"
-             tier="3"
-             owner="Hero.lord_4_24"
+    <Faction id="clan_vlandia_2"
+             name="{=qFntgcGy}dey Tihr"
+             tier="5"
+             owner="Hero.lord_4_3"
              culture="Culture.vlandia"
              super_faction="Kingdom.Belgae"
              is_noble="true"
-             banner_key="27.133.91.1000.1000.764.764.0.0.0.415.22.129.627.627.764.764.0.0.0"/>
+             banner_key="13.116.16.831.1117.762.576.0.0.0.437.22.129.627.627.764.764.0.0.0"/>
     <!--    BOII    -->
     <Faction id="clan_vlandia_11"
              name="{=DeSGiCgF}dey Rothad"
