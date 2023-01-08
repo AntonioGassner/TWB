@@ -1800,7 +1800,7 @@
     </Settlement>
 <!--    POMERANIA   -->
     <Settlement id="castle_EN2" name="{=Settlements.Settlement.name.castle_EN2}Vennesdal"
-                owner="Faction.clan_empire_north_1" posX="625.732" posY="1222.018" culture="Culture.cimbri"
+                owner="Faction.clan_sturgia_3" posX="625.732" posY="1222.018" culture="Culture.cimbri"
                 prosperity="938" gate_posX="624.9712" gate_posY="1219.63">
         <Components>
             <Town id="castle_comp_EN2" is_castle="true" level="3" background_crop_position="0.0"
@@ -2036,7 +2036,7 @@
         </CommonAreas>
     </Settlement>
     <Settlement id="castle_EN6" name="{=Settlements.Settlement.name.castle_EN6}Ataconia Castle"
-                owner="Faction.clan_battania_5" posX="516.992" posY="1105.836" culture="Culture.sturgia"
+                owner="Faction.clan_vlandia_9" posX="516.992" posY="1105.836" culture="Culture.sturgia"
                 prosperity="960" gate_posX="514.5332" gate_posY="1106.251">
         <Components>
             <Town id="castle_comp_EN6" is_castle="true" level="3" background_crop_position="0.0"
@@ -2069,7 +2069,7 @@
         </CommonAreas>
     </Settlement>
     <Settlement id="castle_EN7" name="{=Settlements.Settlement.name.castle_EN7}Epinosa Castle"
-                owner="Faction.clan_khuzait_7" posX="684.85" posY="1090.21" culture="Culture.scordisci"
+                owner="Faction.clan_empire_north_1" posX="684.85" posY="1090.21" culture="Culture.scordisci"
                 prosperity="990" gate_posX="685.7473" gate_posY="1092.533">
         <Components>
             <Town id="castle_comp_EN7" is_castle="true" level="3" background_crop_position="0.0"
@@ -2120,7 +2120,7 @@
         </CommonAreas>
     </Settlement>
     <Settlement id="castle_EN8" name="{=Settlements.Settlement.name.castle_EN8}Syratos Castle"
-                owner="Faction.clan_empire_north_1" posX="645.674" posY="1122.338" culture="Culture.sturgia"
+                owner="Faction.clan_battania_5" posX="645.674" posY="1122.338" culture="Culture.sturgia"
                 prosperity="560" gate_posX="645.8876" gate_posY="1119.397">
         <Components>
             <Town id="castle_comp_EN8" is_castle="true" level="3" background_crop_position="0.0"
@@ -2500,7 +2500,7 @@
         </CommonAreas>
     </Settlement>
     <!-- Myzon's town. Dolentos clan -->
-    <Settlement id="town_EN5" name="{=Settlements.Settlement.name.town_EN5}Myzea" owner="Faction.clan_empire_north_1"
+    <Settlement id="town_EN5" name="{=Settlements.Settlement.name.town_EN5}Myzea" owner="Faction.clan_battania_5"
                 posX="654.622" posY="1138.914" culture="Culture.sturgia" prosperity="3900" gate_posX="651.7433"
                 gate_posY="1138.757"
                 text="{=8UJ3cPrZ}Myzea gives its name to the Myzeiad, the rich hill country of the east-central empire. This region is the old stomping grounds of the senator Litos, who brought the Palaic tribes here into the empire relatively peacefully by offering them protection against raiders from the steppes. When he fell afoul of his rivals in the Senate, however, he tried to organize them into a rival 'barbarian' republic modelled on the ancient Calradian version. The empire snuffed it out, but the people here, now thoroughly Calradicized, still harbor an attachment to the old republican system and its partisans.">
@@ -2665,7 +2665,7 @@
     </Settlement>
     <!-- blackheath. To Ascyron, Lucon's heir -->
     <Settlement id="castle_EW8" name="{=Settlements.Settlement.name.castle_EW8}Gersegos Castle"
-                owner="Faction.clan_empire_west_9" posX="275.744" posY="936.685" culture="Culture.etruscan"
+                owner="Faction.clan_vlandia_3" posX="275.744" posY="936.685" culture="Culture.etruscan"
                 prosperity="610" gate_posX="274.6428" gate_posY="934.486">
         <Components>
             <Town id="castle_comp_EW8" is_castle="true" level="1" background_crop_position="0.0"
@@ -2722,7 +2722,7 @@
     </Settlement>
     <!-- Redrock -->
     <Settlement id="castle_ES1" name="{=Settlements.Settlement.name.castle_ES1}Odrysa Castle"
-                owner="Faction.clan_empire_south_9" posX="460.73" posY="965.648" culture="Culture.massilia"
+                owner="Faction.clan_empire_south_4" posX="460.73" posY="965.648" culture="Culture.massilia"
                 prosperity="500" gate_posX="463.4633" gate_posY="967.1517">
         <Components>
             <Town id="castle_comp_ES1" is_castle="true" level="3" background_crop_position="0.0"
@@ -2857,7 +2857,7 @@
         </CommonAreas>
     </Settlement>
     <Settlement id="castle_ES4" name="{=Settlements.Settlement.name.castle_ES4}Aleria"
-                owner="Faction.clan_empire_south_4" posX="518.815" posY="914.911" culture="Culture.etruscan"
+                owner="Faction.clan_empire_south_1" posX="518.815" posY="914.911" culture="Culture.empire"
                 prosperity="1100" gate_posX="519.5365" gate_posY="917.3104">
         <Components>
             <Town id="castle_comp_ES4" is_castle="true" level="1" background_crop_position="0.0"
@@ -2941,7 +2941,7 @@
         </CommonAreas>
     </Settlement>
     <Settlement id="castle_ES6" name="{=Settlements.Settlement.name.castle_ES6}Sestadaim Castle"
-                owner="Faction.clan_vlandia_9" posX="521.779" posY="1021.314" culture="Culture.vlandia" prosperity="670"
+                owner="Faction.clan_empire_south_5" posX="521.779" posY="1021.314" culture="Culture.vlandia" prosperity="670"
                 gate_posX="519.3658" gate_posY="1021.676">
         <Components>
             <Town id="castle_comp_ES6" is_castle="true" level="1" background_crop_position="0.0"
@@ -3621,7 +3621,7 @@
         </CommonAreas>
     </Settlement>
     <Settlement id="castle_A1" name="{=Settlements.Settlement.name.castle_A1}Tubilis Castle"
-                owner="Faction.clan_aserai_7" posX="595.896" posY="643.142" culture="Culture.libyan" prosperity="460"
+                owner="Faction.clan_aserai_9" posX="595.896" posY="643.142" culture="Culture.libyan" prosperity="460"
                 gate_posX="594.5422" gate_posY="643.2773">
         <Components>
             <Town id="castle_comp_A1" is_castle="true" level="2" background_crop_position="0.0"
@@ -3756,7 +3756,7 @@
         </CommonAreas>
     </Settlement>
     <Settlement id="castle_A4" name="{=Settlements.Settlement.name.castle_A4}Medeni Castle"
-                owner="Faction.clan_aserai_1" posX="534.974" posY="738.435" culture="Culture.aserai" prosperity="750"
+                owner="Faction.clan_aserai_9" posX="534.974" posY="738.435" culture="Culture.aserai" prosperity="750"
                 gate_posX="536.7408" gate_posY="738.4577">
         <Components>
             <Town id="castle_comp_A4" is_castle="true" level="1" background_crop_position="0.0"
@@ -3872,7 +3872,7 @@
             <Area type="Bog" name="{=iXA5SttU}Bog"/>
         </CommonAreas>
     </Settlement>
-    <Settlement id="castle_A7" name="{=Settlements.Settlement.name.castle_A7}Uqba Castle" owner="Faction.clan_aserai_8"
+    <Settlement id="castle_A7" name="{=Settlements.Settlement.name.castle_A7}Uqba Castle" owner="Faction.clan_aserai_4"
                 posX="165.123" posY="673.42" culture="Culture.massylii" prosperity="550" gate_posX="163.9682"
                 gate_posY="674.7574">
         <Components>
@@ -3924,7 +3924,7 @@
         </CommonAreas>
     </Settlement>
     <Settlement id="castle_A8" name="{=Settlements.Settlement.name.castle_A8}Tamnuh Castle"
-                owner="Faction.clan_aserai_5" posX="142.873" posY="730.666" culture="Culture.mauri" prosperity="590"
+                owner="Faction.clan_aserai_2" posX="142.873" posY="730.666" culture="Culture.mauri" prosperity="590"
                 gate_posX="141.5089" gate_posY="730.7842">
         <Components>
             <Town id="castle_comp_A8" is_castle="true" level="3" background_crop_position="0.0"
@@ -3957,7 +3957,7 @@
         </CommonAreas>
     </Settlement>
     <Settlement id="castle_A9" name="{=Settlements.Settlement.name.castle_A9}Barihal Castle"
-                owner="Faction.clan_aserai_6" posX="487.29" posY="647.643" culture="Culture.libyan" prosperity="610"
+                owner="Faction.clan_aserai_9" posX="487.29" posY="647.643" culture="Culture.libyan" prosperity="610"
                 gate_posX="486.2373" gate_posY="648.553">
         <Components>
             <Town id="castle_comp_A9" is_castle="true" level="3" background_crop_position="0.0"
@@ -3990,7 +3990,7 @@
         </CommonAreas>
     </Settlement>
     <!-- Quyaz, Banu Qild  -->
-    <Settlement id="town_A1" name="{=Settlements.Settlement.name.town_A1}Quyaz" owner="Faction.clan_aserai_6"
+    <Settlement id="town_A1" name="{=Settlements.Settlement.name.town_A1}Quyaz" owner="Faction.clan_aserai_9"
                 posX="459.621" posY="686.452" culture="Culture.libyan" prosperity="4000" gate_posX="457.6443"
                 gate_posY="688.8568"
                 text="{=1ImuW3My}Quyaz was once a mercantile republic that dominated the trade between the western ocean and the Perassic Sea, speaking the now all-but-extinct Kannic tongue, a relative of Nahasawi. But imperial hegemony slowly snuffed out its trade, and the rulers was taken over by mercenaries from the Nahasa. It came intermittently under imperial subjugation but today is a prized holding of the Banu Hulyan, a leading clan of the Aserai sultanate.">
@@ -4338,7 +4338,7 @@
         </CommonAreas>
     </Settlement>
     <!-- eastern towns -->
-    <Settlement id="town_A5" name="{=Settlements.Settlement.name.town_A5}Hubyar" owner="Faction.clan_aserai_9"
+    <Settlement id="town_A5" name="{=Settlements.Settlement.name.town_A5}Hubyar" owner="Faction.clan_aserai_6"
                 posX="377.284" posY="707.502" culture="Culture.libyan" prosperity="3200" gate_posX="375.9532"
                 gate_posY="710.2626"
                 text="{=IIMWPVhU}The inland city of Hubyar is said to be built on the ruins of a luxurious hunting lodge built by the decadent and cruel king Thuran, whom the patriarch Asera slew in vengeance for the enslavement of his family. This memory may explain the worldview of the fierce and austere Banu Qild, who hold the castle today and who detest all frivolity. But the scent of jasmine that can be detected on the night breezes here carries an undercurrent of temptation. It was here that the hero Nimr came to grief, caught in the chamber of a Banu Qild maiden and left hanging in a cage in the market until he perished.">
@@ -4752,7 +4752,7 @@
         </CommonAreas>
     </Settlement>
     <Settlement id="castle_V3" name="{=Settlements.Settlement.name.castle_V3}Drapand Castle"
-                owner="Faction.clan_vlandia_1" posX="376.905" posY="1012.303" prosperity="830" culture="Culture.vlandia"
+                owner="Faction.clan_empire_north_4" posX="376.905" posY="1012.303" prosperity="830" culture="Culture.vlandia"
                 gate_posX="377.3889" gate_posY="1013.22">
         <Components>
             <Town id="castle_comp_V3" is_castle="true" level="1" background_crop_position="0.0"
@@ -4953,7 +4953,7 @@
         </CommonAreas>
     </Settlement>
     <Settlement id="castle_V8" name="{=Settlements.Settlement.name.castle_V8}Verecsand Castle"
-                owner="Faction.clan_vlandia_10" posX="273.682" posY="1076.765" culture="Culture.vlandia"
+                owner="Faction.clan_vlandia_8" posX="273.682" posY="1076.765" culture="Culture.vlandia"
                 prosperity="780" gate_posX="274.275" gate_posY="1077.591">
         <Components>
             <Town id="castle_comp_V8" is_castle="true" level="1" background_crop_position="0.0"
@@ -5679,7 +5679,7 @@
     <!-- Battania = 5 towns, 16 villages, 6 castles, 4.00 villages per town, 38% castle ratio -->
 
     <!-- Khuzaits, 6 cities, 19 villages, 5 castles, 3.16 villages per town, 26% castle ratio  -->
-    <Settlement id="castle_K1" name="{=Settlements.Settlement.name.castle_K1}Usek Castle" owner="Faction.clan_khuzait_1"
+    <Settlement id="castle_K1" name="{=Settlements.Settlement.name.castle_K1}Usek Castle" owner="Faction.clan_khuzait_7"
                 posX="695.527" posY="975.302" culture="Culture.khuzait" prosperity="420" gate_posX="693.5497"
                 gate_posY="975.7935">
         <Components>
@@ -5766,7 +5766,7 @@
         </CommonAreas>
     </Settlement>
     <Settlement id="castle_K3" name="{=Settlements.Settlement.name.castle_K3}Hakkun Castle"
-                owner="Faction.clan_sturgia_3" posX="720.345" posY="1125.011" culture="Culture.baltic" prosperity="660"
+                owner="Faction.clan_empire_north_1" posX="720.345" posY="1125.011" culture="Culture.baltic" prosperity="660"
                 gate_posX="720.8953" gate_posY="1123.289">
         <Components>
             <Town id="castle_comp_K3" is_castle="true" level="3" background_crop_position="0.0"
@@ -5921,7 +5921,7 @@
         </CommonAreas>
     </Settlement>
     <Settlement id="castle_K7" name="{=Settlements.Settlement.name.castle_K7}Simira Castle"
-                owner="Faction.clan_khuzait_6" posX="732.369" posY="1061.611" culture="Culture.scordisci"
+                owner="Faction.clan_khuzait_3" posX="732.369" posY="1061.611" culture="Culture.scordisci"
                 prosperity="420" gate_posX="732.097" gate_posY="1059.826">
         <Components>
             <Town id="castle_comp_K7" is_castle="true" level="1" background_crop_position="0.0"

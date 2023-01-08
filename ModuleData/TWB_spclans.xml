@@ -668,7 +668,7 @@
              super_faction="Kingdom.Mauritania"
              is_noble="true"
              banner_key="34.80.122.2219.2100.773.767.0.0.0.130.146.6.483.429.734.724.0.1.0.500.146.102.717.700.764.764.0.0.0"/>
-    <!--    NUMIDIA EAST - MASSYLII   -->
+    <!--    NUMIDIA EAST - MASSAESAYLII   -->
     <Faction id="clan_aserai_9"
              name="{=NI1paia1}Banu Ruwaid"
              tier="3"
@@ -677,7 +677,7 @@
              super_faction="Kingdom.Numidia_east"
              is_noble="true"
              banner_key="34.126.122.2163.2044.764.764.0.0.0.500.92.126.728.700.752.763.0.0.0.144.122.126.596.573.762.744.0.1.359"/>
-    <!--    NUMIDIA WEST - MASSAESAYLII-->
+    <!--    NUMIDIA WEST - MASSYLII -->
     <Faction id="clan_aserai_8"
              name="{=o4wKMT9x}Banu Habbab"
              tier="4"
@@ -687,7 +687,6 @@
              is_noble="true"
              banner_key="34.146.141.2163.2044.764.764.0.1.180.500.80.80.735.719.752.764.0.1.0.344.80.80.506.494.730.753.0.0.0.510.80.80.262.183.765.616.0.0.-29"
     />
-
     <!--    SWEDEN/NORWAY-->
     <!--    AROCHI -->
     <Faction id="clan_sturgia_4"
