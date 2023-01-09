@@ -1855,7 +1855,258 @@
 
 
 
+    <Settlement id="castle_ES4" name="{=Settlements.Settlement.name.castle_ES4}Aleria"
+                owner="Faction.clan_empire_south_1" posX="518.815" posY="914.911" culture="Culture.empire"
+                prosperity="1100" gate_posX="519.5365" gate_posY="917.3104">
+        <Components>
+            <Town id="castle_comp_ES4" is_castle="true" level="1" background_crop_position="0.0"
+                  background_mesh="menu_empire_1" wait_mesh="wait_empire_town" gate_rotation="0.908"/>
+        </Components>
+        <Locations complex_template="LocationComplexTemplate.castle_complex">
+            <Location id="center" scene_name="empire_castle_004" scene_name_1="empire_castle_004"
+                      scene_name_2="empire_castle_004" scene_name_3="empire_castle_004"/>
+            <Location id="lordshall" scene_name_1="empire_castle_keep_a_l1_interior"
+                      scene_name_2="empire_castle_keep_a_l2_interior" scene_name_3="empire_castle_keep_a_l3_interior"/>
+            <Location id="prison" scene_name="empire_dungeon_a"/>
+        </Locations>
+    </Settlement>
+    <Settlement id="castle_village_ES4_1" name="{=Settlements.Settlement.name.castle_village_ES4_1}Livorno"
+                posX="554.006" posY="941.902" culture="Culture.etruscan"
+                text="{=Settlements.Settlement.text.castle_village_ES4_1}Lavenia is a fishing village on the northeastern shores of the Perassic Sea. The nearby castle guards one of the main passages over the network of lakes and salt lagoons known as the Calsea, one of the gateways to Aserai lands.">
+        <Components>
+            <Village id="castle_village_comp_ES4_1" village_type="VillageType.fisherman" hearth="601"
+                     gate_rotation="0.008" bound="Settlement.castle_ES4" background_crop_position="0.0"
+                     background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village"
+                     castle_background_mesh="gui_bg_castle_empire"/>
+        </Components>
+        <Locations complex_template="LocationComplexTemplate.village_complex">
+            <Location id="village_center" scene_name="empire_village_o"/>
+        </Locations>
+        <CommonAreas>
+            <Area type="Pasture" name="{=fOUsLdZR}Pasture"/>
+            <Area type="Thicket" name="{=66Mzk0NZ}Thicket"/>
+            <Area type="Bog" name="{=iXA5SttU}Bog"/>
+        </CommonAreas>
+    </Settlement>
+    <Settlement id="castle_village_ES4_2" name="{=Settlements.Settlement.name.castle_village_ES4_2}Grossetum"
+                posX="567.112" posY="931.621" culture="Culture.empire"
+                text="{=Settlements.Settlement.text.castle_village_ES4_2}Placeholder">
+        <Components>
+            <Village id="castle_village_comp_ES4_2" village_type="VillageType.vineyard" hearth="876"
+                     gate_rotation="0.008" bound="Settlement.castle_ES4" background_crop_position="0.0"
+                     background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village"
+                     castle_background_mesh="gui_bg_castle_empire"/>
+        </Components>
+        <Locations complex_template="LocationComplexTemplate.village_complex">
+            <Location id="village_center" scene_name="empire_village_008"/>
+        </Locations>
+        <CommonAreas>
+            <Area type="Pasture" name="{=fOUsLdZR}Pasture"/>
+            <Area type="Thicket" name="{=66Mzk0NZ}Thicket"/>
+            <Area type="Bog" name="{=iXA5SttU}Bog"/>
+        </CommonAreas>
+    </Settlement>
 
+    <Settlement id="town_ES6" name="{=Settlements.Settlement.name.town_ES6}Genua" owner="Faction.clan_empire_south_3"
+                posX="515.711" posY="975.512" culture="Culture.etruscan" prosperity="2600" gate_posX="518.191"
+                gate_posY="974.9539"
+                text="{=RL2vacqv}Phycaon sits at the head of the Sethys valley, one of the main grain-producing regions of the central Empire. Once the largest of the Palaic cities, its leaders led a league of the tribes against imperial encroachment into the region. But when the empire's victory looked inevitable, they made their peace. The population, now thoroughly Calradicized, have a reputation for being serious, respectable and trade-minded, dependable if a bit humorless.">
+        <Components>
+            <Town id="town_comp_ES6" is_castle="false" level="3" background_crop_position="0.0"
+                  background_mesh="menu_empire_2" wait_mesh="wait_empire_town" gate_rotation="0.508"/>
+        </Components>
+        <Locations complex_template="LocationComplexTemplate.town_complex">
+            <Location id="center" scene_name="empire_town_p" scene_name_1="empire_town_p" scene_name_2="empire_town_p"
+                      scene_name_3="empire_town_p"/>
+            <Location id="arena" scene_name="arena_empire_a"/>
+            <Location id="tavern" scene_name="empire_house_c_tavern_a"/>
+            <Location id="lordshall" scene_name_1="empire_castle_keep_a_l1_interior"
+                      scene_name_2="empire_castle_keep_a_l2_interior" scene_name_3="empire_castle_keep_a_l3_interior"/>
+            <Location id="prison" scene_name="empire_dungeon_a"/>
+            <Location id="house_1" scene_name="empire_house_d_interior_house"/>
+            <Location id="house_2" scene_name="empire_house_d_interior_house"/>
+            <Location id="house_3" scene_name="empire_house_d_interior_house"/>
+        </Locations>
+        <CommonAreas>
+            <Area type="Backstreet" name="{=a0MVffcN}Backstreet"/>
+            <Area type="Clearing" name="{=LWHIVshb}Clearing"/>
+            <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront"/>
+        </CommonAreas>
+    </Settlement>
+    <Settlement id="village_ES6_1" name="{=Settlements.Settlement.name.village_ES6_1}Lucca" posX="547.235"
+                posY="964.257" culture="Culture.etruscan"
+                text="{=Settlements.Settlement.text.village_ES6_1}Saldannis lies beneath gypsum bluffs overlooking the River Sethys. The fine soil of the hills makes for a sticky clay when it washes down to the river, much prized by the potters of the imperial south.">
+        <Components>
+            <Village id="village_comp_ES6_1" village_type="VillageType.clay_mine" hearth="401" gate_rotation="0.258"
+                     bound="Settlement.town_ES6" background_crop_position="0.0" background_mesh="gui_bg_village_empire"
+                     wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire"/>
+        </Components>
+        <Locations complex_template="LocationComplexTemplate.village_complex">
+            <Location id="village_center" scene_name="empire_village_003"/>
+        </Locations>
+        <CommonAreas>
+            <Area type="Pasture" name="{=fOUsLdZR}Pasture"/>
+            <Area type="Thicket" name="{=66Mzk0NZ}Thicket"/>
+            <Area type="Bog" name="{=iXA5SttU}Bog"/>
+        </CommonAreas>
+    </Settlement>
+    <Settlement id="village_ES6_2" name="{=Settlements.Settlement.name.village_ES6_2}Spotia" posX="527.41"
+                posY="993.068" culture="Culture.etruscan"
+                text="{=Settlements.Settlement.text.village_ES6_2}Spotia lies alongside the gently flowing Sethys river. The low rolling hills of this district comprise one of the breadbaskets of the Empire.">
+        <Components>
+            <Village id="village_comp_ES6_2" village_type="VillageType.wheat_farm" hearth="501" gate_rotation="0.108"
+                     bound="Settlement.town_ES6" background_crop_position="0.0" background_mesh="gui_bg_village_empire"
+                     wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire"/>
+        </Components>
+        <Locations complex_template="LocationComplexTemplate.village_complex">
+            <Location id="village_center" scene_name="empire_village_i"/>
+        </Locations>
+        <CommonAreas>
+            <Area type="Pasture" name="{=fOUsLdZR}Pasture"/>
+            <Area type="Thicket" name="{=66Mzk0NZ}Thicket"/>
+            <Area type="Bog" name="{=iXA5SttU}Bog"/>
+        </CommonAreas>
+    </Settlement>
+<!--    roma   -->
+    <Settlement id="town_ES4" name="{=Settlements.Settlement.name.town_ES4}Roma" owner="Faction.clan_empire_south_1"
+                posX="601.043" posY="913.907" culture="Culture.empire" prosperity="8300" gate_posX="596.8077"
+                gate_posY="912.8961"
+                text="{=WGtzBswe}The natural fortress of Lycaron sits on a spur jutting out of the great Ornian rock. In the final years of the imperial conquest, the Palaic tribe here negotiated a peaceful federation with the empire, only to see their home seized by the rebel leader Gethuz. The ensuing siege was only the first of many that Lycaron would undergo in the ensuing centuries, as its nearby silver mines made it a prize for every imperial pretender who ever tried to seize power in a civil war. It is said that the colony of vultures who inhabit the upper reaches of the Rock have dined on the flesh of every people of Calradia.">
+        <Components>
+            <Town id="town_comp_ES4" is_castle="false" level="3" background_crop_position="0.0"
+                  background_mesh="menu_empire_5" wait_mesh="wait_empire_town" gate_rotation="0.908"/>
+        </Components>
+        <Locations complex_template="LocationComplexTemplate.town_complex">
+            <Location id="center" scene_name="empire_town_m" scene_name_1="empire_town_m" scene_name_2="empire_town_m"
+                      scene_name_3="empire_town_m"/>
+            <Location id="arena" scene_name="arena_empire_a"/>
+            <Location id="tavern" scene_name="empire_house_c_tavern_a"/>
+            <Location id="lordshall" scene_name_1="empire_castle_keep_a_l1_interior"
+                      scene_name_2="empire_castle_keep_a_l2_interior" scene_name_3="empire_castle_keep_a_l3_interior"/>
+            <Location id="prison" scene_name="empire_dungeon_a"/>
+            <Location id="house_1" scene_name="empire_house_d_interior_house"/>
+            <Location id="house_2" scene_name="empire_house_d_interior_house"/>
+            <Location id="house_3" scene_name="empire_house_d_interior_house"/>
+        </Locations>
+        <CommonAreas>
+            <Area type="Backstreet" name="{=a0MVffcN}Backstreet"/>
+            <Area type="Clearing" name="{=LWHIVshb}Clearing"/>
+            <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront"/>
+        </CommonAreas>
+    </Settlement>
+    <Settlement id="village_ES4_1" name="{=Settlements.Settlement.name.village_ES4_1}Gaeta" posX="615.602"
+                posY="895.779" culture="Culture.empire"
+                text="{=Settlements.Settlement.text.village_ES4_1}Sagora on a low ridge in the middle of the Lycarean plain. This district is one of the rockier and less fertile parts of the plain, but the valley scrubs still supports the grazing of sheep.">
+        <Components>
+            <Village id="village_comp_ES4_1" village_type="VillageType.sheep_farm" hearth="701"
+                     bound="Settlement.town_ES4" background_crop_position="0.0" background_mesh="gui_bg_village_empire"
+                     wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire"/>
+        </Components>
+        <Locations complex_template="LocationComplexTemplate.village_complex">
+            <Location id="village_center" scene_name="empire_village_t"/>
+        </Locations>
+        <CommonAreas>
+            <Area type="Pasture" name="{=fOUsLdZR}Pasture"/>
+            <Area type="Thicket" name="{=66Mzk0NZ}Thicket"/>
+            <Area type="Bog" name="{=iXA5SttU}Bog"/>
+        </CommonAreas>
+    </Settlement>
+    <Settlement id="village_ES4_3" name="{=Settlements.Settlement.name.village_ES4_3}Arretium" posX="576.823"
+                posY="947.159" culture="Culture.etruscan"
+                text="{=Settlements.Settlement.text.village_ES4_3}Placeholder">
+        <Components>
+            <Village id="village_comp_ES4_3" village_type="VillageType.wheat_farm" hearth="801"
+                     gate_rotation="0.008" bound="Settlement.town_ES4" background_crop_position="0.0"
+                     background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village"
+                     castle_background_mesh="gui_bg_castle_empire"/>
+        </Components>
+        <Locations complex_template="LocationComplexTemplate.village_complex">
+            <Location id="village_center" scene_name="empire_village_d"/>
+        </Locations>
+        <CommonAreas>
+            <Area type="Pasture" name="{=fOUsLdZR}Pasture"/>
+            <Area type="Thicket" name="{=66Mzk0NZ}Thicket"/>
+            <Area type="Bog" name="{=iXA5SttU}Bog"/>
+        </CommonAreas>
+    </Settlement>
+<!--    ancona-->
+    <Settlement id="town_ES1" name="{=Settlements.Settlement.name.town_ES1}Ancona"
+                owner="Faction.clan_empire_south_2" posX="620.083" posY="947.332" culture="Culture.empire"
+                prosperity="5100" gate_posX="618.361" gate_posY="945.5024"
+                text="{=xkkI7ejQ}The frontier city of Danustica dominates the network of lakes and lagoons known as the Calsea. It has long held the line against incursions by the Aserai and various Darshi shahs and padishahs further to the east. Many an imperial legionary stationed here has scribbled graffiti on its walls cursing the city's sweltering summers, brackish water and the mosquitos that rise from the Calsea, but the inhabitants are proud of their role as border defenders and mock the soldiers wilting in the heat around them.">
+        <Components>
+            <Town id="town_comp_ES1" is_castle="false" level="3" background_crop_position="0.0"
+                  background_mesh="menu_empire_seaside_1" wait_mesh="wait_empire_town" gate_rotation="0.808"/>
+        </Components>
+        <Locations complex_template="LocationComplexTemplate.town_complex">
+            <Location id="center" scene_name="empire_town_s" scene_name_1="empire_town_s" scene_name_2="empire_town_s"
+                      scene_name_3="empire_town_s"/>
+            <Location id="arena" scene_name="arena_empire_a"/>
+            <Location id="tavern" scene_name="empire_house_c_tavern_a"/>
+            <Location id="lordshall" scene_name_1="empire_castle_keep_a_l1_interior"
+                      scene_name_2="empire_castle_keep_a_l2_interior" scene_name_3="empire_castle_keep_a_l3_interior"/>
+            <Location id="prison" scene_name="empire_dungeon_a"/>
+            <Location id="house_1" scene_name="empire_house_d_interior_house"/>
+            <Location id="house_2" scene_name="empire_house_d_interior_house"/>
+            <Location id="house_3" scene_name="empire_house_d_interior_house"/>
+        </Locations>
+        <CommonAreas>
+            <Area type="Backstreet" name="{=a0MVffcN}Backstreet"/>
+            <Area type="Clearing" name="{=LWHIVshb}Clearing"/>
+            <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront"/>
+        </CommonAreas>
+    </Settlement>
+    <Settlement id="village_ES1_2" name="{=Settlements.Settlement.name.village_ES1_2}Camerinum" posX="619.422"
+                posY="922.997" culture="Culture.empire"
+                text="{=Settlements.Settlement.text.village_ES1_2}Polisia sits among the network of rivers and lakes known as the Calsea near the Aserai borderlands. Villagers harvest salt from a lagoon to their west, a former inlet of the Perassic sea that was cut off by a sandspit. These lowlands are shunned by many others in Calradia, who find the air thick and fetid, but the inhabitants are proud of their role keeping watch on the Aserai.">
+        <Components>
+            <Village id="village_comp_ES1_2" village_type="VillageType.salt_mine" hearth="101" gate_rotation="0.008"
+                     bound="Settlement.town_ES1" background_crop_position="0.0" background_mesh="gui_bg_village_empire"
+                     wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire"/>
+        </Components>
+        <Locations complex_template="LocationComplexTemplate.village_complex">
+            <Location id="village_center" scene_name="empire_village_003"/>
+        </Locations>
+        <CommonAreas>
+            <Area type="Pasture" name="{=fOUsLdZR}Pasture"/>
+            <Area type="Thicket" name="{=66Mzk0NZ}Thicket"/>
+            <Area type="Bog" name="{=iXA5SttU}Bog"/>
+        </CommonAreas>
+    </Settlement>
+    <Settlement id="village_ES1_3" name="{=Settlements.Settlement.name.village_ES1_3}Urbinum Mataurense" posX="604.068"
+                posY="943.195" culture="Culture.empire"
+                text="{=Settlements.Settlement.text.village_ES1_3}Tegresos sits just north of the River Calsa, right before it enters the network of lakes, creeks and lagoons that form the borderlands with the Aserai. The inhabitants of this region have bred sheep that feed on marsh-grasses.">
+        <Components>
+            <Village id="village_comp_ES1_3" village_type="VillageType.flax_plant" hearth="201" gate_rotation="0.008"
+                     bound="Settlement.town_ES1" background_crop_position="0.0" background_mesh="gui_bg_village_empire"
+                     wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire"/>
+        </Components>
+        <Locations complex_template="LocationComplexTemplate.village_complex">
+            <Location id="village_center" scene_name="empire_village_003"/>
+        </Locations>
+        <CommonAreas>
+            <Area type="Pasture" name="{=fOUsLdZR}Pasture"/>
+            <Area type="Thicket" name="{=66Mzk0NZ}Thicket"/>
+            <Area type="Bog" name="{=iXA5SttU}Bog"/>
+        </CommonAreas>
+    </Settlement>
+    <Settlement id="village_ES1_4" name="{=Settlements.Settlement.name.village_ES1_4}Aesernia" posX="643.962"
+                posY="910.43" culture="Culture.empire"
+                text="{=Settlements.Settlement.text.village_ES1_4}Erebulos lies by a lagoon that was formerly part of the Perassic Sea, closed by a recently formed sandspit. Villagers scoop clay from the creek-bottoms here, selling it to the pottery kilns of Danustica and other nearby towns.">
+        <Components>
+            <Village id="village_comp_ES1_4" village_type="VillageType.olive_trees" hearth="301" gate_rotation="0.008"
+                     bound="Settlement.town_ES1" background_crop_position="0.0" background_mesh="gui_bg_village_empire"
+                     wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire"/>
+        </Components>
+        <Locations complex_template="LocationComplexTemplate.village_complex">
+            <Location id="village_center" scene_name="empire_village_004"/>
+        </Locations>
+        <CommonAreas>
+            <Area type="Pasture" name="{=fOUsLdZR}Pasture"/>
+            <Area type="Thicket" name="{=66Mzk0NZ}Thicket"/>
+            <Area type="Bog" name="{=iXA5SttU}Bog"/>
+        </CommonAreas>
+    </Settlement>
 
 
 
@@ -2856,57 +3107,6 @@
             <Area type="Bog" name="{=iXA5SttU}Bog"/>
         </CommonAreas>
     </Settlement>
-    <Settlement id="castle_ES4" name="{=Settlements.Settlement.name.castle_ES4}Aleria"
-                owner="Faction.clan_empire_south_1" posX="518.815" posY="914.911" culture="Culture.empire"
-                prosperity="1100" gate_posX="519.5365" gate_posY="917.3104">
-        <Components>
-            <Town id="castle_comp_ES4" is_castle="true" level="1" background_crop_position="0.0"
-                  background_mesh="menu_empire_1" wait_mesh="wait_empire_town" gate_rotation="0.908"/>
-        </Components>
-        <Locations complex_template="LocationComplexTemplate.castle_complex">
-            <Location id="center" scene_name="empire_castle_004" scene_name_1="empire_castle_004"
-                      scene_name_2="empire_castle_004" scene_name_3="empire_castle_004"/>
-            <Location id="lordshall" scene_name_1="empire_castle_keep_a_l1_interior"
-                      scene_name_2="empire_castle_keep_a_l2_interior" scene_name_3="empire_castle_keep_a_l3_interior"/>
-            <Location id="prison" scene_name="empire_dungeon_a"/>
-        </Locations>
-    </Settlement>
-    <Settlement id="castle_village_ES4_1" name="{=Settlements.Settlement.name.castle_village_ES4_1}Livorno"
-                posX="554.006" posY="941.902" culture="Culture.etruscan"
-                text="{=Settlements.Settlement.text.castle_village_ES4_1}Lavenia is a fishing village on the northeastern shores of the Perassic Sea. The nearby castle guards one of the main passages over the network of lakes and salt lagoons known as the Calsea, one of the gateways to Aserai lands.">
-        <Components>
-            <Village id="castle_village_comp_ES4_1" village_type="VillageType.fisherman" hearth="378"
-                     gate_rotation="0.008" bound="Settlement.castle_ES4" background_crop_position="0.0"
-                     background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village"
-                     castle_background_mesh="gui_bg_castle_empire"/>
-        </Components>
-        <Locations complex_template="LocationComplexTemplate.village_complex">
-            <Location id="village_center" scene_name="empire_village_o"/>
-        </Locations>
-        <CommonAreas>
-            <Area type="Pasture" name="{=fOUsLdZR}Pasture"/>
-            <Area type="Thicket" name="{=66Mzk0NZ}Thicket"/>
-            <Area type="Bog" name="{=iXA5SttU}Bog"/>
-        </CommonAreas>
-    </Settlement>
-    <Settlement id="castle_village_ES4_2" name="{=Settlements.Settlement.name.castle_village_ES4_2}Grossetum"
-                posX="567.112" posY="931.621" culture="Culture.empire"
-                text="{=Settlements.Settlement.text.castle_village_ES4_2}Placeholder">
-    <Components>
-            <Village id="castle_village_comp_ES4_2" village_type="VillageType.vineyard" hearth="876"
-                     gate_rotation="0.008" bound="Settlement.castle_ES4" background_crop_position="0.0"
-                     background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village"
-                     castle_background_mesh="gui_bg_castle_empire"/>
-        </Components>
-        <Locations complex_template="LocationComplexTemplate.village_complex">
-            <Location id="village_center" scene_name="empire_village_008"/>
-        </Locations>
-        <CommonAreas>
-            <Area type="Pasture" name="{=fOUsLdZR}Pasture"/>
-            <Area type="Thicket" name="{=66Mzk0NZ}Thicket"/>
-            <Area type="Bog" name="{=iXA5SttU}Bog"/>
-        </CommonAreas>
-    </Settlement>
     <Settlement id="castle_ES5" name="{=Settlements.Settlement.name.castle_ES5}Syrakō"
                 owner="Faction.clan_empire_south_8" posX="654.98" posY="793.134" culture="Culture.syracuse"
                 prosperity="850" gate_posX="655.3328" gate_posY="790.2151">
@@ -3040,32 +3240,6 @@
         </CommonAreas>
     </Settlement>
     <!-- Imperial subfaction 3 begins -->
-    <Settlement id="town_ES1" name="{=Settlements.Settlement.name.town_ES1}Ancona"
-                owner="Faction.clan_empire_south_2" posX="620.083" posY="947.332" culture="Culture.empire"
-                prosperity="4900" gate_posX="618.361" gate_posY="945.5024"
-                text="{=xkkI7ejQ}The frontier city of Danustica dominates the network of lakes and lagoons known as the Calsea. It has long held the line against incursions by the Aserai and various Darshi shahs and padishahs further to the east. Many an imperial legionary stationed here has scribbled graffiti on its walls cursing the city's sweltering summers, brackish water and the mosquitos that rise from the Calsea, but the inhabitants are proud of their role as border defenders and mock the soldiers wilting in the heat around them.">
-        <Components>
-            <Town id="town_comp_ES1" is_castle="false" level="3" background_crop_position="0.0"
-                  background_mesh="menu_empire_seaside_1" wait_mesh="wait_empire_town" gate_rotation="0.808"/>
-        </Components>
-        <Locations complex_template="LocationComplexTemplate.town_complex">
-            <Location id="center" scene_name="empire_town_s" scene_name_1="empire_town_s" scene_name_2="empire_town_s"
-                      scene_name_3="empire_town_s"/>
-            <Location id="arena" scene_name="arena_empire_a"/>
-            <Location id="tavern" scene_name="empire_house_c_tavern_a"/>
-            <Location id="lordshall" scene_name_1="empire_castle_keep_a_l1_interior"
-                      scene_name_2="empire_castle_keep_a_l2_interior" scene_name_3="empire_castle_keep_a_l3_interior"/>
-            <Location id="prison" scene_name="empire_dungeon_a"/>
-            <Location id="house_1" scene_name="empire_house_d_interior_house"/>
-            <Location id="house_2" scene_name="empire_house_d_interior_house"/>
-            <Location id="house_3" scene_name="empire_house_d_interior_house"/>
-        </Locations>
-        <CommonAreas>
-            <Area type="Backstreet" name="{=a0MVffcN}Backstreet"/>
-            <Area type="Clearing" name="{=LWHIVshb}Clearing"/>
-            <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront"/>
-        </CommonAreas>
-    </Settlement>
     <!-- Feverheat -->
     <Settlement id="castle_village_ES1_2" name="{=Settlements.Settlement.name.castle_village_ES1_2}Caira" posX="454.699"
                 posY="943.916" culture="Culture.massilia"
@@ -3078,57 +3252,6 @@
         </Components>
         <Locations complex_template="LocationComplexTemplate.village_complex">
             <Location id="village_center" scene_name="empire_village_003"/>
-        </Locations>
-        <CommonAreas>
-            <Area type="Pasture" name="{=fOUsLdZR}Pasture"/>
-            <Area type="Thicket" name="{=66Mzk0NZ}Thicket"/>
-            <Area type="Bog" name="{=iXA5SttU}Bog"/>
-        </CommonAreas>
-    </Settlement>
-    <Settlement id="village_ES1_2" name="{=Settlements.Settlement.name.village_ES1_2}Camerinum" posX="619.422"
-                posY="922.997" culture="Culture.empire"
-                text="{=Settlements.Settlement.text.village_ES1_2}Polisia sits among the network of rivers and lakes known as the Calsea near the Aserai borderlands. Villagers harvest salt from a lagoon to their west, a former inlet of the Perassic sea that was cut off by a sandspit. These lowlands are shunned by many others in Calradia, who find the air thick and fetid, but the inhabitants are proud of their role keeping watch on the Aserai.">
-        <Components>
-            <Village id="village_comp_ES1_2" village_type="VillageType.salt_mine" hearth="218" gate_rotation="0.008"
-                     bound="Settlement.town_ES1" background_crop_position="0.0" background_mesh="gui_bg_village_empire"
-                     wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire"/>
-        </Components>
-        <Locations complex_template="LocationComplexTemplate.village_complex">
-            <Location id="village_center" scene_name="empire_village_003"/>
-        </Locations>
-        <CommonAreas>
-            <Area type="Pasture" name="{=fOUsLdZR}Pasture"/>
-            <Area type="Thicket" name="{=66Mzk0NZ}Thicket"/>
-            <Area type="Bog" name="{=iXA5SttU}Bog"/>
-        </CommonAreas>
-    </Settlement>
-    <Settlement id="village_ES1_3" name="{=Settlements.Settlement.name.village_ES1_3}Urbinum Mataurense" posX="604.068"
-                posY="943.195" culture="Culture.empire"
-                text="{=Settlements.Settlement.text.village_ES1_3}Tegresos sits just north of the River Calsa, right before it enters the network of lakes, creeks and lagoons that form the borderlands with the Aserai. The inhabitants of this region have bred sheep that feed on marsh-grasses.">
-        <Components>
-            <Village id="village_comp_ES1_3" village_type="VillageType.flax_plant" hearth="231" gate_rotation="0.008"
-                     bound="Settlement.town_ES1" background_crop_position="0.0" background_mesh="gui_bg_village_empire"
-                     wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire"/>
-        </Components>
-        <Locations complex_template="LocationComplexTemplate.village_complex">
-            <Location id="village_center" scene_name="empire_village_003"/>
-        </Locations>
-        <CommonAreas>
-            <Area type="Pasture" name="{=fOUsLdZR}Pasture"/>
-            <Area type="Thicket" name="{=66Mzk0NZ}Thicket"/>
-            <Area type="Bog" name="{=iXA5SttU}Bog"/>
-        </CommonAreas>
-    </Settlement>
-    <Settlement id="village_ES1_4" name="{=Settlements.Settlement.name.village_ES1_4}Aesernia" posX="643.962"
-                posY="910.43" culture="Culture.empire"
-                text="{=Settlements.Settlement.text.village_ES1_4}Erebulos lies by a lagoon that was formerly part of the Perassic Sea, closed by a recently formed sandspit. Villagers scoop clay from the creek-bottoms here, selling it to the pottery kilns of Danustica and other nearby towns.">
-        <Components>
-            <Village id="village_comp_ES1_4" village_type="VillageType.olive_trees" hearth="231" gate_rotation="0.008"
-                     bound="Settlement.town_ES1" background_crop_position="0.0" background_mesh="gui_bg_village_empire"
-                     wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire"/>
-        </Components>
-        <Locations complex_template="LocationComplexTemplate.village_complex">
-            <Location id="village_center" scene_name="empire_village_004"/>
         </Locations>
         <CommonAreas>
             <Area type="Pasture" name="{=fOUsLdZR}Pasture"/>
@@ -3308,49 +3431,6 @@
             <Area type="Bog" name="{=iXA5SttU}Bog"/>
         </CommonAreas>
     </Settlement>
-    <Settlement id="town_ES4" name="{=Settlements.Settlement.name.town_ES4}Roma" owner="Faction.clan_empire_south_1"
-                posX="601.043" posY="913.907" culture="Culture.empire" prosperity="3800" gate_posX="596.8077"
-                gate_posY="912.8961"
-                text="{=WGtzBswe}The natural fortress of Lycaron sits on a spur jutting out of the great Ornian rock. In the final years of the imperial conquest, the Palaic tribe here negotiated a peaceful federation with the empire, only to see their home seized by the rebel leader Gethuz. The ensuing siege was only the first of many that Lycaron would undergo in the ensuing centuries, as its nearby silver mines made it a prize for every imperial pretender who ever tried to seize power in a civil war. It is said that the colony of vultures who inhabit the upper reaches of the Rock have dined on the flesh of every people of Calradia.">
-        <Components>
-            <Town id="town_comp_ES4" is_castle="false" level="3" background_crop_position="0.0"
-                  background_mesh="menu_empire_5" wait_mesh="wait_empire_town" gate_rotation="0.908"/>
-        </Components>
-        <Locations complex_template="LocationComplexTemplate.town_complex">
-            <Location id="center" scene_name="empire_town_m" scene_name_1="empire_town_m" scene_name_2="empire_town_m"
-                      scene_name_3="empire_town_m"/>
-            <Location id="arena" scene_name="arena_empire_a"/>
-            <Location id="tavern" scene_name="empire_house_c_tavern_a"/>
-            <Location id="lordshall" scene_name_1="empire_castle_keep_a_l1_interior"
-                      scene_name_2="empire_castle_keep_a_l2_interior" scene_name_3="empire_castle_keep_a_l3_interior"/>
-            <Location id="prison" scene_name="empire_dungeon_a"/>
-            <Location id="house_1" scene_name="empire_house_d_interior_house"/>
-            <Location id="house_2" scene_name="empire_house_d_interior_house"/>
-            <Location id="house_3" scene_name="empire_house_d_interior_house"/>
-        </Locations>
-        <CommonAreas>
-            <Area type="Backstreet" name="{=a0MVffcN}Backstreet"/>
-            <Area type="Clearing" name="{=LWHIVshb}Clearing"/>
-            <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront"/>
-        </CommonAreas>
-    </Settlement>
-    <Settlement id="village_ES4_1" name="{=Settlements.Settlement.name.village_ES4_1}Gaeta" posX="615.602"
-                posY="895.779" culture="Culture.empire"
-                text="{=Settlements.Settlement.text.village_ES4_1}Sagora on a low ridge in the middle of the Lycarean plain. This district is one of the rockier and less fertile parts of the plain, but the valley scrubs still supports the grazing of sheep.">
-        <Components>
-            <Village id="village_comp_ES4_1" village_type="VillageType.sheep_farm" hearth="500"
-                     bound="Settlement.town_ES4" background_crop_position="0.0" background_mesh="gui_bg_village_empire"
-                     wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire"/>
-        </Components>
-        <Locations complex_template="LocationComplexTemplate.village_complex">
-            <Location id="village_center" scene_name="empire_village_t"/>
-        </Locations>
-        <CommonAreas>
-            <Area type="Pasture" name="{=fOUsLdZR}Pasture"/>
-            <Area type="Thicket" name="{=66Mzk0NZ}Thicket"/>
-            <Area type="Bog" name="{=iXA5SttU}Bog"/>
-        </CommonAreas>
-    </Settlement>
     <Settlement id="castle_village_ES8_2" name="{=Settlements.Settlement.name.castle_village_ES8_2}Popsia"
                 posX="693.331" posY="860.695" culture="Culture.empire"
                 text="{=Settlements.Settlement.text.village_ES4_2}Popsia in a narrow canyon between the Ornian Rock and the valley of the Ophthys pool. Trees grow tall here in the cool shadows of the hills, and villagers harvest pines for sale as lumber.">
@@ -3362,24 +3442,6 @@
         </Components>
         <Locations complex_template="LocationComplexTemplate.village_complex">
             <Location id="village_center" scene_name="empire_village_007"/>
-        </Locations>
-        <CommonAreas>
-            <Area type="Pasture" name="{=fOUsLdZR}Pasture"/>
-            <Area type="Thicket" name="{=66Mzk0NZ}Thicket"/>
-            <Area type="Bog" name="{=iXA5SttU}Bog"/>
-        </CommonAreas>
-    </Settlement>
-    <Settlement id="village_ES4_3" name="{=Settlements.Settlement.name.village_ES4_3}Arretium" posX="576.823"
-                posY="947.159" culture="Culture.etruscan"
-                text="{=Settlements.Settlement.text.village_ES4_3}Placeholder">
-        <Components>
-            <Village id="village_comp_ES4_3" village_type="VillageType.wheat_farm" hearth="881"
-                     gate_rotation="0.008" bound="Settlement.town_ES4" background_crop_position="0.0"
-                     background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village"
-                     castle_background_mesh="gui_bg_castle_empire"/>
-        </Components>
-        <Locations complex_template="LocationComplexTemplate.village_complex">
-            <Location id="village_center" scene_name="empire_village_d"/>
         </Locations>
         <CommonAreas>
             <Area type="Pasture" name="{=fOUsLdZR}Pasture"/>
@@ -3457,66 +3519,6 @@
         </Components>
         <Locations complex_template="LocationComplexTemplate.village_complex">
             <Location id="village_center" scene_name="empire_village_k"/>
-        </Locations>
-        <CommonAreas>
-            <Area type="Pasture" name="{=fOUsLdZR}Pasture"/>
-            <Area type="Thicket" name="{=66Mzk0NZ}Thicket"/>
-            <Area type="Bog" name="{=iXA5SttU}Bog"/>
-        </CommonAreas>
-    </Settlement>
-    <Settlement id="town_ES6" name="{=Settlements.Settlement.name.town_ES6}Genua" owner="Faction.clan_empire_south_3"
-                posX="515.711" posY="975.512" culture="Culture.etruscan" prosperity="2600" gate_posX="518.191"
-                gate_posY="974.9539"
-                text="{=RL2vacqv}Phycaon sits at the head of the Sethys valley, one of the main grain-producing regions of the central Empire. Once the largest of the Palaic cities, its leaders led a league of the tribes against imperial encroachment into the region. But when the empire's victory looked inevitable, they made their peace. The population, now thoroughly Calradicized, have a reputation for being serious, respectable and trade-minded, dependable if a bit humorless.">
-        <Components>
-            <Town id="town_comp_ES6" is_castle="false" level="3" background_crop_position="0.0"
-                  background_mesh="menu_empire_2" wait_mesh="wait_empire_town" gate_rotation="0.508"/>
-        </Components>
-        <Locations complex_template="LocationComplexTemplate.town_complex">
-            <Location id="center" scene_name="empire_town_p" scene_name_1="empire_town_p" scene_name_2="empire_town_p"
-                      scene_name_3="empire_town_p"/>
-            <Location id="arena" scene_name="arena_empire_a"/>
-            <Location id="tavern" scene_name="empire_house_c_tavern_a"/>
-            <Location id="lordshall" scene_name_1="empire_castle_keep_a_l1_interior"
-                      scene_name_2="empire_castle_keep_a_l2_interior" scene_name_3="empire_castle_keep_a_l3_interior"/>
-            <Location id="prison" scene_name="empire_dungeon_a"/>
-            <Location id="house_1" scene_name="empire_house_d_interior_house"/>
-            <Location id="house_2" scene_name="empire_house_d_interior_house"/>
-            <Location id="house_3" scene_name="empire_house_d_interior_house"/>
-        </Locations>
-        <CommonAreas>
-            <Area type="Backstreet" name="{=a0MVffcN}Backstreet"/>
-            <Area type="Clearing" name="{=LWHIVshb}Clearing"/>
-            <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront"/>
-        </CommonAreas>
-    </Settlement>
-    <Settlement id="village_ES6_1" name="{=Settlements.Settlement.name.village_ES6_1}Lucca" posX="547.235"
-                posY="964.257" culture="Culture.etruscan"
-                text="{=Settlements.Settlement.text.village_ES6_1}Saldannis lies beneath gypsum bluffs overlooking the River Sethys. The fine soil of the hills makes for a sticky clay when it washes down to the river, much prized by the potters of the imperial south.">
-        <Components>
-            <Village id="village_comp_ES6_1" village_type="VillageType.clay_mine" hearth="248" gate_rotation="0.258"
-                     bound="Settlement.town_ES6" background_crop_position="0.0" background_mesh="gui_bg_village_empire"
-                     wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire"/>
-        </Components>
-        <Locations complex_template="LocationComplexTemplate.village_complex">
-            <Location id="village_center" scene_name="empire_village_003"/>
-        </Locations>
-        <CommonAreas>
-            <Area type="Pasture" name="{=fOUsLdZR}Pasture"/>
-            <Area type="Thicket" name="{=66Mzk0NZ}Thicket"/>
-            <Area type="Bog" name="{=iXA5SttU}Bog"/>
-        </CommonAreas>
-    </Settlement>
-    <Settlement id="village_ES6_2" name="{=Settlements.Settlement.name.village_ES6_2}Spotia" posX="527.41"
-                posY="993.068" culture="Culture.etruscan"
-                text="{=Settlements.Settlement.text.village_ES6_2}Spotia lies alongside the gently flowing Sethys river. The low rolling hills of this district comprise one of the breadbaskets of the Empire.">
-        <Components>
-            <Village id="village_comp_ES6_2" village_type="VillageType.wheat_farm" hearth="163" gate_rotation="0.108"
-                     bound="Settlement.town_ES6" background_crop_position="0.0" background_mesh="gui_bg_village_empire"
-                     wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire"/>
-        </Components>
-        <Locations complex_template="LocationComplexTemplate.village_complex">
-            <Location id="village_center" scene_name="empire_village_i"/>
         </Locations>
         <CommonAreas>
             <Area type="Pasture" name="{=fOUsLdZR}Pasture"/>
@@ -6613,7 +6615,7 @@
     <Settlement id="town_EW4" name="{=Settlements.Settlement.name.town_EW4}Emporion" owner="Faction.clan_empire_west_8"
                 posX="339.894" posY="895.315" culture="Culture.etruscan" prosperity="5600" gate_posX="340.1175"
                 gate_posY="898.6075"
-                text="{=JhBSnWAe}Ortysia, named for the quails who inhabit the nearby coastal marshes, was the first Calradian colony on the shores of the Perassic Sea. In its early centuries, it fell under the authority of the Kannic city-state of Quyaz, but the empire's expansion soon united the colony with its mother republic. For centuries, sailors coming from the pirate-infested islands of the Bay of Charas gave thanks when they saw its towers looming through the haze of the western Perassic, signalling a return to safe imperial-patrolled waters.">
+                text="{=JhBSnWAe}Emporion, named for the quails who inhabit the nearby coastal marshes, was the first Calradian colony on the shores of the Perassic Sea. In its early centuries, it fell under the authority of the Kannic city-state of Quyaz, but the empire's expansion soon united the colony with its mother republic. For centuries, sailors coming from the pirate-infested islands of the Bay of Charas gave thanks when they saw its towers looming through the haze of the western Perassic, signalling a return to safe imperial-patrolled waters.">
         <Components>
             <Town id="town_comp_EW4" is_castle="false" level="2" background_crop_position="0.45"
                   background_mesh="menu_empire_seaside_2" wait_mesh="wait_empire_town" gate_rotation="0.908"/>

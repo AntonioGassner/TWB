@@ -482,7 +482,7 @@
         <relationships>
         </relationships>
     </Kingdom>
-    <Kingdom id="Ordovices" owner="Hero.lord_5_15"
+    <Kingdom id="Catuvellauni" owner="Hero.lord_5_15"
              banner_key="11.100.100.4345.4345.764.764.1.0.0.504.110.110.80.80.764.978.1.0.180.407.110.110.368.368.764.757.0.0.0.504.110.110.110.110.764.535.1.0.180"
              primary_banner_color="0xff332c4d"
              secondary_banner_color="0xffd2d6d5" label_color="FF55831A" color="FF332c4d" color2="FFd2d6d5"
