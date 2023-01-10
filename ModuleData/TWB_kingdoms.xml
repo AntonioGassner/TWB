@@ -1,5 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Kingdoms>
+<!--
+cimbri banner that we can now use somewhere else
+             34.135.100.2240.2217.760.782.0.0.0.500.136.142.789.784.750.782.0.1.-1.203.92.135.439.491.586.770.0.1.-1.148.116.135.355.382.738.885.0.1.0.203.92.135.439.491.915.788.0.1.-1.427.126.135.439.116.750.1007.0.0.180.503.122.135.474.159.742.1048.0.0.180.437.116.135.167.139.740.1043.0.0.-1.115.116.135.120.100.694.560.0.0.-1"
+-->
     <!--    ITALY   -->
     <Kingdom id="Etruria" owner="Hero.lord_1_17"
              banner_key="11.76.116.1815.1441.768.788.1.0.270.301.13.116.184.163.891.554.0.0.53.121.13.116.470.415.821.654.0.0.17.144.13.116.725.701.764.764.0.0.0"
@@ -8,7 +12,7 @@
              color="FF9382D0" color2="FFDE9953" alternative_color="FFF4CA14" alternative_color2="FF6d62b5"
              culture="Culture.etruscan" settlement_banner_mesh="encounter_flag_a" flag_mesh="info_screen_flags_b"
              name="{=frEturia}Etruria" short_name="{=Etruria1}Etruscans" title="{=Etruria2}Etruria"
-             ruler_title="{=hwnp9abW}King"
+             ruler_title="{=hwnp9abW}Rex"
              text="{=Etruria3}Etruria. Once the master of the northern Italia region, Is now finding itself in a bitter war against the Republic of Rome.">
         <relationships>
         </relationships>
@@ -36,7 +40,7 @@
              color="FF9382D0" color2="FFDE9953" alternative_color="FFF4CA14" alternative_color2="FF6d62b5"
              culture="Culture.empire" settlement_banner_mesh="encounter_flag_a" flag_mesh="info_screen_flags_b"
              name="{=Rome1234}Roman Republic" short_name="{=Rome2345}Romans" title="{=Rome3456}Roman Republic"
-             ruler_title="{=Rome4321}Dictator"
+             ruler_title="{=Rome4321}Consul"
              text="{=Rome6541}After ousting the last Etruscan King that ruled over the eternal city, the Romans formed their Republic.">
         <relationships>
             <relationship kingdom="Kingdom.Samnites" value="-1" isAtWar="true"/>
@@ -51,7 +55,7 @@
              color="FF9382D0" color2="FFDE9953" alternative_color="FFF4CA14" alternative_color2="FF6d62b5"
              culture="Culture.empire" settlement_banner_mesh="encounter_flag_a" flag_mesh="info_screen_flags_b"
              name="{=Samnites}Samnites" short_name="{=Samnite1}Samnites" title="{=Samnite2}Samnites"
-             ruler_title="{=hwnp9abW}King" text="{=Samnite3}Samnites dwell in the northern lands of Magna Graecia">
+             ruler_title="{=hwnp9abW}Rex" text="{=Samnite3}Samnites dwell in the northern lands of Magna Graecia">
         <relationships>
             <relationship kingdom="Kingdom.Rome" value="-1" isAtWar="true"/>
         </relationships>
@@ -65,7 +69,7 @@
              color="FF5C2017" color2="FFECBA44" alternative_color="FFDBBA27" alternative_color2="ff910101"
              culture="Culture.vlandia" settlement_banner_mesh="encounter_flag_d" flag_mesh="info_screen_flags_c"
              name="{=skicidbo}Senones" short_name="{=boiisuwa}Senones" title="{=slboiifu}Tribe of Senones"
-             ruler_title="{=hwnp9abW}King" text="{=dboii4i3}Senones master of padania.">
+             ruler_title="{=hwnp9abW}Brigantiō" text="{=dboii4i3}Senones master of padania.">
         <relationships>
         </relationships>
     </Kingdom>
@@ -76,7 +80,7 @@
              color="FF9382D0" color2="FFDE9953" alternative_color="FFF4CA14" alternative_color2="FF6d62b5"
              culture="Culture.etruscan" settlement_banner_mesh="encounter_flag_a" flag_mesh="info_screen_flags_b"
              name="{=Emporion}Emporion" short_name="{=Emporion1}Emporion" title="{=Emporion2}Emporion"
-             ruler_title="{=hwnp9abW}King" text="{=Emporion3}Emporion is a Greek colony in the eastern Iberian region.">
+             ruler_title="{=hwnp9abW}Arkhōn" text="{=Emporion3}Emporion is a Greek colony in the eastern Iberian region.">
         <relationships>
         </relationships>
         <policies>
@@ -89,7 +93,7 @@
              color="FF9382D0" color2="FFDE9953" alternative_color="FFF4CA14" alternative_color2="FF6d62b5"
              culture="Culture.epirus" settlement_banner_mesh="encounter_flag_a" flag_mesh="info_screen_flags_b"
              name="{=Epirusum}Epirus" short_name="{=Epirus12}Epirotes" title="{=Epirus23}Epirus"
-             ruler_title="{=hwnp9abW}King" text="{=Epirus34}Epirus controls the western most reaches of Greece.">
+             ruler_title="{=hwnp9abW}Arkhōn" text="{=Epirus34}Epirus controls the western most reaches of Greece.">
         <relationships>
         </relationships>
         <policies>
@@ -102,7 +106,7 @@
              color="FF58888B" color2="FFCCBB89" alternative_color="FF787878" alternative_color2="FF6caecc"
              culture="Culture.khuzait" settlement_banner_mesh="encounter_flag_f" flag_mesh="info_screen_flags_b"
              name="{=Macedon}Macedonia" short_name="{=Macedon1}Macedonians" title="{=Macedon2}The Macedonian Empire"
-             ruler_title="{=hwnp9abW}King"
+             ruler_title="{=hwnp9abW}Arkhōn"
              text="{=Macedon3}Macedonia is a small but quickly expanding empire. that is... until The powerful king of Macedon, Philip II was murdered. Now his ambitious young son Alexander has secured the throne with the help of his mother Olympias.">
         <relationships>
         </relationships>
@@ -113,7 +117,7 @@
              color="FF9382D0" color2="FFDE9953" alternative_color="FFF4CA14" alternative_color2="FF6d62b5"
              culture="Culture.massilia" settlement_banner_mesh="encounter_flag_a" flag_mesh="info_screen_flags_b"
              name="{=Massilia}Massilia" short_name="{=Massili1}Massilians" title="{=Massili2}Massilia"
-             ruler_title="{=hwnp9abW}King"
+             ruler_title="{=hwnp9abW}Arkhōn"
              text="{=Massili3}Massilia was founded by Ionian settlers fleeing the Persians.">
         <relationships>
         </relationships>
@@ -127,7 +131,7 @@
              color="FF9382D0" color2="FFDE9953" alternative_color="FFF4CA14" alternative_color2="FF6d62b5"
              culture="Culture.syracuse" settlement_banner_mesh="encounter_flag_a" flag_mesh="info_screen_flags_b"
              name="{=Syracuse}Syracuse" short_name="{=Syracus1}Syracusians" title="{=Syracus2}Syracuse"
-             ruler_title="{=hwnp9abW}King" text="{=Syracus3}Syracuse Controls the Island of Sicily">
+             ruler_title="{=hwnp9abW}Arkhōn" text="{=Syracus3}Syracuse Controls the Island of Sicily">
         <relationships>
         </relationships>
         <policies>
@@ -142,7 +146,7 @@
              color2="FFECBA44" alternative_color="FFDBBA27" alternative_color2="ff910101" culture="Culture.aserai"
              settlement_banner_mesh="encounter_flag_d" flag_mesh="info_screen_flags_c" name="{=Carthage}Carthage"
              short_name="{=Carthaginian}Carthaginian" title="{=lAWwcO6b}Kingdom of Carthage"
-             ruler_title="{=monarch}Sopht" text="{=IudGLWQZ}Carthage, Phoenician colony.">
+             ruler_title="{=monarch}Shalit" text="{=IudGLWQZ}Carthage, Phoenician colony.">
         <relationships>
         </relationships>
     </Kingdom>
@@ -153,7 +157,7 @@
              color2="FFECBA44" alternative_color="FFDBBA27" alternative_color2="ff910101" culture="Culture.aserai"
              settlement_banner_mesh="encounter_flag_d" flag_mesh="info_screen_flags_c" name="{=Carthage}Lixos"
              short_name="{=Carthaginian}Lixosian" title="{=lAWwcO6b}Lixos"
-             ruler_title="{=monarch}Sopht" text="{=IudGLWQZ}Lixos, Phoenician colony.">
+             ruler_title="{=monarch}Shalit" text="{=IudGLWQZ}Lixos, Phoenician colony.">
         <relationships>
         </relationships>
     </Kingdom>
@@ -267,7 +271,8 @@
     </Kingdom>
 <!--    DANEMARK    -->
     <Kingdom id="Heruli" owner="Hero.lord_6_17"
-             banner_key="31.22.18.935.918.764.764.0.0.45.515.22.22.209.209.764.764.0.0.0.150.116.116.610.610.750.595.0.1.10.217.22.22.230.230.934.934.0.1.45.217.22.22.230.230.594.934.0.1.-45"
+             banner_key="
+12.146.125.1159.1437.743.642.0.0.180.158.126.116.203.-209.598.610.1.1.291.158.126.116.203.-209.692.506.1.0.164"
              primary_banner_color="0xff000000" secondary_banner_color="0xff000000" label_color="FF1856A1"
              color="FFaec382" color2="FFf5f5f5" alternative_color="FFFFFFFF" alternative_color2="FF2A4B78"
              culture="Culture.sturgia" settlement_banner_mesh="encounter_flag_b" flag_mesh="info_screen_flags_c"
@@ -277,7 +282,7 @@
         </relationships>
     </Kingdom>
     <Kingdom id="Cimbri" owner="Hero.lord_1_50"
-             banner_key="34.135.100.2240.2217.760.782.0.0.0.500.136.142.789.784.750.782.0.1.-1.203.92.135.439.491.586.770.0.1.-1.148.116.135.355.382.738.885.0.1.0.203.92.135.439.491.915.788.0.1.-1.427.126.135.439.116.750.1007.0.0.180.503.122.135.474.159.742.1048.0.0.180.437.116.135.167.139.740.1043.0.0.-1.115.116.135.120.100.694.560.0.0.-1"
+             banner_key="25.1.113.1159.1437.816.756.0.0.0.131.1.149.329.-359.863.748.0.1.179"
              primary_banner_color="0xff000000" secondary_banner_color="0xff000000" label_color="ffB01301"
              color="FF5C2017" color2="FFECBA44" alternative_color="FFDBBA27" alternative_color2="ff910101"
              culture="Culture.cimbri" settlement_banner_mesh="encounter_flag_d" flag_mesh="info_screen_flags_c"
@@ -300,8 +305,7 @@
         </relationships>
     </Kingdom>
     <Kingdom id="Cotini" owner="Hero.lord_5_16"
-             banner_key="1.48.74.690.800.763.764.0.0.0.431.22.22.392.392.764.614.0.1.180.431.22.22.392.392.764.914.0.0.0"
-             primary_banner_color="0xff000000" secondary_banner_color="0xff000000" label_color="FF1856A1"
+             banner_key="10.116.2.942.999.768.788.1.0.-30.304.116.87.484.612.765.704.0.0.-40.304.116.87.484.605.765.704.0.1.39.503.124.116.334.331.767.789.1.1.0.522.25.116.234.270.767.787.1.1.-91.503.25.116.68.65.767.789.1.1.-48"             primary_banner_color="0xff000000" secondary_banner_color="0xff000000" label_color="FF1856A1"
              color="FF1C2A50" color2="FF949CCC" alternative_color="FFFFFFFF" alternative_color2="FF2A4B78"
              culture="Culture.sturgia" settlement_banner_mesh="encounter_flag_b" flag_mesh="info_screen_flags_c"
              name="{=Burgundiones16}Cotini" short_name="{=BurgundionesqLO}Cotini"
@@ -323,8 +327,7 @@
         </relationships>
     </Kingdom>
     <Kingdom id="Gepids" owner="Hero.lord_NE9_l"
-             banner_key="26.104.76.690.800.763.764.0.0.0.114.22.82.627.627.754.774.0.0.0.114.121.82.627.627.764.764.0.0.0"
-             primary_banner_color="0xff000000" secondary_banner_color="0xff000000" label_color="FFDB8330"
+             banner_key="2.123.0.1159.1437.635.744.0.0.180.216.112.149.329.-359.660.762.1.1.179.304.149.148.329.-359.658.656.0.1.269.304.149.148.329.-359.662.656.0.0.90"             primary_banner_color="0xff000000" secondary_banner_color="0xff000000" label_color="FFDB8330"
              color="FF9E5072" color2="FFDE9953" alternative_color="FF1F1D1F" alternative_color2="FFc28446"
              culture="Culture.scythian" settlement_banner_mesh="encounter_flag_a" flag_mesh="info_screen_flags_a"
              name="{=yG3YUySN}Gepids" short_name="{=ZEmH0MwL}Gepids" title="{=yG3YUySN}Gepids Tribes"
@@ -343,7 +346,7 @@
              color="FF58888B" color2="FFCCBB89" alternative_color="FF787878" alternative_color2="FF6caecc"
              culture="Culture.khuzait" settlement_banner_mesh="encounter_flag_f" flag_mesh="info_screen_flags_b"
              name="{=Scordisci}Scordisci" short_name="{=Scordisci1}Scordiscii" title="{=Scordisci2}Scordisci Tribe"
-             ruler_title="{=hwnp9abW}King" text="{=Scordisci3}The Scordisci are a Celtic Illyrian tribe">
+             ruler_title="{=hwnp9abW}Brigantiō" text="{=Scordisci3}The Scordisci are a Celtic Illyrian tribe">
         <relationships>
         </relationships>
     </Kingdom>
@@ -353,7 +356,7 @@
              color="FF1C2A50" color2="FF949CCC" alternative_color="FFFFFFFF" alternative_color2="FF2A4B78"
              culture="Culture.vlandia" settlement_banner_mesh="encounter_flag_b" flag_mesh="info_screen_flags_c"
              name="{=Dacia}Dacia" short_name="{=Dacia}Dacian" title="{=Dacia}Dacian Tribe"
-             ruler_title="{=hwnp9abW}King" text="{=Dacia}The Dacian Tribes">
+             ruler_title="{=hwnp9abW}Brigantiō" text="{=Dacia}The Dacian Tribes">
         <relationships>
         </relationships>
     </Kingdom>
@@ -364,7 +367,7 @@
              color="FF5C2017" color2="FFECBA44" alternative_color="FFDBBA27" alternative_color2="ff910101"
              culture="Culture.vlandia" settlement_banner_mesh="encounter_flag_d" flag_mesh="info_screen_flags_c"
              name="{=FjwRsf1C}Aedui" short_name="{=8HMyTKF6}Aeduins" title="{=lAWwcO6b}Tribe of Aedui"
-             ruler_title="{=hwnp9abW}King" text="{=IudGLWQZ}The Tribe Aedui control the Northern Gallic lands.">
+             ruler_title="{=hwnp9abW}Brigantiō" text="{=IudGLWQZ}The Tribe Aedui control the Northern Gallic lands.">
         <relationships>
         </relationships>
     </Kingdom>
@@ -375,7 +378,7 @@
              color="FF5C2017" color2="FFECBA44" alternative_color="FFDBBA27" alternative_color2="ff910101"
              culture="Culture.vlandia" settlement_banner_mesh="encounter_flag_d" flag_mesh="info_screen_flags_c"
              name="{=FjwRsf1C}Allobrogeni" short_name="{=8HMyTKF6}Allobrogeni" title="{=lAWwcO6b}Tribe of Allobrogeni"
-             ruler_title="{=hwnp9abW}King" text="{=IudGLWQZ}Placeholder">
+             ruler_title="{=hwnp9abW}Brigantiō" text="{=IudGLWQZ}Placeholder">
         <relationships>
         </relationships>
     </Kingdom>
@@ -385,7 +388,7 @@
              color="FF5C2017" color2="FFECBA44" alternative_color="FFDBBA27" alternative_color2="ff910101"
              culture="Culture.vlandia" settlement_banner_mesh="encounter_flag_d" flag_mesh="info_screen_flags_c"
              name="{=Nrbnsisa}Aquitani" short_name="{=aquitani}Aquitanii" title="{=lAWwcani}Tribe of Aquitani"
-             ruler_title="{=hwnp9abW}King" text="{=IudGLWQZ}The Tribe of Aquitani control the Southern Gallic lands.">
+             ruler_title="{=hwnp9abW}Brigantiō" text="{=IudGLWQZ}The Tribe of Aquitani control the Southern Gallic lands.">
         <relationships>
         </relationships>
     </Kingdom>
@@ -395,7 +398,7 @@
              color="FF2D3F1D" color2="FFBFCBB0" alternative_color="FFD69516" alternative_color2="FF55831A"
              culture="Culture.vlandia" settlement_banner_mesh="encounter_flag_d" flag_mesh="info_screen_flags_c"
              name="{=FjwRsf1C}Arverni" short_name="{=8HMyTKF6}Arverians" title="{=lAWwcO6b}Tribe of Arverni"
-             ruler_title="{=hwnp9abW}King" text="{=arvtrbep}The Arverni Tribe dwells in the heart of Gaul.">
+             ruler_title="{=hwnp9abW}Brigantiō" text="{=arvtrbep}The Arverni Tribe dwells in the heart of Gaul.">
         <relationships>
         </relationships>
     </Kingdom>
@@ -415,7 +418,7 @@
              color="FF5C2017" color2="FFECBA44" alternative_color="FFDBBA27" alternative_color2="ff910101"
              culture="Culture.vlandia" settlement_banner_mesh="encounter_flag_d" flag_mesh="info_screen_flags_c"
              name="{=skicidbo}Boii" short_name="{=boiisuwa}Boii" title="{=slboiifu}Tribe of Boii"
-             ruler_title="{=hwnp9abW}King" text="{=dboii4i3}The Boii Tribe controls the Cisalpine Gaul Region.">
+             ruler_title="{=hwnp9abW}Brigantiō" text="{=dboii4i3}The Boii Tribe controls the Cisalpine Gaul Region.">
         <relationships>
         </relationships>
     </Kingdom>
@@ -425,7 +428,7 @@
              color="FF2D3F1D" color2="FFBFCBB0" alternative_color="FFD69516" alternative_color2="FF55831A"
              culture="Culture.vlandia" settlement_banner_mesh="encounter_flag_d" flag_mesh="info_screen_flags_c"
              name="{=Frisones}Frisones" short_name="{=Trever12}Frisones" title="{=Treveri1}Tribe of Frisones"
-             ruler_title="{=hwnp9abW}King" text="{=Trever21}Placeholder.">
+             ruler_title="{=hwnp9abW}Brigantiō" text="{=Trever21}Placeholder.">
         <relationships>
         </relationships>
     </Kingdom>
@@ -435,7 +438,7 @@
              color="FF5C2017" color2="FFECBA44" alternative_color="FFDBBA27" alternative_color2="ff910101"
              culture="Culture.vlandia" settlement_banner_mesh="encounter_flag_d" flag_mesh="info_screen_flags_c"
              name="{=Helvetii}Helvetii" short_name="{=Helveti1}Helvetii" title="{=Helveti2}Tribe of Helvetii"
-             ruler_title="{=hwnp9abW}King"
+             ruler_title="{=hwnp9abW}Brigantiō"
              text="{=Helveti3}The Tribe of Helvetii control the Western Alpine Gallic lands.">
         <relationships>
         </relationships>
@@ -446,7 +449,7 @@
              color="FF2D3F1D" color2="FFBFCBB0" alternative_color="FFD69516" alternative_color2="FF55831A"
              culture="Culture.vlandia" settlement_banner_mesh="encounter_flag_d" flag_mesh="info_screen_flags_c"
              name="{=venetifx}Veneti" short_name="{=ventians}Venetii" title="{=lAWwcO6b}Tribe of Veneti"
-             ruler_title="{=hwnp9abW}King" text="{=arvtrbep}The Veneti Tribe dwells in the North West region of Gaul.">
+             ruler_title="{=hwnp9abW}Brigantiō" text="{=arvtrbep}The Veneti Tribe dwells in the North West region of Gaul.">
         <relationships>
         </relationships>
     </Kingdom>
@@ -456,7 +459,7 @@
              color="FF5C2017" color2="FFECBA44" alternative_color="FFDBBA27" alternative_color2="ff910101"
              culture="Culture.vlandia" settlement_banner_mesh="encounter_flag_d" flag_mesh="info_screen_flags_c"
              name="{=Nrbnsisa}Volcae" short_name="{=aquitani}Volcae" title="{=lAWwcani}Tribe of Volcae"
-             ruler_title="{=hwnp9abW}King" text="{=IudGLWQZ}The Tribe of Volcae control the Southern Gallic lands.">
+             ruler_title="{=hwnp9abW}Brigantiō" text="{=IudGLWQZ}The Tribe of Volcae control the Southern Gallic lands.">
         <relationships>
         </relationships>
     </Kingdom>
@@ -467,7 +470,7 @@
              color="FF2D3F1D" color2="FFBFCBB0" alternative_color="FFD69516" alternative_color2="FF55831A"
              culture="Culture.caledones" settlement_banner_mesh="encounter_flag_e" flag_mesh="info_screen_flags_b"
              name="{=si8ch3is}Caledones" short_name="{=ali55sov}Caledones" title="{=di5Hagcu}Caledones Tribe"
-             ruler_title="{=hwnp9abW}King"
+             ruler_title="{=hwnp9abW}Brigantīnos"
              text="{=JGua8ndp}The Caledones Tribe controls the Northern part of Prydein">
         <relationships>
         </relationships>
@@ -477,7 +480,7 @@
              secondary_banner_color="0xff3a6298" label_color="FF55831A" color="FF2D3F1D" color2="FFBFCBB0"
              alternative_color="FFD69516" alternative_color2="FF55831A" culture="Culture.battania"
              settlement_banner_mesh="encounter_flag_e" flag_mesh="info_screen_flags_b" name="{=Catuvae1}Catuvellauni"
-             short_name="{=Catuv123}Catuvellauni" title="{=Catuv218}Catuvellauni Tribe" ruler_title="{=hwnp9abW}King"
+             short_name="{=Catuv123}Catuvellauni" title="{=Catuv218}Catuvellauni Tribe" ruler_title="{=hwnp9abW}Brigantīnos"
              text="{=Catuva53}The Catuvellauni dwell in the south of Prydein">
         <relationships>
         </relationships>
@@ -488,7 +491,7 @@
              secondary_banner_color="0xffd2d6d5" label_color="FF55831A" color="FF332c4d" color2="FFd2d6d5"
              alternative_color="FF332c4d" alternative_color2="FFd2d6d5" culture="Culture.battania"
              settlement_banner_mesh="encounter_flag_e" flag_mesh="info_screen_flags_b" name="{=Ordovae1}Ordovices"
-             short_name="{=Ordov123}Ordovices" title="{=Ordov218}Ordovices Tribe" ruler_title="{=hwnp9abW}King"
+             short_name="{=Ordov123}Ordovices" title="{=Ordov218}Ordovices Tribe" ruler_title="{=hwnp9abW}Brigantīnos"
              text="{=Ordova53}The Ordovices dwell in the western tip of Prydein">
         <relationships>
         </relationships>
@@ -510,7 +513,7 @@
              name="{=0BHeremon}Leath Heremon"
              short_name="{=HeremonHZ}Leath Heremon"
              title="{=qHeremonC}Heremon's Gaelic Tribe"
-             ruler_title="{=HeremonW}Ri"
+             ruler_title="{=HeremonW}Brigantīnos"
              text="{=ZjHeremon}The Leath Heremon dwell in the northern part of Eire">
         <relationships>
             <relationship kingdom="Kingdom.Eber" value="-1" isAtWar="true"/>
@@ -532,7 +535,7 @@
              name="{=0BEber}Leath Eber"
              short_name="{=EberHZ}Leath Eber"
              title="{=qEberC}Eber's Gaelic Tribe"
-             ruler_title="{=HeremonW}Ri"
+             ruler_title="{=HeremonW}Brigantīnos"
              text="{=ZjEber}The Leath Eber dwell in the southern part of Eire">
         <relationships>
             <relationship kingdom="Kingdom.Heremon" value="-1" isAtWar="true"/>
@@ -547,7 +550,7 @@
              color2="FFBFCBB0" alternative_color="FFD69516" alternative_color2="FF55831A" culture="Culture.cantabri"
              settlement_banner_mesh="encounter_flag_e" flag_mesh="info_screen_flags_b" name="{=Cantabri1}Arevaci"
              short_name="{=Cantabrians2}Arevaci" title="{=Lusitani3}Kingdom Of Arevaci"
-             ruler_title="{=Cantabri4}King"
+             ruler_title="{=Cantabri4}Brigantīnos"
              text="{=Lusitani5}Arevaci, the land of the Arevaci originally comprised much of the highlands of the northern Spanish Atlantic coast including the whole of modern Cantabria province">
         <relationships>
         </relationships>
@@ -559,7 +562,7 @@
              color2="FFBFCBB0" alternative_color="FFD69516" alternative_color2="FF55831A" culture="Culture.cantabri"
              settlement_banner_mesh="encounter_flag_e" flag_mesh="info_screen_flags_b" name="{=Cantabri1}Cantabri"
              short_name="{=Cantabrians2}Cantabrians" title="{=Lusitani3}Kingdom Of Cantabri"
-             ruler_title="{=Cantabri4}King"
+             ruler_title="{=Cantabri4}Brigantīnos"
              text="{=Lusitani5}Cantabria, the land of the Cantabri originally comprised much of the highlands of the northern Spanish Atlantic coast including the whole of modern Cantabria province">
         <relationships>
         </relationships>
@@ -570,7 +573,7 @@
              color="FF2D3F1D" color2="FFBFCBB0" alternative_color="FFD69516" alternative_color2="FF55831A"
              culture="Culture.battania" settlement_banner_mesh="encounter_flag_e" flag_mesh="info_screen_flags_b"
              name="{=Gallaeci}Gallaeci" short_name="{=Gallaeci1}Gallaecii" title="{=Gallaeci2}Gallaeci Tribe"
-             ruler_title="{=hwnp9abW}King" text="{=Gallaeci3}The Gallaeci dwell in the North West of Iberia">
+             ruler_title="{=hwnp9abW}Brigantīnos" text="{=Gallaeci3}The Gallaeci dwell in the North West of Iberia">
         <relationships>
         </relationships>
     </Kingdom>
@@ -581,7 +584,7 @@
              color2="FFECBA44" alternative_color="FFDBBA27" alternative_color2="ff910101"
              culture="Culture.celtiberian" settlement_banner_mesh="encounter_flag_d" flag_mesh="info_screen_flags_c"
              name="{=Iberians}Iberians" short_name="{=Carthago1Nova}Iberians"
-             title="{=Iberians}Iberians" ruler_title="{=monarch}Re"
+             title="{=Iberians}Iberians" ruler_title="{=monarch}Brigantīnos"
              text="{=Iberians}Iberians.">
         <relationships>
         </relationships>
@@ -592,7 +595,7 @@
              color2="FFBFCBB0" alternative_color="FFD69516" alternative_color2="FF55831A" culture="Culture.celtiberian"
              settlement_banner_mesh="encounter_flag_e" flag_mesh="info_screen_flags_b" name="{=Lusitani1}Lusitani"
              short_name="{=Lusitanians2}Lusitanians" title="{=Lusitani3}Kingdom Of Lusitani"
-             ruler_title="{=Lusitani4}King"
+             ruler_title="{=Lusitani4}Brigantīnos"
              text="{=Lusitani5}The Lusitanians (or Latin: Lusitani) were an Indo-European speaking people living in the west of the Iberian Peninsula prior to its conquest by the Roman Republic and the subsequent incorporation of the territory into the Roman province of Lusitania.">
         <relationships>
         </relationships>

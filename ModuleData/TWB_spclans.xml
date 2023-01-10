@@ -760,13 +760,15 @@
 <!--   DANEMARK-->
     <!--    HERULI  -->
     <Faction id="clan_khuzait_5"
-             name="{=gXeF1yKn}Harfit"
+             name="{=gXeF1yKn}Ambrons"
              tier="5"
              owner="Hero.lord_6_17"
              culture="Culture.sturgia"
              super_faction="Kingdom.Heruli"
              is_noble="true"
-             banner_key="31.22.18.935.918.764.764.0.0.45.515.22.22.209.209.764.764.0.0.0.150.116.116.610.610.750.595.0.1.10.217.22.22.230.230.934.934.0.1.45.217.22.22.230.230.594.934.0.1.-45"/>
+             banner_key="
+12.146.125.1159.1437.743.642.0.0.180.158.126.116.203.-209.598.610.1.1.291.158.126.116.203.-209.692.506.1.0.164
+"/>
     <Faction id="clan_sturgia_6"
              name="{=EnZHNc2k}Aelt Leud"
              tier="3"
@@ -777,13 +779,13 @@
              banner_key="31.22.18.935.918.764.764.0.0.45.515.22.22.209.209.764.764.0.0.0.150.116.116.610.610.750.595.0.1.10.217.22.22.230.230.934.934.0.1.45.217.22.22.230.230.594.934.0.1.-45"/>
     <!-- CIMBRI -->
     <Faction id="clan_empire_north_5"
-             name="{=4rr3d8hY}Dolentos"
+             name="{=4rr3d8hY}Ambivarets"
              tier="3"
              owner="Hero.lord_1_50"
              culture="Culture.cimbri"
              super_faction="Kingdom.Cimbri"
              is_noble="true"
-             banner_key="34.135.100.2240.2217.760.782.0.0.0.500.136.142.789.784.750.782.0.1.-1.203.92.135.439.491.586.770.0.1.-1.148.116.135.355.382.738.885.0.1.0.203.92.135.439.491.915.788.0.1.-1.427.126.135.439.116.750.1007.0.0.180.503.122.135.474.159.742.1048.0.0.180.437.116.135.167.139.740.1043.0.0.-1.115.116.135.120.100.694.560.0.0.-1"/>
+             banner_key="25.1.113.1159.1437.816.756.0.0.0.131.1.149.329.-359.863.748.0.1.179"/>
     <Faction id="clan_empire_north_6"
              name="{=9ORFG9l4}Chonis"
              tier="2"
@@ -795,22 +797,25 @@
 <!--   GERMANS-->
     <!-- BURGUNDIONES -->
     <Faction id="clan_empire_north_1"
-             name="{=fXENjJJL}Burgundiones"
+             name="{=fXENjJJL}Angeln"
              tier="6"
              owner="Hero.lord_1_1"
              culture="Culture.sturgia"
              super_faction="Kingdom.Burgundiones"
              is_noble="true"
-             banner_key="11.22.22.690.800.763.764.0.0.0.316.77.82.627.627.764.764.0.0.0.336.22.82.392.392.764.764.0.0.0"/>
+             banner_key="
+10.116.2.942.999.768.788.1.0.-30.304.116.87.484.612.765.704.0.0.-40.304.116.87.484.605.765.704.0.1.39.503.124.116.334.331.767.789.1.1.0.522.25.116.234.270.767.787.1.1.-91.503.25.116.68.65.767.789.1.1.-48
+"/>
     <!--    COTINI  -->
     <Faction id="clan_battania_5"
-             name="{=ObBvcDhJ}Cotini"
+             name="{=ObBvcDhJ}Alamannen"
              tier="2"
              owner="Hero.lord_5_16"
              culture="Culture.sturgia"
              super_faction="Kingdom.Cotini"
              is_noble="true"
-             banner_key="1.48.74.690.800.763.764.0.0.0.431.22.22.392.392.764.614.0.1.180.431.22.22.392.392.764.914.0.0.0"/>
+             banner_key="
+36.149.7.942.1134.766.849.0.0.0.120.149.148.420.388.767.621.0.1.-1"/>
     <!-- POMERANIA  -->
     <Faction id="clan_empire_north_8"
              name="{=SCTf5cay}Vatatzes"
@@ -830,14 +835,16 @@
              banner_key="11.71.4.4345.4345.764.764.1.0.0.502.5.0.510.510.764.764.0.0.0.338.5.0.487.487.764.764.0.0.0.503.5.0.109.109.764.624.0.0.0"/>
     <!-- GEPIDS -->
     <Faction id="clan_empire_north_9"
-             name="{=nclQqoam}Serapides"
+             name="{=nclQqoam}Anartier"
              tier="5"
              owner="Hero.lord_NE9_l"
              culture="Culture.baltic"
              super_faction="Kingdom.Gepids"
              is_noble="true"
-             banner_key="26.104.76.690.800.763.764.0.0.0.114.22.82.627.627.754.774.0.0.0.114.121.82.627.627.764.764.0.0.0"/>
-<!--    CELTIC FACTIONS-->
+             banner_key="
+2.123.0.1159.1437.635.744.0.0.180.216.112.149.329.-359.660.762.1.1.179.304.149.148.329.-359.658.656.0.1.269.304.149.148.329.-359.662.656.0.0.90
+"/>
+    <!--    CELTIC FACTIONS-->
     <!--    DACIA -->
     <Faction id="clan_khuzait_3"
              name="{=VpF6skYs}Arkit"
