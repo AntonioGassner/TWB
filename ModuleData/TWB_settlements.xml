@@ -3264,7 +3264,7 @@
         </CommonAreas>
     </Settlement>
 <!--    GARAMANTES  -->
-    <Settlement id="town_A5" name="{=Settlements.Settlement.name.town_A5}Hubyar" owner="Faction.clan_aserai_6"
+    <Settlement id="town_A5" name="{=Settlements.Settlement.name.town_A5}Jarma" owner="Faction.clan_aserai_6"
                 posX="377.284" posY="707.502" culture="Culture.libyan" prosperity="1412" gate_posX="375.9532"
                 gate_posY="710.2626"
                 text="{=IIMWPVhU}Placeholder">
@@ -3290,7 +3290,7 @@
             <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront"/>
         </CommonAreas>
     </Settlement>
-    <Settlement id="village_A5_1" name="{=Settlements.Settlement.name.village_A5_1}Mahloul" posX="380.374" posY="673.56"
+    <Settlement id="village_A5_1" name="{=Settlements.Settlement.name.village_A5_1}Trāghan" posX="380.374" posY="673.56"
                 culture="Culture.libyan"
                 text="{=Settlements.Settlement.text.village_A5_1}Mahloul sits in a broad valley between the Jarjara Escarpment and the Jabal Ashab hills in the desert steppe southeast of the Bahr al-Yeshm. Groundwater provides just enough water to grow crops for subsistence, while the village makes its money from rearing horses on the rich grass that grows in the Jabal Ashabi after the spring rains.">
         <Components>
@@ -3307,7 +3307,7 @@
             <Area type="Bog" name="{=iXA5SttU}Bog"/>
         </CommonAreas>
     </Settlement>
-    <Settlement id="village_A5_2" name="{=Settlements.Settlement.name.village_A5_2}Liwas" posX="318.003" posY="667.658"
+    <Settlement id="village_A5_2" name="{=Settlements.Settlement.name.village_A5_2}Murzuq" posX="318.003" posY="667.658"
                 culture="Culture.libyan"
                 text="{=Settlements.Settlement.text.village_A5_2}Liwas sits in a broad valley south of the Bahr al-Yeshm. Farmland is limited here, and the land is best known for the horses that are grazed on the desert's short-lived but rich spring grasses.">
         <Components>
@@ -3324,7 +3324,7 @@
             <Area type="Bog" name="{=iXA5SttU}Bog"/>
         </CommonAreas>
     </Settlement>
-    <Settlement id="village_A5_3" name="{=Settlements.Settlement.name.village_A5_3}Waltas" posX="401.346" posY="728.541"
+    <Settlement id="village_A5_3" name="{=Settlements.Settlement.name.village_A5_3}Sabhā" posX="401.346" posY="728.541"
                 culture="Culture.libyan"
                 text="{=Settlements.Settlement.text.village_A5_3}Waltas sits by the Bahr al-Yeshm, the Jade Sea, in lowlands well suited to the growing of flax.">
         <Components>
