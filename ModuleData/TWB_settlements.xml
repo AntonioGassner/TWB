@@ -3715,7 +3715,6 @@
             <Area type="Bog" name="{=iXA5SttU}Bog"/>
         </CommonAreas>
     </Settlement>
-    <!-- Horsefold -->
     <Settlement id="village_EN1_2" name="{=Settlements.Settlement.name.village_EN1_2}Stathymos" posX="678.664"
                 posY="1208.558" culture="Culture.baltic"
                 text="{=Settlements.Settlement.text.village_EN1_2}Stathymos lies in a narrow valley beneath a towering ridge of the Dryatic mountains. The highland streams wash fertile soil down the hillsides, making this district one of the breadbaskets of the imperial north.">
@@ -3768,10 +3767,7 @@
             <Area type="Bog" name="{=iXA5SttU}Bog"/>
         </CommonAreas>
     </Settlement>
-    <!-- Word of command, divine decree -->
-    <!-- From Alos, local hero -->
-
-    <Settlement id="castle_village_EN5_2" name="{=Settlements.Settlement.name.castle_village_EN5_2}Masangara"
+ <Settlement id="castle_village_EN5_2" name="{=Settlements.Settlement.name.castle_village_EN5_2}Masangara"
                 posX="617.008" posY="1155.444" culture="Culture.sturgia"
                 text="{=Settlements.Settlement.text.village_EN2_3}Masangara sits on the banks of the Nevys, a cold, slow-moving river that empties into Lake Laconis. Cattle are raised here in former marshy woodlands, now drained and turned into meadows.">
         <Components>
@@ -3789,7 +3785,6 @@
             <Area type="Bog" name="{=iXA5SttU}Bog"/>
         </CommonAreas>
     </Settlement>
-    <!-- commit point -->
     <Settlement id="town_EN3" name="{=Settlements.Settlement.name.town_EN3}Saneopa" owner="Faction.clan_empire_north_3"
                 posX="456.786" posY="1125.142" culture="Culture.vlandia" prosperity="4600" gate_posX="460.8197"
                 gate_posY="1123.502"
@@ -3868,7 +3863,6 @@
             <Area type="Bog" name="{=iXA5SttU}Bog"/>
         </CommonAreas>
     </Settlement>
-    <!-- Argoron, pre-calradic name for a citadel. Lucon -->
     <Settlement id="town_EN4" name="{=Settlements.Settlement.name.town_EN4}Argoron" owner="Faction.clan_vlandia_11"
                 posX="667.634" posY="1062.391" culture="Culture.scordisci" prosperity="2800" gate_posX="667.5823"
                 gate_posY="1060.068"
@@ -3947,7 +3941,6 @@
             <Area type="Bog" name="{=iXA5SttU}Bog"/>
         </CommonAreas>
     </Settlement>
-    <!-- Myzon's town. Dolentos clan -->
     <Settlement id="town_EN5" name="{=Settlements.Settlement.name.town_EN5}Myzea" owner="Faction.clan_battania_5"
                 posX="654.622" posY="1138.914" culture="Culture.sturgia" prosperity="3900" gate_posX="651.7433"
                 gate_posY="1138.757"
@@ -3974,7 +3967,6 @@
             <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront"/>
         </CommonAreas>
     </Settlement>
-    <!-- Bealos, name of a local tribe -->
     <Settlement id="village_EN5_1" name="{=Settlements.Settlement.name.village_EN5_1}Vealos" posX="597.603"
                 posY="1105.363" culture="Culture.sturgia"
                 text="{=Settlements.Settlement.text.village_EN5_1}Vealos sits in the slowly rising eastern slopes of the Dryatic mountains in the eastern reaches of the Empire. Although mostly covered with beech and oak woods, the mountain slopes provide good grazing for horses and has traditionally been home to stud farms for the imperial cavalry.">
@@ -3992,8 +3984,6 @@
             <Area type="Bog" name="{=iXA5SttU}Bog"/>
         </CommonAreas>
     </Settlement>
-    <!-- Lord 41 - lieutenant -->
-    <!-- Orthra - 'dawn' -->
     <Settlement id="village_EN5_2" name="{=Settlements.Settlement.name.village_EN5_2}Orthra" posX="626.294"
                 posY="1106.759" culture="Culture.sturgia"
                 text="{=Settlements.Settlement.text.village_EN5_2}Orthra, a relatively recent settlement, was named by an imperial captain after the dawn for its fine eastward views of the Myzead, the hill country of the eastern empire. It was founded as a stud farm to breed imperial horses with steppe stock from the east, and continues to provide horses for the imperial cavalry.">
@@ -4012,7 +4002,6 @@
             <Area type="Bog" name="{=iXA5SttU}Bog"/>
         </CommonAreas>
     </Settlement>
-    <!-- Probably the name of a pre-Calradic priestess -->
     <Settlement id="castle_village_EN4_2" name="{=Settlements.Settlement.name.castle_village_EN4_2}Themys"
                 posX="597.194" posY="1088.077" culture="Culture.empire"
                 text="{=Settlements.Settlement.text.village_EN5_3}Themys lies under a ridge of limestone crags in the Myzead, the hill country of the imperial heartland. The grasses on the rolling downs are well-suited to the raising of sheep.">
@@ -4048,7 +4037,6 @@
             <Area type="Bog" name="{=iXA5SttU}Bog"/>
         </CommonAreas>
     </Settlement>
-    <!-- Amprela, Impestores clan -->
     <Settlement id="town_EN6" name="{=Settlements.Settlement.name.town_EN6}Amprela" owner="Faction.clan_vlandia_9"
                 posX="446.225" posY="1072.294" culture="Culture.vlandia" prosperity="2300" gate_posX="444.0914"
                 gate_posY="1076.09"
@@ -4075,7 +4063,6 @@
             <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront"/>
         </CommonAreas>
     </Settlement>
-    <!-- wormwood -->
     <Settlement id="village_EN6_1" name="{=Settlements.Settlement.name.village_EN6_1}Avasinton" posX="452.584"
                 posY="1044.414" culture="Culture.vlandia"
                 text="{=Settlements.Settlement.text.village_EN6_1}Avasinton sits in the wilder eastern reaches of the Myzead, the hill country of the central empire. Villagers have cleared away the thickets and thornbrush of this region, including the pungent wormwood after which the village is named, to allow the growing of mulberry bushes, the leaves of which are harvested and fed to silkworms.">
@@ -4093,7 +4080,6 @@
             <Area type="Bog" name="{=iXA5SttU}Bog"/>
         </CommonAreas>
     </Settlement>
-    <!-- northern village -->
     <Settlement id="village_EN6_2" name="{=Settlements.Settlement.name.village_EN6_2}Boreagora" posX="442.146"
                 posY="1100.315" culture="Culture.vlandia"
                 text="{=Settlements.Settlement.text.village_EN6_2}Boreagora lies in the cold north of the Empire, by the network of glacial lakes known as the portages of Iltan. Nearby imperial forts, looming over the waterways, keep watch for Sturgian and Khuzait raiders. The lowlands here are suited to the growing of flax.">
@@ -4111,7 +4097,6 @@
             <Area type="Bog" name="{=iXA5SttU}Bog"/>
         </CommonAreas>
     </Settlement>
-    <!-- blackheath. To Ascyron, Lucon's heir -->
     <Settlement id="castle_EW8" name="{=Settlements.Settlement.name.castle_EW8}Gersegos Castle"
                 owner="Faction.clan_vlandia_3" posX="275.744" posY="936.685" culture="Culture.etruscan"
                 prosperity="610" gate_posX="274.6428" gate_posY="934.486">
@@ -4145,12 +4130,6 @@
             <Area type="Bog" name="{=iXA5SttU}Bog"/>
         </CommonAreas>
     </Settlement>
-    <!-- City named after Empress Zeona -->
-
-    <!-- quailmarsh -->
-    <!-- Imperial subfaction 2 begins -->
-    <!-- Amytatis and Bostrum, clan 4 patriarch and faction 2 leader, soldier's soldier -->
-    <!-- The Rhotians, probably a tribe-->
     <Settlement id="village_EW6_1" name="{=Settlements.Settlement.name.village_EW6_1}Carphenion" posX="131.22"
                 posY="860.947" culture="Culture.cantabri"
                 text="{=Settlements.Settlement.text.village_EW6_1}Carphenion lies in the wooded highlands between the great basalt slab of Mount Erithrys and the Dryatic mountains. The villagers raise cattle in the highland pastures.">
@@ -4351,8 +4330,6 @@
             <Area type="Bog" name="{=iXA5SttU}Bog"/>
         </CommonAreas>
     </Settlement>
-    <!-- Imperial subfaction 3 begins -->
-    <!-- Feverheat -->
     <Settlement id="castle_village_ES5_2" name="{=Settlements.Settlement.name.castle_village_ES5_2}Catana"
                 posX="658.624" posY="801.829" culture="Culture.syracuse"
                 text="{=Settlements.Settlement.text.village_ES2_1}The village of Atphynia sits near the mouth of the Sethys river, just before it splits into three to form the valley known as Tripotamia. Villagers here have laid out salt pans near where the Sethys estuary joins the Perassic sea.">
@@ -4639,8 +4616,6 @@
             <Area type="Bog" name="{=iXA5SttU}Bog"/>
         </CommonAreas>
     </Settlement>
-    <!-- eastern towns -->
-    <!-- Vlandia - 8 towns, 22 villages, 5 castles, 2.75 villages per town, 23% castle ratio -->
     <Settlement id="castle_V1" name="{=Settlements.Settlement.name.castle_V1}Usanc Castle"
                 owner="Faction.clan_vlandia_9" posX="401.016" posY="1028.345" culture="Culture.vlandia" prosperity="537"
                 gate_posX="402.1996" gate_posY="1028.391">
@@ -4961,7 +4936,6 @@
             <Area type="Bog" name="{=iXA5SttU}Bog"/>
         </CommonAreas>
     </Settlement>
-    <!-- Sargot, from Calradic Sargythea, Right Whale bay-->
     <Settlement id="town_V1" name="{=Settlements.Settlement.name.town_V1}Sargot" owner="Faction.clan_empire_north_4"
                 posX="399.138" posY="989.273" culture="Culture.vlandia" prosperity="4500" gate_posX="401.6485"
                 gate_posY="985.5443"
@@ -4989,7 +4963,6 @@
             <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront"/>
         </CommonAreas>
     </Settlement>
-    <!-- From the Battanian Caliog, place of Cal -->
     <Settlement id="village_V1_1" name="{=Settlements.Settlement.name.village_V1_1}Calioc" posX="403.856"
                 posY="1004.749" culture="Culture.vlandia"
                 text="{=Settlements.Settlement.text.village_V1_1}Calioc on a flat plain between the Epiric and Biscan hills of the central Vlandian lands. The people of this district grow flax on the marshy lands.">
@@ -5024,7 +4997,6 @@
             <Area type="Bog" name="{=iXA5SttU}Bog"/>
         </CommonAreas>
     </Settlement>
-    <!-- Redstone,  -->
     <Settlement id="castle_village_V7_2" name="{=Settlements.Settlement.name.castle_village_V7_2}Rodetan" posX="340.995"
                 posY="940.418" culture="Culture.vlandia"
                 text="{=Settlements.Settlement.text.village_V1_3}Rodetan takes its name from the ruddy, iron-rich soil of this part of the the Rhennod hills. The mines of this district supply the iron ore for many of the forges of the Vlandian kingdom.">
@@ -5043,7 +5015,6 @@
             <Area type="Bog" name="{=iXA5SttU}Bog"/>
         </CommonAreas>
     </Settlement>
-    <!-- From Calradic, Lobster claw  // how about Uxhall precursor - Arma-->
     <Settlement id="town_V2" name="{=Settlements.Settlement.name.town_V2}Ocs Hall" owner="Faction.clan_vlandia_3"
                 posX="267.343" posY="982.308" culture="Culture.vlandia" prosperity="4200" gate_posX="268.7029"
                 gate_posY="977.9396"
@@ -5140,8 +5111,6 @@
             <Area type="Bog" name="{=iXA5SttU}Bog"/>
         </CommonAreas>
     </Settlement>
-    <!-- Vlandian ruling clan 4_1, 2, 7, 13 -->
-    <!-- From Calradic Parzeonerea: 'City of He Who Rules By Heaven's Will')-->
     <Settlement id="town_V3" name="{=Settlements.Settlement.name.town_V3}Pravend" owner="Faction.clan_vlandia_2"
                 posX="402.532" posY="1094.003" culture="Culture.vlandia" prosperity="3200" gate_posX="400.2023"
                 gate_posY="1097.393"
@@ -5169,7 +5138,6 @@
             <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront"/>
         </CommonAreas>
     </Settlement>
-    <!-- Valan's Bay (landing place) -->
     <Settlement id="castle_village_V3_2" name="{=Settlements.Settlement.name.castle_village_V3_2}Valanby" posX="376.877"
                 posY="1022.004" culture="Culture.vlandia"
                 text="{=Settlements.Settlement.text.village_V3_1}Valanby sits overlooking the Trand estuary. Villagers plant flax in land reclaimed from the riverside marshes.">
@@ -5239,33 +5207,6 @@
             <Area type="Bog" name="{=iXA5SttU}Bog"/>
         </CommonAreas>
     </Settlement>
-    <!-- From Calradic Sonotorea, city of the deliverer-->
-    <!--Settlement id="town_V4" name="Sunor" owner="NPCCharacter.lord_4_1" posX="185" posY="456" culture="Culture.vlandia">
-    <Components>
-      <Town id="town_comp_V4" is_castle="false" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation ="0.7"/>
-    </Components>
-    <Locations complex_template="LocationComplexTemplate.town_complex">
-      <Location id="center" scene_name="vlandia_city_d" scene_name_1="vlandia_castle_005a" scene_name_2="vlandia_castle_005a" scene_name_3="vlandia_castle_005a"/>
-      <Location id="arena" scene_name="arena_vlandia_a" />
-      <Location id="tavern" scene_name="vlandia_tavern_interior_a" />
-      <Location id="lordshall" scene_name="vlandia_castle_interior_a" />
-      <Location id="prison" scene_name="vlandia_dungeon_a" />
-      <Location id="house_1" scene_name="vlandia_city_house_b_interior" />
-      <Location id="house_2" scene_name="vlandia_city_house_b_interior" />
-      <Location id="house_3" scene_name="vlandia_city_house_b_interior" />
-    </Locations>
-  </Settlement>
-  <Settlement id="village_V4_1" name="Surusbec" owner="NPCCharacter.lord_4_26" posX="205" posY="440" culture="Culture.vlandia">
-    <Components>
-      <Village id="village_comp_V4_1" village_type="VillageType.vineyard" gate_rotation="0.50"    bound="Settlement.town_V4" background_crop_position="0.0" background_mesh="gui_bg_village_vlanda" wait_mesh="wait_vlandia_village" castle_background_mesh="gui_bg_castle_vlanda">
-    </Village>
-    </Components>
-    <Locations complex_template="LocationComplexTemplate.village_complex">
-      <Location id="village_center" scene_name="vlandia_village_e" />
-    </Locations>
-  </Settlement-->
-    <!-- Thali's well -->
-    <!-- from archaic Calradic Ialonos, home of the Ialoi tribe -->
     <Settlement id="town_V5" name="{=Settlements.Settlement.name.town_V5}Galend" owner="Faction.clan_vlandia_6"
                 posX="256.552" posY="1036.64" culture="Culture.vlandia" prosperity="1900" gate_posX="260.894"
                 gate_posY="1038.492"
@@ -5293,7 +5234,6 @@
             <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront"/>
         </CommonAreas>
     </Settlement>
-    <!-- Dirty stream -->
     <Settlement id="village_V5_1" name="{=Settlements.Settlement.name.village_V5_1}Furbec" posX="302.685"
                 posY="1052.505" culture="Culture.vlandia"
                 text="{=Settlements.Settlement.text.village_V5_1}Furbec sits on a shelf overlooking the rocky Biscan coast of central Vlandia. The climate is warm most of the year, and grapes do well on the slopes of the Biscan hills.">
@@ -5311,7 +5251,6 @@
             <Area type="Bog" name="{=iXA5SttU}Bog"/>
         </CommonAreas>
     </Settlement>
-    <!-- Pre-Calradic, red -->
     <Settlement id="village_V5_2" name="{=Settlements.Settlement.name.village_V5_2}Meroc" posX="248.414" posY="1028.159"
                 culture="Culture.vlandia"
                 text="{=Settlements.Settlement.text.village_V5_2}Meroc is a fishing village overlooking a cove in the Biscan Coast. The villagers sail out into the western ocean in search of mullet and bass near the shore, and tuna and sardines amid the islands to the south.">
@@ -5346,8 +5285,6 @@
             <Area type="Bog" name="{=iXA5SttU}Bog"/>
         </CommonAreas>
     </Settlement>
-    <!-- House of Arromanc - Clan 3 old Jelkala and Charys, by the sea. 4_3, 4_8, 4_14 -->
-    <!-- From the pre-Calradic, jackal's den -->
     <Settlement id="town_V6" name="{=Settlements.Settlement.name.town_V6}Jaculan" owner="Faction.clan_vlandia_1"
                 posX="322.465" posY="1030.652" culture="Culture.vlandia" prosperity="4000" gate_posX="324.1369"
                 gate_posY="1026.767"
@@ -5375,7 +5312,6 @@
             <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront"/>
         </CommonAreas>
     </Settlement>
-    <!-- From the pre-Calradic hero Armac-->
     <Settlement id="village_V6_1" name="{=Settlements.Settlement.name.village_V6_1}Arromanc" posX="353.201"
                 posY="1041.787" culture="Culture.vlandia"
                 text="{=Settlements.Settlement.text.village_V6_1}Arromanc lies in the Neurval, a valley that runs between the Biscan and Epiric hills. The warm lands of the Vlandian south are well-suited to the growing of olives.">
@@ -5410,7 +5346,6 @@
             <Area type="Bog" name="{=iXA5SttU}Bog"/>
         </CommonAreas>
     </Settlement>
-    <!-- Alderstand-->
     <Settlement id="village_V6_3" name="{=Settlements.Settlement.name.village_V6_3}Alorstan" posX="308.116"
                 posY="1019.113" culture="Culture.vlandia"
                 text="{=Settlements.Settlement.text.village_V6_3}Alorstan sits on a shelf overlooking the sea, at the foot of the Biscan Hills. The warm south of the Vlandian lands is well-suited to the cultivation of olives.">
@@ -5445,7 +5380,6 @@
             <Area type="Bog" name="{=iXA5SttU}Bog"/>
         </CommonAreas>
     </Settlement>
-    <!-- -->
     <Settlement id="town_V7" name="{=Settlements.Settlement.name.town_V7}Massilia" owner="Faction.clan_empire_south_9"
                 posX="399.346" posY="950.42" culture="Culture.massilia" prosperity="3000" gate_posX="403.7398"
                 gate_posY="950.9413"
@@ -5508,7 +5442,6 @@
             <Area type="Bog" name="{=iXA5SttU}Bog"/>
         </CommonAreas>
     </Settlement>
-    <!-- Harthar and Sunion, to clan 4 -->
     <Settlement id="town_V8" name="{=Settlements.Settlement.name.town_V8}Ostican" owner="Faction.clan_vlandia_8"
                 posX="337.903" posY="1062.896" culture="Culture.vlandia" prosperity="3900" gate_posX="333.4231"
                 gate_posY="1059.037"
@@ -5536,7 +5469,6 @@
             <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront"/>
         </CommonAreas>
     </Settlement>
-    <!-- Hors' spear -->
     <Settlement id="village_V8_1" name="{=Settlements.Settlement.name.village_V8_1}Horsger" posX="318.676"
                 posY="1075.699" culture="Culture.vlandia"
                 text="{=Settlements.Settlement.text.village_V8_1}Horsger is where, according to legend, the warrior Horsa came ashore and planted his spear in the beach. Today it is known for its daring fishermen, who venture out far to find banks, chilled by currents from the north, that are rich in cod.">
@@ -5616,7 +5548,6 @@
             <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront"/>
         </CommonAreas>
     </Settlement>
-    <!-- From calradic, Antolas, east wind-->
     <Settlement id="village_V9_1" name="{=Settlements.Settlement.name.village_V9_1}Alantas" posX="333.268"
                 posY="969.022" culture="Culture.vlandia"
                 text="{=Settlements.Settlement.text.village_V9_1}Alantas sits in the center of the mountainous Ebor peninsula. The soil here is thin and the weather here is cold, but rich iron deposits sustain the local economy.">
@@ -5634,7 +5565,6 @@
             <Area type="Bog" name="{=iXA5SttU}Bog"/>
         </CommonAreas>
     </Settlement>
-    <!-- Hal's wasteland -->
     <Settlement id="village_V9_2" name="{=Settlements.Settlement.name.village_V9_2}Halisvust" posX="319.353"
                 posY="966.426" culture="Culture.vlandia"
                 text="{=Settlements.Settlement.text.village_V9_2}Halisvust was once a marshy wasteland, but Vlandian settlers drained the waters and sowed wheat and rye in the valley.">
@@ -5652,9 +5582,6 @@
             <Area type="Bog" name="{=iXA5SttU}Bog"/>
         </CommonAreas>
     </Settlement>
-    <!-- Battania = 5 towns, 16 villages, 6 castles, 4.00 villages per town, 38% castle ratio -->
-
-    <!-- Khuzaits, 6 cities, 19 villages, 5 castles, 3.16 villages per town, 26% castle ratio  -->
     <Settlement id="castle_K1" name="{=Settlements.Settlement.name.castle_K1}Usek Castle" owner="Faction.clan_khuzait_7"
                 posX="695.527" posY="975.302" culture="Culture.khuzait" prosperity="420" gate_posX="693.5497"
                 gate_posY="975.7935">
@@ -6016,7 +5943,6 @@
             <Area type="Bog" name="{=iXA5SttU}Bog"/>
         </CommonAreas>
     </Settlement>
-    <!-- clan 3, Arkits, lords 5, 9, 15 -->
     <Settlement id="town_K1" name="{=Settlements.Settlement.name.town_K1}Baltakhand" owner="Faction.clan_khuzait_1"
                 posX="767.864" posY="973.962" culture="Culture.khuzait" prosperity="1800" gate_posX="765.812"
                 gate_posY="974.9053"
@@ -6113,7 +6039,6 @@
             <Area type="Bog" name="{=iXA5SttU}Bog"/>
         </CommonAreas>
     </Settlement>
-    <!-- White fortress-->
     <Settlement id="town_K2" name="{=Settlements.Settlement.name.town_K2}Apollonia" owner="Faction.clan_empire_north_7"
                 posX="778.145" posY="905.684" culture="Culture.epirus" prosperity="1700" gate_posX="778.2256"
                 gate_posY="903.1637"
@@ -6211,8 +6136,6 @@
             <Area type="Bog" name="{=iXA5SttU}Bog"/>
         </CommonAreas>
     </Settlement>
-    <!-- clan 1, Urkhunait, lords 1, 7, 10, 13 -->
-    <!-- swamp city, Atil -->
     <Settlement id="town_K3" name="{=Settlements.Settlement.name.town_K3}Makeb" owner="Faction.clan_empire_north_1"
                 posX="663.068" posY="1166.37" culture="Culture.baltic" prosperity="3700" gate_posX="664.3403"
                 gate_posY="1164.609"
@@ -6291,7 +6214,6 @@
             <Area type="Bog" name="{=iXA5SttU}Bog"/>
         </CommonAreas>
     </Settlement>
-    <!-- clan 2, Khergits. lords 3, 4f, 8, 14 -->
     <Settlement id="town_K4" name="{=Settlements.Settlement.name.town_K4}Ortongard" owner="Faction.clan_empire_north_9"
                 posX="805.803" posY="1183.145" culture="Culture.scythian" prosperity="3200" gate_posX="810.816"
                 gate_posY="1185.022"
