@@ -289,7 +289,7 @@
     </MBPartyTemplate>
     <MBPartyTemplate id="rebels_battania_template">
         <stacks>
-            <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.breton_youth"/>
+            <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.rural_regular_celtic_t1_skirmisher"/>
         </stacks>
     </MBPartyTemplate>
     <MBPartyTemplate id="rebels_khuzait_template">
@@ -1123,18 +1123,18 @@
     </MBPartyTemplate>
     <MBPartyTemplate id="kingdom_hero_party_battania_template">
         <stacks>
-            <PartyTemplateStack min_value="12" max_value="12" troop="NPCCharacter.breton_youth"/>
-            <PartyTemplateStack min_value="7" max_value="7" troop="NPCCharacter.ambaktoi"/>
-            <PartyTemplateStack min_value="7" max_value="7" troop="NPCCharacter.katioi"/>
-            <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.teceitos"/>
-            <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.veteran_teceitos"/>
-            <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.experienced_ambaktoi"/>
-            <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.sotaroas1"/>
+            <PartyTemplateStack min_value="12" max_value="12" troop="NPCCharacter.rural_regular_celtic_t1_skirmisher"/>
+            <PartyTemplateStack min_value="7" max_value="7" troop="NPCCharacter.rural_regular_celtic_t2_spearman"/>
+            <PartyTemplateStack min_value="7" max_value="7" troop="NPCCharacter.rural_regular_celtic_t3_spearman"/>
+            <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.rural_regular_celtic_t2_skirmisher"/>
+            <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.rural_regular_celtic_t3_skirmisher"/>
+            <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.urban_regular_breton_t2_infantry"/>
+            <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.urban_regular_breton_t3_infantry"/>
 
-            <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.markakoi"/>
-            <PartyTemplateStack min_value="3" max_value="3" troop="NPCCharacter.experienced_markakoi"/>
-            <PartyTemplateStack min_value="3" max_value="3" troop="NPCCharacter.elite_markakoi"/>
-            <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.chieftain"/>
+            <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.rural_noble_celtic_t3_horseman"/>
+            <PartyTemplateStack min_value="3" max_value="3" troop="NPCCharacter.rural_noble_celtic_t4_horseman"/>
+            <PartyTemplateStack min_value="3" max_value="3" troop="NPCCharacter.urban_noble_celtic_t5_horseman"/>
+            <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.urban_noble_celtic_t6_horseman"/>
         </stacks>
     </MBPartyTemplate>
     <MBPartyTemplate id="kingdom_hero_party_khuzait_template">
@@ -1383,8 +1383,8 @@
     </MBPartyTemplate>
     <MBPartyTemplate id="vassal_reward_troops_battania">
         <stacks>
-            <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.elite_markakoi"/>
-            <PartyTemplateStack min_value="5" max_value="5" troop="NPCCharacter.experienced_markakoi"/>
+            <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.urban_noble_celtic_t5_horseman"/>
+            <PartyTemplateStack min_value="5" max_value="5" troop="NPCCharacter.urban_noble_celtic_t4_horseman"/>
         </stacks>
     </MBPartyTemplate>
     <MBPartyTemplate id="vassal_reward_troops_khuzait">

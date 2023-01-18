@@ -3272,7 +3272,7 @@
         </face>
         <skills></skills>
         <upgrade_targets>
-            <upgrade_target id="NPCCharacter.breton_youth"/>
+            <upgrade_target id="NPCCharacter.rural_regular_celtic_t1_skirmisher"/>
         </upgrade_targets>
         <Equipments>
             <EquipmentRoster civilian="true">

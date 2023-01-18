@@ -511,7 +511,7 @@
         </CommonAreas>
     </Settlement>
     <Settlement id="village_B1_1" name="{=Settlements.Settlement.name.village_B1_1}Eamhain Macha" posX="127.521"
-                posY="1229.872" culture="Culture.battania"
+                posY="1229.872" culture="Culture.rural_celtic"
                 text="{=Settlements.Settlement.text.village_B1_1}Placeholder">
         <Components>
             <Village id="village_comp_B1_1" village_type="VillageType.cattle_farm" hearth="109" gate_rotation="0.008"
@@ -528,7 +528,7 @@
         </CommonAreas>
     </Settlement>
     <Settlement id="village_B1_2" name="{=Settlements.Settlement.name.village_B1_2}Regia" posX="109.853"
-                posY="1213.629" culture="Culture.battania"
+                posY="1213.629" culture="Culture.rural_celtic"
                 text="{=Settlements.Settlement.text.village_B1_2}Placeholder">
         <Components>
             <Village id="village_comp_B1_2" village_type="VillageType.battanian_horse_ranch" hearth="110"
@@ -546,7 +546,7 @@
         </CommonAreas>
     </Settlement>
     <Settlement id="village_B1_3" name="{=Settlements.Settlement.name.village_B1_3}Laberus" posX="127.76"
-                posY="1207.513" culture="Culture.battania"
+                posY="1207.513" culture="Culture.rural_celtic"
                 text="{=Settlements.Settlement.text.village_B1_3}Placeholder">
         <Components>
             <Village id="village_comp_B1_3" village_type="VillageType.iron_mine" hearth="108" gate_rotation="0.008"
@@ -563,7 +563,7 @@
         </CommonAreas>
     </Settlement>
     <Settlement id="village_B1_4" name="{=Settlements.Settlement.name.village_B1_4}Dunum" posX="140.101"
-                posY="1217.901" culture="Culture.battania"
+                posY="1217.901" culture="Culture.rural_celtic"
                 text="{=Settlements.Settlement.text.village_B1_4}Placeholder">
         <Components>
             <Village id="village_comp_B1_4" village_type="VillageType.sheep_farm" hearth="106" gate_rotation="0.008"
@@ -596,7 +596,7 @@
         </Locations>
     </Settlement>
     <Settlement id="castle_village_B1_1" name="{=Settlements.Settlement.name.castle_village_B1_1}Assaroe" posX="96.805"
-                posY="1223.533" culture="Culture.battania"
+                posY="1223.533" culture="Culture.rural_celtic"
                 text="{=Settlements.Settlement.text.castle_village_B1_1}Placeholder">
         <Components>
             <Village id="castle_village_comp_B1_1" village_type="VillageType.lumberjack" hearth="104"
@@ -615,7 +615,7 @@
     </Settlement>
     <Settlement id="castle_village_B1_2" name="{=Settlements.Settlement.name.castle_village_B1_2}Macolicum"
                 posX="79.087"
-                posY="1196.168" culture="Culture.battania"
+                posY="1196.168" culture="Culture.rural_celtic"
                 text="{=Settlements.Settlement.text.village_B5_4}Placeholder">
         <Components>
             <Village id="castle_village_comp_B1_2" village_type="VillageType.swine_farm" hearth="107"
@@ -662,7 +662,7 @@
     </Settlement>
     <Settlement id="village_B5_1" name="{=Settlements.Settlement.name.village_B5_1}Menapia" posX="129.975"
                 posY="1168.153"
-                culture="Culture.battania"
+                culture="Culture.rural_celtic"
                 text="{=Settlements.Settlement.text.village_B5_1}Placeholder">
         <Components>
             <Village id="village_comp_B5_1" village_type="VillageType.fisherman" hearth="102" gate_rotation="0.308"
@@ -679,7 +679,7 @@
         </CommonAreas>
     </Settlement>
     <Settlement id="village_B5_2" name="{=Settlements.Settlement.name.village_B5_2}Caiseal" posX="91.548"
-                posY="1174.227" culture="Culture.battania"
+                posY="1174.227" culture="Culture.rural_celtic"
                 text="{=Settlements.Settlement.text.village_B5_2}Placeholder">
         <Components>
             <Village id="village_comp_B5_2" village_type="VillageType.clay_mine" hearth="101" gate_rotation="0.308"
@@ -696,7 +696,7 @@
         </CommonAreas>
     </Settlement>
     <Settlement id="village_B5_3" name="{=Settlements.Settlement.name.village_B5_3}Rheba" posX="96.887"
-                posY="1186.094" culture="Culture.battania"
+                posY="1186.094" culture="Culture.rural_celtic"
                 text="{=Settlements.Settlement.text.village_B5_3}Placeholder">
         <Components>
             <Village id="village_comp_B5_3" village_type="VillageType.sheep_farm" hearth="105" gate_rotation="0.008"
@@ -730,7 +730,7 @@
     </Settlement>
     <Settlement id="castle_village_B5_1" name="{=Settlements.Settlement.name.castle_village_B5_1}Ui Liathain"
                 posX="75.417"
-                posY="1152.534" culture="Culture.battania"
+                posY="1152.534" culture="Culture.rural_celtic"
                 text="{=Settlements.Settlement.text.castle_village_B5_1}Placeholder">
         <Components>
             <Village id="castle_village_comp_B5_1" village_type="VillageType.wheat_farm" hearth="103"
@@ -748,7 +748,7 @@
         </CommonAreas>
     </Settlement>
     <Settlement id="castle_village_B5_2" name="{=Settlements.Settlement.name.castle_village_B5_2}Corca Loigde"
-                posX="53.472" posY="1151.459" culture="Culture.battania"
+                posX="53.472" posY="1151.459" culture="Culture.rural_celtic"
                 text="{=Settlements.Settlement.text.castle_village_B5_2}Placeholder">
         <Components>
             <Village id="castle_village_comp_B5_2" village_type="VillageType.trapper" hearth="100"
