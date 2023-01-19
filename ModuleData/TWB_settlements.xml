@@ -2449,7 +2449,7 @@
         </CommonAreas>
     </Settlement>
     <Settlement id="castle_ES3" name="{=Settlements.Settlement.name.castle_ES3}Tarentum"
-                owner="Faction.clan_empire_south_3" posX="721.519" posY="875.307" culture="Culture.epirus"
+                owner="Faction.clan_empire_south_6" posX="721.519" posY="875.307" culture="Culture.epirus"
                 prosperity="810" gate_posX="720.2406" gate_posY="878.0064">
         <Components>
             <Town id="castle_comp_ES3" is_castle="true" level="1" background_crop_position="0.0"
