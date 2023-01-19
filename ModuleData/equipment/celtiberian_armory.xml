@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Items>
 
 <!-- Celtiberian Cloaks -->
@@ -16,7 +16,7 @@
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-<!-- Celtiberian Arm Armor -->  
+<!-- Celtiberian Arm Armor -->
   <Item id="celtiberian_padded_vambrace"
         name="{=Hanspaddedarma}Celtierian Padded Vambraces"
         mesh="padded_vambrace_a"
@@ -48,7 +48,7 @@
     <Flags Civilian="true" />
   </Item>
   <!-- Celtiberian Weapons-->
-  <CraftedItem id="Phallic_javelin"
+  <CraftedItem id="phallic_javelin"
                name="{=Phallica}Phallic Javelin"
                crafting_template="Celtic_Javelin"
                culture="Culture.celtiberian"
@@ -68,7 +68,7 @@
 				   scale_factor="100" />
 		</Pieces>
 	</CraftedItem>
-	
+
 	<CraftedItem id="soliferrum_javelin"
                name="{=Soliferrums}Soliferrum Javelin"
                crafting_template="Celtic_Javelin"
@@ -89,7 +89,7 @@
 				   scale_factor="100" />
 		</Pieces>
 	</CraftedItem>
-	
+
 	<CraftedItem id="hans_espada_short_sword"
                name="{=Espada}Celtiberian Short Sword"
                crafting_template="OneHandedSword"
@@ -109,7 +109,7 @@
              scale_factor="100" />
     </Pieces>
   </CraftedItem>
-  
+
   <CraftedItem id="falcata_a"
                name="{=Irofalca}Iron falcata"
                crafting_template="OneHandedGreekSword"
@@ -144,7 +144,7 @@
              scale_factor="110" />
 	  <Piece id="spear_pommel_10"
              Type="Pommel"
-             scale_factor="100" />		 
+             scale_factor="100" />
     </Pieces>
   </CraftedItem>
 <!-- Celtiberian Shield's -->
@@ -219,6 +219,6 @@
     <Flags WoodenParry="true"
            HeldInOffHand="true"
            ForceAttachOffHandSecondaryItemBone="true" />
-  </Item>  
-  
+  </Item>
+
 </Items>

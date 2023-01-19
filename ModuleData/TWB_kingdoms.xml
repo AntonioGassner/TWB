@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Kingdoms>
     <!--    ITALY   -->
     <Kingdom id="Etruria" owner="Hero.lord_1_17"
@@ -79,9 +79,6 @@
              ruler_title="{=hwnp9abW}King" text="{=Emporion3}Emporion is a Greek colony in the eastern Iberian region.">
         <relationships>
         </relationships>
-        <policies>
-            <policy id="policy_royal_privilege"/>
-        </policies>
     </Kingdom>
     <Kingdom id="Epirus" owner="Hero.lord_1_58"
              banner_key="11.126.146.2163.2044.764.764.0.1.180.502.38.38.573.528.761.769.0.0.-1.504.38.144.153.141.560.1063.0.0.179.146.22.144.440.406.764.764.0.0.-1.504.38.144.153.141.757.1061.0.0.179.504.38.144.153.141.969.1061.0.0.179"
