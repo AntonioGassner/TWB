@@ -474,31 +474,31 @@
         </upgrade_targets>
         <Equipments>
             <EquipmentRoster civilian="true">
-                <equipment slot="Item0" id="Item.Caledonian_pine_spear"/>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear"/>
                 <equipment slot="Item1" id="Item.Caledonian_Square_shield_AR"/>
                 <equipment slot="Body" id="Item.caledonian_fur_armor_with_strap"/>
                 <equipment slot="Leg" id="Item.battania_fur_boots"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_simple_axe"/>
+                <equipment slot="Item0" id="Item.caledonian_simple_axe"/>
                 <equipment slot="Item1" id="Item.Caledonian_round_shield"/>
                 <equipment slot="Body" id="Item.Caledonian_thick_tartan"/>
                 <equipment slot="Leg" id="Item.battania_fur_boots"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_pine_spear"/>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear"/>
                 <equipment slot="Item1" id="Item.Caledonian_Square_shield_AR"/>
                 <equipment slot="Body" id="Item.caledonian_fur_armor_with_strap"/>
                 <equipment slot="Leg" id="Item.battania_fur_boots"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_simple_axe"/>
+                <equipment slot="Item0" id="Item.caledonian_simple_axe"/>
                 <equipment slot="Item2" id="Item.Caledonian_round_shield"/>
                 <equipment slot="Body" id="Item.Caledonian_thick_tartan"/>
                 <equipment slot="Leg" id="Item.battania_fur_boots"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_pine_spear"/>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear"/>
                 <equipment slot="Item2" id="Item.Caledonian_Square_shield_AR"/>
                 <equipment slot="Body" id="Item.caledonian_fur_armor_with_strap"/>
                 <equipment slot="Leg" id="Item.battania_fur_boots"/>
@@ -525,7 +525,7 @@
         </upgrade_targets>
         <Equipments>
             <EquipmentRoster civilian="true">
-                <equipment slot="Item0" id="Item.Caledonian_pine_spear_vet"/>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear_vet"/>
                 <equipment slot="Item1" id="Item.Caledonian_oval_shield"/>
                 <equipment slot="Item3" id="Item.celtic_javelin"/>
                 <equipment slot="Head" id="Item.AR_battania_helmet_l"/>
@@ -534,7 +534,7 @@
                 <equipment slot="Gloves" id="Item.buttoned_leather_bracers"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_infantry_axe"/>
+                <equipment slot="Item0" id="Item.caledonian_infantry_axe"/>
                 <equipment slot="Item1" id="Item.Caledonian_round_shield"/>
                 <equipment slot="Item3" id="Item.celtic_javelin"/>
                 <equipment slot="Head" id="Item.AR_battania_helmet_c"/>
@@ -543,7 +543,7 @@
                 <equipment slot="Gloves" id="Item.buttoned_leather_bracers"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_pine_spear_vet"/>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear_vet"/>
                 <equipment slot="Item1" id="Item.Caledonian_oval_shield"/>
                 <equipment slot="Item3" id="Item.celtic_javelin"/>
                 <equipment slot="Head" id="Item.AR_battania_helmet_l"/>
@@ -552,7 +552,7 @@
                 <equipment slot="Gloves" id="Item.buttoned_leather_bracers"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_infantry_axe"/>
+                <equipment slot="Item0" id="Item.caledonian_infantry_axe"/>
                 <equipment slot="Item1" id="Item.Caledonian_round_shield"/>
                 <equipment slot="Item3" id="Item.celtic_javelin"/>
                 <equipment slot="Head" id="Item.AR_battania_helmet_c"/>
@@ -561,7 +561,7 @@
                 <equipment slot="Gloves" id="Item.guarded_armwraps"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_pine_spear_vet"/>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear_vet"/>
                 <equipment slot="Item1" id="Item.Caledonian_oval_shield"/>
                 <equipment slot="Item3" id="Item.celtic_javelin"/>
                 <equipment slot="Body" id="Item.caledonian_savage_armor"/>
@@ -596,7 +596,7 @@
                 <equipment slot="Leg" id="Item.battania_fur_boots"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item2" id="Item.Caledonian_pine_spear_vet"/>
+                <equipment slot="Item2" id="Item.caledonian_pine_spear_vet"/>
                 <equipment slot="Item1" id="Item.Caledonian_oval_shield_vet"/>
                 <equipment slot="Item3" id="Item.celtic_javelin"/>
                 <equipment slot="Head" id="Item.AR_battania_lord_helmet_k"/>
@@ -608,7 +608,7 @@
                 <equipment slot="HorseHarness" id="Item.battania_horse_harness"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item2" id="Item.Caledonian_pine_spear_vet"/>
+                <equipment slot="Item2" id="Item.caledonian_pine_spear_vet"/>
                 <equipment slot="Item1" id="Item.Caledonian_oval_shield_vet"/>
                 <equipment slot="Item3" id="Item.celtic_javelin"/>
                 <equipment slot="Head" id="Item.TV_battania_helmet_o"/>
@@ -620,7 +620,7 @@
                 <equipment slot="HorseHarness" id="Item.battania_horse_harness"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item2" id="Item.Caledonian_pine_spear_vet"/>
+                <equipment slot="Item2" id="Item.caledonian_pine_spear_vet"/>
                 <equipment slot="Item1" id="Item.Caledonian_oval_shield_vet"/>
                 <equipment slot="Item3" id="Item.celtic_javelin"/>
                 <equipment slot="Head" id="Item.AR_battania_lord_helmet_k"/>
@@ -632,7 +632,7 @@
                 <equipment slot="HorseHarness" id="Item.battania_horse_harness"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item2" id="Item.Caledonian_pine_spear_vet"/>
+                <equipment slot="Item2" id="Item.caledonian_pine_spear_vet"/>
                 <equipment slot="Item1" id="Item.Caledonian_oval_shield_vet"/>
                 <equipment slot="Item0" id="Item.celtic_javelin"/>
                 <equipment slot="Body" id="Item.AR_battania_armor_f"/>
@@ -644,7 +644,7 @@
                 <equipment slot="HorseHarness" id="Item.battania_horse_harness"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item2" id="Item.Caledonian_pine_spear_vet"/>
+                <equipment slot="Item2" id="Item.caledonian_pine_spear_vet"/>
                 <equipment slot="Item1" id="Item.Caledonian_oval_shield_vet"/>
                 <equipment slot="Item0" id="Item.celtic_javelin"/>
                 <equipment slot="Body" id="Item.ao_battanian_mail_shirt_with_kilt"/>
@@ -657,7 +657,7 @@
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
-	
+
     <NPCCharacter id="forest_bandits_bandit" default_group="Ranged" name="{=HadsURl8}Bushwacker" level="11"
                   occupation="Bandit" culture="Culture.forest_bandits">
         <face>
@@ -674,13 +674,13 @@
         </skills>
         <upgrade_targets>
             <upgrade_target id="NPCCharacter.forest_bandits_raider"/>
-
         </upgrade_targets>
         <Equipments>
             <EquipmentRoster civilian="true">
-                <equipment slot="Item0" id="Item.Caledonian_infantry_axe"/>
-                <equipment slot="Item1" id="Item.battania_large_shield_c"/>
-				<equipment slot="Item3" id="Item.default_arrows"/>
+        <equipment slot="Item0" id="Item.mountain_hunting_bow" />
+                <equipment slot="Item1" id="Item.default_arrows" />
+                <equipment slot="Item2" id="Item.caledonian_pine_spear"/>
+        <equipment slot="Item1" id="Item.default_arrows" />
                 <equipment slot="Body" id="Item.Caledonian_thick_tartan"/>
                 <equipment slot="Leg" id="Item.battania_fur_boots"/>
                 <equipment slot="Gloves" id="Item.guarded_armwraps"/>
@@ -688,16 +688,17 @@
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.mountain_hunting_bow"/>
                 <equipment slot="Item1" id="Item.default_arrows"/>
-                <equipment slot="Item2" id="Item.Caledonian_infantry_axe"/>
+                <equipment slot="Item2" id="Item.caledonian_infantry_axe"/>
                 <equipment slot="Item3" id="Item.default_arrows"/>
                 <equipment slot="Body" id="Item.caledonian_leather_tunic_b"/>
                 <equipment slot="Leg" id="Item.battania_fur_boots"/>
                 <equipment slot="Gloves" id="Item.guarded_armwraps"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.hunting_bow"/>
-                <equipment slot="Item2" id="Item.Caledonian_pine_spear"/>
-				<equipment slot="Item3" id="Item.default_arrows"/>
+                <equipment slot="Item0" id="Item.mountain_hunting_bow" />
+                <equipment slot="Item1" id="Item.default_arrows" />
+                <equipment slot="Item2" id="Item.caledonian_pine_spear"/>
+                <equipment slot="Item1" id="Item.default_arrows" />
                 <equipment slot="Body" id="Item.caledonian_fur_armor_with_strap"/>
                 <equipment slot="Leg" id="Item.battania_fur_boots"/>
                 <equipment slot="Gloves" id="Item.armwraps"/>
@@ -706,7 +707,7 @@
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.hunting_bow"/>
                 <equipment slot="Item1" id="Item.default_arrows"/>
-                <equipment slot="Item2" id="Item.Caledonian_infantry_axe"/>
+                <equipment slot="Item2" id="Item.caledonian_infantry_axe"/>
                 <equipment slot="Item3" id="Item.default_arrows"/>
                 <equipment slot="Body" id="Item.caledonian_fur_armor"/>
                 <equipment slot="Leg" id="Item.battania_fur_boots"/>
@@ -714,9 +715,10 @@
                 <equipment slot="Head" id="Item.roughhide_cap"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_pine_spear"/>
-                <equipment slot="Item1" id="Item.battania_large_shield_c"/>
-				<equipment slot="Item3" id="Item.default_arrows"/>
+                <equipment slot="Item0" id="Item.hunting_bow"/>
+                <equipment slot="Item1" id="Item.default_arrows"/>
+                <equipment slot="Item2" id="Item.caledonian_pine_spear"/>
+                <equipment slot="Item1" id="Item.default_arrows"/>
                 <equipment slot="Body" id="Item.caledonian_woodland_cloth"/>
                 <equipment slot="Leg" id="Item.battania_fur_boots"/>
                 <equipment slot="Gloves" id="Item.guarded_armwraps"/>
@@ -725,7 +727,7 @@
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.hunting_bow"/>
                 <equipment slot="Item1" id="Item.default_arrows"/>
-                <equipment slot="Item2" id="Item.Caledonian_infantry_axe"/>
+                <equipment slot="Item2" id="Item.caledonian_infantry_axe"/>
                 <equipment slot="Item3" id="Item.default_arrows"/>
                 <equipment slot="Cape" id="Item.TV_battania_cloak_l2"/>
                 <equipment slot="Body" id="Item.caledonian_savage_armor"/>
@@ -734,9 +736,10 @@
                 <equipment slot="Head" id="Item.roughhide_cap"/>
             </EquipmentRoster>
             <EquipmentRoster>
-				<equipment slot="Item0" id="Item.Caledonian_pine_spear"/>
-				<equipment slot="Item1" id="Item.battania_targe_b"/>
-				<equipment slot="Item3" id="Item.default_arrows"/>
+                <equipment slot="Item0" id="Item.mountain_hunting_bow" />
+                <equipment slot="Item1" id="Item.default_arrows" />
+                <equipment slot="Item2" id="Item.caledonian_pine_spear"/>
+                <equipment slot="Item1" id="Item.default_arrows" />
                 <equipment slot="Body" id="Caledonian_thick_tartan"/>
                 <equipment slot="Leg" id="Item.battania_fur_boots"/>
                 <equipment slot="Gloves" id="Item.armwraps"/>
@@ -745,7 +748,7 @@
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.hunting_bow"/>
                 <equipment slot="Item1" id="Item.default_arrows"/>
-                <equipment slot="Item2" id="Item.Caledonian_infantry_axe"/>
+                <equipment slot="Item2" id="Item.caledonian_infantry_axe"/>
                 <equipment slot="Item3" id="Item.default_arrows"/>
                 <equipment slot="Body" id="Item.caledonian_leather_tunic_b"/>
                 <equipment slot="Leg" id="Item.battania_fur_boots"/>
@@ -753,9 +756,10 @@
                 <equipment slot="Head" id="Item.wrapped_headcloth"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_pine_spear"/>
-                <equipment slot="Item1" id="Item.battania_targe_b"/>
-				<equipment slot="Item3" id="Item.default_arrows"/>
+                <equipment slot="Item0" id="Item.mountain_hunting_bow" />
+                <equipment slot="Item1" id="Item.default_arrows" />
+                <equipment slot="Item2" id="Item.caledonian_pine_spear"/>
+                <equipment slot="Item1" id="Item.default_arrows" />
                 <equipment slot="Body" id="Item.caledonian_fur_armor"/>
                 <equipment slot="Leg" id="Item.battania_fur_boots"/>
                 <equipment slot="Gloves" id="Item.eastern_wrapped_armguards"/>
@@ -782,9 +786,10 @@
         </upgrade_targets>
         <Equipments>
             <EquipmentRoster civilian="true">
-				<equipment slot="Item0" id="Item.Caledonian_pine_spear"/>
-				<equipment slot="Item1" id="Item.battania_large_shield_c"/>
-				<equipment slot="Item3" id="Item.default_arrows"/>
+        <equipment slot="Item0" id="Item.mountain_hunting_bow" />
+                <equipment slot="Item1" id="Item.barbed_arrows"/>
+                <equipment slot="Item2" id="Item.narrow_sword_t3"/>
+                <equipment slot="Item3" id="Item.barbed_arrows"/>
                 <equipment slot="Body" id="Item.Caledonian_thick_tartan"/>
                 <equipment slot="Leg" id="Item.battania_fur_boots"/>
                 <equipment slot="Gloves" id="Item.rough_tied_bracers"/>
@@ -792,9 +797,9 @@
             </EquipmentRoster>
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.highland_ranger_bow"/>
-				<equipment slot="Item1" id="Item.default_arrows"/>
+                <equipment slot="Item1" id="Item.barbed_arrows"/>
                 <equipment slot="Item2" id="Item.narrow_sword_t3"/>
-                <equipment slot="Item3" id="Item.default_arrows"/>
+                <equipment slot="Item3" id="Item.barbed_arrows"/>
                 <equipment slot="Body" id="Item.caledonian_leather_tunic_b"/>
                 <equipment slot="Leg" id="Item.battania_fur_boots"/>
                 <equipment slot="Gloves" id="Item.guarded_armwraps"/>
@@ -802,19 +807,20 @@
                 <equipment slot="Cape" id="Item.battania_civil_cloak"/>
             </EquipmentRoster>
             <EquipmentRoster>
-				<equipment slot="Item0" id="Item.Caledonian_pine_spear"/>
-				<equipment slot="Item1" id="Item.battania_large_shield_c"/>
-                <equipment slot="Item3" id="Item.default_arrows"/>
+        <equipment slot="Item0" id="Item.mountain_hunting_bow" />
+                <equipment slot="Item1" id="Item.barbed_arrows"/>
+                <equipment slot="Item2" id="Item.cleaver_sword_t3"/>
+                <equipment slot="Item3" id="Item.barbed_arrows"/>
                 <equipment slot="Body" id="Item.caledonian_fur_armor_with_strap"/>
                 <equipment slot="Leg" id="Item.battania_fur_boots"/>
                 <equipment slot="Gloves" id="Item.rough_tied_bracers"/>
                 <equipment slot="Head" id="Item.pilgrim_hood"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.mountain_hunting_bow"/>
-                <equipment slot="Item1" id="Item.default_arrows"/>
+                <equipment slot="Item0" id="Item.glen_ranger_bow"/>
+                <equipment slot="Item1" id="Item.barbed_arrows"/>
                 <equipment slot="Item2" id="Item.cleaver_sword_t3"/>
-                <equipment slot="Item3" id="Item.default_arrows"/>
+                <equipment slot="Item3" id="Item.barbed_arrows"/>
                 <equipment slot="Body" id="Item.caledonian_fur_armor"/>
                 <equipment slot="Leg" id="Item.battania_fur_boots"/>
                 <equipment slot="Gloves" id="Item.rough_tied_bracers"/>
@@ -822,29 +828,29 @@
                 <equipment slot="Cape" id="Item.battania_civil_cloak"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.mountain_hunting_bow"/>
-                <equipment slot="Item1" id="Item.default_arrows"/>
+        <equipment slot="Item0" id="Item.mountain_hunting_bow" />
+                <equipment slot="Item1" id="Item.barbed_arrows"/>
                 <equipment slot="Item2" id="Item.cleaver_sword_t3"/>
-                <equipment slot="Item3" id="Item.default_arrows"/>
+                <equipment slot="Item3" id="Item.barbed_arrows"/>
                 <equipment slot="Body" id="Item.caledonian_woodland_cloth"/>
                 <equipment slot="Leg" id="Item.battania_fur_boots"/>
                 <equipment slot="Gloves" id="Item.guarded_armwraps"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.mountain_hunting_bow"/>
-                <equipment slot="Item1" id="Item.default_arrows"/>
+                <equipment slot="Item0" id="Item.glen_ranger_bow"/>
+                <equipment slot="Item1" id="Item.barbed_arrows"/>
                 <equipment slot="Item2" id="Item.cleaver_sword_t3"/>
-                <equipment slot="Item3" id="Item.default_arrows"/>
+                <equipment slot="Item3" id="Item.barbed_arrows"/>
                 <equipment slot="Body" id="Item.caledonian_savage_armor"/>
                 <equipment slot="Leg" id="Item.battania_fur_boots"/>
                 <equipment slot="Gloves" id="Item.rough_tied_bracers"/>
                 <equipment slot="Head" id="Item.pilgrim_hood"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.mountain_hunting_bow"/>
-                <equipment slot="Item1" id="Item.default_arrows"/>
+        <equipment slot="Item0" id="Item.mountain_hunting_bow" />
+                <equipment slot="Item1" id="Item.barbed_arrows"/>
                 <equipment slot="Item2" id="Item.short_sword_t3"/>
-                <equipment slot="Item3" id="Item.default_arrows"/>
+                <equipment slot="Item3" id="Item.barbed_arrows"/>
                 <equipment slot="Body" id="Item.caledonian_fur_armor"/>
                 <equipment slot="Leg" id="Item.battania_fur_boots"/>
                 <equipment slot="Gloves" id="Item.rough_tied_bracers"/>
@@ -898,9 +904,11 @@
                 <equipment slot="Leg" id="Item.wrapped_shoes"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.cleaver_sword_t3"/>
-                <equipment slot="Item1" id="Item.battania_large_shield_c"/>
+        <equipment slot="Item0" id="Item.mountain_hunting_bow" />
+                <equipment slot="Item1" id="Item.default_arrows" />
                 <equipment slot="Item2" id="Item.battania_axe_2_t4"/>
+                <equipment slot="Item1" id="Item.default_arrows" />
+
                 <equipment slot="Body" id="Item.AR_battania_armor_f"/>
                 <equipment slot="Leg" id="Item.battania_woodland_boots"/>
                 <equipment slot="Gloves" id="Item.woven_leather_bracers"/>
@@ -908,18 +916,22 @@
                 <equipment slot="Cape" id="Item.wolf_shoulder"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_pine_spear"/>
-                <equipment slot="Item1" id="Item.battania_large_shield_c"/>
+        <equipment slot="Item0" id="Item.mountain_hunting_bow" />
+                <equipment slot="Item1" id="Item.default_arrows" />
                 <equipment slot="Item2" id="Item.battania_axe_2_t4"/>
+                <equipment slot="Item1" id="Item.default_arrows" />
+
                 <equipment slot="Body" id="Item.ao_battanian_mail_shirt_with_kilt"/>
                 <equipment slot="Leg" id="Item.mail_chausses"/>
                 <equipment slot="Gloves" id="Item.woven_leather_bracers"/>
                 <equipment slot="Cape" id="Item.battania_cloak_furr"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.cleaver_sword_t3"/>
-                <equipment slot="Item1" id="Item.battania_large_shield_c"/>
+        <equipment slot="Item0" id="Item.mountain_hunting_bow" />
+                <equipment slot="Item1" id="Item.default_arrows" />
                 <equipment slot="Item2" id="Item.battania_axe_2_t4"/>
+                <equipment slot="Item1" id="Item.default_arrows" />
+
                 <equipment slot="Body" id="Item.AR_battania_armor_f"/>
                 <equipment slot="Leg" id="Item.mail_chausses"/>
                 <equipment slot="Gloves" id="Item.studded_vambraces"/>
@@ -927,18 +939,22 @@
                 <equipment slot="Cape" id="Item.bearskin"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_pine_spear"/>
-                <equipment slot="Item1" id="Item.battania_large_shield_c"/>
+        <equipment slot="Item0" id="Item.mountain_hunting_bow" />
+                <equipment slot="Item1" id="Item.default_arrows" />
                 <equipment slot="Item2" id="Item.battania_axe_2_t4"/>
+                <equipment slot="Item1" id="Item.default_arrows" />
+
                 <equipment slot="Body" id="Item.ao_battanian_mail_shirt_with_kilt"/>
                 <equipment slot="Leg" id="Item.battania_fur_boots"/>
                 <equipment slot="Gloves" id="Item.studded_vambraces"/>
                 <equipment slot="Cape" id="Item.bearskin"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.cleaver_sword_t3"/>
-                <equipment slot="Item1" id="Item.battania_large_shield_c"/>
+        <equipment slot="Item0" id="Item.mountain_hunting_bow" />
+                <equipment slot="Item1" id="Item.default_arrows" />
                 <equipment slot="Item2" id="Item.battania_axe_2_t4"/>
+                <equipment slot="Item1" id="Item.default_arrows" />
+
                 <equipment slot="Body" id="Item.AR_battania_armor_f"/>
                 <equipment slot="Leg" id="Item.battania_leather_boots"/>
                 <equipment slot="Gloves" id="Item.studded_leather_vambraces"/>

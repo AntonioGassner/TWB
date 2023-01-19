@@ -86,7 +86,7 @@
             <skill id="Throwing" value="120"/>
         </skills>
         <upgrade_targets>
-            <upgrade_target id="NPCCharacter.baltic_Noble_rider"/>
+            <upgrade_target id="NPCCharacter.baltic_noble_rider"/>
             <upgrade_target id="NPCCharacter.baltic_horse_bowmen"/>
         </upgrade_targets>
         <Equipments>
@@ -143,7 +143,7 @@
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
-    <NPCCharacter id="baltic_Noble_rider"
+    <NPCCharacter id="baltic_noble_rider"
                   default_group="Cavalry"
                   level="21"
                   name="{=Baltic Noble Rider}Baltic Noble Rider"

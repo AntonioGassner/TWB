@@ -1729,7 +1729,7 @@
         </upgrade_targets>
         <Equipments>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_pine_spear"/>
+                <equipment slot="Item0" id="Item.caledonian_pine_spear"/>
                 <equipment slot="Item1" id="Item.western_javelin_1_t2"/>
                 <equipment slot="Item2" id="Item.Caledonian_small_round"/>
                 <equipment slot="Head" id="Item.TV_battania_hood_a2"/>

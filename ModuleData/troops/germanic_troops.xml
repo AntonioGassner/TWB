@@ -1949,7 +1949,7 @@
                 <equipment slot="Leg" id="Item.highland_boots"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_infantry_axe"/>
+                <equipment slot="Item0" id="Item.caledonian_infantry_axe"/>
                 <equipment slot="Item1" id="Item.Caledonian_round_shield"/>
                 <equipment slot="Item2" id="Item.northern_javelin_1_t2"/>
                 <equipment slot="Head" id="Item.AR_sturgia_womens_hat_a"/>
@@ -1967,7 +1967,7 @@
                 <equipment slot="Leg" id="Item.highland_boots"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_infantry_axe"/>
+                <equipment slot="Item0" id="Item.caledonian_infantry_axe"/>
                 <equipment slot="Item1" id="Item.Caledonian_round_shield"/>
                 <equipment slot="Item2" id="Item.northern_javelin_1_t2"/>
                 <equipment slot="Head" id="Item.AR_sturgia_womens_hat_a"/>
@@ -2015,7 +2015,7 @@
                 <equipment slot="Leg" id="Item.battania_fur_boots"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_infantry_axe"/>
+                <equipment slot="Item0" id="Item.caledonian_infantry_axe"/>
                 <equipment slot="Item1" id="Item.highland_riders_shield"/>
                 <equipment slot="Item2" id="Item.celtic_javelin"/>
                 <equipment slot="Head" id="Item.battania_fur_cap"/>
@@ -2035,7 +2035,7 @@
                 <equipment slot="Leg" id="Item.battania_fur_boots"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_infantry_axe"/>
+                <equipment slot="Item0" id="Item.caledonian_infantry_axe"/>
                 <equipment slot="Item1" id="Item.highland_riders_shield"/>
                 <equipment slot="Item2" id="Item.celtic_javelin"/>
                 <equipment slot="Head" id="Item.battania_fur_cap"/>
@@ -2136,7 +2136,7 @@
         </upgrade_targets>
         <Equipments>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_infantry_axe"/>
+                <equipment slot="Item0" id="Item.caledonian_infantry_axe"/>
                 <equipment slot="Item1" id="Item.throwing_stone"/>
                 <equipment slot="Item2" id="Item.Caledonian_round_shield"/>
                 <equipment slot="Head" id="Item.battania_fur_cap"/>
@@ -2333,7 +2333,7 @@
         </upgrade_targets>
         <Equipments>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_infantry_vet_axe"/>
+                <equipment slot="Item0" id="Item.caledonian_infantry_vet_axe"/>
                 <equipment slot="Item1" id="Item.northern_javelin_2_t3"/>
                 <equipment slot="Item2" id="Item.AR_shield_infantry_zf"/>
                 <equipment slot="Head" id="Item.TV_battania_helmet_f"/>
@@ -2345,7 +2345,7 @@
                 <equipment slot="HorseHarness" id="Item.northern_noble_harness"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_infantry_vet_axe"/>
+                <equipment slot="Item0" id="Item.caledonian_infantry_vet_axe"/>
                 <equipment slot="Item1" id="Item.northern_javelin_2_t3"/>
                 <equipment slot="Item2" id="Item.AR_shield_infantry_zf"/>
                 <equipment slot="Head" id="Item.TV_battania_helmet_e"/>
@@ -2357,7 +2357,7 @@
                 <equipment slot="HorseHarness" id="Item.northern_noble_harness"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_infantry_vet_axe"/>
+                <equipment slot="Item0" id="Item.caledonian_infantry_vet_axe"/>
                 <equipment slot="Item1" id="Item.northern_javelin_2_t3"/>
                 <equipment slot="Item2" id="Item.AR_shield_infantry_zf"/>
                 <equipment slot="Head" id="Item.TV_battania_helmet_f"/>
@@ -2369,7 +2369,7 @@
                 <equipment slot="HorseHarness" id="Item.northern_noble_harness"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_infantry_vet_axe"/>
+                <equipment slot="Item0" id="Item.caledonian_infantry_vet_axe"/>
                 <equipment slot="Item1" id="Item.northern_javelin_2_t3"/>
                 <equipment slot="Item2" id="Item.AR_shield_infantry_zf"/>
                 <equipment slot="Head" id="Item.TV_battania_helmet_e"/>
@@ -2412,7 +2412,7 @@
         </upgrade_targets>
         <Equipments>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_infantry_vet_axe"/>
+                <equipment slot="Item0" id="Item.caledonian_infantry_vet_axe"/>
                 <equipment slot="Item1" id="Item.northern_javelin_2_t3"/>
                 <equipment slot="Item2" id="Item.AR_shield_infantry_zf"/>
                 <equipment slot="Head" id="Item.TV_battania_helmet_f"/>
@@ -2424,7 +2424,7 @@
                 <equipment slot="HorseHarness" id="Item.northern_noble_harness"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_infantry_vet_axe"/>
+                <equipment slot="Item0" id="Item.caledonian_infantry_vet_axe"/>
                 <equipment slot="Item1" id="Item.northern_javelin_2_t3"/>
                 <equipment slot="Item2" id="Item.AR_shield_infantry_zf"/>
                 <equipment slot="Head" id="Item.TV_battania_helmet_e"/>
@@ -2436,7 +2436,7 @@
                 <equipment slot="HorseHarness" id="Item.northern_noble_harness"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_infantry_vet_axe"/>
+                <equipment slot="Item0" id="Item.caledonian_infantry_vet_axe"/>
                 <equipment slot="Item1" id="Item.northern_javelin_2_t3"/>
                 <equipment slot="Item2" id="Item.AR_shield_infantry_zf"/>
                 <equipment slot="Head" id="Item.TV_battania_helmet_f"/>
@@ -2448,7 +2448,7 @@
                 <equipment slot="HorseHarness" id="Item.northern_noble_harness"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_infantry_vet_axe"/>
+                <equipment slot="Item0" id="Item.caledonian_infantry_vet_axe"/>
                 <equipment slot="Item1" id="Item.northern_javelin_2_t3"/>
                 <equipment slot="Item2" id="Item.AR_shield_infantry_zf"/>
                 <equipment slot="Head" id="Item.TV_battania_helmet_e"/>
@@ -2488,7 +2488,7 @@
         </skills>
         <Equipments>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_infantry_vet_axe"/>
+                <equipment slot="Item0" id="Item.caledonian_infantry_vet_axe"/>
                 <equipment slot="Item1" id="Item.northern_javelin_2_t3"/>
                 <equipment slot="Item2" id="Item.AR_shield_infantry_zf"/>
                 <equipment slot="Head" id="Item.TV_battania_helmet_f"/>
@@ -2500,7 +2500,7 @@
                 <equipment slot="HorseHarness" id="Item.northern_noble_harness"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_infantry_vet_axe"/>
+                <equipment slot="Item0" id="Item.caledonian_infantry_vet_axe"/>
                 <equipment slot="Item1" id="Item.northern_javelin_2_t3"/>
                 <equipment slot="Item2" id="Item.AR_shield_infantry_zf"/>
                 <equipment slot="Head" id="Item.TV_battania_helmet_e"/>
@@ -2512,7 +2512,7 @@
                 <equipment slot="HorseHarness" id="Item.northern_noble_harness"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_infantry_vet_axe"/>
+                <equipment slot="Item0" id="Item.caledonian_infantry_vet_axe"/>
                 <equipment slot="Item1" id="Item.northern_javelin_2_t3"/>
                 <equipment slot="Item2" id="Item.AR_shield_infantry_zf"/>
                 <equipment slot="Head" id="Item.TV_battania_helmet_f"/>
@@ -2524,7 +2524,7 @@
                 <equipment slot="HorseHarness" id="Item.northern_noble_harness"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_infantry_vet_axe"/>
+                <equipment slot="Item0" id="Item.caledonian_infantry_vet_axe"/>
                 <equipment slot="Item1" id="Item.northern_javelin_2_t3"/>
                 <equipment slot="Item2" id="Item.AR_shield_infantry_zf"/>
                 <equipment slot="Head" id="Item.TV_battania_helmet_e"/>
@@ -2699,7 +2699,7 @@
         </upgrade_targets>
         <Equipments>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_infantry_axe"/>
+                <equipment slot="Item0" id="Item.caledonian_infantry_axe"/>
                 <equipment slot="Item1" id="Item.celtic_javelin"/>
                 <equipment slot="Item2" id="Item.Caledonian_round_shield"/>
                 <equipment slot="Head" id="Item.battania_fur_cap"/>
@@ -2771,7 +2771,7 @@
         </upgrade_targets>
         <Equipments>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_infantry_axe"/>
+                <equipment slot="Item0" id="Item.caledonian_infantry_axe"/>
                 <equipment slot="Item1" id="Item.hunting_bow"/>
                 <equipment slot="Item2" id="Item.range_arrows"/>
                 <equipment slot="Head" id="Item.battania_fur_cap"/>
@@ -2831,7 +2831,7 @@
         </skills>
         <Equipments>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_infantry_axe"/>
+                <equipment slot="Item0" id="Item.caledonian_infantry_axe"/>
                 <equipment slot="Item1" id="Item.hunting_bow"/>
                 <equipment slot="Item2" id="Item.range_arrows"/>
                 <equipment slot="Head" id="Item.battania_fur_cap"/>
@@ -2899,7 +2899,7 @@
         </skills>
         <Equipments>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_infantry_axe"/>
+                <equipment slot="Item0" id="Item.caledonian_infantry_axe"/>
                 <equipment slot="Item1" id="Item.hunting_bow"/>
                 <equipment slot="Item2" id="Item.range_arrows"/>
                 <equipment slot="Head" id="Item.battania_fur_cap"/>
@@ -2970,7 +2970,7 @@
         </upgrade_targets>
         <Equipments>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_infantry_vet_axe"/>
+                <equipment slot="Item0" id="Item.caledonian_infantry_vet_axe"/>
                 <equipment slot="Item1" id="Item.celtic_javelin"/>
                 <equipment slot="Item2" id="Item.Caledonian_round_shield"/>
                 <equipment slot="Head" id="Item.battania_fur_cap"/>
@@ -2990,7 +2990,7 @@
                 <equipment slot="Leg" id="Item.battania_fur_boots"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_infantry_vet_axe"/>
+                <equipment slot="Item0" id="Item.caledonian_infantry_vet_axe"/>
                 <equipment slot="Item1" id="Item.celtic_javelin"/>
                 <equipment slot="Item2" id="Item.Caledonian_round_shield"/>
                 <equipment slot="Head" id="Item.battania_fur_cap"/>
@@ -3041,7 +3041,7 @@
         </upgrade_targets>
         <Equipments>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_infantry_vet_axe"/>
+                <equipment slot="Item0" id="Item.caledonian_infantry_vet_axe"/>
                 <equipment slot="Item1" id="Item.celtic_javelin"/>
                 <equipment slot="Item2" id="Item.Caledonian_round_shield"/>
                 <equipment slot="Head" id="Item.battania_fur_cap"/>
@@ -3061,7 +3061,7 @@
                 <equipment slot="Leg" id="Item.battania_fur_boots"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_infantry_vet_axe"/>
+                <equipment slot="Item0" id="Item.caledonian_infantry_vet_axe"/>
                 <equipment slot="Item1" id="Item.celtic_javelin"/>
                 <equipment slot="Item2" id="Item.Caledonian_round_shield"/>
                 <equipment slot="Head" id="Item.battania_fur_cap"/>
@@ -3109,7 +3109,7 @@
         </skills>
         <Equipments>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_infantry_vet_axe"/>
+                <equipment slot="Item0" id="Item.caledonian_infantry_vet_axe"/>
                 <equipment slot="Item1" id="Item.celtic_javelin"/>
                 <equipment slot="Item2" id="Item.Caledonian_round_shield"/>
                 <equipment slot="Head" id="Item.battania_fur_cap"/>
@@ -3129,7 +3129,7 @@
                 <equipment slot="Leg" id="Item.battania_fur_boots"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_infantry_vet_axe"/>
+                <equipment slot="Item0" id="Item.caledonian_infantry_vet_axe"/>
                 <equipment slot="Item1" id="Item.celtic_javelin"/>
                 <equipment slot="Item2" id="Item.Caledonian_round_shield"/>
                 <equipment slot="Head" id="Item.battania_fur_cap"/>
@@ -3177,7 +3177,7 @@
         </skills>
         <Equipments>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_infantry_vet_axe"/>
+                <equipment slot="Item0" id="Item.caledonian_infantry_vet_axe"/>
                 <equipment slot="Item1" id="Item.celtic_javelin"/>
                 <equipment slot="Item2" id="Item.Caledonian_round_shield"/>
                 <equipment slot="Head" id="Item.battania_fur_cap"/>
@@ -3197,7 +3197,7 @@
                 <equipment slot="Leg" id="Item.battania_fur_boots"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.Caledonian_infantry_vet_axe"/>
+                <equipment slot="Item0" id="Item.caledonian_infantry_vet_axe"/>
                 <equipment slot="Item1" id="Item.celtic_javelin"/>
                 <equipment slot="Item2" id="Item.Caledonian_round_shield"/>
                 <equipment slot="Head" id="Item.battania_fur_cap"/>
