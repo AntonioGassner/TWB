@@ -2,7 +2,7 @@
 <Settlements>
 <!--    BALCAN AREA -->
 <!--    MACEDONIA -->
-    <Settlement id="town_K2" name="{=Settlements.Settlement.name.town_K2}Apollonia" owner="Faction.clan_empire_north_7"
+    <Settlement id="town_K2" name="{=Settlements.Settlement.name.town_K2}Apollonia" owner="Faction.twb_clan_14"
                 posX="778.145" posY="905.684" culture="Culture.epirus" prosperity="1700" gate_posX="778.2256"
                 gate_posY="903.1637"
                 text="{=4UNOQQRa}The town that the Khuzaits know as Akkalat, the White Fortress, was built by the fearsome Padishah Hoshtar on one of his periodic attempts to conquer the Devseg. For decades the sacred flame that burned from the top of the citadel symbolized his suzerainty over the tribes here. But the Padishah's realm like the Empire is on the defensive and has retreated to the east. Today the Khan's horsetail banners fly in its place.">

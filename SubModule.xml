@@ -178,11 +178,17 @@
             </IncludedGameTypes>
         </XmlNode>
         <XmlNode>
-            <XmlName id="NPCCharacters" path="spspecialcharacters"/>
+            <XmlName id="NPCCharacters" path="lords"/>
             <IncludedGameTypes>
-                <GameType value="Campaign"/>
-                <GameType value="CampaignStoryMode"/>
-                <GameType value="CustomGame"/>
+                <GameType value = "Campaign"/>
+                <GameType value = "CampaignStoryMode"/>
+            </IncludedGameTypes>
+        </XmlNode>
+        <XmlNode>
+            <XmlName id="Heroes" path="heroes"/>
+            <IncludedGameTypes>
+                <GameType value = "Campaign"/>
+                <GameType value = "CampaignStoryMode"/>
             </IncludedGameTypes>
         </XmlNode>
     </Xmls>
