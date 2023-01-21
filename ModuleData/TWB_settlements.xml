@@ -168,7 +168,7 @@
         </CommonAreas>
     </Settlement>
 <!--   SCORDISCI  -->
-    <Settlement id="town_K1" name="{=Settlements.Settlement.name.town_K1}Baltakhand" owner="Faction.clan_khuzait_6"
+    <Settlement id="town_K1" name="{=Settlements.Settlement.name.town_K1}Baltakhand" owner="Faction.twb_clan_14"
                 posX="767.864" posY="973.962" culture="Culture.khuzait" prosperity="1800" gate_posX="765.812"
                 gate_posY="974.9053"
                 text="{=YNm9vaHw}Baltakhand, the Fortress of the Axe, was settled by the Iltanlar, mountain-dwelling cousins of the Khuzaits. Centuries ago their beys descended into the plains and created the fortress here that guards the portages of Iltan, the network of lakes and rivers that divides the Sturgian lands from the Khuzaits' realm. Bitter winters protected them from the reach of the Empire, but no blast of wind was cutting enough to stop the horsemen of Khan Urkhun, who 40 years ago forced this town to submit to the khanate.">
@@ -351,7 +351,7 @@
         </CommonAreas>
     </Settlement>
     <!--  ARDIAEI  -->
-    <Settlement id="town_K5" name="{=Settlements.Settlement.name.town_K5}Chaikand" owner="Faction.clan_khuzait_1"
+    <Settlement id="town_K5" name="{=Settlements.Settlement.name.town_K5}Chaikand" owner="Faction.clan_khuzait_6"
                 posX="698.757" posY="1015.879" culture="Culture.khuzait" prosperity="3900" gate_posX="701.2109"
                 gate_posY="1016.46"
                 text="{=SUnaVliN}Chaikand sits by the reed-marshes on the edge of Lake Tanaesis. In the years when the east was an imperial protectorate, boats laden with hides, wool and salt shuttled across the lake's placid waters, returning with imperial silks and silver. With the coming of the Khuzaits and the subsequent wars the water-trade stopped, but Chaikand remains a major trade entrepot and military base, the fief of the ruling Urkhunait clan. From the pavilions of his palace, the khan can look out across the lake and see the hazy outline of hills that he may one day graze his horses upon.">
