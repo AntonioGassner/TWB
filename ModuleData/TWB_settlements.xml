@@ -2,7 +2,7 @@
 <Settlements>
 <!--    BALCAN AREA -->
 <!--    MACEDONIA -->
-    <Settlement id="town_K2" name="{=Settlements.Settlement.name.town_K2}Apollonia" owner="Faction.clan_empire_north_7"
+    <Settlement id="town_K2" name="{=Settlements.Settlement.name.town_K2}Apollonia" owner="Faction.twb_clan_14"
                 posX="778.145" posY="905.684" culture="Culture.epirus" prosperity="1700" gate_posX="778.2256"
                 gate_posY="903.1637"
                 text="{=4UNOQQRa}The town that the Khuzaits know as Akkalat, the White Fortress, was built by the fearsome Padishah Hoshtar on one of his periodic attempts to conquer the Devseg. For decades the sacred flame that burned from the top of the citadel symbolized his suzerainty over the tribes here. But the Padishah's realm like the Empire is on the defensive and has retreated to the east. Today the Khan's horsetail banners fly in its place.">
@@ -64,7 +64,7 @@
         </CommonAreas>
     </Settlement>
     <Settlement id="castle_K2" name="{=Settlements.Settlement.name.castle_K2}Akiser Castle"
-                owner="Faction.clan_vlandia_7" posX="841.096" posY="878.663" culture="Culture.epirus"
+                owner="Faction.clan_khuzait_1" posX="841.096" posY="878.663" culture="Culture.epirus"
                 prosperity="480" gate_posX="839.2015" gate_posY="879.082">
         <Components>
             <Town id="castle_comp_K2" is_castle="true" level="2" background_crop_position="0.0"
@@ -116,7 +116,7 @@
         </CommonAreas>
     </Settlement>
     <Settlement id="castle_K8" name="{=Settlements.Settlement.name.castle_K8}Erzenur Castle"
-                owner="Faction.clan_khuzait_4" posX="831.739" posY="925.382" culture="Culture.khuzait" prosperity="430"
+                owner="Faction.clan_khuzait_2" posX="831.739" posY="925.382" culture="Culture.khuzait" prosperity="430"
                 gate_posX="830.006" gate_posY="925.3624">
         <Components>
             <Town id="castle_comp_K8" is_castle="true" level="1" background_crop_position="0.0"
@@ -168,7 +168,7 @@
         </CommonAreas>
     </Settlement>
 <!--   SCORDISCI  -->
-    <Settlement id="town_K1" name="{=Settlements.Settlement.name.town_K1}Baltakhand" owner="Faction.twb_clan_14"
+    <Settlement id="town_K1" name="{=Settlements.Settlement.name.town_K1}Baltakhand" owner="Faction.clan_khuzait_6"
                 posX="767.864" posY="973.962" culture="Culture.khuzait" prosperity="1800" gate_posX="765.812"
                 gate_posY="974.9053"
                 text="{=YNm9vaHw}Baltakhand, the Fortress of the Axe, was settled by the Iltanlar, mountain-dwelling cousins of the Khuzaits. Centuries ago their beys descended into the plains and created the fortress here that guards the portages of Iltan, the network of lakes and rivers that divides the Sturgian lands from the Khuzaits' realm. Bitter winters protected them from the reach of the Empire, but no blast of wind was cutting enough to stop the horsemen of Khan Urkhun, who 40 years ago forced this town to submit to the khanate.">
@@ -247,7 +247,7 @@
         </CommonAreas>
     </Settlement>
     <Settlement id="castle_K9" name="{=Settlements.Settlement.name.castle_K9}Kaysar Castle"
-                owner="Faction.clan_khuzait_6" posX="821.46" posY="1006.757" culture="Culture.khuzait" prosperity="520"
+                owner="Faction.clan_khuzait_7" posX="821.46" posY="1006.757" culture="Culture.khuzait" prosperity="520"
                 gate_posX="822.9227" gate_posY="1006.53">
         <Components>
             <Town id="castle_comp_K9" is_castle="true" level="1" background_crop_position="0.0"
@@ -299,7 +299,7 @@
         </CommonAreas>
     </Settlement>
     <Settlement id="castle_K5" name="{=Settlements.Settlement.name.castle_K5}Khimli Castle"
-                owner="Faction.clan_khuzait_6" posX="785.932" posY="1018.905" culture="Culture.khuzait" prosperity="520"
+                owner="Faction.clan_vlandia_7" posX="785.932" posY="1018.905" culture="Culture.khuzait" prosperity="520"
                 gate_posX="787.6445" gate_posY="1019.355">
         <Components>
             <Town id="castle_comp_K5" is_castle="true" level="3" background_crop_position="0.0"
@@ -351,7 +351,7 @@
         </CommonAreas>
     </Settlement>
     <!--  ARDIAEI  -->
-    <Settlement id="town_K5" name="{=Settlements.Settlement.name.town_K5}Chaikand" owner="Faction.clan_khuzait_6"
+    <Settlement id="town_K5" name="{=Settlements.Settlement.name.town_K5}Chaikand" owner="Faction.clan_empire_north_7"
                 posX="698.757" posY="1015.879" culture="Culture.khuzait" prosperity="3900" gate_posX="701.2109"
                 gate_posY="1016.46"
                 text="{=SUnaVliN}Chaikand sits by the reed-marshes on the edge of Lake Tanaesis. In the years when the east was an imperial protectorate, boats laden with hides, wool and salt shuttled across the lake's placid waters, returning with imperial silks and silver. With the coming of the Khuzaits and the subsequent wars the water-trade stopped, but Chaikand remains a major trade entrepot and military base, the fief of the ruling Urkhunait clan. From the pavilions of his palace, the khan can look out across the lake and see the hazy outline of hills that he may one day graze his horses upon.">
@@ -429,7 +429,7 @@
             <Area type="Bog" name="{=iXA5SttU}Bog"/>
         </CommonAreas>
     </Settlement>
-    <Settlement id="castle_K1" name="{=Settlements.Settlement.name.castle_K1}Usek Castle" owner="Faction.clan_khuzait_2"
+    <Settlement id="castle_K1" name="{=Settlements.Settlement.name.castle_K1}Usek Castle" owner="Faction.clan_empire_north_7"
                 posX="695.527" posY="975.302" culture="Culture.khuzait" prosperity="420" gate_posX="693.5497"
                 gate_posY="975.7935">
         <Components>

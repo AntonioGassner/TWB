@@ -80,19 +80,6 @@
         <relationships>
         </relationships>
     </Kingdom>
-    <Kingdom id="Epirus" owner="Hero.lord_1_58"
-             banner_key="11.126.146.2163.2044.764.764.0.1.180.502.38.38.573.528.761.769.0.0.-1.504.38.144.153.141.560.1063.0.0.179.146.22.144.440.406.764.764.0.0.-1.504.38.144.153.141.757.1061.0.0.179.504.38.144.153.141.969.1061.0.0.179"
-             primary_banner_color="0xffA34402" secondary_banner_color="0xfff0e0a5" label_color="FF6d62b5"
-             color="FF9382D0" color2="FFDE9953" alternative_color="FFF4CA14" alternative_color2="FF6d62b5"
-             culture="Culture.epirus" settlement_banner_mesh="encounter_flag_a" flag_mesh="info_screen_flags_b"
-             name="{=Epirusum}Epirus" short_name="{=Epirus12}Epirotes" title="{=Epirus23}Epirus"
-             ruler_title="{=hwnp9abW}King" text="{=Epirus34}Epirus controls the western most reaches of Greece.">
-        <relationships>
-        </relationships>
-        <policies>
-            <policy id="policy_royal_privilege"/>
-        </policies>
-    </Kingdom>
     <Kingdom id="Macedon" owner="Hero.lord_twb_1_14"
              banner_key="11.71.116.2240.2217.766.758.0.0.0.503.132.116.110.110.764.764.1.1.0.504.132.116.35.400.764.574.0.0.0.504.132.116.35.400.764.954.0.0.180.504.132.116.35.400.954.764.0.0.270.504.132.116.35.400.574.764.0.0.90.504.132.116.35.400.629.629.0.0.45.504.132.116.35.400.629.899.0.0.135.504.132.116.35.400.899.899.0.0.225.504.132.116.35.400.899.629.0.0.315.504.132.116.30.300.944.686.0.0.295.504.132.116.30.300.944.842.0.0.246.504.132.116.30.300.584.686.0.0.66.504.132.116.30.300.584.842.0.0.114.504.132.116.30.300.687.945.0.0.156.504.132.116.30.300.687.583.0.0.24.504.132.116.30.300.841.945.0.0.-157.504.132.116.30.300.841.583.0.0.337.503.132.116.30.38.809.658.0.0.337.503.132.116.30.38.720.658.0.0.26.503.132.116.30.38.720.870.0.0.149.503.132.116.30.38.809.870.0.0.192.503.132.116.30.38.868.808.0.0.67.503.132.116.30.38.869.721.0.0.127.503.132.116.30.38.659.721.0.0.253.503.132.116.30.38.659.808.0.0.280.503.132.116.30.38.659.808.0.0.280.503.132.116.37.37.707.821.0.0.280.503.132.116.37.37.821.821.0.0.280.503.132.116.37.37.821.707.0.0.280.503.132.116.37.37.707.707.0.0.280"
              primary_banner_color="0xff710083" secondary_banner_color="0xfff4ca14" label_color="FF7CC8EB"
@@ -170,7 +157,8 @@
              primary_banner_color="7f6b60" secondary_banner_color="b6aba7" label_color="ffB01301" color="FF5C2017"
              color2="FFECBA44" alternative_color="FFDBBA27" alternative_color2="ff910101" culture="Culture.mauri"
              settlement_banner_mesh="encounter_flag_d" flag_mesh="info_screen_flags_c" name="{=Mauritania1}Mauritania"
-             short_name="{=Mauritaniaan}Mauritanian" title="{=Mauritania2}Kingdom of Mauritania" ruler_title="{=monarch}Agellid"
+             short_name="{=Mauritaniaan}Mauritanian" title="{=Mauritania2}Kingdom of Mauritania"
+             ruler_title="{=monarch}Agellid"
              text="{=Mauritania3)Its native inhabitants, seminomadic pastoralists">
         <relationships>
         </relationships>
@@ -351,6 +339,16 @@
              culture="Culture.vlandia" settlement_banner_mesh="encounter_flag_b" flag_mesh="info_screen_flags_c"
              name="{=Dacia}Dacia" short_name="{=Dacia}Dacian" title="{=Dacia}Dacian Tribe"
              ruler_title="{=hwnp9abW}King" text="{=Dacia}The Dacian Tribes">
+        <relationships>
+        </relationships>
+    </Kingdom>
+    <Kingdom id="Ardiaei" owner="Hero.lord_6_20"
+             banner_key="11.10.10.1536.1536.764.764.1.0.0.461.11.11.497.497.764.764.1.0.0"
+             primary_banner_color="0xffe9e2c5" secondary_banner_color="0xff2C4D86" label_color="FF7CC8EB"
+             color="FF58888B" color2="FFCCBB89" alternative_color="FF787878" alternative_color2="FF6caecc"
+             culture="Culture.khuzait" settlement_banner_mesh="encounter_flag_f" flag_mesh="info_screen_flags_b"
+             name="{=Ardiaei}Ardiaei" short_name="{=Ardiaei1}Ardiaeii" title="{=Ardiaei2}Ardiaei Tribe"
+             ruler_title="{=hwnp9abW}King" text="{=Ardiaei3}The Ardiaei are an Illyrian tribe">
         <relationships>
         </relationships>
     </Kingdom>
@@ -596,17 +594,16 @@
     </Kingdom>
 </Kingdoms>
 
-        <!--    <Kingdom id="Ardiaei" owner="Hero.lord_6_20"-->
-        <!--             banner_key="11.10.10.1536.1536.764.764.1.0.0.461.11.11.497.497.764.764.1.0.0"-->
-        <!--             primary_banner_color="0xffe9e2c5" secondary_banner_color="0xff2C4D86" label_color="FF7CC8EB"-->
-        <!--             color="FF58888B" color2="FFCCBB89" alternative_color="FF787878" alternative_color2="FF6caecc"-->
-        <!--             culture="Culture.khuzait" settlement_banner_mesh="encounter_flag_f" flag_mesh="info_screen_flags_b"-->
-        <!--             name="{=Ardiaei}Ardiaei" short_name="{=Ardiaei1}Ardiaeii" title="{=Ardiaei2}Ardiaei Tribe"-->
-        <!--             ruler_title="{=hwnp9abW}King" text="{=Ardiaei3}The Ardiaei are an Illyrian tribe">-->
-        <!--        <relationships>-->
-        <!--        </relationships>-->
-        <!--    </Kingdom>-->
-
-        <!--celtic kingdom factions-->
-
-        <!--    gallic  -->
+        <!--<Kingdom id="Epirus" owner="Hero.lord_1_58"-->
+        <!--         banner_key="11.126.146.2163.2044.764.764.0.1.180.502.38.38.573.528.761.769.0.0.-1.504.38.144.153.141.560.1063.0.0.179.146.22.144.440.406.764.764.0.0.-1.504.38.144.153.141.757.1061.0.0.179.504.38.144.153.141.969.1061.0.0.179"-->
+        <!--         primary_banner_color="0xffA34402" secondary_banner_color="0xfff0e0a5" label_color="FF6d62b5"-->
+        <!--         color="FF9382D0" color2="FFDE9953" alternative_color="FFF4CA14" alternative_color2="FF6d62b5"-->
+        <!--         culture="Culture.epirus" settlement_banner_mesh="encounter_flag_a" flag_mesh="info_screen_flags_b"-->
+        <!--         name="{=Epirusum}Epirus" short_name="{=Epirus12}Epirotes" title="{=Epirus23}Epirus"-->
+        <!--         ruler_title="{=hwnp9abW}King" text="{=Epirus34}Epirus controls the western most reaches of Greece.">-->
+        <!--<relationships>-->
+        <!--</relationships>-->
+        <!--<policies>-->
+        <!--    <policy id="policy_royal_privilege"/>-->
+        <!--</policies>-->
+        <!--</Kingdom>-->
