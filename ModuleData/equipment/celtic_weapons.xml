@@ -10,10 +10,10 @@
         <Pieces>
             <Piece id="axe_craft_20_head"
                    Type="Blade"
-                   scale_factor="100"/>
+                   scale_factor="100" />
             <Piece id="axe_craft_2_handle"
                    Type="Handle"
-                   scale_factor="100"/>
+                   scale_factor="100" />
         </Pieces>
     </CraftedItem>
     <!-- Highland Axes T4-->
@@ -24,10 +24,10 @@
         <Pieces>
             <Piece id="axe_craft_11_head"
                    Type="Blade"
-                   scale_factor="100"/>
+                   scale_factor="100" />
             <Piece id="axe_craft_24_handle"
                    Type="Handle"
-                   scale_factor="100"/>
+                   scale_factor="100" />
         </Pieces>
     </CraftedItem>
     <!-- Celtic Sword T3-->
@@ -38,16 +38,16 @@
         <Pieces>
             <Piece id="battania_blade_3_crude_iron"
                    Type="Blade"
-                   scale_factor="100"/>
+                   scale_factor="100" />
             <Piece id="battania_guard_8"
                    Type="Guard"
-                   scale_factor="100"/>
+                   scale_factor="100" />
             <Piece id="battania_grip_3"
                    Type="Handle"
-                   scale_factor="100"/>
+                   scale_factor="100" />
             <Piece id="aserai_pommel_1"
                    Type="Pommel"
-                   scale_factor="100"/>
+                   scale_factor="100" />
         </Pieces>
     </CraftedItem>
     <!-- Celtic Noble Sword T5-->
@@ -58,16 +58,16 @@
         <Pieces>
             <Piece id="battania_noble_blade_2"
                    Type="Blade"
-                   scale_factor="100"/>
+                   scale_factor="100" />
             <Piece id="battania_guard_8"
                    Type="Guard"
-                   scale_factor="100"/>
+                   scale_factor="100" />
             <Piece id="battania_grip_1"
                    Type="Handle"
-                   scale_factor="100"/>
+                   scale_factor="100" />
             <Piece id="battania_noble_pommel_1"
                    Type="Pommel"
-                   scale_factor="100"/>
+                   scale_factor="100" />
         </Pieces>
     </CraftedItem>
     <!-- Celtic Spear Length 183 -->
@@ -85,4 +85,6 @@
                    scale_factor="110" />
         </Pieces>
     </CraftedItem>
+
+
 </Items>
