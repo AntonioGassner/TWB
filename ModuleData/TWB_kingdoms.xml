@@ -347,7 +347,7 @@ cimbri banner that we can now use somewhere else
         <relationships>
         </relationships>
     </Kingdom>
-    <Kingdom id="Ardiaei" owner="Hero.lord_4_23"
+    <Kingdom id="Ardiaei" owner="Hero.lord_6_1"
                  banner_key="11.10.10.1536.1536.764.764.1.0.0.461.11.11.497.497.764.764.1.0.0"
                  primary_banner_color="0xffe9e2c5" secondary_banner_color="0xff2C4D86" label_color="FF7CC8EB"
                  color="FF58888B" color2="FFCCBB89" alternative_color="FF787878" alternative_color2="FF6caecc"
