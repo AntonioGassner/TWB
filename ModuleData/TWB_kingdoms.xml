@@ -83,16 +83,17 @@ cimbri banner that we can now use somewhere else
              ruler_title="{=hwnp9abW}Arkhōn" text="{=Emporion3}Emporion is a Greek colony in the eastern Iberian region.">
         <relationships>
         </relationships>
+        <policies>
+            <policy id="policy_royal_privilege"/>
+        </policies>
     </Kingdom>
-<!--     owner="Hero.lord_twb_1_14" -->
     <Kingdom id="Macedon" owner="Hero.lord_1_58"
-             banner_key="11.71.116.2240.2217.766.758.0.0.0.503.132.116.110.110.764.764.1.1.0.504.132.116.35.400.764.574.0.0.0.504.132.116.35.400.764.954.0.0.180.504.132.116.35.400.954.764.0.0.270.504.132.116.35.400.574.764.0.0.90.504.132.116.35.400.629.629.0.0.45.504.132.116.35.400.629.899.0.0.135.504.132.116.35.400.899.899.0.0.225.504.132.116.35.400.899.629.0.0.315.504.132.116.30.300.944.686.0.0.295.504.132.116.30.300.944.842.0.0.246.504.132.116.30.300.584.686.0.0.66.504.132.116.30.300.584.842.0.0.114.504.132.116.30.300.687.945.0.0.156.504.132.116.30.300.687.583.0.0.24.504.132.116.30.300.841.945.0.0.-157.504.132.116.30.300.841.583.0.0.337.503.132.116.30.38.809.658.0.0.337.503.132.116.30.38.720.658.0.0.26.503.132.116.30.38.720.870.0.0.149.503.132.116.30.38.809.870.0.0.192.503.132.116.30.38.868.808.0.0.67.503.132.116.30.38.869.721.0.0.127.503.132.116.30.38.659.721.0.0.253.503.132.116.30.38.659.808.0.0.280.503.132.116.30.38.659.808.0.0.280.503.132.116.37.37.707.821.0.0.280.503.132.116.37.37.821.821.0.0.280.503.132.116.37.37.821.707.0.0.280.503.132.116.37.37.707.707.0.0.280"
-             primary_banner_color="0xff710083" secondary_banner_color="0xfff4ca14" label_color="FF7CC8EB"
-             color="FF58888B" color2="FFCCBB89" alternative_color="FF787878" alternative_color2="FF6caecc"
+             banner_key="11.126.146.2163.2044.764.764.0.1.180.502.38.38.573.528.761.769.0.0.-1.504.38.144.153.141.560.1063.0.0.179.146.22.144.440.406.764.764.0.0.-1.504.38.144.153.141.757.1061.0.0.179.504.38.144.153.141.969.1061.0.0.179"
+             primary_banner_color="0xffA34402" secondary_banner_color="0xfff0e0a5" label_color="FF6d62b5"
+             color="FF9382D0" color2="FFDE9953" alternative_color="FFF4CA14" alternative_color2="FF6d62b5"
              culture="Culture.khuzait" settlement_banner_mesh="encounter_flag_a" flag_mesh="info_screen_flags_b"
-             name="{=Macedon}Macedonia" short_name="{=Macedon12}Macedonians" title="{=Macedon23}The Macedonian Empire"
-             ruler_title="{=hwnp9abW}Arkhōn"
-             text="{=Macedon3}Macedonia is a small but quickly expanding empire. that is... until The powerful king of Macedon, Philip II was murdered. Now his ambitious young son Alexander has secured the throne with the help of his mother Olympias.">
+             name="{=Macedon}Macedon" short_name="{=Macedon12}Epirotes" title="{=Macedon23}Macedon"
+             ruler_title="{=hwnp9abW}Arkhōn" text="{=Macedon34}Macedon controls the western most reaches of Greece.">
         <relationships>
         </relationships>
         <policies>
@@ -139,7 +140,7 @@ cimbri banner that we can now use somewhere else
         </relationships>
     </Kingdom>
     <Kingdom id="Lixos" owner="Hero.lord_3_3"
-             banner_key="11.22.22.2240.2217.766.758.0.0.0.510.12.116.100.60.584.489.1.1.208.425.12.116.310.310.764.764.1.1.0.510.12.116.100.60.585.525.1.1.156.510.12.116.100.60.575.505.1.1.90.510.12.116.65.40.927.983.1.1.208.510.12.116.65.40.929.1009.1.1.156.510.12.116.125.41.952.1025.1.1.90.440.12.116.100.100.948.509.1.1.0.450.12.116.100.100.589.1039.1.1.0"
+             banner_key="34.111.142.2240.2217.766.758.0.0.0.427.126.142.223.233.750.550.0.1.180.503.126.142.167.175.750.592.0.1.180.450.145.145.377.394.748.843.0.1.0.510.145.142.117.221.642.750.0.1.-90.510.145.142.117.221.857.756.0.1.-90.500.126.142.780.817.760.752.0.1.180"
              primary_banner_color="0xff000000" secondary_banner_color="0xff000000" label_color="ffB01301"
              color="FF5C2017"
              color2="FFECBA44" alternative_color="FFDBBA27" alternative_color2="ff910101" culture="Culture.aserai"
