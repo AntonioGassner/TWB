@@ -1112,6 +1112,66 @@
         <Flags UseTeamColor="true" Civilian="true"/>
     </Item>
 
+    <Item id="romanmontefortino_plumed" name="[latin] Bronze Montefortino with Plume" mesh="romanmontefortino_plumed" is_merchandise="true"
+          subtype="head_armor" culture="Culture.empire" value="4500" weight="4.3" difficulty="0" appearance="3"
+          Type="HeadArmor">
+        <ItemComponent>
+            <Armor head_armor="82" arm_armor="0" body_armor="0" leg_armor="00" covers_head="false"
+                   hair_cover_type="type2" beard_cover_type="none" modifier_group="plate" material_type="Plate"/>
+        </ItemComponent>
+        <Flags UseTeamColor="true" Civilian="true"/>
+    </Item>
+
+    <Item id="feathered_montefortino" name="[latin] Feathered Montefortino" mesh="feathered_montefortino" is_merchandise="true"
+          subtype="head_armor" culture="Culture.empire" value="4000" weight="4.0" difficulty="0" appearance="3"
+          Type="HeadArmor">
+        <ItemComponent>
+            <Armor head_armor="82" arm_armor="0" body_armor="0" leg_armor="00" covers_head="false"
+                   hair_cover_type="type2" beard_cover_type="none" modifier_group="plate" material_type="Plate"/>
+        </ItemComponent>
+        <Flags UseTeamColor="true" Civilian="true"/>
+    </Item>
+
+    <Item id="centurion_montefortino" name="[latin] Fine Montefortino with Plumes" mesh="centurion_montefortino" is_merchandise="true"
+          subtype="head_armor" culture="Culture.empire" value="5500" weight="5.3" difficulty="0" appearance="3"
+          Type="HeadArmor">
+        <ItemComponent>
+            <Armor head_armor="90" arm_armor="0" body_armor="0" leg_armor="00" covers_head="false"
+                   hair_cover_type="type2" beard_cover_type="none" modifier_group="plate" material_type="Plate"/>
+        </ItemComponent>
+        <Flags UseTeamColor="true" Civilian="true"/>
+    </Item>
+
+    <Item id="centurion_montefortino_b" name="[latin] Centurion Montefortino with Plumes" mesh="centurion_montefortino_b" is_merchandise="true"
+          subtype="head_armor" culture="Culture.empire" value="5800" weight="5.4" difficulty="0" appearance="3"
+          Type="HeadArmor">
+        <ItemComponent>
+            <Armor head_armor="92" arm_armor="0" body_armor="0" leg_armor="00" covers_head="false"
+                   hair_cover_type="type2" beard_cover_type="none" modifier_group="plate" material_type="Plate"/>
+        </ItemComponent>
+        <Flags UseTeamColor="true" Civilian="true"/>
+    </Item>
+
+    <Item id="feathered_samnite" name="[latin] Feathered Samnite Helm" mesh="feathered_samnite" is_merchandise="true"
+          subtype="head_armor" culture="Culture.empire" value="4000" weight="4.0" difficulty="0" appearance="3"
+          Type="HeadArmor">
+        <ItemComponent>
+            <Armor head_armor="82" arm_armor="0" body_armor="0" leg_armor="00" covers_head="false"
+                   hair_cover_type="type2" beard_cover_type="none" modifier_group="plate" material_type="Plate"/>
+        </ItemComponent>
+        <Flags UseTeamColor="true" Civilian="true"/>
+    </Item>
+
+    <Item id="iberianhelmet" name="[iberian] Crested Iberian Helm " mesh="iberianhelmet"
+          is_merchandise="true" subtype="head_armor" culture="Culture.empire" value="5500" weight="6.0" difficulty="0"
+          appearance="3" Type="HeadArmor">
+        <ItemComponent>
+            <Armor head_armor="85" arm_armor="0" body_armor="0" leg_armor="00" covers_head="false"
+                   hair_cover_type="type2" beard_cover_type="none" modifier_group="plate" material_type="Plate"/>
+        </ItemComponent>
+        <Flags UseTeamColor="true" Civilian="true"/>
+    </Item>
+
     <Item id="punic_helm_plain"
           name="{=KoyflyeY}Punic Bronze Helm"
           mesh="punic_helm_plain"
@@ -1238,6 +1298,15 @@
           culture="Culture.empire" value="5000" weight="10.0" difficulty="0" appearance="3" Type="Cape">
         <ItemComponent>
             <Armor head_armor="0" arm_armor="5" body_armor="40" leg_armor="0" covers_body="false" covers_legs="false"
+                   modifier_group="Plate" material_type="Plate"/>
+        </ItemComponent>
+        <Flags UseTeamColor="true" Civilian="true"/>
+    </Item>
+
+    <Item id="slave_collar" name="Slave Collar" mesh="slave_collar" is_merchandise="true" subtype="body_armor"
+          culture="Culture.empire" value="50" weight="5.0" difficulty="0" appearance="3" Type="Cape">
+        <ItemComponent>
+            <Armor head_armor="5" arm_armor="0" body_armor="1" leg_armor="0" covers_body="false" covers_legs="false"
                    modifier_group="Plate" material_type="Plate"/>
         </ItemComponent>
         <Flags UseTeamColor="true" Civilian="true"/>
