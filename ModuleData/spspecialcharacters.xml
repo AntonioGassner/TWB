@@ -11466,5 +11466,790 @@
             <EquipmentSet id="npc_merchant_equipment_sturgia"/>
         </Equipments>
     </NPCCharacter>
+    <!-- WANDERERS OF ayyubid -->
+    <!-- misanthropic, chip-on-shoulder illegitimate. nautical surgeon -->
+    <NPCCharacter id="spc_wanderer_ayyubid_0" name="{=ayyubid_bvjFhiDr}{HERO.FIRSTNAME} the Scholar" voice="ironic" age="26" default_group="Infantry" is_template="true" is_hero="false" culture="Culture.ayyubid" occupation="Wanderer">
+        <face>
+            <face_key_template value="BodyProperty.fighter_aserai" />
+        </face>
+        <!--<Hero id="spc_wanderer_aserai_0" faction="Kingdom.aserai" />-->
+        <Traits>
+            <!--<Trait id="IsTemplate" value="1" />-->
+            <Trait id="PeltastFightingSkills" value="3" />
+            <Trait id="Surgeon" value="6" />
+            <Trait id="Mercy" value="1" />
+            <Trait id="Generosity" value="-1" />
+        </Traits>
+        <Equipments>
+            <EquipmentSet id="npc_companion_equipment_template_aserai" civilian="true" />
+            <EquipmentSet id="npc_companion_equipment_template_aserai" />
+        </Equipments>
+    </NPCCharacter>
+    <!--Obsessed with own genealogy -->
+    <NPCCharacter id="spc_wanderer_ayyubid_1" name="{=ayyubid_vtXRptVa}{HERO.FIRSTNAME} the Golden" voice="earnest" age="23" default_group="Infantry" is_template="true" is_hero="false" culture="Culture.ayyubid" occupation="Wanderer">
+        <face>
+            <face_key_template value="BodyProperty.fighter_aserai" />
+        </face>
+        <!--<Hero id="spc_wanderer_aserai_1" faction="Kingdom.aserai" />-->
+        <Traits>
+            <!--<Trait id="IsTemplate" value="1" />-->
+            <Trait id="CavalryFightingSkills" value="6" />
+            <Trait id="Commander" value="5" />
+            <Trait id="Generosity" value="-1" />
+            <Trait id="Calculating" value="-1" />
+        </Traits>
+        <Equipments>
+            <EquipmentSet id="npc_companion_equipment_template_aserai" civilian="true" />
+            <EquipmentSet id="npc_companion_equipment_template_aserai" />
+        </Equipments>
+    </NPCCharacter>
+    <!--The falcon, chivalrous, but thinks great clans hog the glory -->
+    <NPCCharacter id="spc_wanderer_ayyubid_2" name="{=ayyubid_TyxXbqVw}{HERO.FIRSTNAME} the Falcon" voice="ironic" age="25" default_group="Infantry" is_template="true" is_hero="false" culture="Culture.ayyubid" occupation="Wanderer">
+        <face>
+            <face_key_template value="BodyProperty.fighter_aserai" />
+        </face>
+        <!--<Hero id="spc_wanderer_aserai_2" faction="Kingdom.aserai" />-->
+        <Traits>
+            <!--<Trait id="IsTemplate" value="1" />-->
+            <Trait id="CavalryFightingSkills" value="4" />
+            <Trait id="Commander" value="5" />
+            <Trait id="Valor" value="1" />
+            <Trait id="Generosity" value="1" />
+        </Traits>
+        <Equipments>
+            <EquipmentSet id="npc_companion_equipment_template_aserai" civilian="true" />
+            <EquipmentSet id="npc_companion_equipment_template_aserai" />
+        </Equipments>
+    </NPCCharacter>
+    <!--professional, fighter and killer. often provoked enemies. fell out with lord over a slave woman that he sold -->
+    <NPCCharacter id="spc_wanderer_ayyubid_3" name="{=ayyubid_4GIoPUen}{HERO.FIRSTNAME} the Swordsman" voice="softspoken" age="33" default_group="Infantry" is_template="true" is_hero="false" culture="Culture.ayyubid" occupation="Wanderer">
+        <face>
+            <face_key_template value="BodyProperty.fighter_aserai" />
+        </face>
+        <!--<Hero id="spc_wanderer_aserai_3" faction="Kingdom.aserai" />-->
+        <Traits>
+            <!--<Trait id="IsTemplate" value="1" />-->
+            <!--<Trait id="LordIsNemesis" value="1" />-->
+            <Trait id="HuscarlFightingSkills" value="5" />
+            <Trait id="Valor" value="1" />
+            <Trait id="Honor" value="1" />
+            <Trait id="Mercy" value="-1" />
+        </Traits>
+        <Equipments>
+            <EquipmentSet id="npc_companion_equipment_template_aserai" civilian="true" />
+            <EquipmentSet id="npc_companion_equipment_template_aserai" />
+        </Equipments>
+    </NPCCharacter>
+    <!-- "The Prince", fitiwi whom a guard captain tried to corrupt -->
+    <NPCCharacter id="spc_wanderer_ayyubid_4" name="{=ayyubid_rgdi5Sxa}{HERO.FIRSTNAME} the Prince" voice="ironic" age="25" default_group="Infantry" is_template="true" is_hero="false" culture="Culture.ayyubid" occupation="Wanderer">
+        <face>
+            <face_key_template value="BodyProperty.fighter_aserai" />
+        </face>
+        <!--<Hero id="spc_wanderer_aserai_4" faction="Kingdom.aserai" />-->
+        <Traits>
+            <!--<Trait id="IsTemplate" value="1" />-->
+            <Trait id="PeltastFightingSkills" value="4" />
+            <Trait id="RogueSkills" value="7" />
+            <Trait id="Honor" value="-1" />
+            <Trait id="Mercy" value="1" />
+            <Trait id="Generosity" value="1" />
+        </Traits>
+        <Equipments>
+            <EquipmentSet id="npc_companion_equipment_template_aserai" civilian="true" />
+            <EquipmentSet id="npc_companion_equipment_template_aserai" />
+        </Equipments>
+    </NPCCharacter>
+    <!-- "The Hyena" (contemptuous killer) -->
+    <NPCCharacter id="spc_wanderer_ayyubid_5" name="{=ayyubid_OFWvD0xe}{HERO.FIRSTNAME} the Hyena" voice="curt" age="27" default_group="Infantry" is_template="true" is_hero="false" culture="Culture.ayyubid" occupation="Wanderer">
+        <face>
+            <face_key_template value="BodyProperty.fighter_aserai" />
+        </face>
+        <!--<Hero id="spc_wanderer_aserai_5" faction="Kingdom.aserai" />-->
+        <Traits>
+            <!--<Trait id="IsTemplate" value="1" />-->
+            <Trait id="HopliteFightingSkills" value="5" />
+            <Trait id="RogueSkills" value="5" />
+            <Trait id="Mercy" value="-1" />
+            <Trait id="Honor" value="-1" />
+            <Trait id="Generosity" value="-1" />
+        </Traits>
+        <Equipments>
+            <EquipmentSet id="npc_companion_equipment_template_aserai" civilian="true" />
+            <EquipmentSet id="npc_companion_equipment_template_aserai" />
+        </Equipments>
+    </NPCCharacter>
+    <!--of the Wastes - 'the searing gravel plain knows me' -->
+    <NPCCharacter id="spc_wanderer_ayyubid_6" name="{=ayyubid_muC2SGlM}{HERO.FIRSTNAME} of the Wastes" voice="curt" age="31" default_group="Infantry" is_template="true" is_hero="false" culture="Culture.ayyubid" occupation="Wanderer">
+        <face>
+            <face_key_template value="BodyProperty.fighter_aserai" />
+        </face>
+        <!--<Hero id="spc_wanderer_aserai_6" faction="Kingdom.aserai" />-->
+        <Traits>
+            <!--<Trait id="IsTemplate" value="1" />-->
+            <Trait id="ArcherFIghtingSkills" value="5" />
+            <Trait id="DesertScoutSkills" value="7" />
+            <Trait id="Honor" value="-1" />
+            <Trait id="Generosity" value="-1" />
+        </Traits>
+        <Equipments>
+            <EquipmentSet id="npc_companion_equipment_template_aserai" civilian="true" />
+            <EquipmentSet id="npc_companion_equipment_template_aserai" />
+        </Equipments>
+    </NPCCharacter>
+    <!-- female member of clan that lost power -->
+    <NPCCharacter id="spc_wanderer_ayyubid_7" name="{=ayyubid_28tWEFNi}{HERO.FIRSTNAME} the Wanderer" voice="curt" age="25" is_female="true" default_group="Infantry" is_template="true" is_hero="false" culture="Culture.ayyubid" occupation="Wanderer">
+        <face>
+            <face_key_template value="BodyProperty.townswoman_aserai" />
+        </face>
+        <!--<Hero id="spc_wanderer_aserai_7" faction="Kingdom.aserai" />-->
+        <Traits>
+            <!--<Trait id="IsTemplate" value="1" />-->
+            <Trait id="CavalryFightingSkills" value="4" />
+            <Trait id="Commander" value="5" />
+            <Trait id="DesertScoutSkills" value="4" />
+            <Trait id="Valor" value="1" />
+            <Trait id="Calculating" value="1" />
+        </Traits>
+        <Equipments>
+            <EquipmentSet id="npc_companion_equipment_template_aserai" civilian="true" />
+            <EquipmentSet id="npc_companion_equipment_template_aserai" />
+        </Equipments>
+    </NPCCharacter>
+    <!--unlucky merchant -->
+    <NPCCharacter id="spc_wanderer_ayyubid_8" name="{=ayyubid_XBJtv4mD}{HERO.FIRSTNAME} the Spicevendor" voice="softspoken" age="28" is_female="true" default_group="Infantry" is_template="true" is_hero="false" culture="Culture.ayyubid" occupation="Wanderer">
+        <face>
+            <face_key_template value="BodyProperty.townswoman_aserai" />
+        </face>
+        <!--<Hero id="spc_wanderer_aserai_8" faction="Kingdom.aserai" />-->
+        <Traits>
+            <!--<Trait id="IsTemplate" value="1" />-->
+            <Trait id="CrossbowmanStyle" value="4" />
+            <Trait id="Manager" value="5" />
+            <Trait id="Honor" value="1" />
+            <Trait id="Mercy" value="1" />
+        </Traits>
+        <Equipments>
+            <EquipmentSet id="npc_companion_equipment_template_aserai" civilian="true" />
+            <EquipmentSet id="npc_companion_equipment_template_aserai" />
+        </Equipments>
+    </NPCCharacter>
+    <!-- female alley urchin -->
+    <NPCCharacter id="spc_wanderer_ayyubid_9" name="{=ayyubid_NWuGUi4p}{HERO.FIRSTNAME} the Leopardess" voice="ironic" age="22" is_female="true" default_group="Infantry" is_template="true" is_hero="false" culture="Culture.ayyubid" occupation="Wanderer">
+        <face>
+            <face_key_template value="BodyProperty.townswoman_aserai" />
+        </face>
+        <!--<Hero id="spc_wanderer_aserai_9" faction="Kingdom.aserai" />-->
+        <Traits>
+            <!--<Trait id="IsTemplate" value="1" />-->
+            <Trait id="PeltastFightingSkills" value="3" />
+            <Trait id="RogueSkills" value="5" />
+            <Trait id="Valor" value="1" />
+            <Trait id="Generosity" value="1" />
+        </Traits>
+        <Equipments>
+            <EquipmentSet id="npc_companion_equipment_template_aserai" civilian="true" />
+            <EquipmentSet id="npc_companion_equipment_template_aserai" />
+        </Equipments>
+    </NPCCharacter>
+    <NPCCharacter id="spc_wanderer_ayyubid_10" name="{=ayyubid_ACqta1a5}{HERO.FIRSTNAME} the Engineer" voice="ironic" age="26" default_group="Infantry" is_template="true" is_hero="false" culture="Culture.ayyubid" occupation="Wanderer">
+        <face>
+            <face_key_template value="BodyProperty.villager_aserai" />
+        </face>
+        <!--<Hero id="spc_wanderer_aserai_10" faction="Faction.jawwal" clan="Clan.jawwal"/>-->
+        <Traits>
+            <!--<Trait id="IsTemplate" value="1" />-->
+            <!--<Trait id="SpawnAsPrisoner" value="1" />-->
+            <Trait id="CrossbowmanStyle" value="3" />
+            <Trait id="EngineerSkills" value="4" />
+            <Trait id="Valor" value="1" />
+            <Trait id="Honor" value="1" />
+            <Trait id="Calculating" value="-1" />
+        </Traits>
+        <Equipments>
+            <EquipmentSet id="npc_companion_equipment_template_aserai" civilian="true" />
+            <EquipmentSet id="npc_companion_equipment_template_aserai" />
+        </Equipments>
+    </NPCCharacter>
+
+    <!-- URBAN CHARACTERS OF ayyubid -->
+    <NPCCharacter id="spc_notable_ayyubid_0" name="{=ayyubid_!}{FIRSTNAME} the Dateseller" voice="ironic" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.ayyubid" occupation="Merchant">
+        <face>
+            <face_key_template value="BodyProperty.villager_aserai" />
+        </face>
+        <!--<Hero id="spc_notable_aserai_0" faction="Kingdom.aserai" />-->
+        <skills></skills>
+        <Traits>
+            <Trait id="ArabianHair" value="1" />
+            <Trait id="Valor" value="-1" />
+            <Trait id="Calculating" value="1" />
+        </Traits>
+        <Equipments>
+            <EquipmentSet id="npc_armed_wanderer_equipment_template_aserai" />
+            <EquipmentSet id="npc_wanderer_equipment_template_aserai" civilian="true" />
+        </Equipments>
+    </NPCCharacter>
+    <NPCCharacter id="spc_notable_ayyubid_0b" name="{=ayyubid_!}{FIRSTNAME} the Minter" voice="ironic" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.ayyubid" occupation="Merchant">
+        <face>
+            <face_key_template value="BodyProperty.villager_aserai" />
+        </face>
+        <!--<Hero id="spc_notable_aserai_0b" faction="Kingdom.aserai" />-->
+        <skills></skills>
+        <Traits>
+            <Trait id="ArabianHair" value="1" />
+            <Trait id="Commander" value="2" />
+            <Trait id="Valor" value="-1" />
+            <Trait id="Calculating" value="1" />
+        </Traits>
+        <Equipments>
+            <EquipmentSet id="npc_armed_wanderer_equipment_template_aserai" />
+            <EquipmentSet id="npc_wanderer_equipment_template_aserai" civilian="true" />
+        </Equipments>
+    </NPCCharacter>
+    <NPCCharacter id="spc_notable_ayyubid_1" name="{=ayyubid_!}{FIRSTNAME} the Coppermonger" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.ayyubid" occupation="Merchant">
+        <face>
+            <face_key_template value="BodyProperty.villager_aserai" />
+        </face>
+        <!--<Hero id="spc_notable_aserai_1" faction="Kingdom.aserai" />-->
+        <skills></skills>
+        <Traits>
+            <Trait id="ArabianHair" value="1" />
+            <Trait id="Generosity" value="-1" />
+            <Trait id="Valor" value="-1" />
+            <Trait id="Calculating" value="1" />
+        </Traits>
+        <Equipments>
+            <EquipmentSet id="npc_armed_wanderer_equipment_template_aserai" />
+            <EquipmentSet id="npc_wanderer_equipment_template_aserai" civilian="true" />
+        </Equipments>
+    </NPCCharacter>
+    <NPCCharacter id="spc_notable_ayyubid_1b" name="{=ayyubid_!}{FIRSTNAME} the Incensemonger" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.ayyubid" occupation="Merchant">
+        <face>
+            <face_key_template value="BodyProperty.villager_aserai" />
+        </face>
+        <!--<Hero id="spc_notable_aserai_1b" faction="Kingdom.aserai" />-->
+        <Traits>
+            <Trait id="ArabianHair" value="1" />
+            <Trait id="Commander" value="2" />
+            <Trait id="Generosity" value="-1" />
+            <Trait id="Valor" value="-1" />
+            <Trait id="Calculating" value="1" />
+        </Traits>
+        <Equipments>
+            <EquipmentSet id="npc_armed_wanderer_equipment_template_aserai" />
+            <EquipmentSet id="npc_wanderer_equipment_template_aserai" civilian="true" />
+        </Equipments>
+    </NPCCharacter>
+    <NPCCharacter id="spc_notable_ayyubid_2" name="{=ayyubid_!}{FIRSTNAME} the Woolseller" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.ayyubid" occupation="Merchant">
+        <face>
+            <face_key_template value="BodyProperty.villager_aserai" />
+        </face>
+        <!--<Hero id="spc_notable_aserai_2" faction="Kingdom.aserai" />-->
+        <Traits>
+            <Trait id="ArabianHair" value="1" />
+            <Trait id="Valor" value="-1" />
+            <Trait id="Calculating" value="1" />
+        </Traits>
+        <Equipments>
+            <EquipmentSet id="npc_armed_wanderer_equipment_template_aserai" />
+            <EquipmentSet id="npc_wanderer_equipment_template_aserai" civilian="true" />
+        </Equipments>
+    </NPCCharacter>
+    <NPCCharacter id="spc_notable_ayyubid_2b" name="{=ayyubid_!}{FIRSTNAME} the Appraiser" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.ayyubid" occupation="Merchant">
+        <face>
+            <face_key_template value="BodyProperty.villager_aserai" />
+        </face>
+        <!--<Hero id="spc_notable_aserai_2b" faction="Kingdom.aserai" />-->
+        <Traits>
+            <Trait id="ArabianHair" value="1" />
+            <Trait id="Commander" value="1" />
+            <Trait id="Valor" value="-1" />
+            <Trait id="Calculating" value="1" />
+        </Traits>
+        <Equipments>
+            <EquipmentSet id="npc_armed_wanderer_equipment_template_aserai" />
+            <EquipmentSet id="npc_wanderer_equipment_template_aserai" civilian="true" />
+        </Equipments>
+    </NPCCharacter>
+    <NPCCharacter id="spc_notable_ayyubid_3" name="{=ayyubid_!}{FIRSTNAME} the Caravanser" voice="ironic" is_template="true" is_female="true" default_group="Infantry" is_hero="false" culture="Culture.ayyubid" occupation="Merchant">
+        <face>
+            <face_key_template value="BodyProperty.townswoman_aserai" />
+        </face>
+        <!--<Hero id="spc_notable_aserai_3" faction="Kingdom.aserai" />-->
+        <skills></skills>
+        <Traits>
+            <Trait id="ArabianHair" value="1" />
+            <Trait id="Valor" value="-1" />
+            <Trait id="Calculating" value="1" />
+        </Traits>
+        <Equipments>
+            <EquipmentSet id="npc_armed_wanderer_equipment_template_aserai" />
+            <EquipmentSet id="npc_wanderer_equipment_template_aserai" civilian="true" />
+        </Equipments>
+    </NPCCharacter>
+    <NPCCharacter id="spc_notable_ayyubid_3b" name="{=ayyubid_!}{FIRSTNAME} the Benefactor" voice="curt" is_template="true" is_female="true" default_group="Infantry" is_hero="false" culture="Culture.ayyubid" occupation="Merchant">
+        <face>
+            <face_key_template value="BodyProperty.townswoman_aserai" />
+        </face>
+        <!--<Hero id="spc_notable_aserai_3b" faction="Kingdom.aserai" />-->
+        <skills></skills>
+        <Traits>
+            <Trait id="ArabianHair" value="1" />
+            <Trait id="Commander" value="1" />
+            <Trait id="Honor" value="1" />
+            <Trait id="Calculating" value="1" />
+        </Traits>
+        <Equipments>
+            <EquipmentSet id="npc_armed_wanderer_equipment_template_aserai" />
+            <EquipmentSet id="npc_wanderer_equipment_template_aserai" civilian="true" />
+        </Equipments>
+    </NPCCharacter>
+    <NPCCharacter id="spc_notable_ayyubid_4" name="{=ayyubid_!}ayyubid rebellious preacher" voice="earnest" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.ayyubid" occupation="Preacher">
+        <face>
+            <face_key_template value="BodyProperty.villager_aserai" />
+        </face>
+        <!--<Hero id="spc_notable_aserai_4" faction="Kingdom.aserai" />-->
+        <skills></skills>
+        <Traits>
+            <Trait id="ArabianHair" value="1" />
+            <Trait id="Generosity" value="1" />
+            <Trait id="Honor" value="1" />
+        </Traits>
+        <Equipments>
+            <EquipmentSet id="npc_armed_wanderer_equipment_template_aserai" />
+            <EquipmentSet id="npc_wanderer_equipment_template_aserai" civilian="true" />
+        </Equipments>
+    </NPCCharacter>
+    <NPCCharacter id="spc_notable_ayyubid_5" name="{=ayyubid_!}ayyubid fire-and-brimstone preacher" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.ayyubid" occupation="Preacher">
+        <face>
+            <face_key_template value="BodyProperty.villager_aserai" />
+        </face>
+        <!--<Hero id="spc_notable_aserai_5" faction="Kingdom.aserai" />-->
+        <skills></skills>
+        <Traits>
+            <Trait id="ArabianHair" value="1" />
+            <Trait id="Generosity" value="-1" />
+            <Trait id="Honor" value="1" />
+        </Traits>
+        <Equipments>
+            <EquipmentSet id="npc_armed_wanderer_equipment_template_aserai" />
+            <EquipmentSet id="npc_wanderer_equipment_template_aserai" civilian="true" />
+        </Equipments>
+    </NPCCharacter>
+    <NPCCharacter id="spc_notable_ayyubid_6" name="{=ayyubid_!}ayyubid female preacher" voice="earnest" is_template="true" default_group="Infantry" is_female="true" culture="Culture.ayyubid" occupation="Preacher">
+        <face>
+            <face_key_template value="BodyProperty.townswoman_aserai" />
+        </face>
+        <!--<Hero id="spc_notable_aserai_6" faction="Kingdom.aserai" />-->
+        <skills></skills>
+        <Traits>
+            <Trait id="ArabianHair" value="1" />
+            <Trait id="Generosity" value="0" />
+            <Trait id="Honor" value="1" />
+        </Traits>
+        <Equipments>
+            <EquipmentSet id="npc_armed_wanderer_equipment_template_aserai" />
+            <EquipmentSet id="npc_wanderer_equipment_template_aserai" civilian="true" />
+        </Equipments>
+    </NPCCharacter>
+    <NPCCharacter id="spc_notable_ayyubid_7" name="{=ayyubid_!}ayyubid fitiwi" voice="earnest" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.ayyubid" occupation="GangLeader">
+        <face>
+            <face_key_template value="BodyProperty.villager_aserai" />
+        </face>
+        <!--<Hero id="spc_notable_aserai_7" faction="Kingdom.aserai" />-->
+        <skills></skills>
+        <Traits>
+            <Trait id="ArabianHair" value="1" />
+            <Trait id="Valor" value="1" />
+            <Trait id="Generosity" value="1" />
+            <Trait id="Mercy" value="-1" />
+        </Traits>
+        <Equipments>
+            <EquipmentSet id="npc_armed_wanderer_equipment_template_aserai" />
+            <EquipmentSet id="npc_wanderer_equipment_template_aserai" civilian="true" />
+            <EquipmentSet id="spc_notable_aserai_7" />
+        </Equipments>
+    </NPCCharacter>
+    <NPCCharacter id="spc_notable_ayyubid_8" name="{=ayyubid_!}ayyubid fitiwi" voice="ironic" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.ayyubid" occupation="GangLeader">
+        <face>
+            <face_key_template value="BodyProperty.villager_aserai" />
+        </face>
+        <!--<Hero id="spc_notable_aserai_8" faction="Kingdom.aserai" />-->
+        <Traits>
+            <Trait id="ArabianHair" value="1" />
+            <Trait id="Valor" value="1" />
+            <Trait id="Mercy" value="-1" />
+        </Traits>
+        <Equipments>
+            <EquipmentSet id="npc_armed_wanderer_equipment_template_aserai" />
+            <EquipmentSet id="npc_wanderer_equipment_template_aserai" civilian="true" />
+            <EquipmentSet id="spc_notable_aserai_8" />
+        </Equipments>
+    </NPCCharacter>
+    <NPCCharacter id="spc_notable_ayyubid_9" name="{=ayyubid_!}Fearsome female ayyubid gang leader" voice="curt" is_template="true" default_group="Infantry" is_female="true" culture="Culture.ayyubid" occupation="GangLeader">
+        <face>
+            <face_key_template value="BodyProperty.townswoman_aserai" />
+        </face>
+        <!--<Hero id="spc_notable_aserai_9" faction="Kingdom.aserai" />-->
+        <skills></skills>
+        <Traits>
+            <Trait id="ArabianHair" value="1" />
+            <Trait id="Generosity" value="-1" />
+            <Trait id="Valor" value="1" />
+            <Trait id="Mercy" value="-1" />
+        </Traits>
+        <Equipments>
+            <EquipmentSet id="npc_armed_wanderer_equipment_template_aserai" />
+            <EquipmentSet id="npc_wanderer_equipment_template_aserai" civilian="true" />
+        </Equipments>
+    </NPCCharacter>
+    <NPCCharacter id="spc_notable_ayyubid_10" name="{=ayyubid_!}ayyubid artisan leader" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.ayyubid" occupation="Artisan">
+        <face>
+            <face_key_template value="BodyProperty.villager_aserai" />
+        </face>
+        <Traits>
+            <Trait id="ArabianHair" value="1" />
+            <Trait id="Generosity" value="1" />
+        </Traits>
+        <Equipments>
+            <EquipmentSet id="npc_armed_wanderer_equipment_template_aserai" />
+            <EquipmentSet id="npc_wanderer_equipment_template_aserai" civilian="true" />
+        </Equipments>
+    </NPCCharacter>
+    <NPCCharacter id="spc_notable_ayyubid_11" name="{=ayyubid_!}ayyubid earnest umda rural notable" voice="earnest" is_template="true" default_group="Infantry" culture="Culture.ayyubid" occupation="RuralNotable">
+        <face>
+            <face_key_template value="BodyProperty.villager_aserai" />
+        </face>
+        <Traits>
+            <Trait id="ArabianHair" value="1" />
+            <Trait id="Calculating" value="1" />
+        </Traits>
+        <Equipments>
+            <EquipmentSet id="npc_armed_wanderer_equipment_template_aserai" />
+            <EquipmentSet id="npc_wanderer_equipment_template_aserai" civilian="true" />
+        </Equipments>
+    </NPCCharacter>
+    <NPCCharacter id="spc_notable_ayyubid_12" name="{=ayyubid_!}ayyubid quiet umda rural notable" voice="softspoken" is_template="true" default_group="Infantry" culture="Culture.ayyubid" occupation="RuralNotable">
+        <face>
+            <face_key_template value="BodyProperty.villager_aserai" />
+        </face>
+        <!--<Hero id="spc_notable_aserai_12" faction="Kingdom.aserai" />-->
+        <Traits>
+            <Trait id="ArabianHair" value="1" />
+            <Trait id="Honor" value="1" />
+        </Traits>
+        <Equipments>
+            <EquipmentSet id="npc_armed_wanderer_equipment_template_aserai" />
+            <EquipmentSet id="npc_wanderer_equipment_template_aserai" civilian="true" />
+        </Equipments>
+    </NPCCharacter>
+    <NPCCharacter id="spc_ayyubid_headman_1" name="{=ayyubid_!}ayyubid rebellious headman" voice="earnest" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.ayyubid" occupation="Headman">
+        <face>
+            <face_key_template value="BodyProperty.villager_aserai" />
+        </face>
+        <!--<Hero id="spc_notable_aserai_4" faction="Kingdom.aserai" />-->
+        <skills></skills>
+        <Traits>
+            <Trait id="ArabianHair" value="1" />
+            <Trait id="Valor" value="1" />
+            <Trait id="Calculating" value="-1" />
+        </Traits>
+        <Equipments>
+            <EquipmentSet id="npc_armed_wanderer_equipment_template_aserai" />
+            <EquipmentSet id="npc_wanderer_equipment_template_aserai" civilian="true" />
+        </Equipments>
+    </NPCCharacter>
+    <NPCCharacter id="spc_ayyubid_headman_2" name="{=ayyubid_!}ayyubid conservative headman" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.ayyubid" occupation="Headman">
+        <face>
+            <face_key_template value="BodyProperty.villager_aserai" />
+        </face>
+        <!--<Hero id="spc_notable_aserai_4" faction="Kingdom.aserai" />-->
+        <skills></skills>
+        <Traits>
+            <Trait id="ArabianHair" value="1" />
+            <Trait id="Valor" value="-1" />
+            <Trait id="Generosity" value="1" />
+        </Traits>
+        <Equipments>
+            <EquipmentSet id="npc_armed_wanderer_equipment_template_aserai" />
+            <EquipmentSet id="npc_wanderer_equipment_template_aserai" civilian="true" />
+        </Equipments>
+    </NPCCharacter>
+    <NPCCharacter id="spc_ayyubid_headman_3" name="{=ayyubid_!}ayyubid devious headman" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.ayyubid" occupation="Headman">
+        <face>
+            <face_key_template value="BodyProperty.villager_aserai" />
+        </face>
+        <!--<Hero id="spc_notable_aserai_4" faction="Kingdom.aserai" />-->
+        <skills></skills>
+        <Traits>
+            <Trait id="ArabianHair" value="1" />
+            <Trait id="Calculating" value="1" />
+            <Trait id="Honor" value="-1" />
+        </Traits>
+        <Equipments>
+            <EquipmentSet id="npc_armed_wanderer_equipment_template_aserai" />
+            <EquipmentSet id="npc_wanderer_equipment_template_aserai" civilian="true" />
+        </Equipments>
+    </NPCCharacter>
+
+    <!-- Child Templates -->
+    <!--Villager -->
+    <NPCCharacter id="child_template_example_villager_male" name="{=ayyubid_!}Imperial Child Villager Male" age="6" is_child_template="true" is_female="false" default_group="Infantry" is_hero="false" occupation="Villager" culture="Culture.example">
+        <face>
+            <face_key_template value="BodyProperty.villager_aserai" />
+        </face>
+        <Equipments>
+            <EquipmentRoster civilian="true">
+                <equipment slot="Body" id="Item.bandit_leather_water_flask" />
+                <equipment slot="Leg" id="Item.ladys_shoe" />
+            </EquipmentRoster>
+            <EquipmentRoster civilian="true">
+                <equipment slot="Body" id="Item.footmans_tunic" />
+                <equipment slot="Leg" id="Item.ladys_shoe" />
+            </EquipmentRoster>
+            <EquipmentRoster civilian="true">
+                <equipment slot="Body" id="Item.peasant_costume" />
+                <equipment slot="Leg" id="Item.ladys_shoe" />
+            </EquipmentRoster>
+            <EquipmentSet id="emp_bat_template_medium" />
+        </Equipments>
+    </NPCCharacter>
+    <NPCCharacter id="child_template_example_villager_female" name="{=ayyubid_!}Imperial Child Villager Female" age="6" is_child_template="true" is_female="true" default_group="Infantry" is_hero="false" occupation="Villager" culture="Culture.example">
+        <face>
+            <face_key_template value="BodyProperty.townswoman_empire" />
+        </face>
+        <Equipments>
+            <EquipmentRoster civilian="true">
+                <equipment slot="Body" id="Item.bandit_leather_water_flask" />
+                <equipment slot="Leg" id="Item.ladys_shoe" />
+            </EquipmentRoster>
+            <EquipmentRoster civilian="true">
+                <equipment slot="Body" id="Item.footmans_tunic" />
+                <equipment slot="Leg" id="Item.ladys_shoe" />
+            </EquipmentRoster>
+            <EquipmentRoster civilian="true">
+                <equipment slot="Body" id="Item.peasant_costume" />
+                <equipment slot="Leg" id="Item.ladys_shoe" />
+            </EquipmentRoster>
+            <EquipmentSet id="emp_bat_template_medium" />
+        </Equipments>
+    </NPCCharacter>
+    <NPCCharacter id="teenager_template_example_villager_male" name="{=ayyubid_!}Imperial Teenager Villager Male" age="14" is_child_template="true" is_female="false" default_group="Infantry" is_hero="false" occupation="Villager" culture="Culture.example">
+        <face>
+            <face_key_template value="BodyProperty.villager_aserai" />
+        </face>
+        <Equipments>
+            <EquipmentRoster civilian="true">
+                <equipment slot="Body" id="Item.layered_leather_tunic" />
+                <equipment slot="Leg" id="Item.strapped_shoes" />
+                <equipment slot="Gloves" id="Item.buttoned_leather_bracers" />
+            </EquipmentRoster>
+            <EquipmentRoster civilian="true">
+                <equipment slot="Body" id="Item.legionary_mail" />
+                <equipment slot="Cape" id="Item.pauldron_cape_a" />
+                <equipment slot="Leg" id="Item.plated_strip_boots" />
+                <equipment slot="Gloves" id="Item.reinforced_padded_mitten" />
+            </EquipmentRoster>
+            <EquipmentRoster civilian="true">
+                <equipment slot="Body" id="Item.buckled_wildsman_armor" />
+                <equipment slot="Leg" id="Item.turndown_leather_boots" />
+                <equipment slot="Gloves" id="Item.roughtied_leather_bracers" />
+            </EquipmentRoster>
+            <EquipmentSet id="emp_bat_template_medium" />
+        </Equipments>
+    </NPCCharacter>
+    <NPCCharacter id="teenager_template_example_villager_female" name="{=ayyubid_!}Imperial Teenager Villager Female" age="14" is_child_template="true" is_female="true" default_group="Infantry" is_hero="false" occupation="Villager" culture="Culture.example">
+        <face>
+            <face_key_template value="BodyProperty.townswoman_empire" />
+        </face>
+        <Equipments>
+            <EquipmentRoster civilian="true">
+                <equipment slot="Head" id="Item.imperial_cloth_coif" />
+                <equipment slot="Body" id="Item.long_woolen_tunic" />
+                <equipment slot="Leg" id="Item.ladys_shoe" />
+            </EquipmentRoster>
+            <EquipmentRoster civilian="true">
+                <equipment slot="Head" id="Item.head_scarf" />
+                <equipment slot="Body" id="Item.vlandian_dress" />
+                <equipment slot="Leg" id="Item.ladys_shoe" />
+            </EquipmentRoster>
+            <EquipmentRoster civilian="true">
+                <equipment slot="Body" id="Item.aserai_female_civil_a" />
+                <equipment slot="Leg" id="Item.ladys_shoe" />
+            </EquipmentRoster>
+            <EquipmentSet id="emp_bat_template_medium" />
+        </Equipments>
+    </NPCCharacter>
+    <!--Townsman -->
+    <NPCCharacter id="child_template_example_townsman_male" name="{=ayyubid_!}Imperial Child Townsman Male" age="6" is_child_template="true" is_female="false" default_group="Infantry" is_hero="false" occupation="Townsfolk" culture="Culture.example">
+        <face>
+            <face_key_template value="BodyProperty.villager_empire" />
+        </face>
+        <Equipments>
+            <EquipmentRoster civilian="true">
+                <equipment slot="Body" id="Item.fine_town_tunic" />
+                <equipment slot="Leg" id="Item.ladys_shoe" />
+            </EquipmentRoster>
+            <EquipmentRoster civilian="true">
+                <equipment slot="Body" id="Item.footmans_tunic" />
+                <equipment slot="Leg" id="Item.ladys_shoe" />
+            </EquipmentRoster>
+            <EquipmentSet id="emp_bat_template_medium" />
+        </Equipments>
+    </NPCCharacter>
+    <NPCCharacter id="child_template_example_townsman_female" name="{=ayyubid_!}Imperial Child Townsman Female" age="6" is_child_template="true" is_female="true" default_group="Infantry" is_hero="false" occupation="Townsfolk" culture="Culture.example">
+        <face>
+            <face_key_template value="BodyProperty.townswoman_empire" />
+        </face>
+        <Equipments>
+            <EquipmentRoster civilian="true">
+                <equipment slot="Body" id="Item.fine_town_tunic" />
+                <equipment slot="Leg" id="Item.ladys_shoe" />
+            </EquipmentRoster>
+            <EquipmentRoster civilian="true">
+                <equipment slot="Body" id="Item.footmans_tunic" />
+                <equipment slot="Leg" id="Item.ladys_shoe" />
+            </EquipmentRoster>
+            <EquipmentSet id="emp_bat_template_medium" />
+        </Equipments>
+    </NPCCharacter>
+    <NPCCharacter id="teenager_template_example_townsman_female" name="{=ayyubid_!}Imperial Teenager Townsman Female" age="14" is_child_template="true" is_female="true" default_group="Infantry" is_hero="false" occupation="Townsfolk" culture="Culture.example">
+        <face>
+            <face_key_template value="BodyProperty.townswoman_aserai" />
+        </face>
+        <Equipments>
+            <EquipmentRoster civilian="true">
+                <equipment slot="Head" id="Item.head_piece" />
+                <equipment slot="Body" id="Item.empire_dress_b" />
+                <equipment slot="Leg" id="Item.ladys_shoe" />
+            </EquipmentRoster>
+            <EquipmentRoster civilian="true">
+                <equipment slot="Body" id="Item.leather_apron" />
+                <equipment slot="Leg" id="Item.fine_town_boots" />
+            </EquipmentRoster>
+            <EquipmentRoster civilian="true">
+                <equipment slot="Head" id="Item.head_scarf" />
+                <equipment slot="Body" id="Item.vlandian_dress" />
+                <equipment slot="Leg" id="Item.ladys_shoe" />
+            </EquipmentRoster>
+            <EquipmentRoster civilian="true">
+                <equipment slot="Body" id="Item.aserai_female_civil_a" />
+                <equipment slot="Leg" id="Item.ladys_shoe" />
+            </EquipmentRoster>
+            <EquipmentSet id="emp_bat_template_medium" />
+        </Equipments>
+    </NPCCharacter>
+    <NPCCharacter id="teenager_template_example_townsman_male" name="{=ayyubid_!}Imperial Teenager Townsman Male" age="14" is_child_template="true" is_female="false" default_group="Infantry" is_hero="false" occupation="Townsfolk" culture="Culture.example">
+        <face>
+            <face_key_template value="BodyProperty.villager_aserai" />
+        </face>
+        <Equipments>
+            <EquipmentRoster civilian="true">
+                <equipment slot="Body" id="Item.leather_apron" />
+                <equipment slot="Leg" id="Item.fine_town_boots" />
+            </EquipmentRoster>
+            <EquipmentRoster civilian="true">
+                <equipment slot="Body" id="Item.fine_town_tunic" />
+                <equipment slot="Leg" id="Item.ladys_shoe" />
+            </EquipmentRoster>
+            <EquipmentRoster civilian="true">
+                <equipment slot="Body" id="Item.footmans_tunic" />
+                <equipment slot="Leg" id="Item.ladys_shoe" />
+            </EquipmentRoster>
+            <EquipmentRoster civilian="true">
+                <equipment slot="Body" id="Item.tunic_with_rolled_cloth" />
+                <equipment slot="Leg" id="Item.fine_town_boots" />
+            </EquipmentRoster>
+            <EquipmentSet id="emp_bat_template_medium" />
+        </Equipments>
+    </NPCCharacter>
+    <!--Noble -->
+    <NPCCharacter id="child_template_example_noble_male" name="{=ayyubid_!}Imperial Child Noble Male" age="6" is_child_template="true" is_female="false" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.example">
+        <face>
+            <face_key_template value="BodyProperty.villager_aserai" />
+        </face>
+        <Equipments>
+            <EquipmentRoster civilian="true">
+                <equipment slot="Body" id="Item.tunic_with_rolled_cloth" />
+                <equipment slot="Leg" id="Item.ladys_shoe" />
+            </EquipmentRoster>
+            <EquipmentRoster civilian="true">
+                <equipment slot="Body" id="Item.tunic_with_rolled_cloth" />
+                <equipment slot="Leg" id="Item.ladys_shoe" />
+            </EquipmentRoster>
+            <EquipmentRoster civilian="true">
+                <equipment slot="Body" id="Item.fine_town_tunic" />
+                <equipment slot="Leg" id="Item.ladys_shoe" />
+            </EquipmentRoster>
+            <EquipmentSet id="emp_bat_template_medium" />
+        </Equipments>
+    </NPCCharacter>
+    <NPCCharacter id="child_template_example_noble_female" name="{=ayyubid_!}Imperial Child Noble Female" is_child_template="true" age="6" is_female="true" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.example">
+        <face>
+            <face_key_template value="BodyProperty.townswoman_empire" />
+        </face>
+        <Equipments>
+            <EquipmentRoster civilian="true">
+                <equipment slot="Body" id="Item.empire_dress" />
+                <equipment slot="Leg" id="Item.ladys_shoe" />
+            </EquipmentRoster>
+            <EquipmentRoster civilian="true">
+                <equipment slot="Body" id="Item.tunic_with_rolled_cloth" />
+                <equipment slot="Leg" id="Item.ladys_shoe" />
+            </EquipmentRoster>
+            <EquipmentRoster civilian="true">
+                <equipment slot="Body" id="Item.fine_town_tunic" />
+                <equipment slot="Leg" id="Item.ladys_shoe" />
+            </EquipmentRoster>
+            <EquipmentSet id="emp_bat_template_medium" />
+        </Equipments>
+    </NPCCharacter>
+    <NPCCharacter id="teenager_template_example_noble_male" name="{=ayyubid_!}Imperial Teenager Noble Male" is_child_template="true" age="14" is_female="true" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.example">
+        <face>
+            <face_key_template value="BodyProperty.villager_aserai" />
+        </face>
+        <Equipments>
+            <EquipmentRoster civilian="true">
+                <equipment slot="Body" id="Item.tunic_with_rolled_cloth" />
+                <equipment slot="Leg" id="Item.ladys_shoe" />
+            </EquipmentRoster>
+            <EquipmentRoster civilian="true">
+                <equipment slot="Body" id="Item.fine_town_tunic" />
+                <equipment slot="Leg" id="Item.ladys_shoe" />
+            </EquipmentRoster>
+            <EquipmentRoster civilian="true">
+                <equipment slot="Body" id="Item.imperial_robes" />
+                <equipment slot="Leg" id="Item.leather_cavalier_boots" />
+            </EquipmentRoster>
+            <EquipmentRoster civilian="true">
+                <equipment slot="Body" id="Item.legionary_mail" />
+                <equipment slot="Cape" id="Item.pauldron_cape_a" />
+                <equipment slot="Leg" id="Item.plated_strip_boots" />
+                <equipment slot="Gloves" id="Item.reinforced_padded_mitten" />
+            </EquipmentRoster>
+            <EquipmentSet id="emp_bat_template_medium" />
+        </Equipments>
+    </NPCCharacter>
+    <NPCCharacter id="teenager_template_example_noble_female" name="{=ayyubid_!}Imperial Teenager Noble Female" is_child_template="true" age="14" is_female="false" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.example">
+        <face>
+            <face_key_template value="BodyProperty.townswoman_empire" />
+        </face>
+        <Equipments>
+            <EquipmentRoster civilian="true">
+                <equipment slot="Body" id="Item.empire_dress" />
+                <equipment slot="Leg" id="Item.ladys_shoe" />
+            </EquipmentRoster>
+            <EquipmentRoster civilian="true">
+                <equipment slot="Body" id="Item.aserai_female_civil_a" />
+                <equipment slot="Leg" id="Item.ladys_shoe" />
+            </EquipmentRoster>
+            <EquipmentRoster civilian="true">
+                <equipment slot="Head" id="Item.head_scarf" />
+                <equipment slot="Body" id="Item.vlandian_dress" />
+                <equipment slot="Leg" id="Item.ladys_shoe" />
+            </EquipmentRoster>
+            <EquipmentSet id="emp_bat_template_medium" />
+        </Equipments>
+    </NPCCharacter>
+
 
 </NPCCharacters>

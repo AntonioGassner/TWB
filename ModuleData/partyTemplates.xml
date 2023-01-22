@@ -1471,4 +1471,62 @@
             <PartyTemplateStack min_value="5" max_value="5" troop="NPCCharacter.baltic_horse_bowmen"/>
         </stacks>
     </MBPartyTemplate>
+    <MBPartyTemplate id="villager_ayyubid_template" >
+        <stacks>
+            <PartyTemplateStack min_value="15" max_value="30" troop="NPCCharacter.villager_ayyubid" />
+        </stacks>
+    </MBPartyTemplate>
+
+
+    <MBPartyTemplate id="rebels_ayyubid_template" >
+        <stacks>
+            <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.ayyubid_recruit" />
+        </stacks>
+    </MBPartyTemplate>
+
+    <MBPartyTemplate id="caravan_template_ayyubid" >
+        <stacks>
+            <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.armed_trader_ayyubid" />
+            <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.caravan_guard_ayyubid" />
+            <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.veteran_caravan_guard_ayyubid" />
+        </stacks>
+    </MBPartyTemplate>
+
+    <MBPartyTemplate id="elite_caravan_template_ayyubid" >
+        <stacks>
+            <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.armed_trader_ayyubid" />
+            <PartyTemplateStack min_value="7" max_value="7" troop="NPCCharacter.caravan_guard_ayyubid" />
+            <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.veteran_caravan_guard_ayyubid" />
+            <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.caravan_master_ayyubid" />
+        </stacks>
+    </MBPartyTemplate>
+
+    <MBPartyTemplate id="militia_ayyubid_template" >
+        <stacks>
+            <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.ayyubid_militia_spearman" />
+            <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.ayyubid_militia_archer" />
+        </stacks>
+    </MBPartyTemplate>
+
+    <MBPartyTemplate id="kingdom_hero_party_ayyubid_template" >
+        <stacks>
+            <PartyTemplateStack min_value="16" max_value="16" troop="NPCCharacter.ayyubid_recruit" />
+            <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.ayyubid_footman" />
+            <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.ayyubid_skirmisher" />
+            <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.ayyubid_tribal_horseman" />
+            <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.ayyubid_curde_regular" />
+            <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.ayyubid_kurdish_cavalry" />
+            <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.ayyubid_infantry" />
+            <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.ayyubid_veteran_infantry" />
+            <PartyTemplateStack min_value="5" max_value="4" troop="NPCCharacter.ayyubid_archer" />
+            <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.ayyubid_master_archer" />
+        </stacks>
+    </MBPartyTemplate>
+
+    <MBPartyTemplate id="vassal_reward_troops_ayyubid" >
+        <stacks>
+            <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.ayyubid_veteran_faris" />
+            <PartyTemplateStack min_value="5" max_value="5" troop="NPCCharacter.ayyubid_faris" />
+        </stacks>
+    </MBPartyTemplate>
 </partyTemplates>
