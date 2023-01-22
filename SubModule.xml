@@ -84,15 +84,15 @@
             </IncludedGameTypes>
         </XmlNode>
 
-        <!--        <XmlNode>-->
-        <!--            <XmlName id="EquipmentRosters" path="TWB_equipment_sets"/>-->
-        <!--            <IncludedGameTypes>-->
-        <!--                <GameType value="Campaign"/>-->
-        <!--                <GameType value="CampaignStoryMode"/>-->
-        <!--                <GameType value="CustomGame"/>-->
-        <!--                <GameType value="EditorGame"/>-->
-        <!--            </IncludedGameTypes>-->
-        <!--        </XmlNode>-->
+<!--        <XmlNode>-->
+<!--            <XmlName id="EquipmentRosters" path="TWB_equipment_sets"/>-->
+<!--            <IncludedGameTypes>-->
+<!--                <GameType value="Campaign"/>-->
+<!--                <GameType value="CampaignStoryMode"/>-->
+<!--                <GameType value="CustomGame"/>-->
+<!--                <GameType value="EditorGame"/>-->
+<!--            </IncludedGameTypes>-->
+<!--        </XmlNode>-->
         <XmlNode>
             <XmlName id="SkillSets" path="TWB_skill_sets"/>
             <IncludedGameTypes>
@@ -185,75 +185,21 @@
                 <GameType value="CustomGame"/>
             </IncludedGameTypes>
         </XmlNode>
-        <XmlNode>
-            <XmlName id="NPCCharacters" path="lords"/>
-            <IncludedGameTypes>
-                <GameType value="Campaign"/>
-                <GameType value="CampaignStoryMode"/>
-            </IncludedGameTypes>
-        </XmlNode>
-        <XmlNode>
-            <XmlName id="Heroes" path="heroes"/>
-            <IncludedGameTypes>
-                <GameType value="Campaign"/>
-                <GameType value="CampaignStoryMode"/>
-            </IncludedGameTypes>
-        </XmlNode>
-        <XmlNode>
-            <XmlName id="GameText" path="module_strings"/>
-            <IncludedGameTypes>
-                <GameType value = "Campaign"/>
-                <GameType value = "CampaignStoryMode"/>
-            </IncludedGameTypes>
-        </XmlNode>
-        <XmlNode>
-            <XmlName id="EquipmentRosters" path="education_equipment_templates"/>
-            <IncludedGameTypes>
-                <GameType value = "Campaign"/>
-                <GameType value = "CampaignStoryMode"/>
-                <GameType value = "CustomGame"/>
-            </IncludedGameTypes>
-        </XmlNode>
-        <XmlNode>
-            <XmlName id="EquipmentRosters" path="sandbox_equipment_sets"/>
-            <IncludedGameTypes>
-                <GameType value = "Campaign"/>
-                <GameType value = "CampaignStoryMode"/>
-                <GameType value = "CustomGame"/>
-            </IncludedGameTypes>
-        </XmlNode>
-        <XmlNode>
-            <XmlName id="EquipmentRosters" path="sandboxcore_equipment_sets"/>
-            <IncludedGameTypes>
-                <GameType value = "Campaign"/>
-                <GameType value = "CampaignStoryMode"/>
-                <GameType value = "CustomGame"/>
-            </IncludedGameTypes>
-        </XmlNode>
-        <XmlNode>
-            <XmlName id="BodyProperties" path="sandboxcore_bodyproperties"/>
-            <IncludedGameTypes>
-                <GameType value = "Campaign"/>
-                <GameType value = "CampaignStoryMode"/>
-                <GameType value = "CustomGame"/>
-            </IncludedGameTypes>
-        </XmlNode>
-        <XmlNode>
-            <XmlName id="NPCCharacters" path="education_character_templates"/>
-            <IncludedGameTypes>
-                <GameType value = "Campaign"/>
-                <GameType value = "CampaignStoryMode"/>
-                <GameType value = "CustomGame"/>
-            </IncludedGameTypes>
-        </XmlNode>
-        <XmlNode>
-            <XmlName id="NPCCharacters" path="spnpccharactertemplates"/>
-            <IncludedGameTypes>
-                <GameType value = "Campaign"/>
-                <GameType value = "CampaignStoryMode"/>
-                <GameType value = "CustomGame"/>
-            </IncludedGameTypes>
-        </XmlNode>
+    <XmlNode>
+        <XmlName id="NPCCharacters" path="lords"/>
+        <IncludedGameTypes>
+            <GameType value="Campaign"/>
+            <GameType value="CampaignStoryMode"/>
+        </IncludedGameTypes>
+    </XmlNode>
+    <XmlNode>
+        <XmlName id="Heroes" path="heroes"/>
+        <IncludedGameTypes>
+            <GameType value = "Campaign"/>
+            <GameType value = "CampaignStoryMode"/>
+        </IncludedGameTypes>
+    </XmlNode>
+
     </Xmls>
 </Module>
 
