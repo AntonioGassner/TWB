@@ -592,29 +592,6 @@
         <relationships>
         </relationships>
     </Kingdom>
-
-    <Kingdom id="ayyubid"
-             owner="Hero.lord_ayyubid_3_1"
-             banner_key="11.144.156.1536.1536.764.764.1.0.0.503.145.156.276.144.678.697.0.0.-5.503.145.156.96.197.597.711.0.0.-5.504.145.156.92.232.590.816.0.0.-186.504.145.156.67.189.623.807.0.0.-172.504.145.156.53.149.655.790.0.0.-160.507.145.156.199.293.764.730.0.1.180.503.145.156.63.155.721.616.0.0.16.507.145.156.114.128.669.586.0.1.152.503.145.156.103.119.667.575.0.0.89.504.145.156.25.70.710.537.0.0.-66.504.145.156.25.70.663.520.0.0.-21.427.145.156.114.78.653.585.0.0.-175.427.145.156.114.78.659.589.0.0.-175.427.145.156.114.78.665.594.0.0.-175.503.145.156.73.265.719.825.0.0.-24.427.145.156.131.100.673.945.0.0.-153.505.145.156.46.243.764.871.0.0.0.505.145.156.46.89.753.992.0.0.-16.503.145.156.151.64.712.987.0.0.-44.503.145.156.276.144.850.697.0.1.5.503.145.156.96.197.931.711.0.1.5.504.145.156.92.232.938.816.0.1.186.504.145.156.67.189.905.807.0.1.172.504.145.156.53.149.873.790.0.1.160.503.145.156.63.155.807.616.0.1.344.507.145.156.114.128.859.586.0.0.208.503.145.156.103.119.861.575.0.1.271.504.145.156.25.70.818.537.0.1.66.504.145.156.25.70.865.520.0.1.21.427.145.156.114.78.875.585.0.1.175.427.145.156.114.78.869.589.0.1.175.427.145.156.114.78.863.594.0.1.175.503.145.156.73.265.809.825.0.1.24.427.145.156.131.100.855.945.0.1.153.505.145.156.46.89.775.992.0.1.16.503.145.156.151.64.816.987.0.1.44.503.144.156.89.54.822.965.0.1.42.503.144.156.89.54.706.965.0.0.-42.503.144.156.34.163.764.1021.0.0.0.504.144.156.43.117.764.636.0.1.180.504.144.156.59.66.680.617.0.0.-13.504.144.156.59.66.848.617.0.1.13.427.149.156.37.12.644.562.0.1.156.427.149.156.18.11.639.563.0.1.230.427.149.156.77.13.636.596.0.1.116.427.149.156.160.13.702.712.0.1.274.427.149.156.87.13.726.817.0.1.298.427.149.156.37.12.884.562.0.0.203.427.149.156.18.11.888.563.0.0.129.427.149.156.77.13.892.596.0.0.243.427.149.156.160.13.826.712.0.0.85.427.149.156.87.13.802.817.0.0.62"
-             primary_banner_color="FF4b7a43"
-             secondary_banner_color="FFedead8"
-             label_color="FFebce5e"
-             color="FF4b7a43"
-             color2="FFedead8"
-             alternative_color="FF4b7a43"
-             alternative_color2="FFedead8"
-             culture="Culture.ayyubid"
-             settlement_banner_mesh="encounter_flag_c"
-             flag_mesh="info_screen_flags_a"
-             name="{=ECM_ayyubidfaction}Ayyubid"
-             short_name="{=ECM_ayyubidmembers}Ayyubid"
-             title="{=ECM_ayyubidtitle}Sultanate of the Ayyubid"
-             ruler_title="{=ECM_ayyubidrulertitle}Sultan"
-             text="{=ECM_ayyubidtext}The Ayyubid dynasty was the founding dynasty of the medieval Sultanate of Egypt established by Saladin in 1171, following his abolition of the Fatimid Caliphate of Egypt. A Sunni Muslim of Kurdish origin. Under the Ayyubids, Egypt, which had previously been a formally Shi'a caliphate, became the dominant Sunni political and military force, and the economic and cultural centre of the region, a status that it would retain until it was conquered by the Ottomans in 1517.">
-        <relationships>
-            <relationship kingdom="Kingdom.aserai" value="-1" isAtWar="true" />
-        </relationships>
-    </Kingdom>
 </Kingdoms>
 
         <!--<Kingdom id="Epirus" owner="Hero.lord_1_58"-->
