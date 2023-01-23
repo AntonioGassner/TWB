@@ -1221,6 +1221,16 @@
     </MBPartyTemplate>
 
 
+	<!-- party templates for rural cultures -->
+
+	<MBPartyTemplate id="kingdom_hero_party_Italic_template" >
+		<stacks>
+			<PartyTemplateStack min_value="16" max_value="30" troop="NPCCharacter.roman_levy" />
+			<PartyTemplateStack min_value="8" max_value="16" troop="NPCCharacter.roman_spear_01" />
+			<PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.roman_spear_02" />
+		</stacks>
+	</MBPartyTemplate>
+
     <!-- party templates for mercenary minor factions (4) -->
     <MBPartyTemplate id="kingdom_hero_party_mercenary_aserai_template">
         <stacks>

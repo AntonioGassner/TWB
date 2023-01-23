@@ -11467,4 +11467,690 @@
         </Equipments>
     </NPCCharacter>
 
+
+	<!-- Italic -->
+	<NPCCharacter id="spc_notable_Italic_0" name="{=!}Cautious imperial merchant" is_template="true" voice="ironic" default_group="Infantry" is_hero="false" culture="Culture.Italic" occupation="Merchant">
+		<face>
+			<face_key_template value="BodyProperty.villager_empire" />
+		</face>
+		<!--<Hero id="spc_notable_Italic_0" />-->
+		<skills></skills>
+		<Traits>
+			<Trait id="GentryEquipment" value="1" />
+			<Trait id="RomanHair" value="1" />
+			<Trait id="Valor" value="-1" />
+			<Trait id="Calculating" value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet id="npc_armed_wanderer_equipment_template_empire" />
+			<EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="spc_notable_Italic_0b" name="{=!}{FIRSTNAME} the Vintner" is_template="true" voice="ironic" default_group="Infantry" is_hero="false" culture="Culture.Italic" occupation="Merchant">
+		<face>
+			<face_key_template value="BodyProperty.villager_empire" />
+		</face>
+		<!--<Hero id="spc_notable_Italic_0b" faction="Kingdom.empire" />-->
+		<skills></skills>
+		<Traits>
+			<Trait id="GentryEquipment" value="1" />
+			<Trait id="RomanHair" value="1" />
+			<Trait id="Commander" value="2" />
+			<Trait id="Valor" value="-1" />
+			<Trait id="Calculating" value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet id="npc_armed_wanderer_equipment_template_empire" />
+			<EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="spc_notable_Italic_1" name="{=!}Italic merchant 3, ruthless" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.Italic" occupation="Merchant">
+		<face>
+			<face_key_template value="BodyProperty.villager_empire" />
+		</face>
+		<Traits>
+			<Trait id="RomanHair" value="1" />
+			<Trait id="GentryEquipment" value="1" />
+			<Trait id="Generosity" value="-1" />
+			<Trait id="Calculating" value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet id="npc_armed_wanderer_equipment_template_empire" />
+			<EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="spc_notable_Italic_1b" name="{=!}Cold imperial merchant" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.Italic" occupation="Merchant">
+		<face>
+			<face_key_template value="BodyProperty.villager_empire" />
+		</face>
+		<Traits>
+			<Trait id="RomanHair" value="1" />
+			<Trait id="GentryEquipment" value="1" />
+			<Trait id="Commander" value="2" />
+			<Trait id="Generosity" value="-1" />
+			<Trait id="Calculating" value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet id="npc_armed_wanderer_equipment_template_empire" />
+			<EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="spc_notable_Italic_2" name="{=!}{FIRSTNAME} the Saltpanner" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.Italic" occupation="Merchant">
+		<face>
+			<face_key_template value="BodyProperty.villager_empire" />
+		</face>
+		<Traits>
+			<Trait id="RomanHair" value="1" />
+			<Trait id="GentryEquipment" value="1" />
+			<Trait id="Valor" value="-1" />
+			<Trait id="Calculating" value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet id="npc_armed_wanderer_equipment_template_empire" />
+			<EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="spc_notable_Italic_2b" name="{=!}Italic merchant 6, cautious" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.Italic" occupation="Merchant">
+		<face>
+			<face_key_template value="BodyProperty.villager_empire" />
+		</face>
+		<Traits>
+			<Trait id="RomanHair" value="1" />
+			<Trait id="GentryEquipment" value="1" />
+			<Trait id="Commander" value="2" />
+			<Trait id="Valor" value="-1" />
+			<Trait id="Calculating" value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet id="npc_armed_wanderer_equipment_template_empire" />
+			<EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<!-- Can be acater -->
+	<NPCCharacter id="spc_notable_Italic_3" name="{=!}Italic merchant 7, selfmade" voice="ironic" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.Italic" occupation="Merchant">
+		<face>
+			<face_key_template value="BodyProperty.villager_empire" />
+		</face>
+		<Traits>
+			<Trait id="GentryEquipment" value="1" />
+			<Trait id="RomanHair" value="1" />
+			<Trait id="Calculating" value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet id="npc_armed_wanderer_equipment_template_empire" />
+			<EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="spc_notable_Italic_3b" name="{=!}Italic merchant 8, jocular" voice="ironic" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.Italic" occupation="Merchant">
+		<face>
+			<face_key_template value="BodyProperty.villager_empire" />
+		</face>
+		<Traits>
+			<Trait id="RomanHair" value="1" />
+			<Trait id="GentryEquipment" value="1" />
+			<Trait id="Commander" value="2" />
+			<Trait id="Calculating" value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet id="npc_armed_wanderer_equipment_template_empire" />
+			<EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="spc_notable_Italic_4" name="{=!}Italic merchant 9, heiress" voice="curt" is_template="true" is_female="true" default_group="Infantry" is_hero="false" culture="Culture.Italic" occupation="Merchant">
+		<face>
+			<face_key_template value="BodyProperty.townswoman_empire" />
+		</face>
+		<Traits>
+			<Trait id="RomanHair" value="1" />
+			<Trait id="GentryEquipment" value="1" />
+			<Trait id="Valor" value="-1" />
+			<Trait id="Calculating" value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet id="npc_armed_wanderer_equipment_template_empire" />
+			<EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="spc_notable_Italic_4b" name="{=!}Italic merchant 10, devious" voice="ironic" is_template="true" is_female="true" default_group="Infantry" is_hero="false" culture="Culture.Italic" occupation="Merchant">
+		<face>
+			<face_key_template value="BodyProperty.townswoman_empire" />
+		</face>
+		<Traits>
+			<Trait id="RomanHair" value="1" />
+			<Trait id="GentryEquipment" value="1" />
+			<Trait id="Commander" value="2" />
+			<Trait id="Manager" value="5" />
+			<Trait id="Honor" value="-1" />
+			<Trait id="Calculating" value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet id="npc_armed_wanderer_equipment_template_empire" />
+			<EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="spc_notable_Italic_5" name="{=!}Messianic imperial preacher" voice="earnest" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.Italic" occupation="Preacher">
+		<face>
+			<face_key_template value="BodyProperty.villager_empire" />
+		</face>
+		<!--<Hero id="spc_notable_Italic_5" faction="Kingdom.empire" />-->
+		<Traits>
+			<Trait id="RomanHair" value="1" />
+			<Trait id="Honor" value="1" />
+			<Trait id="Generosity" value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet id="npc_armed_wanderer_equipment_template_empire" />
+			<EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
+			<EquipmentSet id="spc_notable_empire_5" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="spc_notable_Italic_6" name="{=!}Puritan imperial preacher" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.Italic" occupation="Preacher">
+		<face>
+			<face_key_template value="BodyProperty.villager_empire" />
+		</face>
+		<!--<Hero id="spc_notable_Italic_6" faction="Kingdom.empire" />-->
+		<skills></skills>
+		<Traits>
+			<Trait id="RomanHair" value="1" />
+			<Trait id="Honor" value="1" />
+			<Trait id="Generosity" value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet id="npc_armed_wanderer_equipment_template_empire" />
+			<EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
+			<EquipmentSet id="spc_notable_empire_6" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="spc_notable_Italic_7" name="{=!}Female imperial mystic" voice="earnest" is_template="true" default_group="Infantry" is_female="true" culture="Culture.Italic" occupation="Preacher">
+		<face>
+			<face_key_template value="BodyProperty.townswoman_empire" />
+		</face>
+		<Traits>
+			<Trait id="RomanHair" value="1" />
+			<Trait id="Mercy" value="1" />
+			<Trait id="Generosity" value="0" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet id="npc_armed_wanderer_equipment_template_empire" />
+			<EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
+			<EquipmentSet id="spc_notable_empire_7" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="spc_notable_Italic_8" name="{=!}Imperial gruff labor leader" voice="curt" is_template="true" default_group="Infantry" is_female="false" culture="Culture.Italic" occupation="Artisan">
+		<face>
+			<face_key_template value="BodyProperty.villager_empire" />
+		</face>
+		<Traits>
+			<Trait id="RomanHair" value="1" />
+			<Trait id="Generosity" value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet id="npc_armed_wanderer_equipment_template_empire" />
+			<EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
+			<EquipmentSet id="spc_notable_empire_8" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="spc_notable_Italic_9" name="{=!}Imperial outgoing labor leader" voice="earnest" is_template="true" default_group="Infantry" is_female="false" culture="Culture.Italic" occupation="Artisan">
+		<face>
+			<face_key_template value="BodyProperty.fighter_empire" />
+		</face>
+		<!--<Hero id="spc_notable_Italic_9" faction="Kingdom.empire" />-->
+		<skills></skills>
+		<Traits>
+			<Trait id="RomanHair" value="1" />
+			<Trait id="Generosity" value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet id="npc_armed_wanderer_equipment_template_empire" />
+			<EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
+			<EquipmentSet id="spc_notable_empire_9" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="spc_notable_Italic_gl1" name="{=!}Protective imperial male gang leader" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.Italic" occupation="GangLeader">
+		<face>
+			<face_key_template value="BodyProperty.fighter_empire" />
+		</face>
+		<!--<Hero id="spc_notable_Italic_10" faction="Kingdom.empire" />-->
+		<skills></skills>
+		<Traits>
+			<Trait id="WandererEquipment" value="1" />
+			<Trait id="RomanHair" value="1" />
+			<Trait id="Valor" value="1" />
+			<Trait id="Generosity" value="1" />
+			<Trait id="Honor" value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet id="npc_armed_wanderer_equipment_template_empire" />
+			<EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="spc_notable_Italic_10" name="{=!}Ironic imperial gang leader" voice="ironic" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.Italic" occupation="GangLeader">
+		<face>
+			<face_key_template value="BodyProperty.fighter_empire" />
+		</face>
+		<!--<Hero id="spc_notable_Italic_10" faction="Kingdom.empire" />-->
+		<skills></skills>
+		<Traits>
+			<Trait id="WandererEquipment" value="1" />
+			<Trait id="RomanHair" value="1" />
+			<Trait id="Valor" value="1" />
+			<Trait id="Calculating" value="1" />
+			<Trait id="Mercy" value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet id="npc_armed_wanderer_equipment_template_empire" />
+			<EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="spc_notable_Italic_11" name="{=!}Intimidating male imperial gang leader" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.Italic" occupation="GangLeader">
+		<face>
+			<face_key_template value="BodyProperty.fighter_empire" />
+		</face>
+		<!--<Hero id="spc_notable_Italic_11" faction="Kingdom.empire" />-->
+		<skills></skills>
+		<Traits>
+			<Trait id="WandererEquipment" value="1" />
+			<Trait id="RomanHair" value="1" />
+			<Trait id="Valor" value="1" />
+			<Trait id="Generosity" value="-1" />
+			<Trait id="Mercy" value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet id="npc_armed_wanderer_equipment_template_empire" />
+			<EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="spc_notable_Italic_gl4" name="{=!}Bestial male imperial gang leader" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.Italic" occupation="GangLeader">
+		<face>
+			<face_key_template value="BodyProperty.fighter_empire" />
+		</face>
+		<!--<Hero id="spc_notable_Italic_11" faction="Kingdom.empire" />-->
+		<skills></skills>
+		<Traits>
+			<Trait id="WandererEquipment" value="1" />
+			<Trait id="RomanHair" value="1" />
+			<Trait id="Honor" value="-1" />
+			<Trait id="Mercy" value="-1" />
+			<Trait id="Calculating" value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet id="npc_armed_wanderer_equipment_template_empire" />
+			<EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="spc_notable_Italic_12" name="{=!}Female imperial gang leader" voice="ironic" is_template="true" is_female="true" culture="Culture.Italic" occupation="GangLeader" default_group="Infantry">
+		<face>
+			<face_key_template value="BodyProperty.townswoman_empire" />
+		</face>
+		<!--<Hero id="spc_notable_Italic_12" faction="Kingdom.Italic" />-->
+		<Traits>
+			<Trait id="WandererEquipment" value="1" />
+			<Trait id="RomanHair" value="1" />
+			<Trait id="Valor" value="1" />
+			<Trait id="Honor" value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet id="npc_armed_wanderer_equipment_template_empire" />
+			<EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="spc_notable_Italic_13" name="{=!}Menacing female imperial gang leader" voice="softspoken" is_template="true" is_female="true" culture="Culture.Italic" occupation="GangLeader" default_group="Infantry">
+		<face>
+			<face_key_template value="BodyProperty.townswoman_empire" />
+		</face>
+		<!--<Hero id="spc_notable_Italic_13" faction="Kingdom.empire" />-->
+		<Traits>
+			<Trait id="WandererEquipment" value="1" />
+			<Trait id="RomanHair" value="1" />
+			<Trait id="Calculating" value="1" />
+			<Trait id="Generosity" value="-1" />
+			<Trait id="Mercy" value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet id="npc_armed_wanderer_equipment_template_empire" />
+			<EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="spc_notable_Italic_21" name="{=!}Italic gruff rural notable" voice="curt" is_template="true" default_group="Infantry" culture="Culture.Italic" occupation="RuralNotable">
+		<face>
+			<face_key_template value="BodyProperty.villager_empire" />
+			<!--<hair_tags>
+        <hair_tag name ="Tousled"/>
+      </hair_tags>
+      <beard_tags>
+        <beard_tag name ="Cleanshaven"/>
+        <beard_tag name ="LightShortBeard"/>
+        <beard_tag name ="HeavyShortBeard"/>
+      </beard_tags>-->
+		</face>
+		<!--<Hero id="spc_notable_Italic_21" faction="Kingdom.empire" />-->
+		<Traits>
+			<Trait id="WandererEquipment" value="1" />
+			<Trait id="RomanHair" value="1" />
+			<Trait id="Calculating" value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet id="npc_armed_wanderer_equipment_template_empire" />
+			<EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="spc_notable_Italic_22" name="{=!}Italic rural notable agreeable" voice="softspoken" is_template="true" default_group="Infantry" culture="Culture.Italic" occupation="RuralNotable">
+		<face>
+			<face_key_template value="BodyProperty.townsman_empire" />
+			<!--<hair_tags>
+        <hair_tag name ="Tousled"/>
+      </hair_tags>
+      <beard_tags>
+        <beard_tag name ="Cleanshaven"/>
+        <beard_tag name ="HeavyShortBeard"/>
+      </beard_tags>-->
+		</face>
+		<!--<Hero id="spc_notable_Italic_22" faction="Kingdom.empire" />-->
+		<Traits>
+			<Trait id="GentryEquipment" value="1" />
+			<Trait id="RomanHair" value="1" />
+			<Trait id="Honor" value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet id="npc_armed_wanderer_equipment_template_empire" />
+			<EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="spc_Italic_headman_1" name="{=!}Italic rebellious headman" voice="earnest" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.Italic" occupation="Headman">
+		<face>
+			<face_key_template value="BodyProperty.fighter_empire" />
+		</face>
+		<!--<Hero id="spc_notable_Italic_4" faction="Kingdom.empire" />-->
+		<skills></skills>
+		<Traits>
+			<Trait id="RomanHair" value="1" />
+			<Trait id="Valor" value="1" />
+			<Trait id="Calculating" value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet id="npc_armed_wanderer_equipment_template_empire" />
+			<EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="spc_Italic_headman_2" name="{=!}Italic conservative headman" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.Italic" occupation="Headman">
+		<face>
+			<face_key_template value="BodyProperty.villager_empire" />
+		</face>
+		<!--<Hero id="spc_notable_Italic_4" faction="Kingdom.empire" />-->
+		<skills></skills>
+		<Traits>
+			<Trait id="RomanHair" value="1" />
+			<Trait id="Valor" value="-1" />
+			<Trait id="Generosity" value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet id="npc_armed_wanderer_equipment_template_empire" />
+			<EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="spc_Italic_headman_3" name="{=!}Italic devious headman" voice="ironic" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.Italic" occupation="Headman">
+		<face>
+			<face_key_template value="BodyProperty.villager_empire" />
+		</face>
+		<!--<Hero id="spc_notable_Italic_4" faction="Kingdom.empire" />-->
+		<skills></skills>
+		<Traits>
+			<Trait id="RomanHair" value="1" />
+			<Trait id="Calculating" value="1" />
+			<Trait id="Honor" value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet id="npc_armed_wanderer_equipment_template_empire" />
+			<EquipmentSet id="npc_wanderer_equipment_template_empire" civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<!--Villager -->
+	<NPCCharacter id="child_template_Italic_villager_male" name="{=!}Imperial Child Villager Male" age="6" is_child_template="true" is_female="false" default_group="Infantry" is_hero="false" occupation="Villager" culture="Culture.Italic">
+		<face>
+			<face_key_template value="BodyProperty.villager_Italic" />
+		</face>
+		<Equipments>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Body" id="Item.bandit_leather_water_flask" />
+				<equipment slot="Leg" id="Item.ladys_shoe" />
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Body" id="Item.footmans_tunic" />
+				<equipment slot="Leg" id="Item.ladys_shoe" />
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Body" id="Item.peasant_costume" />
+				<equipment slot="Leg" id="Item.ladys_shoe" />
+			</EquipmentRoster>
+			<EquipmentSet id="emp_bat_template_medium" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="child_template_Italic_villager_female" name="{=!}Imperial Child Villager Female" age="6" is_child_template="true" is_female="true" default_group="Infantry" is_hero="false" occupation="Villager" culture="Culture.Italic">
+		<face>
+			<face_key_template value="BodyProperty.townswoman_empire" />
+		</face>
+		<Equipments>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Body" id="Item.bandit_leather_water_flask" />
+				<equipment slot="Leg" id="Item.ladys_shoe" />
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Body" id="Item.footmans_tunic" />
+				<equipment slot="Leg" id="Item.ladys_shoe" />
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Body" id="Item.peasant_costume" />
+				<equipment slot="Leg" id="Item.ladys_shoe" />
+			</EquipmentRoster>
+			<EquipmentSet id="emp_bat_template_medium" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="teenager_template_Italic_villager_male" name="{=!}Imperial Teenager Villager Male" age="14" is_child_template="true" is_female="false" default_group="Infantry" is_hero="false" occupation="Villager" culture="Culture.Italic">
+		<face>
+			<face_key_template value="BodyProperty.villager_Italic" />
+		</face>
+		<Equipments>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Body" id="Item.layered_leather_tunic" />
+				<equipment slot="Leg" id="Item.strapped_shoes" />
+				<equipment slot="Gloves" id="Item.buttoned_leather_bracers" />
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Body" id="Item.legionary_mail" />
+				<equipment slot="Cape" id="Item.pauldron_cape_a" />
+				<equipment slot="Leg" id="Item.plated_strip_boots" />
+				<equipment slot="Gloves" id="Item.reinforced_padded_mitten" />
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Body" id="Item.buckled_wildsman_armor" />
+				<equipment slot="Leg" id="Item.turndown_leather_boots" />
+				<equipment slot="Gloves" id="Item.roughtied_leather_bracers" />
+			</EquipmentRoster>
+			<EquipmentSet id="emp_bat_template_medium" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="teenager_template_Italic_villager_female" name="{=!}Imperial Teenager Villager Female" age="14" is_child_template="true" is_female="true" default_group="Infantry" is_hero="false" occupation="Villager" culture="Culture.Italic">
+		<face>
+			<face_key_template value="BodyProperty.townswoman_empire" />
+		</face>
+		<Equipments>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Head" id="Item.imperial_cloth_coif" />
+				<equipment slot="Body" id="Item.long_woolen_tunic" />
+				<equipment slot="Leg" id="Item.ladys_shoe" />
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Head" id="Item.head_scarf" />
+				<equipment slot="Body" id="Item.vlandian_dress" />
+				<equipment slot="Leg" id="Item.ladys_shoe" />
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Body" id="Item.aserai_female_civil_a" />
+				<equipment slot="Leg" id="Item.ladys_shoe" />
+			</EquipmentRoster>
+			<EquipmentSet id="emp_bat_template_medium" />
+		</Equipments>
+	</NPCCharacter>
+	<!--Noble -->
+	<NPCCharacter id="child_template_Italic_noble_male" name="{=!}Imperial Child Noble Male" age="6" is_child_template="true" is_female="false" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Italic">
+		<face>
+			<face_key_template value="BodyProperty.villager_Italic" />
+		</face>
+		<Equipments>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Body" id="Item.tunic_with_rolled_cloth" />
+				<equipment slot="Leg" id="Item.ladys_shoe" />
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Body" id="Item.tunic_with_rolled_cloth" />
+				<equipment slot="Leg" id="Item.ladys_shoe" />
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Body" id="Item.fine_town_tunic" />
+				<equipment slot="Leg" id="Item.ladys_shoe" />
+			</EquipmentRoster>
+			<EquipmentSet id="emp_bat_template_medium" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="child_template_Italic_noble_female" name="{=!}Imperial Child Noble Female" is_child_template="true" age="6" is_female="true" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Italic">
+		<face>
+			<face_key_template value="BodyProperty.townswoman_empire" />
+		</face>
+		<Equipments>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Body" id="Item.empire_dress" />
+				<equipment slot="Leg" id="Item.ladys_shoe" />
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Body" id="Item.tunic_with_rolled_cloth" />
+				<equipment slot="Leg" id="Item.ladys_shoe" />
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Body" id="Item.fine_town_tunic" />
+				<equipment slot="Leg" id="Item.ladys_shoe" />
+			</EquipmentRoster>
+			<EquipmentSet id="emp_bat_template_medium" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="teenager_template_Italic_noble_male" name="{=!}Imperial Teenager Noble Male" is_child_template="true" age="14" is_female="true" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Italic">
+		<face>
+			<face_key_template value="BodyProperty.villager_Italic" />
+		</face>
+		<Equipments>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Body" id="Item.tunic_with_rolled_cloth" />
+				<equipment slot="Leg" id="Item.ladys_shoe" />
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Body" id="Item.fine_town_tunic" />
+				<equipment slot="Leg" id="Item.ladys_shoe" />
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Body" id="Item.imperial_robes" />
+				<equipment slot="Leg" id="Item.leather_cavalier_boots" />
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Body" id="Item.legionary_mail" />
+				<equipment slot="Cape" id="Item.pauldron_cape_a" />
+				<equipment slot="Leg" id="Item.plated_strip_boots" />
+				<equipment slot="Gloves" id="Item.reinforced_padded_mitten" />
+			</EquipmentRoster>
+			<EquipmentSet id="emp_bat_template_medium" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="teenager_template_Italic_noble_female" name="{=!}Imperial Teenager Noble Female" is_child_template="true" age="14" is_female="false" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Italic">
+		<face>
+			<face_key_template value="BodyProperty.townswoman_empire" />
+		</face>
+		<Equipments>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Body" id="Item.empire_dress" />
+				<equipment slot="Leg" id="Item.ladys_shoe" />
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Body" id="Item.aserai_female_civil_a" />
+				<equipment slot="Leg" id="Item.ladys_shoe" />
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Head" id="Item.head_scarf" />
+				<equipment slot="Body" id="Item.vlandian_dress" />
+				<equipment slot="Leg" id="Item.ladys_shoe" />
+			</EquipmentRoster>
+			<EquipmentSet id="emp_bat_template_medium" />
+		</Equipments>
+	</NPCCharacter>
+	<!-- Rebel Leader -->
+	<NPCCharacter id="spc_Italic_leader_0" name="Italic Rebel 1" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.Italic" occupation="Lord">
+		<face>
+			<face_key_template value="BodyProperty.fighter_empire" />
+		</face>
+		<!--<Hero id="spc_hidden_hand_leader_0" faction="Faction.hidden_hand" clan="Clan.hidden_hand"/>-->
+		<skills></skills>
+		<Traits>
+			<Trait id="Mercy" value="-1" />
+			<Trait id="Generosity" value="1" />
+			<Trait id="Calculating" value="1" />
+			<Trait id="Commander" value="6" />
+			<Trait id="BalancedFightingSkills" value="5" />
+			<Trait id="KnightFightingSkills" value="3" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.vlandia_noble_sword_4_t5" />
+				<equipment slot="Item1" id="Item.vlandia_lance_3_t5" />
+				<equipment slot="Item2" id="Item.bound_horsemans_kite_shield" />
+				<equipment slot="Item3" id="Item.vlandia_polearm_1_t5" />
+				<equipment slot="Head" id="Item.pointed_skullcap_over_laced_coif" />
+				<equipment slot="Body" id="Item.vlandia_chainmail" />
+				<equipment slot="Leg" id="Item.mail_cavalier_boots" />
+				<equipment slot="Gloves" id="Item.leather_gloves" />
+				<equipment slot="Horse" id="Item.t2_vlandia_horse" />
+				<equipment slot="HorseHarness" id="Item.chain_barding" />
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.vlandia_mace_3_t5" />
+				<equipment slot="Body" id="Item.long_woolen_tunic" />
+				<equipment slot="Cape" id="Item.scarf" />
+				<equipment slot="Leg" id="Item.leather_cavalier_boots" />
+				<equipment slot="Gloves" id="Item.leather_gloves" />
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="spc_Italic_leader_1" name="Italic Rebel 2" voice="softspoken" is_template="true" default_group="Infantry" is_female="true" is_hero="false" culture="Culture.Italic" occupation="Lord">
+		<face>
+			<face_key_template value="BodyProperty.fighter_empire" />
+		</face>
+		<!--<Hero id="spc_hidden_hand_leader_1" faction="Faction.hidden_hand" clan="Clan.hidden_hand"/>-->
+		<skills></skills>
+		<Traits>
+			<Trait id="Mercy" value="-1" />
+			<Trait id="Generosity" value="1" />
+			<Trait id="Calculating" value="1" />
+			<Trait id="Commander" value="6" />
+			<Trait id="BalancedFightingSkills" value="4" />
+			<Trait id="KnightFightingSkills" value="2" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.vlandia_noble_sword_4_t5" />
+				<equipment slot="Item1" id="Item.vlandia_lance_3_t5" />
+				<equipment slot="Item2" id="Item.bound_horsemans_kite_shield" />
+				<equipment slot="Item3" id="Item.vlandia_polearm_1_t5" />
+				<equipment slot="Head" id="Item.pointed_skullcap_over_laced_coif" />
+				<equipment slot="Body" id="Item.vlandia_chainmail" />
+				<equipment slot="Leg" id="Item.mail_cavalier_boots" />
+				<equipment slot="Gloves" id="Item.leather_gloves" />
+				<equipment slot="Horse" id="Item.t2_vlandia_horse" />
+				<equipment slot="HorseHarness" id="Item.chain_barding" />
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.vlandia_mace_3_t5" />
+				<equipment slot="Body" id="Item.long_woolen_tunic" />
+				<equipment slot="Cape" id="Item.scarf" />
+				<equipment slot="Leg" id="Item.leather_cavalier_boots" />
+				<equipment slot="Gloves" id="Item.leather_gloves" />
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+
 </NPCCharacters>

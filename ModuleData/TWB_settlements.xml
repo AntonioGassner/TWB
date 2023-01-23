@@ -8197,4 +8197,845 @@
                      wait_mesh="wait_hideout_desert" gate_rotation="0.0"/>
         </Components>
     </Settlement>
+
+
+	<Settlement id="hideout_steppe_21" name="{=Settlements.Settlement.ECM.hideout_steppe_20}Hideout" type="Hideout" posX="1087.779" posY="504.695" culture="Culture.steppe_bandits">
+		<Components>
+			<Hideout id="hideout_steppe_21" map_icon="bandit_hideout_a" scene_name="hideout_steppe_001" background_crop_position="0.0" background_mesh="empire_twn_scene_bg" wait_mesh="wait_hideout_desert" gate_rotation="0.0" />
+		</Components>
+	</Settlement>
+	<Settlement id="hideout_steppe_22" name="{=Settlements.Settlement.ECM.hideout_steppe_20}Hideout" type="Hideout" posX="1128.225" posY="485.464" culture="Culture.steppe_bandits">
+		<Components>
+			<Hideout id="hideout_steppe_22" map_icon="bandit_hideout_a" scene_name="hideout_steppe_001" background_crop_position="0.0" background_mesh="empire_twn_scene_bg" wait_mesh="wait_hideout_desert" gate_rotation="0.0" />
+		</Components>
+	</Settlement>
+	<Settlement id="hideout_steppe_23" name="{=Settlements.Settlement.ECM.hideout_steppe_20}Hideout" type="Hideout" posX="864.377" posY="647.087" culture="Culture.steppe_bandits">
+		<Components>
+			<Hideout id="hideout_steppe_23" map_icon="bandit_hideout_a" scene_name="hideout_steppe_001" background_crop_position="0.0" background_mesh="empire_twn_scene_bg" wait_mesh="wait_hideout_desert" gate_rotation="0.0" />
+		</Components>
+	</Settlement>
+	<Settlement id="hideout_steppe_24" name="{=Settlements.Settlement.ECM.hideout_steppe_20}Hideout" type="Hideout" posX="980.076" posY="610.3" culture="Culture.steppe_bandits">
+		<Components>
+			<Hideout id="hideout_steppe_24" map_icon="bandit_hideout_a" scene_name="hideout_steppe_001" background_crop_position="0.0" background_mesh="empire_twn_scene_bg" wait_mesh="wait_hideout_desert" gate_rotation="0.0" />
+		</Components>
+	</Settlement>
+	<Settlement id="hideout_steppe_25" name="{=Settlements.Settlement.ECM.hideout_steppe_20}Hideout" type="Hideout" posX="1086.016" posY="587.27" culture="Culture.steppe_bandits">
+		<Components>
+			<Hideout id="hideout_steppe_25" map_icon="bandit_hideout_a" scene_name="hideout_steppe_001" background_crop_position="0.0" background_mesh="empire_twn_scene_bg" wait_mesh="wait_hideout_desert" gate_rotation="0.0" />
+		</Components>
+	</Settlement>
+	<Settlement id="hideout_steppe_26" name="{=Settlements.Settlement.ECM.hideout_steppe_20}Hideout" type="Hideout" posX="1207.494" posY="604.262" culture="Culture.steppe_bandits">
+		<Components>
+			<Hideout id="hideout_steppe_26" map_icon="bandit_hideout_a" scene_name="hideout_steppe_001" background_crop_position="0.0" background_mesh="empire_twn_scene_bg" wait_mesh="wait_hideout_desert" gate_rotation="0.0" />
+		</Components>
+	</Settlement>
+	<Settlement id="hideout_steppe_27" name="{=Settlements.Settlement.ECM.hideout_steppe_20}Hideout" type="Hideout" posX="1233.23" posY="534.624" culture="Culture.steppe_bandits">
+		<Components>
+			<Hideout id="hideout_steppe_27" map_icon="bandit_hideout_a" scene_name="hideout_steppe_001" background_crop_position="0.0" background_mesh="empire_twn_scene_bg" wait_mesh="wait_hideout_desert" gate_rotation="0.0" />
+		</Components>
+	</Settlement>
+	<Settlement id="hideout_steppe_28" name="{=Settlements.Settlement.ECM.hideout_steppe_20}Hideout" type="Hideout" posX="1243.638" posY="466.482" culture="Culture.steppe_bandits">
+		<Components>
+			<Hideout id="hideout_steppe_28" map_icon="bandit_hideout_a" scene_name="hideout_steppe_001" background_crop_position="0.0" background_mesh="empire_twn_scene_bg" wait_mesh="wait_hideout_desert" gate_rotation="0.0" />
+		</Components>
+	</Settlement>
+	<Settlement id="hideout_steppe_29" name="{=Settlements.Settlement.ECM.hideout_steppe_20}Hideout" type="Hideout" posX="1201.469" posY="646.559" culture="Culture.steppe_bandits">
+		<Components>
+			<Hideout id="hideout_steppe_29" map_icon="bandit_hideout_a" scene_name="hideout_steppe_001" background_crop_position="0.0" background_mesh="empire_twn_scene_bg" wait_mesh="wait_hideout_desert" gate_rotation="0.0" />
+		</Components>
+	</Settlement>
+	<Settlement id="hideout_steppe_30" name="{=Settlements.Settlement.ECM.hideout_steppe_20}Hideout" type="Hideout" posX="1199.569" posY="719.613" culture="Culture.steppe_bandits">
+		<Components>
+			<Hideout id="hideout_steppe_30" map_icon="bandit_hideout_a" scene_name="hideout_steppe_001" background_crop_position="0.0" background_mesh="empire_twn_scene_bg" wait_mesh="wait_hideout_desert" gate_rotation="0.0" />
+		</Components>
+	</Settlement>
+	<!-- Ayyubid - seven towns -->
+	<!-- Ayyubid A4-->
+	<Settlement id="Ayyubid_town_A4" name="{=Settlements.Settlement.ECM.Ayyubid_town_A4}Memphis" owner="Faction.clan_ayyubid_1" posX="1071.297" posY="615.103" culture="Culture.ayyubid" prosperity="4500" gate_posX="1074.085" gate_posY="613.4303" text="{=ECM_Ayyubid_jXBnf2hQ}Razih is said to be the base from which Kannic explorers set forth to colonize the shores of the Perassic Sea in the centuries before the coming of the empire, the prows of their ships decorated with the intertwined vine leaves of the Kannic goddess of wealth, wine, love and war. Today, the Kannic tongue has been replaced by Nahasawi dialects and their religion is all but forgotten, but the symbol lives on, said to protect those who risk all for the sake of gain or glory.">
+		<Components>
+			<Town id="Ayyubid_town_comp_A4" is_castle="false" level="1" background_crop_position="0.241" background_mesh="menu_aserai_2" wait_mesh="wait_aserai_town" gate_rotation="0.208" />
+		</Components>
+		<Locations complex_template="LocationComplexTemplate.town_complex">
+			<Location id="center" scene_name="aserai_town_c" scene_name_1="aserai_town_c" scene_name_2="aserai_town_c" scene_name_3="aserai_town_c" />
+			<Location id="arena" scene_name="arena_aserai_a" />
+			<Location id="tavern" scene_name="aserai_tavern_interior" />
+			<Location id="lordshall" scene_name_1="aserai_castle_keep_a_l1_interior" scene_name_2="aserai_castle_keep_a_l2_interior" scene_name_3="aserai_castle_keep_a_l3_interior" />
+			<Location id="prison" scene_name="aserai_dungeon_a" />
+			<Location id="house_1" scene_name="arabian_house_new_a_interior_a_house" />
+			<Location id="house_2" scene_name="arabian_house_new_a_interior_a_house" />
+			<Location id="house_3" scene_name="arabian_house_new_a_interior_a_house" />
+		</Locations>
+		<CommonAreas>
+			<Area type="Backstreet" name="{=a0MVffcN}Backstreet" />
+			<Area type="Clearing" name="{=LWHIVshb}Clearing" />
+			<Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront" />
+		</CommonAreas>
+	</Settlement>
+	<Settlement id="Ayyubid_village_A4_1" name="{=Settlements.Settlement.ECM.Ayyubid_village_A4_1}Tanta" posX="1064.235" posY="629.768" culture="Culture.ayyubid" text="{=ECM_Settlements.Settlement.text.Ayyubid_village_A4_1}Qablab sits near a broad bay on the southern coast of the Perassic Sea. The low-lying coastline is well-suited to the construction of salt pans.">
+		<Components>
+			<Village id="Ayyubid_village_comp_A4_1" village_type="VillageType.salt_mine" hearth="502" gate_rotation="0.208" bound="Settlement.Ayyubid_town_A4" background_crop_position="0.308" background_mesh="menu_aserai_village_3" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
+		</Components>
+		<Locations complex_template="LocationComplexTemplate.village_complex">
+			<Location id="village_center" scene_name="aserai_village_l" />
+		</Locations>
+		<CommonAreas>
+			<Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+			<Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+			<Area type="Bog" name="{=iXA5SttU}Bog" />
+		</CommonAreas>
+	</Settlement>
+	<Settlement id="Ayyubid_village_A4_2" name="{=Settlements.Settlement.ECM.Ayyubid_village_A4_2}Médinet el-Fayoum" posX="1048.872" posY="583.621" culture="Culture.ayyubid" text="{=ECM_Settlements.Settlement.text.Ayyubid_village_A4_2}Mussum sits near the eastern coast of the Bahr al-Yeshm sea, where the Aserai deserts give way to desert-steppe with scattered acacia and scrub. The villagers here sink wells to water their groves of date palms.">
+		<Components>
+			<Village id="Ayyubid_village_comp_A4_2" village_type="VillageType.date_farm" hearth="454" gate_rotation="0.108" bound="Settlement.Ayyubid_town_A4" background_crop_position="0.214" background_mesh="menu_aserai_village_1" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
+		</Components>
+		<Locations complex_template="LocationComplexTemplate.village_complex">
+			<Location id="village_center" scene_name="aserai_village_e" />
+		</Locations>
+		<CommonAreas>
+			<Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+			<Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+			<Area type="Bog" name="{=iXA5SttU}Bog" />
+		</CommonAreas>
+	</Settlement>
+	<Settlement id="Ayyubid_village_A4_4" name="{=Settlements.Settlement.ECM.Ayyubid_village_A4_4}Damiette" posX="1085.815" posY="636.433" culture="Culture.ayyubid" text="{=ECM_Settlements.Settlement.text.Ayyubid_village_A4_4}Doqa is a fishing village on the Bahr al-Yeshm sea. Villagers sail out in feluccas to harvest perch that sometimes grow as long as a man is tall, keeping an eye out for the salt-water crocodiles which live in the local inlets and marshes and which compete with them for their catch.">
+		<Components>
+			<Village id="Ayyubid_village_comp_A4_4" village_type="VillageType.fisherman" hearth="454" gate_rotation="0.108" bound="Settlement.Ayyubid_town_A4" background_crop_position="0.214" background_mesh="menu_aserai_village_1" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
+		</Components>
+		<Locations complex_template="LocationComplexTemplate.village_complex">
+			<Location id="village_center" scene_name="aserai_village_j" />
+		</Locations>
+		<CommonAreas>
+			<Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+			<Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+			<Area type="Bog" name="{=iXA5SttU}Bog" />
+		</CommonAreas>
+	</Settlement>
+	<!-- Ayyubid A6-->
+	<Settlement id="Ayyubid_town_A6" name="{=Settlements.Settlement.ECM.Ayyubid_town_A6}Kerma" owner="Faction.clan_ayyubid_3" posX="1068.708" posY="543.748" culture="Culture.ayyubid" prosperity="4300" gate_posX="1069.806" gate_posY="546.0825" text="{=ECM_Ayyubid_uO4dxCl8}The port of Sanala is the gateway through which the grain of the lower Damar has flowed forth to feed a hungry world. The Empire's periodic advances south of the Perassic Sea have usually been aimed at seizing this strategic prize. Although the legions were long ago forced to retreat, Sanala remains among the most cosmopolitan cities in Calradia, filled with merchants from many lands bidding for the lowest bulk prices.">
+		<Components>
+			<Town id="Ayyubid_town_comp_A6" is_castle="false" level="3" background_crop_position="0.401" background_mesh="menu_aserai_4" wait_mesh="wait_aserai_town" gate_rotation="0.408" />
+		</Components>
+		<Locations complex_template="LocationComplexTemplate.town_complex">
+			<Location id="center" scene_name="aserai_town_c" scene_name_1="aserai_town_c" scene_name_2="aserai_town_c" scene_name_3="aserai_town_c" />
+			<Location id="arena" scene_name="arena_aserai_a" />
+			<Location id="tavern" scene_name="aserai_tavern_interior" />
+			<Location id="lordshall" scene_name_1="aserai_castle_keep_a_l1_interior" scene_name_2="aserai_castle_keep_a_l2_interior" scene_name_3="aserai_castle_keep_a_l3_interior" />
+			<Location id="prison" scene_name="aserai_dungeon_a" />
+			<Location id="house_1" scene_name="arabian_house_new_a_interior_a_house" />
+			<Location id="house_2" scene_name="arabian_house_new_a_interior_a_house" />
+			<Location id="house_3" scene_name="arabian_house_new_a_interior_a_house" />
+		</Locations>
+		<CommonAreas>
+			<Area type="Backstreet" name="{=a0MVffcN}Backstreet" />
+			<Area type="Clearing" name="{=LWHIVshb}Clearing" />
+			<Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront" />
+		</CommonAreas>
+	</Settlement>
+	<Settlement id="Ayyubid_village_A6_1" name="{=Settlements.Settlement.ECM.Ayyubid_village_A6_1}Ezbet Abou Saeda" posX="1046.064" posY="571.832" culture="Culture.ayyubid" text="{=ECM_Settlements.Settlement.text.Ayyubid_village_A6_1}Mijayit lies off of the estuary of the Damar river as it reaches the Bahr al-Yeshm sea. The rich silt deposits left by the river make this one of the most fertile regions of the Aserai lands.">
+		<Components>
+			<Village id="Ayyubid_village_comp_A6_1" village_type="VillageType.wheat_farm" hearth="330" gate_rotation="0.008" bound="Settlement.Ayyubid_town_A6" background_crop_position="0.145" background_mesh="menu_aserai_village_2" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
+		</Components>
+		<Locations complex_template="LocationComplexTemplate.village_complex">
+			<Location id="village_center" scene_name="aserai_village_j" />
+		</Locations>
+		<CommonAreas>
+			<Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+			<Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+			<Area type="Bog" name="{=iXA5SttU}Bog" />
+		</CommonAreas>
+	</Settlement>
+	<Settlement id="Ayyubid_village_A6_2" name="{=Settlements.Settlement.ECM.Ayyubid_village_A6_2}Al Wasta" posX="1076.387" posY="585.515" culture="Culture.ayyubid" text="{=ECM_Settlements.Settlement.text.Ayyubid_village_A6_2}Hamoshawat lies on the lower Damar river, just before it reaches the Bahr al-Yeshm sea. The rich silt deposits left by the river make this one of the most fertile regions of the Aserai lands.">
+		<Components>
+			<Village id="Ayyubid_village_comp_A6_2" village_type="VillageType.wheat_farm" hearth="210" gate_rotation="0.508" bound="Settlement.Ayyubid_town_A6" background_crop_position="0.308" background_mesh="menu_aserai_village_3" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
+		</Components>
+		<Locations complex_template="LocationComplexTemplate.village_complex">
+			<Location id="village_center" scene_name="aserai_village_l" />
+		</Locations>
+		<CommonAreas>
+			<Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+			<Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+			<Area type="Bog" name="{=iXA5SttU}Bog" />
+		</CommonAreas>
+	</Settlement>
+	<Settlement id="Ayyubid_village_A6_3" name="{=Settlements.Settlement.ECM.Ayyubid_village_A6_3}Ras Gharib" posX="1106.662" posY="577.912" culture="Culture.ayyubid" text="{=ECM_Settlements.Settlement.text.Ayyubid_village_A6_3}Jahasim sits on the southern shore of the sea that the Aserai call the Bahr al-Yeshm. The warm waters abound in tuna, bonito, sardines, and other fish.">
+		<Components>
+			<Village id="Ayyubid_village_comp_A6_3" village_type="VillageType.fisherman" hearth="610" bound="Settlement.Ayyubid_town_A6" background_crop_position="0.141" background_mesh="menu_aserai_village_4" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
+		</Components>
+		<Locations complex_template="LocationComplexTemplate.village_complex">
+			<Location id="village_center" scene_name="aserai_village_l" />
+		</Locations>
+		<CommonAreas>
+			<Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+			<Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+			<Area type="Bog" name="{=iXA5SttU}Bog" />
+		</CommonAreas>
+	</Settlement>
+	<Settlement id="Ayyubid_village_A6_4" name="{=Settlements.Settlement.ECM.Ayyubid_village_A6_4}Awlad Salamah" posX="1067.69" posY="527.158" culture="Culture.ayyubid" text="{=ECM_Settlements.Settlement.text.Ayyubid_village_A6_4}Nahlan sits on the floodplain of the Damar River as it cuts through the Jarjara escarpment. This soil, refreshed yearly by the silt of the flooding river, produces bountiful crops of wheat.">
+		<Components>
+			<Village id="Ayyubid_village_comp_A6_4" village_type="VillageType.wheat_farm" hearth="220" bound="Settlement.Ayyubid_town_A6" background_crop_position="0.308" background_mesh="menu_aserai_village_3" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
+		</Components>
+		<Locations complex_template="LocationComplexTemplate.village_complex">
+			<Location id="village_center" scene_name="aserai_village_j" />
+		</Locations>
+		<CommonAreas>
+			<Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+			<Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+			<Area type="Bog" name="{=iXA5SttU}Bog" />
+		</CommonAreas>
+	</Settlement>
+	<!-- Ayyubid A8-->
+	<Settlement id="Ayyubid_town_A8" name="{=Settlements.Settlement.ECM.Ayyubid_town_A8}Sais" owner="Faction.clan_ayyubid_6" posX="1038.402" posY="631.725" culture="Culture.ayyubid" prosperity="3500" gate_posX="1039.615" gate_posY="628.7067" text="{=ECM_Ayyubid_J4bgNT0r}The legendary Queen Eshora, it is said, punished the jinn who were harassing her people by imprisoning them in one of the caves above Qasira, carving the mystical eight-pointed star into the rock to seal them in. She sentenced them to haul water from the depths of the earth, feeding the springs that gush forth from the rocks and which for centuries have irrigated the date gardens of Qasira and its surrounding villages.">
+		<Components>
+			<Town id="Ayyubid_town_comp_A8" is_castle="false" level="2" background_crop_position="0.0" background_mesh="menu_empire_4" wait_mesh="wait_aserai_town" gate_rotation="0.508" />
+		</Components>
+		<Locations complex_template="LocationComplexTemplate.town_complex">
+			<Location id="center" scene_name="aserai_town_c" scene_name_1="aserai_town_c" scene_name_2="aserai_town_c" scene_name_3="aserai_town_c" />
+			<Location id="arena" scene_name="arena_aserai_a" />
+			<Location id="tavern" scene_name="aserai_tavern_interior" />
+			<Location id="lordshall" scene_name_1="aserai_castle_keep_a_l1_interior" scene_name_2="aserai_castle_keep_a_l2_interior" scene_name_3="aserai_castle_keep_a_l3_interior" />
+			<Location id="prison" scene_name="aserai_dungeon_a" />
+			<Location id="house_1" scene_name="arabian_house_new_a_interior_a_house" />
+			<Location id="house_2" scene_name="arabian_house_new_a_interior_a_house" />
+			<Location id="house_3" scene_name="arabian_house_new_a_interior_a_house" />
+		</Locations>
+		<CommonAreas>
+			<Area type="Backstreet" name="{=a0MVffcN}Backstreet" />
+			<Area type="Clearing" name="{=LWHIVshb}Clearing" />
+			<Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront" />
+		</CommonAreas>
+	</Settlement>
+	<Settlement id="Ayyubid_village_A8_1" name="{=Settlements.Settlement.ECM.Ayyubid_village_A8_1}Damanhur" posX="1051.604" posY="623.173" culture="Culture.ayyubid" text="{=ECM_Settlements.Settlement.text.Ayyubid_village_A8_1}Ezbet Nahul sits on a rocky shelf overlooking the waters that the Aserai call the Bahr al-Yeshm, the Jade Sea. Groundwater trapped by the rocks is accessed by wells and used to irrigate the village wheatfields.">
+		<Components>
+			<Village id="Ayyubid_village_comp_A8_1" village_type="VillageType.wheat_farm" hearth="326" gate_rotation="0.108" bound="Settlement.Ayyubid_town_A8" background_crop_position="0.214" background_mesh="menu_aserai_village_1" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
+		</Components>
+		<Locations complex_template="LocationComplexTemplate.village_complex">
+			<Location id="village_center" scene_name="aserai_village_c" />
+		</Locations>
+		<CommonAreas>
+			<Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+			<Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+			<Area type="Bog" name="{=iXA5SttU}Bog" />
+		</CommonAreas>
+	</Settlement>
+	<Settlement id="Ayyubid_village_A8_2" name="{=Settlements.Settlement.ECM.Ayyubid_village_A8_2}Dar as Salam" posX="1031.996" posY="593.531" culture="Culture.ayyubid" text="{=ECM_Settlements.Settlement.text.Ayyubid_village_A8_2}Abghan sits by a small lagoon on the southern shores of the Bahr al-Yeshm, the Jade Sea. Villagers here fish for tuna, sardines, bonito and shark.">
+		<Components>
+			<Village id="Ayyubid_village_comp_A8_2" village_type="VillageType.fisherman" hearth="233" gate_rotation="0.108" bound="Settlement.Ayyubid_town_A8" background_crop_position="0.214" background_mesh="menu_aserai_village_1" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
+		</Components>
+		<Locations complex_template="LocationComplexTemplate.village_complex">
+			<Location id="village_center" scene_name="aserai_village_l" />
+		</Locations>
+		<CommonAreas>
+			<Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+			<Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+			<Area type="Bog" name="{=iXA5SttU}Bog" />
+		</CommonAreas>
+	</Settlement>
+	<!-- Ayyubid CASTLE_A3-->
+	<Settlement id="Ayyubid_castle_A3" name="{=Settlements.Settlement.ECM.Ayyubid_castle_A3}Zintan Castle" owner="Faction.clan_ayyubid_7" posX="691.917" posY="631.064" culture="Culture.ayyubid" prosperity="980" gate_posX="692.7513" gate_posY="632.6216">
+		<Components>
+			<Town id="Ayyubid_castle_comp_A3" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_aserai_3" wait_mesh="wait_aserai_town" gate_rotation="0.908" />
+		</Components>
+		<Locations complex_template="LocationComplexTemplate.castle_complex">
+			<Location id="center" scene_name="aserai_castle_002" scene_name_1="aserai_castle_002" scene_name_2="aserai_castle_002" scene_name_3="aserai_castle_002" />
+			<Location id="lordshall" scene_name_1="aserai_castle_keep_a_l1_interior" scene_name_2="aserai_castle_keep_a_l2_interior" scene_name_3="aserai_castle_keep_a_l3_interior" />
+			<Location id="prison" scene_name="aserai_dungeon_a" />
+		</Locations>
+	</Settlement>
+	<Settlement id="Ayyubid_castle_village_A3_1" name="{=Settlements.Settlement.ECM.Ayyubid_castle_village_A3_1}Alruhaibat" posX="656.509" posY="600.728" culture="Culture.ayyubid" text="{=Settlements.Settlement.text.Ayyubid_castle_village_A3_1}Ain Baliq is clustered around a well in a wide valley that separates the Jarjara Escarpment from the Jabal Tamar mountains to the west. The surrounding lands, though dry, produce enough grass in the spring to allow the breeding of horses.">
+		<Components>
+			<Village id="Ayyubid_castle_village_comp_A3_1" village_type="VillageType.desert_horse_ranch" hearth="375" bound="Settlement.Ayyubid_castle_A3" background_crop_position="0.308" background_mesh="menu_aserai_village_3" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
+		</Components>
+		<Locations complex_template="LocationComplexTemplate.village_complex">
+			<Location id="village_center" scene_name="aserai_village_b" />
+		</Locations>
+		<CommonAreas>
+			<Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+			<Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+			<Area type="Bog" name="{=iXA5SttU}Bog" />
+		</CommonAreas>
+	</Settlement>
+	<Settlement id="Ayyubid_castle_village_A3_2" name="{=Settlements.Settlement.ECM.Ayyubid_castle_village_A3_2}Garian" posX="707.368" posY="622.106" culture="Culture.ayyubid" text="{=Settlements.Settlement.text.Ayyubid_castle_village_A3_2}Deir Hawa sits on the windswept southern shores of the sea that the Aserai call the Bahr al-Yeshm. Villagers trap run-off water from the hills and grow flax in the lowlands here.">
+		<Components>
+			<Village id="Ayyubid_castle_village_comp_A3_2" village_type="VillageType.silver_mine" hearth="375" bound="Settlement.Ayyubid_castle_A3" background_crop_position="0.308" background_mesh="menu_aserai_village_3" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
+		</Components>
+		<Locations complex_template="LocationComplexTemplate.village_complex">
+			<Location id="village_center" scene_name="aserai_village_d" />
+		</Locations>
+		<CommonAreas>
+			<Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+			<Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+			<Area type="Bog" name="{=iXA5SttU}Bog" />
+		</CommonAreas>
+	</Settlement>
+	<!-- Ayyubid CASTLE_A9-->
+	<Settlement id="Ayyubid_castle_A9" name="{=Settlements.Settlement.ECM.Ayyubid_castle_A9}Sebha Castle" owner="Faction.clan_ayyubid_9" posX="728.513" posY="468.563" culture="Culture.ayyubid" prosperity="610" gate_posX="727.407" gate_posY="467.7185">
+		<Components>
+			<Town id="Ayyubid_castle_comp_A9" is_castle="true" level="3" background_crop_position="0.0" background_mesh="menu_aserai_3" wait_mesh="wait_aserai_town" gate_rotation="0.908" />
+		</Components>
+		<Locations complex_template="LocationComplexTemplate.castle_complex">
+			<Location id="center" scene_name="aserai_castle_a" scene_name_1="aserai_castle_a" scene_name_2="aserai_castle_a" scene_name_3="aserai_castle_a" />
+			<Location id="lordshall" scene_name_1="aserai_castle_keep_a_l1_interior" scene_name_2="aserai_castle_keep_a_l2_interior" scene_name_3="aserai_castle_keep_a_l3_interior" />
+			<Location id="prison" scene_name="aserai_dungeon_a" />
+		</Locations>
+	</Settlement>
+	<Settlement id="Ayyubid_castle_village_A9_1" name="{=Settlements.Settlement.ECM.Ayyubid_castle_village_A9_1}Sebha" posX="762.313" posY="510.86" culture="Culture.ayyubid" text="{=Settlements.Settlement.text.Ayyubid_castle_village_A9_1}The oasis-village of Barihal sits in a wadi amid the mesas of the Jarjara Escarpment. The land is best known for the horses that are grazed on the desert's short-lived but rich spring grasses.">
+		<Components>
+			<Village id="Ayyubid_castle_village_comp_A9_1" village_type="VillageType.desert_horse_ranch" hearth="202" gate_rotation="0.008" bound="Settlement.Ayyubid_castle_A9" background_crop_position="0.141" background_mesh="menu_aserai_village_4" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
+		</Components>
+		<Locations complex_template="LocationComplexTemplate.village_complex">
+			<Location id="village_center" scene_name="aserai_village_c" />
+		</Locations>
+		<CommonAreas>
+			<Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+			<Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+			<Area type="Bog" name="{=iXA5SttU}Bog" />
+		</CommonAreas>
+	</Settlement>
+	<Settlement id="Ayyubid_castle_village_A9_2" name="{=Settlements.Settlement.ECM.Ayyubid_castle_village_A9_2}Ubari" posX="670.289" posY="504.547" culture="Culture.ayyubid" text="{=Settlements.Settlement.text.Ayyubid_village_A9_2}Wadar sits in the rocky wadis at the inland edge of the Jarjara Escarpment, before it gives way to barren gravel plains and dunes. Clouds from the Bahr al-Yeshm drop their last reserves of water here in the spring and winter, giving the land just enough grass to support horse-rearing.">
+		<Components>
+			<Village id="Ayyubid_castle_village_comp_A9_2" village_type="VillageType.desert_horse_ranch" hearth="305" bound="Settlement.Ayyubid_castle_A9" background_crop_position="0.214" background_mesh="menu_aserai_village_1" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
+		</Components>
+		<Locations complex_template="LocationComplexTemplate.village_complex">
+			<Location id="village_center" scene_name="aserai_village_m" />
+		</Locations>
+		<CommonAreas>
+			<Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+			<Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+			<Area type="Bog" name="{=iXA5SttU}Bog" />
+		</CommonAreas>
+	</Settlement>
+	<!-- Ayyubid CASTLE_A4-->
+	<Settlement id="Ayyubid_castle_A4" name="{=Settlements.Settlement.ECM.Ayyubid_castle_A4}El Tag Castle" owner="Faction.clan_ayyubid_2" posX="904.608" posY="511.973" culture="Culture.ayyubid" prosperity="750" gate_posX="902.7236" gate_posY="512.5009">
+		<Components>
+			<Town id="Ayyubid_castle_comp_A4" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_aserai_3" wait_mesh="wait_aserai_town" gate_rotation="0.908" />
+		</Components>
+		<Locations complex_template="LocationComplexTemplate.castle_complex">
+			<Location id="center" scene_name="aserai_castle_d" scene_name_1="aserai_castle_d" scene_name_2="aserai_castle_d" scene_name_3="aserai_castle_d" />
+			<Location id="lordshall" scene_name_1="aserai_castle_keep_a_l1_interior" scene_name_2="aserai_castle_keep_a_l2_interior" scene_name_3="aserai_castle_keep_a_l3_interior" />
+			<Location id="prison" scene_name="aserai_dungeon_a" />
+		</Locations>
+	</Settlement>
+	<Settlement id="Ayyubid_castle_village_A4_1" name="{=Settlements.Settlement.ECM.Ayyubid_castle_village_A4_1}El Tag" posX="898.468" posY="532.545" culture="Culture.ayyubid" text="{=Settlements.Settlement.text.Ayyubid_castle_village_A4_1}Medeni sits in lowlands between the Bahr al-Yeshm sea and the Jarjara Escarpment. Villagers grow dates by the coast in gardens watered by wells and small dams in the wadis that trap run-off from the cliffs during the short rainy season.">
+		<Components>
+			<Village id="Ayyubid_castle_village_comp_A4_1" village_type="VillageType.date_farm" hearth="540" bound="Settlement.Ayyubid_castle_A4" background_crop_position="0.308" background_mesh="menu_aserai_village_3" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
+		</Components>
+		<Locations complex_template="LocationComplexTemplate.village_complex">
+			<Location id="village_center" scene_name="aserai_village_b" />
+		</Locations>
+		<CommonAreas>
+			<Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+			<Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+			<Area type="Bog" name="{=iXA5SttU}Bog" />
+		</CommonAreas>
+	</Settlement>
+	<Settlement id="Ayyubid_castle_village_A4_2" name="{=Settlements.Settlement.ECM.Ayyubid_castle_village_A4_2}Harat Zuwayyah" posX="835.932" posY="506.686" culture="Culture.ayyubid" text="{=Settlements.Settlement.text.Ayyubid_castle_village_A4_2}Qidnar lies in the floodplain of the Damar river, the most densely populated part of the Aserai lands, where it slices through the Jarjara Escarpment. Farmers here grow grain in the rich silt brought by the river's annual flooding.">
+		<Components>
+			<Village id="Ayyubid_castle_village_comp_A4_2" village_type="VillageType.date_farm" hearth="540" bound="Settlement.Ayyubid_castle_A4" background_crop_position="0.308" background_mesh="menu_aserai_village_3" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
+		</Components>
+		<Locations complex_template="LocationComplexTemplate.village_complex">
+			<Location id="village_center" scene_name="aserai_village_j" />
+		</Locations>
+		<CommonAreas>
+			<Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+			<Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+			<Area type="Bog" name="{=iXA5SttU}Bog" />
+		</CommonAreas>
+	</Settlement>
+	<!-- Ayyubid A3-->
+	<Settlement id="Ayyubid_town_A3" name="{=Settlements.Settlement.ECM.Ayyubid_town_A3}Cyrenaica" owner="Faction.clan_ayyubid_5" posX="836.318" posY="657.85" culture="Culture.ayyubid" prosperity="1800" gate_posX="839.3383" gate_posY="656.1684" text="{=ECM_Ayyubid_NFIYqaab}Iyakis sits in a cleft in the Jarjara escarpment, where the waters of the fierce but brief desert rains can be trapped and used for irrigation. For generations ago it was an autonomous outpost of the Empire known as Yachios, dominated by the Carasios clan. Fifty years ago however they saw the writing on the wall for imperial dominion in the southlands, and began intermarrying themselves with the tribes of the Nahasa. Today, known as the Qaraz, they take their places in the councils of the sultanate like any other family of the Aserai.">
+		<Components>
+			<Town id="Ayyubid_town_comp_A3" is_castle="false" level="2" background_crop_position="0.0" background_mesh="menu_empire_4" wait_mesh="wait_aserai_town" gate_rotation="0.508" />
+		</Components>
+		<Locations complex_template="LocationComplexTemplate.town_complex">
+			<Location id="center" scene_name="aserai_town_a" scene_name_1="aserai_town_a" scene_name_2="aserai_town_a" scene_name_3="aserai_town_a" />
+			<Location id="arena" scene_name="arena_aserai_a" />
+			<Location id="tavern" scene_name="aserai_tavern_interior" />
+			<Location id="lordshall" scene_name_1="aserai_castle_keep_a_l1_interior" scene_name_2="aserai_castle_keep_a_l2_interior" scene_name_3="aserai_castle_keep_a_l3_interior" />
+			<Location id="prison" scene_name="aserai_dungeon_a" />
+			<Location id="house_1" scene_name="arabian_house_new_a_interior_a_house" />
+			<Location id="house_2" scene_name="arabian_house_new_a_interior_a_house" />
+			<Location id="house_3" scene_name="arabian_house_new_a_interior_a_house" />
+		</Locations>
+		<CommonAreas>
+			<Area type="Backstreet" name="{=a0MVffcN}Backstreet" />
+			<Area type="Clearing" name="{=LWHIVshb}Clearing" />
+			<Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront" />
+		</CommonAreas>
+	</Settlement>
+	<Settlement id="Ayyubid_village_A3_1" name="{=Settlements.Settlement.ECM.Ayyubid_village_A3_1}Bi'r bin Ghunayma" posX="884.892" posY="595.132" culture="Culture.ayyubid" text="{=Settlements.Settlement.text.Ayyubid_village_A3_1}Abba sits on the edge of the deep desert, at the foot of the landward side of the Jarjara Escarpment. Runoff from the hills is trapped underground here, creating springs that sustain an oasis. Wheat thrives in the fields and gardens.">
+		<Components>
+			<Village id="Ayyubid_village_comp_A3_1" village_type="VillageType.wheat_farm" hearth="282" bound="Settlement.Ayyubid_town_A3" background_crop_position="0.214" background_mesh="menu_aserai_village_1" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
+		</Components>
+		<Locations complex_template="LocationComplexTemplate.village_complex">
+			<Location id="village_center" scene_name="aserai_village_m" />
+		</Locations>
+		<CommonAreas>
+			<Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+			<Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+			<Area type="Bog" name="{=iXA5SttU}Bog" />
+		</CommonAreas>
+	</Settlement>
+	<Settlement id="Ayyubid_village_A3_3" name="{=Settlements.Settlement.ECM.Ayyubid_village_A3_3}Saùnnu" posX="845.791" posY="580.87" culture="Culture.ayyubid" text="{=Settlements.Settlement.text.Ayyubid_village_A3_3}Bir Seif is centered around a group of wells and pools in the Jarjara Escarpment. Villagers dig down to the shallow groundwater layer for clay to sell to the potters of the Nahasa.">
+		<Components>
+			<Village id="Ayyubid_village_comp_A3_3" village_type="VillageType.clay_mine" hearth="131" gate_rotation="0.008" bound="Settlement.Ayyubid_town_A3" background_crop_position="0.141" background_mesh="menu_aserai_village_4" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
+		</Components>
+		<Locations complex_template="LocationComplexTemplate.village_complex">
+			<Location id="village_center" scene_name="aserai_village_g" />
+		</Locations>
+		<CommonAreas>
+			<Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+			<Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+			<Area type="Bog" name="{=iXA5SttU}Bog" />
+		</CommonAreas>
+	</Settlement>
+	<!-- Ayyubid CASTLE_A8-->
+	<Settlement id="Ayyubid_castle_A8" name="{=Settlements.Settlement.ECM.Ayyubid_castle_A8}Siwa Castle" owner="Faction.clan_ayyubid_8" posX="983.729" posY="570.828" culture="Culture.ayyubid" prosperity="590" gate_posX="984.8876" gate_posY="571.5576">
+		<Components>
+			<Town id="Ayyubid_castle_comp_A8" is_castle="true" level="3" background_crop_position="0.0" background_mesh="menu_aserai_3" wait_mesh="wait_aserai_town" gate_rotation="0.908" />
+		</Components>
+		<Locations complex_template="LocationComplexTemplate.castle_complex">
+			<Location id="center" scene_name="aserai_castle_002" scene_name_1="aserai_castle_002" scene_name_2="aserai_castle_002" scene_name_3="aserai_castle_002" />
+			<Location id="lordshall" scene_name_1="aserai_castle_keep_a_l1_interior" scene_name_2="aserai_castle_keep_a_l2_interior" scene_name_3="aserai_castle_keep_a_l3_interior" />
+			<Location id="prison" scene_name="aserai_dungeon_a" />
+		</Locations>
+	</Settlement>
+	<Settlement id="Ayyubid_castle_village_A8_1" name="{=Settlements.Settlement.ECM.Ayyubid_castle_village_A8_1}Siwa" posX="957.322" posY="577.778" culture="Culture.ayyubid" text="{=Settlements.Settlement.text.Ayyubid_castle_village_A8_1}Tamnuh sits near a large lagoon, cut off from the Perassic Sea by a sandspit. Villagers scrape clay from the shallow waters to sell to the region's potters.">
+		<Components>
+			<Village id="Ayyubid_castle_village_comp_A8_1" village_type="VillageType.clay_mine" hearth="352" gate_rotation="0.008" bound="Settlement.Ayyubid_castle_A8" background_crop_position="0.141" background_mesh="menu_aserai_village_4" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
+		</Components>
+		<Locations complex_template="LocationComplexTemplate.village_complex">
+			<Location id="village_center" scene_name="aserai_village_e" />
+		</Locations>
+		<CommonAreas>
+			<Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+			<Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+			<Area type="Bog" name="{=iXA5SttU}Bog" />
+		</CommonAreas>
+	</Settlement>
+	<Settlement id="Ayyubid_castle_village_A8_2" name="{=Settlements.Settlement.ECM.Ayyubid_castle_village_A8_2}Ezbet Shaalan" posX="1031.953" posY="558.052" culture="Culture.ayyubid" text="{=Settlements.Settlement.text.Ayyubid_village_A4_3}Kuqa sits at the foot of a range of low hills east of the Bahr al-Yeshm sea, where the Aserai deserts give way to desert-steppe with scattered acacia and scrub. The villagers here sink wells to water their groves of date palms.">
+		<Components>
+			<Village id="Ayyubid_castle_village_comp_A8_2" village_type="VillageType.date_farm" hearth="454" gate_rotation="0.108" bound="Settlement.Ayyubid_castle_A8" background_crop_position="0.214" background_mesh="menu_aserai_village_1" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
+		</Components>
+		<Locations complex_template="LocationComplexTemplate.village_complex">
+			<Location id="village_center" scene_name="aserai_village_e" />
+		</Locations>
+		<CommonAreas>
+			<Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+			<Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+			<Area type="Bog" name="{=iXA5SttU}Bog" />
+		</CommonAreas>
+	</Settlement>
+	<!-- Ayyubid CASTLE_A6-->
+	<Settlement id="Ayyubid_castle_A6" name="{=Settlements.Settlement.ECM.Ayyubid_castle_A6}Qena Castle" owner="Faction.clan_ayyubid_3" posX="1110.168" posY="501.942" culture="Culture.ayyubid" prosperity="570" gate_posX="1110.461" gate_posY="500.6175">
+		<Components>
+			<Town id="Ayyubid_castle_comp_A6" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_aserai_3" wait_mesh="wait_aserai_town" gate_rotation="0.908" />
+		</Components>
+		<Locations complex_template="LocationComplexTemplate.castle_complex">
+			<Location id="center" scene_name="aserai_castle_002" scene_name_1="aserai_castle_002" scene_name_2="aserai_castle_002" scene_name_3="aserai_castle_002" />
+			<Location id="lordshall" scene_name_1="aserai_castle_keep_a_l1_interior" scene_name_2="aserai_castle_keep_a_l2_interior" scene_name_3="aserai_castle_keep_a_l3_interior" />
+			<Location id="prison" scene_name="aserai_dungeon_a" />
+		</Locations>
+	</Settlement>
+	<Settlement id="Ayyubid_castle_village_A6_1" name="{=Settlements.Settlement.ECM.Ayyubid_castle_village_A6_1}El Qousseir" posX="1133.22" posY="508.903" culture="Culture.ayyubid" text="{=Settlements.Settlement.text.Ayyubid_castle_village_A6_1}Shibal Zumr sits on the Nahr al-Kals, the river of lime. Here the waters are pure and the soil is fertile, and grain is grown. But a short distance to the south, the land becomes barren and alkaline, and only the hardiest crops survive.">
+		<Components>
+			<Village id="Ayyubid_castle_village_comp_A6_1" village_type="VillageType.wheat_farm" hearth="120" gate_rotation="0.508" bound="Settlement.Ayyubid_castle_A6" background_crop_position="0.308" background_mesh="menu_aserai_village_3" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
+		</Components>
+		<Locations complex_template="LocationComplexTemplate.village_complex">
+			<Location id="village_center" scene_name="aserai_village_e" />
+		</Locations>
+		<CommonAreas>
+			<Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+			<Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+			<Area type="Bog" name="{=iXA5SttU}Bog" />
+		</CommonAreas>
+	</Settlement>
+	<Settlement id="Ayyubid_castle_village_A6_2" name="{=Settlements.Settlement.ECM.Ayyubid_castle_village_A6_2}Hurghada" posX="1115.183" posY="525.892" culture="Culture.ayyubid" text="{=Settlements.Settlement.text.Ayyubid_village_A2_1}Lamesa sits amid open plains and patches of dry acacia forest on the eastern shores of the Bahr al-Yeshm. Some of the Aserai's most prized horses graze on the grasses of this district.">
+		<Components>
+			<Village id="Ayyubid_castle_village_comp_A6_2" village_type="VillageType.desert_horse_ranch" hearth="327" bound="Settlement.Ayyubid_castle_A6" background_crop_position="0.214" background_mesh="menu_aserai_village_1" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
+		</Components>
+		<Locations complex_template="LocationComplexTemplate.village_complex">
+			<Location id="village_center" scene_name="aserai_village_e" />
+		</Locations>
+		<CommonAreas>
+			<Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+			<Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+			<Area type="Bog" name="{=iXA5SttU}Bog" />
+		</CommonAreas>
+	</Settlement>
+	<!-- Ayyubid CASTLE_A5-->
+	<Settlement id="Ayyubid_castle_A5" name="{=Settlements.Settlement.ECM.Ayyubid_castle_A5}An-Nekhel Fortress" owner="Faction.clan_ayyubid_4" posX="1128.069" posY="590.232" culture="Culture.ayyubid" prosperity="610" gate_posX="1128.208" gate_posY="592.066">
+		<Components>
+			<Town id="Ayyubid_castle_comp_A5" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_aserai_3" wait_mesh="wait_aserai_town" gate_rotation="0.908" />
+		</Components>
+		<Locations complex_template="LocationComplexTemplate.castle_complex">
+			<Location id="center" scene_name="aserai_castle_c" scene_name_1="aserai_castle_c" scene_name_2="aserai_castle_c" scene_name_3="aserai_castle_c" />
+			<Location id="lordshall" scene_name_1="aserai_castle_keep_a_l1_interior" scene_name_2="aserai_castle_keep_a_l2_interior" scene_name_3="aserai_castle_keep_a_l3_interior" />
+			<Location id="prison" scene_name="aserai_dungeon_a" />
+		</Locations>
+	</Settlement>
+	<Settlement id="Ayyubid_castle_village_A5_1" name="{=Settlements.Settlement.ECM.Ayyubid_castle_village_A5_1}Izbat at Tawabrah" posX="1097.805" posY="623.44" culture="Culture.ayyubid" text="{=Settlements.Settlement.text.Ayyubid_castle_village_A5_1}Jamayeh sits on the southern shores of the sea that the Aserai call the Bahr al Yeshm, the Jade Sea. The climate is well-suited to olive trees that thrive despite the short rainy season.">
+		<Components>
+			<Village id="Ayyubid_castle_village_comp_A5_1" village_type="VillageType.olive_trees" hearth="610" bound="Settlement.Ayyubid_castle_A5" background_crop_position="0.214" background_mesh="menu_aserai_village_1" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
+		</Components>
+		<Locations complex_template="LocationComplexTemplate.village_complex">
+			<Location id="village_center" scene_name="aserai_village_e" />
+		</Locations>
+		<CommonAreas>
+			<Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+			<Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+			<Area type="Bog" name="{=iXA5SttU}Bog" />
+		</CommonAreas>
+	</Settlement>
+	<Settlement id="Ayyubid_castle_village_A5_2" name="{=Settlements.Settlement.ECM.Ayyubid_castle_village_A5_2}Be'er Sheva" posX="1164.142" posY="632.211" culture="Culture.ayyubid" text="{=Settlements.Settlement.text.Ayyubid_village_A3_2}Hunab lies in one of the wadis that cut beneath the weathered mesas of the Jarjara Escarpment. Villagers raise horses here, taking advantage of the brief but lush crop of grass that covers the slopes in the spring.">
+		<Components>
+			<Village id="Ayyubid_castle_village_comp_A5_2" village_type="VillageType.desert_horse_ranch" hearth="370" bound="Settlement.Ayyubid_castle_A5" background_crop_position="0.145" background_mesh="menu_aserai_village_2" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
+		</Components>
+		<Locations complex_template="LocationComplexTemplate.village_complex">
+			<Location id="village_center" scene_name="aserai_village_g" />
+		</Locations>
+		<CommonAreas>
+			<Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+			<Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+			<Area type="Bog" name="{=iXA5SttU}Bog" />
+		</CommonAreas>
+	</Settlement>
+	<!-- Ayyubid CASTLE_A2-->
+	<Settlement id="Ayyubid_castle_A2" name="{=Settlements.Settlement.ECM.Ayyubid_castle_A2}Al Mouwaylih Castle" owner="Faction.clan_ayyubid_3" posX="1194.8" posY="567.742" culture="Culture.ayyubid" prosperity="890" gate_posX="1194.802" gate_posY="565.8534">
+		<Components>
+			<Town id="Ayyubid_castle_comp_A2" is_castle="true" level="3" background_crop_position="0.0" background_mesh="menu_aserai_3" wait_mesh="wait_aserai_town" gate_rotation="0.908" />
+		</Components>
+		<Locations complex_template="LocationComplexTemplate.castle_complex">
+			<Location id="center" scene_name="aserai_castle_002" scene_name_1="aserai_castle_002" scene_name_2="aserai_castle_002" scene_name_3="aserai_castle_002" />
+			<Location id="lordshall" scene_name_1="aserai_castle_keep_a_l1_interior" scene_name_2="aserai_castle_keep_a_l2_interior" scene_name_3="aserai_castle_keep_a_l3_interior" />
+			<Location id="prison" scene_name="aserai_dungeon_a" />
+		</Locations>
+	</Settlement>
+	<Settlement id="Ayyubid_castle_village_A2_1" name="{=Settlements.Settlement.ECM.Ayyubid_castle_village_A2_1}Al Mouwaylih" posX="1222.594" posY="561.78" culture="Culture.ayyubid" text="{=Settlements.Settlement.text.Ayyubid_castle_village_A2_1}Sahel on the far edges of the Aserai lands, on the low-lying Jabal Ashabi mountains. This ridge catches rainclouds coming off the Bahr al-Yeshm sea and are brushed by monsoons from the southeast, allowing cistern-watered fields of millet and wheat.">
+		<Components>
+			<Village id="Ayyubid_castle_village_comp_A2_1" village_type="VillageType.wheat_farm" hearth="401" gate_rotation="0.108" bound="Settlement.Ayyubid_castle_A2" background_crop_position="0.214" background_mesh="menu_aserai_village_1" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
+		</Components>
+		<Locations complex_template="LocationComplexTemplate.village_complex">
+			<Location id="village_center" scene_name="aserai_village_e" />
+		</Locations>
+		<CommonAreas>
+			<Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+			<Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+			<Area type="Bog" name="{=iXA5SttU}Bog" />
+		</CommonAreas>
+	</Settlement>
+	<Settlement id="Ayyubid_castle_village_A2_2" name="{=Settlements.Settlement.ECM.Ayyubid_castle_village_A2_2}Al Wajh" posX="1200.087" posY="541.068" culture="Culture.ayyubid" text="{=Settlements.Settlement.text.Ayyubid_castle_village_A2_2}Asmait lies in a nook of the Jabal Ashabi mountains, bordered to the south by the deep desert. Villagers trap floods running down the hills during rare rainstorms, using the water to grow date palms and other crops.">
+		<Components>
+			<Village id="Ayyubid_castle_village_comp_A2_2" village_type="VillageType.date_farm" hearth="401" gate_rotation="0.108" bound="Settlement.Ayyubid_castle_A2" background_crop_position="0.214" background_mesh="menu_aserai_village_1" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
+		</Components>
+		<Locations complex_template="LocationComplexTemplate.village_complex">
+			<Location id="village_center" scene_name="aserai_village_c" />
+		</Locations>
+		<CommonAreas>
+			<Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+			<Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+			<Area type="Bog" name="{=iXA5SttU}Bog" />
+		</CommonAreas>
+	</Settlement>
+	<!-- Ayyubid TOWN A1-->
+	<Settlement id="Ayyubid_town_A1" name="{=Settlements.Settlement.ECM.Ayyubid_town_A1}Al-Wajh" owner="Faction.clan_ayyubid_6" posX="1245.32" posY="514.195" culture="Culture.ayyubid" prosperity="4000" gate_posX="1246.118" gate_posY="511.1862" text="{=1ImuW3My}Quyaz was once a mercantile republic that dominated the trade between the western ocean and the Perassic Sea, speaking the now all-but-extinct Kannic tongue, a relative of Nahasawi. But imperial hegemony slowly snuffed out its trade, and the rulers was taken over by mercenaries from the Nahasa. It came intermittently under imperial subjugation but today is a prized holding of the Banu Hulyan, a leading clan of the Aserai sultanate.">
+		<Components>
+			<Town id="Ayyubid_town_comp_A1" is_castle="false" level="3" background_crop_position="0.0" background_mesh="menu_empire_3" wait_mesh="wait_aserai_town" gate_rotation="0.108" />
+		</Components>
+		<Locations complex_template="LocationComplexTemplate.town_complex">
+			<Location id="center" scene_name="aserai_town_b" scene_name_1="aserai_town_b" scene_name_2="aserai_town_b" scene_name_3="aserai_town_b" />
+			<Location id="arena" scene_name="arena_aserai_a" />
+			<Location id="tavern" scene_name="aserai_tavern_interior" />
+			<Location id="lordshall" scene_name_1="aserai_castle_keep_a_l1_interior" scene_name_2="aserai_castle_keep_a_l2_interior" scene_name_3="aserai_castle_keep_a_l3_interior" />
+			<Location id="prison" scene_name="aserai_dungeon_a" />
+			<Location id="house_1" scene_name="arabian_house_new_a_interior_a_house" />
+			<Location id="house_2" scene_name="arabian_house_new_a_interior_a_house" />
+			<Location id="house_3" scene_name="arabian_house_new_a_interior_a_house" />
+		</Locations>
+		<CommonAreas>
+			<Area type="Backstreet" name="{=a0MVffcN}Backstreet" />
+			<Area type="Clearing" name="{=LWHIVshb}Clearing" />
+			<Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront" />
+		</CommonAreas>
+	</Settlement>
+	<Settlement id="Ayyubid_village_A1_1" name="{=Settlements.Settlement.ECM.Ayyubid_village_A1_1}Yanbu" posX="1219.165" posY="500.376" culture="Culture.ayyubid" text="{=Settlements.Settlement.text.Ayyubid_village_A1_1}Tasheba lies on the western edges of the Bahr al-Yeshm. Fishermen venture out into the protected waters, gentle and calm for most of the year, for tuna and sardines.">
+		<Components>
+			<Village id="Ayyubid_village_comp_A1_1" village_type="VillageType.fisherman" hearth="300" bound="Settlement.Ayyubid_town_A1" background_crop_position="0.145" background_mesh="menu_aserai_village_2" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
+		</Components>
+		<Locations complex_template="LocationComplexTemplate.village_complex">
+			<Location id="village_center" scene_name="aserai_village_l" />
+		</Locations>
+		<CommonAreas>
+			<Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+			<Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+			<Area type="Bog" name="{=iXA5SttU}Bog" />
+		</CommonAreas>
+	</Settlement>
+	<Settlement id="Ayyubid_village_A1_2" name="{=Settlements.Settlement.ECM.Ayyubid_village_A1_2}Tayma" posX="1260.656" posY="546.332" culture="Culture.ayyubid" text="{=Settlements.Settlement.text.Ayyubid_village_A1_2}Baq slightly inland from the Bahr al-Yeshm sea, beneath the great granite outcrop of the Jabal Tamar. The seawinds bring the uplands here just enough rain to support the cultivation of olive trees.">
+		<Components>
+			<Village id="Ayyubid_village_comp_A1_2" village_type="VillageType.olive_trees" hearth="235" bound="Settlement.Ayyubid_town_A1" background_crop_position="0.308" background_mesh="menu_aserai_village_3" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
+		</Components>
+		<Locations complex_template="LocationComplexTemplate.village_complex">
+			<Location id="village_center" scene_name="aserai_village_b" />
+		</Locations>
+		<CommonAreas>
+			<Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+			<Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+			<Area type="Bog" name="{=iXA5SttU}Bog" />
+		</CommonAreas>
+	</Settlement>
+	<Settlement id="Ayyubid_village_A1_4" name="{=Settlements.Settlement.ECM.Ayyubid_village_A1_4}Umluj" posX="1204.492" posY="530.423" culture="Culture.ayyubid" text="{=Settlements.Settlement.text.Ayyubid_village_A1_4}Hiblet sits at the base of the granite outcrop known as the Jabal Tamar. Rainwater trapped in cracks in the rock is diverted to the village's date-palm gardens.">
+		<Components>
+			<Village id="Ayyubid_village_comp_A1_4" village_type="VillageType.date_farm" hearth="183" bound="Settlement.Ayyubid_town_A1" background_crop_position="0.141" background_mesh="menu_aserai_village_4" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
+		</Components>
+		<Locations complex_template="LocationComplexTemplate.village_complex">
+			<Location id="village_center" scene_name="aserai_village_e" />
+		</Locations>
+		<CommonAreas>
+			<Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+			<Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+			<Area type="Bog" name="{=iXA5SttU}Bog" />
+		</CommonAreas>
+	</Settlement>
+	<!-- Ayyubid CASTLE A1-->
+	<Settlement id="Ayyubid_castle_A1" name="{=Settlements.Settlement.ECM.Ayyubid_castle_A1}Djeddah Castle" owner="Faction.clan_ayyubid_1" posX="1256.713" posY="483.124" culture="Culture.ayyubid" prosperity="460" gate_posX="1255.835" gate_posY="484.1635">
+		<Components>
+			<Town id="Ayyubid_castle_comp_A1" is_castle="true" level="2" background_crop_position="0.0" background_mesh="menu_aserai_3" wait_mesh="wait_aserai_town" gate_rotation="0.908" />
+		</Components>
+		<Locations complex_template="LocationComplexTemplate.castle_complex">
+			<Location id="center" scene_name="aserai_castle_002" scene_name_1="aserai_castle_002" scene_name_2="aserai_castle_002" scene_name_3="aserai_castle_002" />
+			<Location id="lordshall" scene_name_1="aserai_castle_keep_a_l1_interior" scene_name_2="aserai_castle_keep_a_l2_interior" scene_name_3="aserai_castle_keep_a_l3_interior" />
+			<Location id="prison" scene_name="aserai_dungeon_a" />
+		</Locations>
+	</Settlement>
+	<Settlement id="Ayyubid_castle_village_A1_1" name="{=Settlements.Settlement.ECM.Ayyubid_castle_village_A1_1}Djeddah" posX="1237.129" posY="472.238" culture="Culture.ayyubid" text="{=Settlements.Settlement.text.Ayyubid_castle_village_A1_1}Tubilis lies on the Bay of Charas, which the Aserai call Shariz. Villagers go fishing here amid the offshore islands in search of tuna, sardines, and shark.">
+		<Components>
+			<Village id="Ayyubid_castle_village_comp_A1_1" village_type="VillageType.fisherman" hearth="148" bound="Settlement.Ayyubid_castle_A1" background_crop_position="0.214" background_mesh="menu_aserai_village_1" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
+		</Components>
+		<Locations complex_template="LocationComplexTemplate.village_complex">
+			<Location id="village_center" scene_name="aserai_village_j" />
+		</Locations>
+		<CommonAreas>
+			<Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+			<Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+			<Area type="Bog" name="{=iXA5SttU}Bog" />
+		</CommonAreas>
+	</Settlement>
+	<Settlement id="Ayyubid_castle_village_A1_2" name="{=Settlements.Settlement.ECM.Ayyubid_castle_village_A1_2}Afif" posX="1270.156" posY="492.008" culture="Culture.ayyubid" text="{=Settlements.Settlement.text.Ayyubid_village_A1_3}Fanab sits in a low promontory between the bay that the Aserai call the Gulf of Shariz and the inner sea of the Bahr al-Yeshm.  The seawinds bring just enough rain to support the cultivation of olive trees.">
+		<Components>
+			<Village id="Ayyubid_castle_village_comp_A1_2" village_type="VillageType.olive_trees" hearth="137" bound="Settlement.Ayyubid_castle_A1" background_crop_position="0.141" background_mesh="menu_aserai_village_4" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
+		</Components>
+		<Locations complex_template="LocationComplexTemplate.village_complex">
+			<Location id="village_center" scene_name="aserai_village_e" />
+		</Locations>
+		<CommonAreas>
+			<Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+			<Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+			<Area type="Bog" name="{=iXA5SttU}Bog" />
+		</CommonAreas>
+	</Settlement>
+	<!-- Ayyubid TOWN_A2-->
+	<Settlement id="Ayyubid_town_A2" name="{=Settlements.Settlement.ECM.Ayyubid_town_A2}Jerusalem" owner="Faction.clan_ayyubid_7" posX="1169.551" posY="647.453" culture="Culture.ayyubid" prosperity="4200" gate_posX="1169.696" gate_posY="648.9686" text="{=bnl7Va4c}Husn Fulq sits at the southeastern edge of the Caldea, the network of rivers and brackish lagoons linking the Empire to the Aserai lands. Fulq, also known as Phalcos, was a dark-faced mercenary chieftain who came from lands far to the south. He founded a fortress here and then parlayed its strategic location into a fortune, taking bribes from the Empire and then from the Aserai to switch sides. After 20 years of playing both sides back and forth he sailed home in a ship laden with gold, but many clans of the Aserai proudly claim descent from him, and the 'Tricks of Fulq' are a staple of many a bazaar storyteller's repetoire.">
+		<Components>
+			<Town id="Ayyubid_town_comp_A2" is_castle="false" level="3" background_crop_position="0.235" background_mesh="menu_aserai_1" wait_mesh="wait_aserai_town" gate_rotation="0.808" />
+		</Components>
+		<Locations complex_template="LocationComplexTemplate.town_complex">
+			<Location id="center" scene_name="aserai_town_a" scene_name_1="aserai_town_a" scene_name_2="aserai_town_a" scene_name_3="aserai_town_a" />
+			<Location id="arena" scene_name="arena_aserai_a" />
+			<Location id="tavern" scene_name="aserai_tavern_interior" />
+			<Location id="lordshall" scene_name_1="aserai_castle_keep_a_l1_interior" scene_name_2="aserai_castle_keep_a_l2_interior" scene_name_3="aserai_castle_keep_a_l3_interior" />
+			<Location id="prison" scene_name="aserai_dungeon_a" />
+			<Location id="house_1" scene_name="arabian_house_new_a_interior_a_house" />
+			<Location id="house_2" scene_name="arabian_house_new_a_interior_a_house" />
+			<Location id="house_3" scene_name="arabian_house_new_a_interior_a_house" />
+		</Locations>
+		<CommonAreas>
+			<Area type="Backstreet" name="{=a0MVffcN}Backstreet" />
+			<Area type="Clearing" name="{=LWHIVshb}Clearing" />
+			<Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront" />
+		</CommonAreas>
+	</Settlement>
+	<Settlement id="Ayyubid_village_A2_2" name="{=Settlements.Settlement.ECM.Ayyubid_village_A2_2}Tel-Aviv" posX="1177.386" posY="681.935" culture="Culture.ayyubid" text="{=Settlements.Settlement.text.Ayyubid_village_A2_2}Abu Khih sits along the Nahr al-Kals river on its way to its barren southern reaches. The surrounding lands, an ancient lakebed, are already becoming barren and alkaline, although date-palms still thrive.">
+		<Components>
+			<Village id="Ayyubid_village_comp_A2_2" village_type="VillageType.date_farm" hearth="297" bound="Settlement.Ayyubid_town_A2" background_crop_position="0.145" background_mesh="menu_aserai_village_2" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
+		</Components>
+		<Locations complex_template="LocationComplexTemplate.village_complex">
+			<Location id="village_center" scene_name="aserai_village_l" />
+		</Locations>
+		<CommonAreas>
+			<Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+			<Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+			<Area type="Bog" name="{=iXA5SttU}Bog" />
+		</CommonAreas>
+	</Settlement>
+	<Settlement id="Ayyubid_village_A2_3" name="{=Settlements.Settlement.ECM.Ayyubid_village_A2_3}Irbid" posX="1203.631" posY="690.037" culture="Culture.ayyubid" text="{=Settlements.Settlement.text.Ayyubid_village_A2_3}Hoqqa sits on the far east of the Aserai lands, on the Tiyagis river. The land is mostly desert-steppe. Barren most of the year except for scrub, it is covered in grass and flowers in the spring and is fine grazing for horses.">
+		<Components>
+			<Village id="Ayyubid_village_comp_A2_3" village_type="VillageType.desert_horse_ranch" hearth="243" bound="Settlement.Ayyubid_town_A2" background_crop_position="0.145" background_mesh="menu_aserai_village_2" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
+		</Components>
+		<Locations complex_template="LocationComplexTemplate.village_complex">
+			<Location id="village_center" scene_name="aserai_village_j" />
+		</Locations>
+		<CommonAreas>
+			<Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+			<Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+			<Area type="Bog" name="{=iXA5SttU}Bog" />
+		</CommonAreas>
+	</Settlement>
+	<!-- Ayyubid TOWN_A7-->
+	<Settlement id="Ayyubid_town_A7" name="{=Settlements.Settlement.ECM.Ayyubid_town_A7}Sidon" owner="Faction.clan_ayyubid_8" posX="1210.341" posY="709.056" culture="Culture.ayyubid" prosperity="2100" gate_posX="1208.589" gate_posY="709.9482" text="{=GChIoZdd}Askar dominates the middle stretches of the Damar River, as it weaves between the bluffs of the Jarjara Escarpment. This region has been thickly populated for thousands of years, but the river is restless, and every few centuries leaps its banks and erases what comes before. This latest regional capital was an imperial encampment  during their furthest penetration of the Nahasa several centuries ago, taken over by the Aserai tribes after the legions withdrew.">
+		<Components>
+			<Town id="Ayyubid_town_comp_A7" is_castle="false" level="3" background_crop_position="0.401" background_mesh="menu_aserai_4" wait_mesh="wait_aserai_town" gate_rotation="0.408" />
+		</Components>
+		<Locations complex_template="LocationComplexTemplate.town_complex">
+			<Location id="center" scene_name="aserai_town_d" scene_name_1="aserai_town_d" scene_name_2="aserai_town_d" scene_name_3="aserai_town_d" />
+			<Location id="arena" scene_name="arena_aserai_a" />
+			<Location id="tavern" scene_name="aserai_tavern_interior" />
+			<Location id="lordshall" scene_name_1="aserai_castle_keep_a_l1_interior" scene_name_2="aserai_castle_keep_a_l2_interior" scene_name_3="aserai_castle_keep_a_l3_interior" />
+			<Location id="prison" scene_name="aserai_dungeon_a" />
+			<Location id="house_1" scene_name="arabian_house_new_a_interior_a_house" />
+			<Location id="house_2" scene_name="arabian_house_new_a_interior_a_house" />
+			<Location id="house_3" scene_name="arabian_house_new_a_interior_a_house" />
+		</Locations>
+		<CommonAreas>
+			<Area type="Backstreet" name="{=a0MVffcN}Backstreet" />
+			<Area type="Clearing" name="{=LWHIVshb}Clearing" />
+			<Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront" />
+		</CommonAreas>
+	</Settlement>
+	<Settlement id="Ayyubid_village_A7_2" name="{=Settlements.Settlement.ECM.Ayyubid_village_A7_2}Ma'arrat al-Numan" posX="1211.367" posY="742.183" culture="Culture.ayyubid" text="{=Settlements.Settlement.text.Ayyubid_village_A7_2}Bait Hatif sits in the floodplain of the Damar river as it cuts through the Jarjara Escarpment. Rocky soil in this district limits irrigation, but horses thrive on the spring grasses of the hills.">
+		<Components>
+			<Village id="Ayyubid_village_comp_A7_2" village_type="VillageType.desert_horse_ranch" hearth="219" bound="Settlement.Ayyubid_town_A7" background_crop_position="0.214" background_mesh="menu_aserai_village_1" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
+		</Components>
+		<Locations complex_template="LocationComplexTemplate.village_complex">
+			<Location id="village_center" scene_name="aserai_village_j" />
+		</Locations>
+		<CommonAreas>
+			<Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+			<Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+			<Area type="Bog" name="{=iXA5SttU}Bog" />
+		</CommonAreas>
+	</Settlement>
+	<Settlement id="Ayyubid_village_A7_3" name="{=Settlements.Settlement.ECM.Ayyubid_village_A7_3}Beyrouth" posX="1195.599" posY="715.31" culture="Culture.ayyubid" text="{=Settlements.Settlement.text.Ayyubid_village_A7_3}Mabwaz overlooks the Damar River as it weaves through the mesas of the Jarjara Escarpment. Villagers grow wheat and other crops in the silt of the river floodplain.">
+		<Components>
+			<Village id="Ayyubid_village_comp_A7_3" village_type="VillageType.wheat_farm" hearth="235" gate_rotation="0.508" bound="Settlement.Ayyubid_town_A7" background_crop_position="0.214" background_mesh="menu_aserai_village_1" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
+		</Components>
+		<Locations complex_template="LocationComplexTemplate.village_complex">
+			<Location id="village_center" scene_name="aserai_village_l" />
+		</Locations>
+		<CommonAreas>
+			<Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+			<Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+			<Area type="Bog" name="{=iXA5SttU}Bog" />
+		</CommonAreas>
+	</Settlement>
+	<Settlement id="Ayyubid_village_A7_4" name="{=Settlements.Settlement.ECM.Ayyubid_village_A7_4}Netanya" posX="1184.923" posY="691.629" culture="Culture.ayyubid" text="{=Settlements.Settlement.text.Ayyubid_village_A7_4}Zalm sits at the Scorched Gates, where the Damar river descends from the Nahasa desert and starts its journey through the Jarjara Escarpment. The silt brought by the river produces bountiful crops of wheat.">
+		<Components>
+			<Village id="Ayyubid_village_comp_A7_4" village_type="VillageType.wheat_farm" hearth="258" gate_rotation="0.508" bound="Settlement.Ayyubid_town_A7" background_crop_position="0.214" background_mesh="menu_aserai_village_1" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
+		</Components>
+		<Locations complex_template="LocationComplexTemplate.village_complex">
+			<Location id="village_center" scene_name="aserai_village_k" />
+		</Locations>
+		<CommonAreas>
+			<Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+			<Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+			<Area type="Bog" name="{=iXA5SttU}Bog" />
+		</CommonAreas>
+	</Settlement>
+	<!-- Ayyubid TOWN_A5-->
+	<Settlement id="Ayyubid_town_A5" name="{=Settlements.Settlement.ECM.Ayyubid_town_A5}Issus" owner="Faction.clan_ayyubid_9" posX="1223.042" posY="762.175" culture="Culture.ayyubid" prosperity="3200" gate_posX="1225.874" gate_posY="761.0037" text="{=IIMWPVhU}The inland city of Hubyar is said to be built on the ruins of a luxurious hunting lodge built by the decadent and cruel king Thuran, whom the patriarch Asera slew in vengeance for the enslavement of his family. This memory may explain the worldview of the fierce and austere Banu Qild, who hold the castle today and who detest all frivolity. But the scent of jasmine that can be detected on the night breezes here carries an undercurrent of temptation. It was here that the hero Nimr came to grief, caught in the chamber of a Banu Qild maiden and left hanging in a cage in the market until he perished.">
+		<Components>
+			<Town id="Ayyubid_town_comp_A5" is_castle="false" level="2" background_crop_position="0.179" background_mesh="menu_aserai_3" wait_mesh="wait_aserai_town" gate_rotation="0.908" />
+		</Components>
+		<Locations complex_template="LocationComplexTemplate.town_complex">
+			<Location id="center" scene_name="aserai_town_b" scene_name_1="aserai_town_b" scene_name_2="aserai_town_b" scene_name_3="aserai_town_b" />
+			<Location id="arena" scene_name="arena_aserai_a" />
+			<Location id="tavern" scene_name="aserai_tavern_interior" />
+			<Location id="lordshall" scene_name_1="aserai_castle_keep_a_l1_interior" scene_name_2="aserai_castle_keep_a_l2_interior" scene_name_3="aserai_castle_keep_a_l3_interior" />
+			<Location id="prison" scene_name="aserai_dungeon_a" />
+			<Location id="house_1" scene_name="arabian_house_new_a_interior_a_house" />
+			<Location id="house_2" scene_name="arabian_house_new_a_interior_a_house" />
+			<Location id="house_3" scene_name="arabian_house_new_a_interior_a_house" />
+		</Locations>
+		<CommonAreas>
+			<Area type="Backstreet" name="{=a0MVffcN}Backstreet" />
+			<Area type="Clearing" name="{=LWHIVshb}Clearing" />
+			<Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront" />
+		</CommonAreas>
+	</Settlement>
+	<Settlement id="Ayyubid_village_A5_1" name="{=Settlements.Settlement.ECM.Ayyubid_village_A5_1}Abou Douhour" posX="1226.627" posY="746" culture="Culture.ayyubid" text="{=Settlements.Settlement.text.Ayyubid_village_A5_1}Mahloul sits in a broad valley between the Jarjara Escarpment and the Jabal Ashab hills in the desert steppe southeast of the Bahr al-Yeshm. Groundwater provides just enough water to grow crops for subsistence, while the village makes its money from rearing horses on the rich grass that grows in the Jabal Ashabi after the spring rains.">
+		<Components>
+			<Village id="Ayyubid_village_comp_A5_1" village_type="VillageType.desert_horse_ranch" hearth="231" bound="Settlement.Ayyubid_town_A5" background_crop_position="0.145" background_mesh="menu_aserai_village_2" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
+		</Components>
+		<Locations complex_template="LocationComplexTemplate.village_complex">
+			<Location id="village_center" scene_name="aserai_village_e" />
+		</Locations>
+		<CommonAreas>
+			<Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+			<Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+			<Area type="Bog" name="{=iXA5SttU}Bog" />
+		</CommonAreas>
+	</Settlement>
+	<Settlement id="Ayyubid_village_A5_2" name="{=Settlements.Settlement.ECM.Ayyubid_village_A5_2}Lattaquié" posX="1196.401" posY="754.756" culture="Culture.ayyubid" text="{=Settlements.Settlement.text.Ayyubid_village_A5_2}Liwas sits in a broad valley south of the Bahr al-Yeshm. Farmland is limited here, and the land is best known for the horses that are grazed on the desert's short-lived but rich spring grasses.">
+		<Components>
+			<Village id="Ayyubid_village_comp_A5_2" village_type="VillageType.desert_horse_ranch" hearth="150" bound="Settlement.Ayyubid_town_A5" background_crop_position="0.141" background_mesh="menu_aserai_village_4" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
+		</Components>
+		<Locations complex_template="LocationComplexTemplate.village_complex">
+			<Location id="village_center" scene_name="aserai_village_b" />
+		</Locations>
+		<CommonAreas>
+			<Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+			<Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+			<Area type="Bog" name="{=iXA5SttU}Bog" />
+		</CommonAreas>
+	</Settlement>
+	<Settlement id="Ayyubid_village_A5_3" name="{=Settlements.Settlement.ECM.Ayyubid_village_A5_3}Tartous" posX="1193.998" posY="736.377" culture="Culture.ayyubid" text="{=Settlements.Settlement.text.Ayyubid_village_A5_3}Waltas sits by the Bahr al-Yeshm, the Jade Sea, in lowlands well suited to the growing of flax.">
+		<Components>
+			<Village id="Ayyubid_village_comp_A5_3" village_type="VillageType.flax_plant" hearth="155" bound="Settlement.Ayyubid_town_A5" background_crop_position="0.141" background_mesh="menu_aserai_village_4" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
+		</Components>
+		<Locations complex_template="LocationComplexTemplate.village_complex">
+			<Location id="village_center" scene_name="aserai_village_j" />
+		</Locations>
+		<CommonAreas>
+			<Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+			<Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+			<Area type="Bog" name="{=iXA5SttU}Bog" />
+		</CommonAreas>
+	</Settlement>
+	<!-- Ayyubid CASTLE_A7-->
+	<Settlement id="Ayyubid_castle_A7" name="{=Settlements.Settlement.ECM.Ayyubid_castle_A7}Ravanda Castle" owner="Faction.clan_ayyubid_7" posX="1214.908" posY="777.566" culture="Culture.ayyubid" prosperity="550" gate_posX="1216.384" gate_posY="776.5944">
+		<Components>
+			<Town id="Ayyubid_castle_comp_A7" is_castle="true" level="2" background_crop_position="0.0" background_mesh="menu_aserai_3" wait_mesh="wait_aserai_town" gate_rotation="0.908" />
+		</Components>
+		<Locations complex_template="LocationComplexTemplate.castle_complex">
+			<Location id="center" scene_name="aserai_castle_002" scene_name_1="aserai_castle_002" scene_name_2="aserai_castle_002" scene_name_3="aserai_castle_002" />
+			<Location id="lordshall" scene_name_1="aserai_castle_keep_a_l1_interior" scene_name_2="aserai_castle_keep_a_l2_interior" scene_name_3="aserai_castle_keep_a_l3_interior" />
+			<Location id="prison" scene_name="aserai_dungeon_a" />
+		</Locations>
+	</Settlement>
+	<Settlement id="Ayyubid_castle_village_A7_1" name="{=Settlements.Settlement.ECM.Ayyubid_castle_village_A7_1}Ravanda" posX="1215.723" posY="768.23" culture="Culture.ayyubid" text="{=Settlements.Settlement.text.Ayyubid_castle_village_A7_1}Uqba sits alongside the Perassic Sea. Villagers trap rainwater and runoff from the hills to water their fields and their gardens of date-palms.">
+		<Components>
+			<Village id="Ayyubid_castle_village_comp_A7_1" village_type="VillageType.date_farm" hearth="477" bound="Settlement.Ayyubid_castle_A7" background_crop_position="0.145" background_mesh="menu_aserai_village_2" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
+		</Components>
+		<Locations complex_template="LocationComplexTemplate.village_complex">
+			<Location id="village_center" scene_name="aserai_village_k" />
+		</Locations>
+		<CommonAreas>
+			<Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+			<Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+			<Area type="Bog" name="{=iXA5SttU}Bog" />
+		</CommonAreas>
+	</Settlement>
+	<Settlement id="Ayyubid_castle_village_A7_2" name="{=Settlements.Settlement.ECM.Ayyubid_castle_village_A7_2}Alexandrette" posX="1196.172" posY="768.431" culture="Culture.ayyubid" text="{=Settlements.Settlement.text.Ayyubid_castle_village_A7_2}Bunqaz sits at the mouth of the great wadi that divides the Jarjara Escarpment from the Jabal Tamar hills. Villagers sink wells here to tap the wadi's groundwater, using it to irrigate their olive groves.">
+		<Components>
+			<Village id="Ayyubid_castle_village_comp_A7_2" village_type="VillageType.olive_trees" hearth="477" bound="Settlement.Ayyubid_castle_A7" background_crop_position="0.145" background_mesh="menu_aserai_village_2" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
+		</Components>
+		<Locations complex_template="LocationComplexTemplate.village_complex">
+			<Location id="village_center" scene_name="aserai_village_e" />
+		</Locations>
+		<CommonAreas>
+			<Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+			<Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+			<Area type="Bog" name="{=iXA5SttU}Bog" />
+		</CommonAreas>
+	</Settlement>
+	
 </Settlements>
