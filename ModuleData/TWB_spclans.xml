@@ -547,26 +547,8 @@
              super_faction="Kingdom.Emporion"
              is_noble="true"
              banner_key="11.71.4.4922.4922.776.777.1.0.0.343.5.0.419.348.764.910.0.0.0.106.5.0.422.411.764.651.0.0.0.505.5.0.87.47.764.805.0.0.0"/>
-    <!--    EPIRUS  -->
-    <Faction id="clan_empire_north_7"
-             name="{=CibaXzG8}Phalentes"
-             tier="6"
-             owner="Hero.lord_1_58"
-             culture="Culture.epirus"
-             super_faction="Kingdom.Epirus"
-             is_noble="true"
-             banner_key="11.71.4.4345.4345.764.764.1.0.0.423.5.0.506.506.764.764.0.0.0.529.5.0.261.261.764.764.0.0.0"/>
-    <Faction id="clan_vlandia_7"
-             name="{=LZVzzczs}dey Fortes"
-             tier="3"
-             owner="Hero.lord_4_23"
-             culture="Culture.epirus"
-             super_faction="Kingdom.Epirus"
-             is_noble="true"
-             banner_key="11.71.14.4922.4922.764.764.1.0.0.346.15.0.208.208.764.764.0.0.0.424.15.0.213.213.585.764.0.0.0.424.15.0.213.213.943.764.0.0.0"/>
     <!--    MACEDONIA   -->
-
-	<Faction id="twb_clan_14"
+    <Faction id="twb_clan_14"
              name="{=Argeades}Argeades"
              tier="6"
              owner="Hero.lord_twb_1_14"
@@ -590,7 +572,6 @@
              super_faction="Kingdom.Macedon"
              is_noble="true"
              banner_key="11.71.116.2240.2217.766.758.0.0.0.503.132.116.110.110.764.764.1.1.0.504.132.116.35.400.764.574.0.0.0.504.132.116.35.400.764.954.0.0.180.504.132.116.35.400.954.764.0.0.270.504.132.116.35.400.574.764.0.0.90.504.132.116.35.400.629.629.0.0.45.504.132.116.35.400.629.899.0.0.135.504.132.116.35.400.899.899.0.0.225.504.132.116.35.400.899.629.0.0.315.503.132.116.37.37.707.821.0.0.280.503.132.116.37.37.821.821.0.0.280.503.132.116.37.37.821.707.0.0.280.503.132.116.37.37.707.707.0.0.280.503.132.116.37.37.764.694.0.0.280.503.132.116.37.37.764.837.0.0.280.503.132.116.37.37.691.764.0.0.280.503.132.116.37.37.837.764.0.0.280"/>
-    
     <!--    MASSILIA    -->
     <Faction id="clan_empire_south_9"
              name="{=xbkYPXCt}Vetranis"
@@ -759,7 +740,7 @@
              is_noble="true"
              banner_key="12.91.124.966.948.794.722.0.0.6.445.140.140.463.463.764.654.0.0.0.438.140.140.463.463.764.940.0.0.0"
     />
-<!--   DANEMARK-->
+    <!--   DANEMARK-->
     <!--    HERULI  -->
     <Faction id="clan_khuzait_5"
              name="{=gXeF1yKn}Harfit"
@@ -794,7 +775,7 @@
              super_faction="Kingdom.Cimbri"
              is_noble="true"
              banner_key="34.135.100.2240.2217.760.782.0.0.0.500.136.142.789.784.750.782.0.1.-1.203.92.135.439.491.586.770.0.1.-1.148.116.135.355.382.738.885.0.1.0.203.92.135.439.491.915.788.0.1.-1.427.126.135.439.116.750.1007.0.0.180.503.122.135.474.159.742.1048.0.0.180.437.116.135.167.139.740.1043.0.0.-1.115.116.135.120.100.694.560.0.0.-1"/>
-<!--   GERMANS-->
+    <!--   GERMANS-->
     <!-- BURGUNDIONES -->
     <Faction id="clan_empire_north_1"
              name="{=fXENjJJL}Burgundiones"
@@ -839,7 +820,7 @@
              super_faction="Kingdom.Gepids"
              is_noble="true"
              banner_key="26.104.76.690.800.763.764.0.0.0.114.22.82.627.627.754.774.0.0.0.114.121.82.627.627.764.764.0.0.0"/>
-	<Faction id="clan_khuzait_4"
+    <Faction id="clan_khuzait_4"
              name="{=m0teef5g}Tigrit"
              tier="3"
              owner="Hero.lord_6_16"
@@ -847,7 +828,7 @@
              super_faction="Kingdom.Gepids"
              is_noble="true"
              banner_key="11.25.10.4345.4345.780.802.1.0.0.503.11.0.164.164.904.913.0.0.0.314.11.0.508.508.764.764.0.0.0.503.11.0.164.164.624.913.0.0.0"/>
-<!--    CELTIC FACTIONS-->
+    <!--    CELTIC FACTIONS-->
     <!--    DACIA -->
     <Faction id="clan_khuzait_3"
              name="{=VpF6skYs}Arkit"
@@ -874,7 +855,24 @@
              super_faction="Kingdom.Scordisci"
              is_noble="true"
              banner_key="11.71.4.4922.4922.764.764.1.0.0.529.5.0.152.152.872.873.0.0.0.419.5.0.510.510.764.764.0.0.0.526.5.0.152.152.656.873.0.0.0.527.5.0.152.152.651.654.0.0.0.528.5.0.152.152.877.654.0.0.0"/>
-<!--    GALLIA-->
+    <Faction id="clan_vlandia_7"
+             name="{=LZVzzczs}dey Fortes"
+             tier="3"
+             owner="Hero.lord_4_23"
+             culture="Culture.scordisci"
+             super_faction="Kingdom.Scordisci"
+             is_noble="true"
+             banner_key="11.71.14.4922.4922.764.764.1.0.0.346.15.0.208.208.764.764.0.0.0.424.15.0.213.213.585.764.0.0.0.424.15.0.213.213.943.764.0.0.0"/>
+<!--    ARDIAEI    -->
+    <Faction id="clan_empire_north_7"
+             name="{=CibaXzG8}Phalentes"
+             tier="6"
+             owner="Hero.lord_1_58"
+             culture="Culture.vlandia"
+             super_faction="Kingdom.Ardiaei"
+             is_noble="true"
+             banner_key="11.10.10.1536.1536.764.764.1.0.0.461.11.11.497.497.764.764.1.0.0"/>
+    <!--    GALLIA-->
     <!--    AEDUI   -->
     <Faction id="clan_vlandia_8"
              name="{=9NWQNInC}dey Molarn"
@@ -990,7 +988,7 @@
              super_faction="Kingdom.Volcae"
              is_noble="true"
              banner_key="11.22.22.690.800.763.764.0.0.0.406.82.82.627.627.764.764.0.0.0"/>
-<!--    ENGLAND-->
+    <!--    ENGLAND-->
     <!--    CALEDONES   -->
     <Faction id="clan_battania_1"
              name="{=a67wFbUw}fen Gruffendoc"
@@ -1034,7 +1032,7 @@
              super_faction="Kingdom.Ordovices"
              is_noble="true"
              banner_key="11.100.100.4345.4345.764.764.1.0.0.504.110.110.80.80.764.978.1.0.180.407.110.110.368.368.764.757.0.0.0.504.110.110.110.110.764.535.1.0.180"/>
-<!--   IRELAND-->
+    <!--   IRELAND-->
     <!--    HEREMON -->
     <Faction id="clan_battania_3"
              name="{=0m0IUnL1}Heremon Taellach"
@@ -1135,9 +1133,9 @@
              banner_key="34.121.121.2163.2044.764.764.0.1.180.500.145.144.722.705.755.767.0.1.0.512.145.144.624.609.746.765.0.1.0.512.22.144.567.553.746.765.0.1.0.512.116.144.516.504.746.765.0.1.0.510.22.144.506.264.746.762.0.1.89.406.145.144.99.104.668.762.0.1.89.406.145.144.99.104.819.758.0.1.89"/>
 
 
-	<!--    TWB new clans start    -->
-	
-	<Faction id="twb_clan_1"
+    <!--    TWB new clans start    -->
+
+    <Faction id="twb_clan_1"
              name="{=DiorixPD}Diorix"
              tier="3"
              owner="Hero.lord_twb_1_1"
@@ -1146,7 +1144,7 @@
              is_noble="true"
              banner_key="34.126.2.2244.2090.764.764.0.0.0.500.92.122.761.742.758.762.0.0.0.413.92.122.234.217.769.883.0.1.0.413.92.122.232.215.666.680.0.1.0.413.92.122.221.204.879.676.0.1.0"/>
 
-	<Faction id="twb_clan_2"
+    <Faction id="twb_clan_2"
              name="{=TalagniD}Talagni"
              tier="3"
              owner="Hero.lord_twb_1_2"
@@ -1155,7 +1153,7 @@
              is_noble="true"
              banner_key="34.126.2.2244.2090.764.764.0.0.0.500.92.122.761.742.758.762.0.0.0.413.92.122.234.217.769.883.0.1.0.413.92.122.232.215.666.680.0.1.0.413.92.122.221.204.879.676.0.1.0"/>
 
-	<Faction id="twb_clan_3"
+    <Faction id="twb_clan_3"
              name="{=GedilliD}Gedilli"
              tier="3"
              owner="Hero.lord_twb_1_3"
@@ -1164,7 +1162,7 @@
              is_noble="true"
              banner_key="34.126.2.2244.2090.764.764.0.0.0.500.92.122.761.742.758.762.0.0.0.413.92.122.234.217.769.883.0.1.0.413.92.122.232.215.666.680.0.1.0.413.92.122.221.204.879.676.0.1.0"/>
 
-	<Faction id="twb_clan_4"
+    <Faction id="twb_clan_4"
              name="{=Virisimi}Virisimi"
              tier="3"
              owner="Hero.lord_twb_1_4"
@@ -1173,7 +1171,7 @@
              is_noble="true"
              banner_key="34.126.2.2244.2090.764.764.0.0.0.500.92.122.761.742.758.762.0.0.0.413.92.122.234.217.769.883.0.1.0.413.92.122.232.215.666.680.0.1.0.413.92.122.221.204.879.676.0.1.0"/>
 
-	<Faction id="twb_clan_5"
+    <Faction id="twb_clan_5"
              name="{=Banni123}Banni"
              tier="3"
              owner="Hero.lord_twb_1_5"
@@ -1182,7 +1180,7 @@
              is_noble="true"
              banner_key="34.126.2.2244.2090.764.764.0.0.0.500.92.122.761.742.758.762.0.0.0.413.92.122.234.217.769.883.0.1.0.413.92.122.232.215.666.680.0.1.0.413.92.122.221.204.879.676.0.1.0"/>
 
-	<Faction id="twb_clan_6"
+    <Faction id="twb_clan_6"
              name="{=Oppianicnos}Oppianicnos"
              tier="3"
              owner="Hero.lord_twb_1_6"
@@ -1191,7 +1189,7 @@
              is_noble="true"
              banner_key="34.126.2.2244.2090.764.764.0.0.0.500.92.122.761.742.758.762.0.0.0.413.92.122.234.217.769.883.0.1.0.413.92.122.232.215.666.680.0.1.0.413.92.122.221.204.879.676.0.1.0"/>
 
-	<Faction id="twb_clan_7"
+    <Faction id="twb_clan_7"
              name="{=Eqqegni}Eqqegni"
              tier="3"
              owner="Hero.lord_twb_1_7"
@@ -1200,7 +1198,7 @@
              is_noble="true"
              banner_key="34.126.2.2244.2090.764.764.0.0.0.500.92.122.761.742.758.762.0.0.0.413.92.122.234.217.769.883.0.1.0.413.92.122.232.215.666.680.0.1.0.413.92.122.221.204.879.676.0.1.0"/>
 
-	<Faction id="twb_clan_8"
+    <Faction id="twb_clan_8"
              name="{=Vecconius}Vecconius"
              tier="3"
              owner="Hero.lord_twb_1_8"
@@ -1209,7 +1207,7 @@
              is_noble="true"
              banner_key="34.126.2.2244.2090.764.764.0.0.0.500.92.122.761.742.758.762.0.0.0.413.92.122.234.217.769.883.0.1.0.413.92.122.232.215.666.680.0.1.0.413.92.122.221.204.879.676.0.1.0"/>
 
-	<Faction id="twb_clan_9"
+    <Faction id="twb_clan_9"
              name="{=Litgenes}Litgenes"
              tier="3"
              owner="Hero.lord_twb_1_9"
@@ -1218,7 +1216,7 @@
              is_noble="true"
              banner_key="34.126.2.2244.2090.764.764.0.0.0.500.92.122.761.742.758.762.0.0.0.413.92.122.234.217.769.883.0.1.0.413.92.122.232.215.666.680.0.1.0.413.92.122.221.204.879.676.0.1.0"/>
 
-	<Faction id="twb_clan_10"
+    <Faction id="twb_clan_10"
              name="{=Curcagni}Curcagni"
              tier="3"
              owner="Hero.lord_twb_1_10"
@@ -1227,7 +1225,7 @@
              is_noble="true"
              banner_key="34.126.2.2244.2090.764.764.0.0.0.500.92.122.761.742.758.762.0.0.0.413.92.122.234.217.769.883.0.1.0.413.92.122.232.215.666.680.0.1.0.413.92.122.221.204.879.676.0.1.0"/>
 
-	<Faction id="twb_clan_11"
+    <Faction id="twb_clan_11"
              name="{=Lituriri}Lituriri"
              tier="3"
              owner="Hero.lord_twb_1_11"
@@ -1236,7 +1234,7 @@
              is_noble="true"
              banner_key="34.126.2.2244.2090.764.764.0.0.0.500.92.122.761.742.758.762.0.0.0.413.92.122.234.217.769.883.0.1.0.413.92.122.232.215.666.680.0.1.0.413.92.122.221.204.879.676.0.1.0"/>
 
-	<Faction id="twb_clan_12"
+    <Faction id="twb_clan_12"
              name="{=Andereseni}Andereseni"
              tier="3"
              owner="Hero.lord_twb_1_12"
@@ -1245,7 +1243,7 @@
              is_noble="true"
              banner_key="34.126.2.2244.2090.764.764.0.0.0.500.92.122.761.742.758.762.0.0.0.413.92.122.234.217.769.883.0.1.0.413.92.122.232.215.666.680.0.1.0.413.92.122.221.204.879.676.0.1.0"/>
 
-	<Faction id="twb_clan_13"
+    <Faction id="twb_clan_13"
              name="{=Taurou12}Taurou"
              tier="3"
              owner="Hero.lord_twb_1_13"
@@ -1254,7 +1252,7 @@
              is_noble="true"
              banner_key="34.126.2.2244.2090.764.764.0.0.0.500.92.122.761.742.758.762.0.0.0.413.92.122.234.217.769.883.0.1.0.413.92.122.232.215.666.680.0.1.0.413.92.122.221.204.879.676.0.1.0"/>
 
-	<Faction id="twb_clan_15"
+    <Faction id="twb_clan_15"
              name="{=Piscius1}Piscius"
              tier="3"
              owner="Hero.lord_twb_1_15"
@@ -1263,50 +1261,50 @@
              is_noble="true"
              banner_key="34.126.2.2244.2090.764.764.0.0.0.500.92.122.761.742.758.762.0.0.0.413.92.122.234.217.769.883.0.1.0.413.92.122.232.215.666.680.0.1.0.413.92.122.221.204.879.676.0.1.0"/>
 
-	<Faction id="twb_clan_16"
-				 name="{=Antistius}Antistius"
-				 tier="4"
-				 owner="Hero.lord_twb_1_16"
-				 culture="Culture.empire"
-				 super_faction="Kingdom.Rome"
-				 is_noble="true"
-				 banner_key="34.126.2.2244.2090.764.764.0.0.0.500.92.122.761.742.758.762.0.0.0.413.92.122.234.217.769.883.0.1.0.413.92.122.232.215.666.680.0.1.0.413.92.122.221.204.879.676.0.1.0"/>
+    <Faction id="twb_clan_16"
+             name="{=Antistius}Antistius"
+             tier="4"
+             owner="Hero.lord_twb_1_16"
+             culture="Culture.empire"
+             super_faction="Kingdom.Rome"
+             is_noble="true"
+             banner_key="34.126.2.2244.2090.764.764.0.0.0.500.92.122.761.742.758.762.0.0.0.413.92.122.234.217.769.883.0.1.0.413.92.122.232.215.666.680.0.1.0.413.92.122.221.204.879.676.0.1.0"/>
 
     <Faction id="twb_clan_17"
-				 name="{=Loxias12}Loxias"
-				 tier="4"
-				 owner="Hero.lord_twb_1_17"
-				 culture="Culture.empire"
-				 super_faction="Kingdom.Massilia"
-				 is_noble="true"
-				 banner_key="34.126.2.2244.2090.764.764.0.0.0.500.92.122.761.742.758.762.0.0.0.413.92.122.234.217.769.883.0.1.0.413.92.122.232.215.666.680.0.1.0.413.92.122.221.204.879.676.0.1.0"/>
-	
-	<Faction id="twb_clan_18"
-				 name="{=Praxis12}Praxis"
-				 tier="4"
-				 owner="Hero.lord_twb_1_18"
-				 culture="Culture.empire"
-				 super_faction="Kingdom.Syracuse"
-				 is_noble="true"
-				 banner_key="34.126.2.2244.2090.764.764.0.0.0.500.92.122.761.742.758.762.0.0.0.413.92.122.234.217.769.883.0.1.0.413.92.122.232.215.666.680.0.1.0.413.92.122.221.204.879.676.0.1.0"/>
+             name="{=Loxias12}Loxias"
+             tier="4"
+             owner="Hero.lord_twb_1_17"
+             culture="Culture.empire"
+             super_faction="Kingdom.Massilia"
+             is_noble="true"
+             banner_key="34.126.2.2244.2090.764.764.0.0.0.500.92.122.761.742.758.762.0.0.0.413.92.122.234.217.769.883.0.1.0.413.92.122.232.215.666.680.0.1.0.413.92.122.221.204.879.676.0.1.0"/>
 
-	<Faction id="twb_clan_19"
-				 name="{=Istbrivir}Istbrivir"
-				 tier="4"
-				 owner="Hero.lord_twb_1_19"
-				 culture="Culture.kven"
-				 super_faction="Kingdom.Arochi"
-				 is_noble="true"
-				 banner_key="34.126.2.2244.2090.764.764.0.0.0.500.92.122.761.742.758.762.0.0.0.413.92.122.234.217.769.883.0.1.0.413.92.122.232.215.666.680.0.1.0.413.92.122.221.204.879.676.0.1.0"/>
-	
-	<Faction id="twb_clan_20"
-				 name="{=Harthunae}Harthunae"
-				 tier="4"
-				 owner="Hero.lord_twb_1_20"
-				 culture="Culture.kven"
-				 super_faction="Kingdom.Finns"
-				 is_noble="true"
-				 banner_key="34.126.2.2244.2090.764.764.0.0.0.500.92.122.761.742.758.762.0.0.0.413.92.122.234.217.769.883.0.1.0.413.92.122.232.215.666.680.0.1.0.413.92.122.221.204.879.676.0.1.0"/>
+    <Faction id="twb_clan_18"
+             name="{=Praxis12}Praxis"
+             tier="4"
+             owner="Hero.lord_twb_1_18"
+             culture="Culture.empire"
+             super_faction="Kingdom.Syracuse"
+             is_noble="true"
+             banner_key="34.126.2.2244.2090.764.764.0.0.0.500.92.122.761.742.758.762.0.0.0.413.92.122.234.217.769.883.0.1.0.413.92.122.232.215.666.680.0.1.0.413.92.122.221.204.879.676.0.1.0"/>
+
+    <Faction id="twb_clan_19"
+             name="{=Istbrivir}Istbrivir"
+             tier="4"
+             owner="Hero.lord_twb_1_19"
+             culture="Culture.kven"
+             super_faction="Kingdom.Arochi"
+             is_noble="true"
+             banner_key="34.126.2.2244.2090.764.764.0.0.0.500.92.122.761.742.758.762.0.0.0.413.92.122.234.217.769.883.0.1.0.413.92.122.232.215.666.680.0.1.0.413.92.122.221.204.879.676.0.1.0"/>
+
+    <Faction id="twb_clan_20"
+             name="{=Harthunae}Harthunae"
+             tier="4"
+             owner="Hero.lord_twb_1_20"
+             culture="Culture.kven"
+             super_faction="Kingdom.Finns"
+             is_noble="true"
+             banner_key="34.126.2.2244.2090.764.764.0.0.0.500.92.122.761.742.758.762.0.0.0.413.92.122.234.217.769.883.0.1.0.413.92.122.232.215.666.680.0.1.0.413.92.122.221.204.879.676.0.1.0"/>
 
     <Faction id="twb_clan_21"
              name="{=Bannixci}Bannixci"
@@ -1317,7 +1315,7 @@
              is_noble="true"
              banner_key="34.126.2.2244.2090.764.764.0.0.0.500.92.122.761.742.758.762.0.0.0.413.92.122.234.217.769.883.0.1.0.413.92.122.232.215.666.680.0.1.0.413.92.122.221.204.879.676.0.1.0"/>
 
-	<Faction id="twb_clan_22"
+    <Faction id="twb_clan_22"
              name="{=Novbrisin}Novbrisin"
              tier="3"
              owner="Hero.lord_twb_1_22"
@@ -1326,7 +1324,7 @@
              is_noble="true"
              banner_key="34.126.2.2244.2090.764.764.0.0.0.500.92.122.761.742.758.762.0.0.0.413.92.122.234.217.769.883.0.1.0.413.92.122.232.215.666.680.0.1.0.413.92.122.221.204.879.676.0.1.0"/>
 
-	<Faction id="twb_clan_23"
+    <Faction id="twb_clan_23"
              name="{=Ubrugni}Ubrugni"
              tier="3"
              owner="Hero.lord_twb_1_23"
@@ -1335,7 +1333,7 @@
              is_noble="true"
              banner_key="34.126.2.2244.2090.764.764.0.0.0.500.92.122.761.742.758.762.0.0.0.413.92.122.234.217.769.883.0.1.0.413.92.122.232.215.666.680.0.1.0.413.92.122.221.204.879.676.0.1.0"/>
 
-	<Faction id="twb_clan_24"
+    <Faction id="twb_clan_24"
              name="{=Mixvarri}Mixvarri"
              tier="3"
              owner="Hero.lord_twb_1_24"
@@ -1344,7 +1342,7 @@
              is_noble="true"
              banner_key="34.126.2.2244.2090.764.764.0.0.0.500.92.122.761.742.758.762.0.0.0.413.92.122.234.217.769.883.0.1.0.413.92.122.232.215.666.680.0.1.0.413.92.122.221.204.879.676.0.1.0"/>
 
-	<Faction id="twb_clan_25"
+    <Faction id="twb_clan_25"
              name="{=Isharvmi}Isharvmi"
              tier="3"
              owner="Hero.lord_twb_1_25"
@@ -1353,7 +1351,7 @@
              is_noble="true"
              banner_key="34.126.2.2244.2090.764.764.0.0.0.500.92.122.761.742.758.762.0.0.0.413.92.122.234.217.769.883.0.1.0.413.92.122.232.215.666.680.0.1.0.413.92.122.221.204.879.676.0.1.0"/>
 
-	<Faction id="twb_clan_26"
+    <Faction id="twb_clan_26"
              name="{=Tabnit12}Tabnit"
              tier="3"
              owner="Hero.lord_twb_1_26"
@@ -1362,7 +1360,7 @@
              is_noble="true"
              banner_key="34.126.2.2244.2090.764.764.0.0.0.500.92.122.761.742.758.762.0.0.0.413.92.122.234.217.769.883.0.1.0.413.92.122.232.215.666.680.0.1.0.413.92.122.221.204.879.676.0.1.0"/>
 
-	<Faction id="twb_clan_27"
+    <Faction id="twb_clan_27"
              name="{=Tereiti}Tereiti"
              tier="3"
              owner="Hero.lord_twb_1_27"
@@ -1371,7 +1369,7 @@
              is_noble="true"
              banner_key="34.126.2.2244.2090.764.764.0.0.0.500.92.122.761.742.758.762.0.0.0.413.92.122.234.217.769.883.0.1.0.413.92.122.232.215.666.680.0.1.0.413.92.122.221.204.879.676.0.1.0"/>
 
-<Faction id="twb_clan_28"
+    <Faction id="twb_clan_28"
              name="{=Ianga123}Ianga"
              tier="3"
              owner="Hero.lord_twb_1_28"
