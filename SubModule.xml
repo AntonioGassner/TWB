@@ -1,7 +1,7 @@
 <Module>
     <Name value="Total_War_Bannerlord"/>
     <Id value="Total_War_Bannerlord"/>
-    <Version value="v1.0.0"/>
+    <Version value="v1.0.3"/>
     <DefaultModule value="false"/>
     <SingleplayerModule value="true"/>
     <MultiplayerModule value="false"/>
@@ -20,6 +20,8 @@
             <IncludedGameTypes>
                 <GameType value="Campaign"/>
                 <GameType value="CampaignStoryMode"/>
+				<GameType value="CustomGame"/>
+				<GameType value="EditorGame"/>
             </IncludedGameTypes>
         </XmlNode>
         <XmlNode>
@@ -27,6 +29,8 @@
             <IncludedGameTypes>
                 <GameType value="Campaign"/>
                 <GameType value="CampaignStoryMode"/>
+				<GameType value="CustomGame"/>
+				<GameType value="EditorGame"/>
             </IncludedGameTypes>
         </XmlNode>
 
@@ -45,6 +49,8 @@
             <IncludedGameTypes>
                 <GameType value="Campaign"/>
                 <GameType value="CampaignStoryMode"/>
+				<GameType value="CustomGame"/>
+				<GameType value="EditorGame"/>
             </IncludedGameTypes>
         </XmlNode>
         <XmlNode>
@@ -52,6 +58,8 @@
             <IncludedGameTypes>
                 <GameType value="Campaign"/>
                 <GameType value="CampaignStoryMode"/>
+				<GameType value="CustomGame"/>
+				<GameType value="EditorGame"/>
             </IncludedGameTypes>
         </XmlNode>
         <XmlNode>
@@ -59,6 +67,8 @@
             <IncludedGameTypes>
                 <GameType value="Campaign"/>
                 <GameType value="CampaignStoryMode"/>
+				<GameType value="CustomGame"/>
+				<GameType value="EditorGame"/>
             </IncludedGameTypes>
         </XmlNode>
         <XmlNode>
@@ -66,6 +76,8 @@
             <IncludedGameTypes>
                 <GameType value="Campaign"/>
                 <GameType value="CampaignStoryMode"/>
+				<GameType value="CustomGame"/>
+				<GameType value="EditorGame"/>
             </IncludedGameTypes>
         </XmlNode>
         <XmlNode>
@@ -73,6 +85,8 @@
             <IncludedGameTypes>
                 <GameType value="Campaign"/>
                 <GameType value="CampaignStoryMode"/>
+				<GameType value="CustomGame"/>
+				<GameType value="EditorGame"/>
             </IncludedGameTypes>
         </XmlNode>
 
@@ -81,19 +95,21 @@
             <IncludedGameTypes>
                 <GameType value="Campaign"/>
                 <GameType value="CampaignStoryMode"/>
+				<GameType value="CustomGame"/>
+				<GameType value="EditorGame"/>
             </IncludedGameTypes>
         </XmlNode>
 
-<!--        <XmlNode>-->
-<!--            <XmlName id="EquipmentRosters" path="TWB_equipment_sets"/>-->
-<!--            <IncludedGameTypes>-->
-<!--                <GameType value="Campaign"/>-->
-<!--                <GameType value="CampaignStoryMode"/>-->
-<!--                <GameType value="CustomGame"/>-->
-<!--                <GameType value="EditorGame"/>-->
-<!--            </IncludedGameTypes>-->
-<!--        </XmlNode>-->
-        <XmlNode>
+		<XmlNode>
+			<XmlName id="EquipmentRosters" path="equipment_sets"/>
+			<IncludedGameTypes>
+				<GameType value = "Campaign"/>
+				<GameType value = "CampaignStoryMode"/>
+				<GameType value = "CustomGame"/>
+			</IncludedGameTypes>
+		</XmlNode>
+
+<!--      <XmlNode>
             <XmlName id="SkillSets" path="TWB_skill_sets"/>
             <IncludedGameTypes>
                 <GameType value="Campaign"/>
@@ -101,14 +117,15 @@
                 <GameType value="CustomGame"/>
                 <GameType value="EditorGame"/>
             </IncludedGameTypes>
-        </XmlNode>
+        </XmlNode> -->
 
-        <XmlNode>
+		<XmlNode>
             <XmlName id="CraftingPieces" path="crafting_pieces"/>
             <IncludedGameTypes>
                 <GameType value="Campaign"/>
                 <GameType value="CampaignStoryMode"/>
                 <GameType value="CustomGame"/>
+				<GameType value="EditorGame"/>
             </IncludedGameTypes>
         </XmlNode>
         <XmlNode>
@@ -117,6 +134,7 @@
                 <GameType value="Campaign"/>
                 <GameType value="CampaignStoryMode"/>
                 <GameType value="CustomGame"/>
+				<GameType value="EditorGame"/>
             </IncludedGameTypes>
         </XmlNode>
 
@@ -126,6 +144,7 @@
                 <GameType value="Campaign"/>
                 <GameType value="CampaignStoryMode"/>
                 <GameType value="CustomGame"/>
+				<GameType value="EditorGame"/>
             </IncludedGameTypes>
         </XmlNode>
         <XmlNode>
@@ -134,6 +153,7 @@
                 <GameType value="Campaign"/>
                 <GameType value="CampaignStoryMode"/>
                 <GameType value="CustomGame"/>
+				<GameType value="EditorGame"/>
             </IncludedGameTypes>
         </XmlNode>
 
@@ -142,6 +162,8 @@
             <IncludedGameTypes>
                 <GameType value="Campaign"/>
                 <GameType value="CampaignStoryMode"/>
+				<GameType value="CustomGame"/>
+				<GameType value="EditorGame"/>
             </IncludedGameTypes>
         </XmlNode>
 
@@ -159,6 +181,8 @@
             <IncludedGameTypes>
                 <GameType value="Campaign"/>
                 <GameType value="CampaignStoryMode"/>
+				<GameType value="CustomGame"/>
+				<GameType value="EditorGame"/>
             </IncludedGameTypes>
         </XmlNode>
         <XmlNode>
@@ -166,15 +190,27 @@
             <IncludedGameTypes>
                 <GameType value="Campaign"/>
                 <GameType value="CampaignStoryMode"/>
+				<GameType value="CustomGame"/>
+				<GameType value="EditorGame"/>
             </IncludedGameTypes>
         </XmlNode>
 
-        <XmlNode>
+		<!--	<XmlNode>
+			<XmlName id="NPCCharacters" path="spnpccharacters"/>
+			<IncludedGameTypes>
+				<GameType value="Campaign"/>
+				<GameType value="CampaignStoryMode"/>
+				<GameType value="CustomGame"/>
+			</IncludedGameTypes>
+		</XmlNode> -->
+
+			<XmlNode>
             <XmlName id="NPCCharacters" path="TWB_spnpccharacters"/>
             <IncludedGameTypes>
                 <GameType value="Campaign"/>
                 <GameType value="CampaignStoryMode"/>
                 <GameType value="CustomGame"/>
+				<GameType value="EditorGame"/>
             </IncludedGameTypes>
         </XmlNode>
         <XmlNode>
@@ -183,23 +219,45 @@
                 <GameType value="Campaign"/>
                 <GameType value="CampaignStoryMode"/>
                 <GameType value="CustomGame"/>
+				<GameType value="EditorGame"/>
             </IncludedGameTypes>
         </XmlNode>
-    <XmlNode>
-        <XmlName id="NPCCharacters" path="lords"/>
-        <IncludedGameTypes>
-            <GameType value="Campaign"/>
-            <GameType value="CampaignStoryMode"/>
-        </IncludedGameTypes>
-    </XmlNode>
-    <XmlNode>
-        <XmlName id="Heroes" path="heroes"/>
-        <IncludedGameTypes>
-            <GameType value = "Campaign"/>
-            <GameType value = "CampaignStoryMode"/>
-        </IncludedGameTypes>
-    </XmlNode>
-
+	
+        <XmlNode>               
+			<XmlName id="NPCCharacters" path="lords"/>
+			<IncludedGameTypes>
+				<GameType value = "Campaign"/>
+				<GameType value = "CampaignStoryMode"/>
+				<GameType value="CustomGame"/>
+				<GameType value="EditorGame"/>
+			</IncludedGameTypes>
+		</XmlNode>
+	    <XmlNode>                
+			<XmlName id="Heroes" path="heroes"/>
+			<IncludedGameTypes>
+				<GameType value = "Campaign"/>
+				<GameType value = "CampaignStoryMode"/>
+				<GameType value="CustomGame"/>
+				<GameType value="EditorGame"/>
+			</IncludedGameTypes>
+		</XmlNode>
+	<XmlNode>
+			<XmlName id="CraftingTemplates" path="TWB_crafting_templates"/>
+		</XmlNode>
+		<XmlNode>
+			<XmlName id="WeaponDescriptions" path="TWB_weapon_descriptions"/>
+		</XmlNode>
+	
+<XmlNode>                
+			<XmlName id="GameText" path="module_strings"/>
+			<IncludedGameTypes>
+				<GameType value = "Campaign"/>
+				<GameType value = "CampaignStoryMode"/>
+				<GameType value = "CustomGame"/>
+				<GameType value = "EditorGame"/>
+			</IncludedGameTypes>
+		</XmlNode>
+	
     </Xmls>
 </Module>
 

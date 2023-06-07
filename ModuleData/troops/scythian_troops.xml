@@ -39,7 +39,7 @@
             </EquipmentRoster>
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.eastern_spear_2_t3"/>
-                <equipment slot="Item1" id="Item.cla_scythian_shield_c"/>
+                <equipment slot="Item1" id="Item.cla_scythian_shield_small_a"/>
                 <equipment slot="Item2" id="Item.steppe_bow"/>
                 <equipment slot="Item3" id="Item.range_arrows"/>
                 <equipment slot="Head" id="Item.cla_scythian_hat_aa"/>
@@ -59,7 +59,7 @@
             </EquipmentRoster>
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.eastern_spear_2_t3"/>
-                <equipment slot="Item1" id="Item.cla_scythian_shield_c"/>
+                <equipment slot="Item1" id="Item.cla_scythian_shield_small_a"/>
                 <equipment slot="Item2" id="Item.steppe_bow"/>
                 <equipment slot="Item3" id="Item.range_arrows"/>
                 <equipment slot="Head" id="Item.cla_scythian_hat_aaa"/>
@@ -403,7 +403,7 @@
             </EquipmentRoster>
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.eastern_spear_2_t3"/>
-                <equipment slot="Item1" id="Item.cla_scythian_shield_c"/>
+                <equipment slot="Item1" id="Item.cla_scythian_shield_small_a"/>
                 <equipment slot="Head" id="Item.cla_scythian_hat_aa"/>
                 <equipment slot="Cape" id="Item.AR_khuzait_cape_e"/>
                 <equipment slot="Body" id="Item.cla_scythian_tunic_c"/>
@@ -419,7 +419,7 @@
             </EquipmentRoster>
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.eastern_spear_2_t3"/>
-                <equipment slot="Item1" id="Item.cla_scythian_shield_c"/>
+                <equipment slot="Item1" id="Item.cla_scythian_shield_small_a"/>
                 <equipment slot="Head" id="Item.cla_scythian_hat_aaa"/>
                 <equipment slot="Cape" id="Item.AR_khuzait_cape_d"/>
                 <equipment slot="Body" id="Item.cla_scythian_tunic_b"/>
@@ -676,7 +676,7 @@
             </EquipmentRoster>
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.eastern_spear_2_t3"/>
-                <equipment slot="Item1" id="Item.cla_scythian_shield_c"/>
+                <equipment slot="Item1" id="Item.cla_scythian_shield_small_a"/>
                 <equipment slot="Head" id="Item.cla_scythian_hat_aa"/>
                 <equipment slot="Cape" id="Item.AR_khuzait_cape_e"/>
                 <equipment slot="Body" id="Item.cla_scythian_tunic_c"/>
@@ -692,7 +692,7 @@
             </EquipmentRoster>
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.eastern_spear_2_t3"/>
-                <equipment slot="Item1" id="Item.cla_scythian_shield_c"/>
+                <equipment slot="Item1" id="Item.cla_scythian_shield_small_a"/>
                 <equipment slot="Head" id="Item.cla_scythian_hat_aaa"/>
                 <equipment slot="Cape" id="Item.AR_khuzait_cape_d"/>
                 <equipment slot="Body" id="Item.cla_scythian_tunic_b"/>
@@ -798,7 +798,7 @@
             </EquipmentRoster>
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.eastern_spear_2_t3"/>
-                <equipment slot="Item1" id="Item.cla_scythian_shield_c"/>
+                <equipment slot="Item1" id="Item.cla_scythian_shield_small_a"/>
                 <equipment slot="Item2" id="Item.nordic_shortbow"/>
                 <equipment slot="Item3" id="Item.default_arrows"/>
                 <equipment slot="Head" id="Item.cla_scythian_hat_aa"/>
@@ -818,7 +818,7 @@
             </EquipmentRoster>
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.eastern_spear_2_t3"/>
-                <equipment slot="Item1" id="Item.cla_scythian_shield_c"/>
+                <equipment slot="Item1" id="Item.cla_scythian_shield_small_a"/>
                 <equipment slot="Item2" id="Item.nordic_shortbow"/>
                 <equipment slot="Item3" id="Item.default_arrows"/>
                 <equipment slot="Head" id="Item.cla_scythian_hat_aaa"/>

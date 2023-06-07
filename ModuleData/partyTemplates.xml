@@ -148,8 +148,6 @@
             <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.steppe_bandits_boss"/>
         </stacks>
     </MBPartyTemplate>
-    <MBPartyTemplate id="siege_party_template"/>
-    <MBPartyTemplate id="routed_template"/>
 
     <MBPartyTemplate id="villager_empire_template">
         <stacks>
@@ -262,6 +260,42 @@
         </stacks>
     </MBPartyTemplate>
 
+	<MBPartyTemplate id="villager_byzantine_template" >
+		<stacks>
+			<PartyTemplateStack min_value="15" max_value="30" troop="NPCCharacter.villager_byzantine" />
+		</stacks>
+	</MBPartyTemplate>
+
+	<MBPartyTemplate id="villager_ayyubid_template" >
+		<stacks>
+			<PartyTemplateStack min_value="15" max_value="30" troop="NPCCharacter.villager_ayyubid" />
+		</stacks>
+	</MBPartyTemplate>
+
+	<MBPartyTemplate id="villager_goldenhorde_template" >
+		<stacks>
+			<PartyTemplateStack min_value="15" max_value="30" troop="NPCCharacter.villager_goldenhorde" />
+		</stacks>
+	</MBPartyTemplate>
+
+	<MBPartyTemplate id="rebels_goldenhorde_template" >
+		<stacks>
+			<PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.goldenhorde_nomad" />
+		</stacks>
+	</MBPartyTemplate>
+
+	<MBPartyTemplate id="rebels_ayyubid_template" >
+		<stacks>
+			<PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.ayyubid_recruit" />
+		</stacks>
+	</MBPartyTemplate>
+
+	<MBPartyTemplate id="rebels_byzantine_template" >
+		<stacks>
+			<PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.byzantine_recruit" />
+		</stacks>
+	</MBPartyTemplate>
+
     <MBPartyTemplate id="rebels_empire_template">
         <stacks>
             <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.roman_levy"/>
@@ -269,7 +303,7 @@
     </MBPartyTemplate>
     <MBPartyTemplate id="rebels_aserai_template">
         <stacks>
-            <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.punic_light_hoplite"/>
+            <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.punic_hoplite_1"/>
         </stacks>
     </MBPartyTemplate>
     <MBPartyTemplate id="rebels_sturgia_template">
@@ -299,7 +333,7 @@
     </MBPartyTemplate>
     <MBPartyTemplate id="rebels_celtiberian_template">
         <stacks>
-            <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.lusitani_light_swordmen"/>
+            <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.celtiberian_horsemen_1"/>
         </stacks>
     </MBPartyTemplate>
     <MBPartyTemplate id="rebels_cantabri_template">
@@ -309,17 +343,17 @@
     </MBPartyTemplate>
     <MBPartyTemplate id="rebels_carthago_nova_template">
         <stacks>
-            <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.iberian_levy_spearmen"/>
+            <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.iberian_tribesmen_1"/>
         </stacks>
     </MBPartyTemplate>
     <MBPartyTemplate id="rebels_massylii_template">
         <stacks>
-            <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.numidian_levy_spearmen"/>
+            <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.numidian_hoplite_1"/>
         </stacks>
     </MBPartyTemplate>
     <MBPartyTemplate id="rebels_mauri_template">
         <stacks>
-            <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.mauri_tribal_axemen"/>
+            <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.mauri_skirmisher_1"/>
         </stacks>
     </MBPartyTemplate>
     <MBPartyTemplate id="rebels_libyan_template">
@@ -528,6 +562,30 @@
         </stacks>
     </MBPartyTemplate>
 
+	<MBPartyTemplate id="caravan_template_byzantine" >
+		<stacks>
+			<PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.armed_trader_byzantine" />
+			<PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.caravan_guard_byzantine" />
+			<PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.veteran_caravan_guard_byzantine" />
+		</stacks>
+	</MBPartyTemplate>
+
+	<MBPartyTemplate id="caravan_template_ayyubid" >
+		<stacks>
+			<PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.armed_trader_ayyubid" />
+			<PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.caravan_guard_ayyubid" />
+			<PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.veteran_caravan_guard_ayyubid" />
+		</stacks>
+	</MBPartyTemplate>
+
+	<MBPartyTemplate id="caravan_template_goldenhorde" >
+		<stacks>
+			<PartyTemplateStack  min_value="8" max_value="8" troop="NPCCharacter.armed_trader_goldenhorde" />
+			<PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.caravan_guard_goldenhorde" />
+			<PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.veteran_caravan_guard_goldenhorde" />
+		</stacks>
+	</MBPartyTemplate>
+
     <!--ELITE CARAVAN TEMPLATES-->
     <MBPartyTemplate id="elite_caravan_template_empire">
         <stacks>
@@ -711,6 +769,33 @@
         </stacks>
     </MBPartyTemplate>
 
+	<MBPartyTemplate id="elite_caravan_template_byzantine" >
+		<stacks>
+			<PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.armed_trader_byzantine" />
+			<PartyTemplateStack min_value="7" max_value="7" troop="NPCCharacter.caravan_guard_byzantine" />
+			<PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.veteran_caravan_guard_byzantine" />
+			<PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.caravan_master_byzantine" />
+		</stacks>
+	</MBPartyTemplate>
+
+	<MBPartyTemplate id="elite_caravan_template_ayyubid" >
+		<stacks>
+			<PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.armed_trader_ayyubid" />
+			<PartyTemplateStack min_value="7" max_value="7" troop="NPCCharacter.caravan_guard_ayyubid" />
+			<PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.veteran_caravan_guard_ayyubid" />
+			<PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.caravan_master_ayyubid" />
+		</stacks>
+	</MBPartyTemplate>
+
+	<MBPartyTemplate id="elite_caravan_template_goldenhorde" >
+		<stacks>
+			<PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.armed_trader_goldenhorde" />
+			<PartyTemplateStack min_value="7" max_value="7" troop="NPCCharacter.caravan_guard_goldenhorde" />
+			<PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.veteran_caravan_guard_goldenhorde" />
+			<PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.caravan_master_goldenhorde" />
+		</stacks>
+	</MBPartyTemplate>
+
     <MBPartyTemplate id="militia_empire_template">
         <stacks>
             <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.latin_militia_spearman"/>
@@ -849,6 +934,27 @@
         </stacks>
     </MBPartyTemplate>
 
+	<MBPartyTemplate id="militia_byzantine_template" >
+		<stacks>
+			<PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.byzantine_militia_spearman" />
+			<PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.byzantine_militia_archer" />
+		</stacks>
+	</MBPartyTemplate>
+
+	<MBPartyTemplate id="militia_ayyubid_template" >
+		<stacks>
+			<PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.ayyubid_militia_spearman" />
+			<PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.ayyubid_militia_archer" />
+		</stacks>
+	</MBPartyTemplate>
+
+	<MBPartyTemplate id="militia_goldenhorde_template" >
+		<stacks>
+			<PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.goldenhorde_militia_spearman" />
+			<PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.goldenhorde_militia_archer" />
+		</stacks>
+	</MBPartyTemplate>
+
 
     <MBPartyTemplate id="kingdom_hero_party_empire_template">
         <stacks>
@@ -970,19 +1076,14 @@
     </MBPartyTemplate>
     <MBPartyTemplate id="kingdom_hero_party_celtiberian_template">
         <stacks>
-            <PartyTemplateStack min_value="12" max_value="12" troop="NPCCharacter.lusitani_light_swordmen"/>
-            <PartyTemplateStack min_value="7" max_value="7" troop="NPCCharacter.lusitani_vetren_swordmen"/>
-            <PartyTemplateStack min_value="7" max_value="7" troop="NPCCharacter.gallaeci_skrimisher"/>
-            <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.gallaeci_heavy_skrimisher"/>
-            <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.lusitani_warrior"/>
-            <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.lusitani_vetren_warrior"/>
-            <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.lusitani_spearmen"/>
-
-            <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.lusitani_noble"/>
-            <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.lusitani_noble_fighter"/>
-            <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.lusitani_horsemen"/>
-            <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.lusitani_vetren_horsemen"/>
-            <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.lusitani_noble_blood_cav"/>
+            
+            <PartyTemplateStack min_value="7" max_value="7" troop="NPCCharacter.iberian_tribesmen_1"/>
+            <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.iberian_tribesmen_2"/>
+            <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.celtiberian_horsemen_1"/>
+            <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.celtiberian_caetrati_1"/>
+            <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.celtiberian_caetrati_2"/>
+            <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.celtiberian_scutarii_1"/>
+            <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.celtiberian_scutarii_2"/>
         </stacks>
     </MBPartyTemplate>
     <MBPartyTemplate id="kingdom_hero_party_cantabri_template">
@@ -1002,32 +1103,72 @@
             <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.cantabrian_noble_skrimisher"/>
         </stacks>
     </MBPartyTemplate>
-    <MBPartyTemplate id="kingdom_hero_party_carthago_nova_template">
-        <stacks>
-            <PartyTemplateStack min_value="12" max_value="12" troop="NPCCharacter.iberian_levy_spearmen"/>
-            <PartyTemplateStack min_value="7" max_value="7" troop="NPCCharacter.iberian_militia_hoplite"/>
-            <PartyTemplateStack min_value="7" max_value="7" troop="NPCCharacter.gallic_thureos_spear"/>
-            <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.iberian_hoplite"/>
-            <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.iberian_vetren_hoplite"/>
-            <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.celtiberian_bull_hoplite"/>
-            <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.nova_balearic_slingers"/>
+	
+	<MBPartyTemplate id="kingdom_hero_party_Judean_template" >
+		<stacks>
+			<PartyTemplateStack min_value="16" max_value="30" troop="NPCCharacter.eastern_spearmen_1" />
+			<PartyTemplateStack min_value="8" max_value="16" troop="NPCCharacter.judean_warrior_I" />
+			<PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.judean_kerathite_I" />
+		</stacks>
+	</MBPartyTemplate>
 
-            <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.celtiberian_warrior"/>
-            <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.celtiberian_mounted_warrior"/>
-            <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.celtici_wolf_warrior"/>
-            <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.celtici_vetren_wolf_warrior"/>
-            <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.celtiberian_noble_cavalry"/>
-        </stacks>
-    </MBPartyTemplate>
+	<MBPartyTemplate id="kingdom_hero_party_persian_template" >
+		<stacks>
+			<PartyTemplateStack min_value="16" max_value="30" troop="NPCCharacter.persian_rural_1" />
+			<PartyTemplateStack min_value="8" max_value="16" troop="NPCCharacter.persian_urban_spear_1" />
+			<PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.persian_urban_elite_1" />
+		</stacks>
+	</MBPartyTemplate>
+	
+	<MBPartyTemplate id="kingdom_hero_party_lusitanian_template" >
+		<stacks>
+			<PartyTemplateStack min_value="16" max_value="30" troop="NPCCharacter.iberian_tribesmen_1" />
+			<PartyTemplateStack min_value="8" max_value="16" troop="NPCCharacter.lusitani_warrior_2" />
+			<PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.lusitani_scutarii_1" />
+		</stacks>
+	</MBPartyTemplate>
+
+	<MBPartyTemplate id="kingdom_hero_party_iberian_template" >
+		<stacks>
+			<PartyTemplateStack min_value="16" max_value="30" troop="NPCCharacter.libyan_tribesmen_1" />
+			<PartyTemplateStack min_value="8" max_value="16" troop="NPCCharacter.iberian_caetrati_1" />
+			<PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.iberian_scutarii_1" />
+		</stacks>
+	</MBPartyTemplate>
+
+	<MBPartyTemplate id="kingdom_hero_party_nubian_template" >
+		<stacks>
+			<PartyTemplateStack min_value="16" max_value="30" troop="NPCCharacter.eastern_spearmen_1" />
+			<PartyTemplateStack min_value="8" max_value="16" troop="NPCCharacter.nubian_tribesmen_1" />
+			<PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.nubian_elite_warrior_1" />
+		</stacks>
+	</MBPartyTemplate>
+
+	<MBPartyTemplate id="kingdom_hero_party_cyrenian_template" >
+		<stacks>
+			<PartyTemplateStack min_value="16" max_value="30" troop="NPCCharacter.libyan_tribesmen_1" />
+			<PartyTemplateStack min_value="8" max_value="16" troop="NPCCharacter.Doúlos_Spearmen_1" />
+			<PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.cyrene_noble_1" />
+		</stacks>
+	</MBPartyTemplate>
+
+	<MBPartyTemplate id="kingdom_hero_party_spartan_template" >
+		<stacks>
+			<PartyTemplateStack min_value="16" max_value="30" troop="NPCCharacter.greek_regular_1" />
+			<PartyTemplateStack min_value="8" max_value="16" troop="NPCCharacter.homoioi_hoplitai_1" />
+			<PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.spartan_hippeis_1" />
+		</stacks>
+	</MBPartyTemplate>
+
     <MBPartyTemplate id="kingdom_hero_party_aserai_template">
         <stacks>
-            <PartyTemplateStack min_value="12" max_value="12" troop="NPCCharacter.punic_light_hoplite"/>
-            <PartyTemplateStack min_value="7" max_value="7" troop="NPCCharacter.punic_militia_hoplite"/>
-            <PartyTemplateStack min_value="7" max_value="7" troop="NPCCharacter.punic_light_peltast"/>
-            <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.punic_heavy_peltast"/>
-            <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.punic_hoplite"/>
-            <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.punic_pikemen"/>
-            <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.punic_late_hoplite"/>
+            <PartyTemplateStack min_value="12" max_value="12" troop="NPCCharacter.libyan_tribesmen_1"/>
+            <PartyTemplateStack min_value="7" max_value="7" troop="NPCCharacter.libyan_spearmen_2"/>
+            <PartyTemplateStack min_value="7" max_value="7" troop="NPCCharacter.numidian_tribal_axemen_2"/>
+            <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.numidian_tribal_axemen_3"/>
+            <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.numidian_tribal_scout_1"/>
+            <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.Libyan_Horseman"/>
+            <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.punic_hoplite_2"/>
 
             <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.punic_sacred_band_cavalry"/>
             <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.sacred_band_cavalry_carthage"/>
@@ -1038,13 +1179,13 @@
     </MBPartyTemplate>
     <MBPartyTemplate id="kingdom_hero_party_massylii_template">
         <stacks>
-            <PartyTemplateStack min_value="12" max_value="12" troop="NPCCharacter.numidian_levy_spearmen"/>
-            <PartyTemplateStack min_value="7" max_value="7" troop="NPCCharacter.numidian_light_peltests"/>
-            <PartyTemplateStack min_value="7" max_value="7" troop="NPCCharacter.numidian_light_spearmen"/>
-            <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.numidian_swordmen"/>
-            <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.numidian_peltasts"/>
-            <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.numidian_spearmen"/>
-            <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.numidian_skrimisher"/>
+            <PartyTemplateStack min_value="12" max_value="12" troop="NPCCharacter.numidian_milites_1"/>
+            <PartyTemplateStack min_value="7" max_value="7" troop="NPCCharacter.numidian_tribal_axemen_2"/>
+            <PartyTemplateStack min_value="7" max_value="7" troop="NPCCharacter.numidian_hoplite_1"/>
+            <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.numidian_hoplite_2"/>
+            <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.numidian_tribal_axemen_3"/>
+            <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.numidian_milites_2"/>
+            <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.numidian_milites_3"/>
 
             <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.numidian_noble"/>
             <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.numidian_noble_spearmen"/>
@@ -1055,13 +1196,12 @@
     </MBPartyTemplate>
     <MBPartyTemplate id="kingdom_hero_party_mauri_template">
         <stacks>
-            <PartyTemplateStack min_value="12" max_value="12" troop="NPCCharacter.mauri_tribal_axemen"/>
-            <PartyTemplateStack min_value="7" max_value="7" troop="NPCCharacter.mauri_skrimisher"/>
-            <PartyTemplateStack min_value="7" max_value="7" troop="NPCCharacter.mauri_tribal_axe_warrior"/>
-            <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.mauri_tribal_champion"/>
-            <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.mauri_tribal_skrimisher"/>
-            <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.mauri_tribal_scout"/>
-            <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.mauri_tribal_skrimisher_cav"/>
+            <PartyTemplateStack min_value="12" max_value="12" troop="NPCCharacter.numidian_milites_1"/>
+            <PartyTemplateStack min_value="7" max_value="7" troop="NPCCharacter.numidian_tribal_axemen_2"/>
+            <PartyTemplateStack min_value="7" max_value="7" troop="NPCCharacter.mauri_skirmisher_1"/>
+            <PartyTemplateStack min_value="4" max_value="8" troop="NPCCharacter.numidian_milites_3"/>
+            <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.mauri_skirmisher_2"/>
+            
 
             <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.mauri_noble"/>
             <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.mauri_horsemen"/>
@@ -1070,7 +1210,7 @@
             <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.mauri_royal_cavalry"/>
         </stacks>
     </MBPartyTemplate>
-    <MBPartyTemplate id="kingdom_hero_party_libyan_template">
+    <MBPartyTemplate id="kingdom_hero_party_Garamantes_template">
         <stacks>
             <PartyTemplateStack min_value="12" max_value="12" troop="NPCCharacter.garamantian_tribesmen"/>
             <PartyTemplateStack min_value="7" max_value="7" troop="NPCCharacter.garagantia_tribal_warrior"/>
@@ -1079,8 +1219,8 @@
             <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.garamantian_large_shield_lion_warrior"/>
             <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.garamantian_tribal_long_spearmen"/>
             <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.garamantian_bowmen"/>
-
-            <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.garamantian_noble"/>
+			
+			<PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.garamantian_noble"/>
             <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.garamante_noble_rider"/>
             <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.garamantian_leopard_warrior"/>
             <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.garamantian_veteran_leopard_warrior"/>
@@ -1121,18 +1261,18 @@
     </MBPartyTemplate>
     <MBPartyTemplate id="kingdom_hero_party_khuzait_template">
         <stacks>
-            <PartyTemplateStack min_value="12" max_value="12" troop="NPCCharacter.Makedon_Recruit"/>
-            <PartyTemplateStack min_value="7" max_value="7" troop="NPCCharacter.Makedon_Hoplite_01"/>
-            <PartyTemplateStack min_value="7" max_value="7" troop="NPCCharacter.Makedon_Archer_01"/>
-            <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.Makedon_Pike_01"/>
-            <PartyTemplateStack min_value="6" max_value="6" troop="NPCCharacter.Makedon_Hoplite_02"/>
-            <PartyTemplateStack min_value="6" max_value="6" troop="NPCCharacter.Makedon_Pike_02"/>
+            <PartyTemplateStack min_value="12" max_value="12" troop="NPCCharacter.persian_rural_1"/>
+            <PartyTemplateStack min_value="7" max_value="7" troop="NPCCharacter.persian_rural_axe_1"/>
+            <PartyTemplateStack min_value="7" max_value="7" troop="NPCCharacter.persian_rural_archer_1"/>
+            <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.persian_urban_spear_1"/>
+            <PartyTemplateStack min_value="6" max_value="6" troop="NPCCharacter.persian_urban_spear_2"/>
+            <PartyTemplateStack min_value="6" max_value="6" troop="NPCCharacter.persian_rural_elite_1"/>
 
-            <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.Makedon_Noble"/>
-            <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.Makedon_Noble_Cavalry_01"/>
-            <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.Makedon_Noble_Hoplite_01"/>
-            <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.Makedon_Noble_Pike_01"/>
-            <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.Makedon_Noble_Cavalry_02"/>
+            <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.persian_urban_spear_3"/>
+            <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.persian_urban_elite_1"/>
+            <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.persian_urban_horse_1"/>
+            <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.persian_urban_elite_2"/>
+            <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.persian_rural_axe_2"/>
         </stacks>
     </MBPartyTemplate>
     <MBPartyTemplate id="kingdom_hero_party_cimbri_template">
@@ -1157,13 +1297,13 @@
             <PartyTemplateStack min_value="12" max_value="12" troop="NPCCharacter.scordisci_levy"/>
             <PartyTemplateStack min_value="7" max_value="7" troop="NPCCharacter.scordisci_tribesmen"/>
             <PartyTemplateStack min_value="7" max_value="7" troop="NPCCharacter.scordisci_slinger"/>
-            <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.scordisci_light_slinger"/>
-            <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.scordisci_tribal_warrior"/>
+            <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.acubagaudoi_1"/>
+            <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.acubagaudoi_2"/>
             <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.scordisci_spearman"/>
             <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.scordisci_tribal_vetren_warrior"/>
 
-            <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.scordisci_noble_warrior"/>
-            <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.scordisci_noble_swordman"/>
+            <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.scordisci_argoi_1"/>
+            <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.scordisci_argoi_2"/>
             <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.scordisci_noble_lancer"/>
             <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.scordisci_noble_heavy_lancer"/>
             <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.scordisci_noble_mounted_warrior"/>
@@ -1220,6 +1360,62 @@
         </stacks>
     </MBPartyTemplate>
 
+	<MBPartyTemplate id="kingdom_hero_party_byzantine_template" >
+		<stacks>
+			<PartyTemplateStack min_value="16" max_value="16" troop="NPCCharacter.Makedon_Recruit" />
+			<PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.Makedon_Pike_01" />
+			<PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.Makedon_Pike_02" />
+			<PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.Makedon_Hoplite_02" />
+			<PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Makedon_Noble" />
+			<PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.Makedon_Noble_Pike_01" />
+			<PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.Makedon_Archer_01" />
+			<PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.Makedon_Noble_Cavalry_01" />
+			<PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Makedon_Noble_Cavalry_02" />
+
+		</stacks>
+	</MBPartyTemplate>
+
+	<MBPartyTemplate id="kingdom_hero_party_ayyubid_template" >
+		<stacks>
+			<PartyTemplateStack min_value="16" max_value="16" troop="NPCCharacter.ayyubid_recruit" />
+			<PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.ayyubid_footman" />
+			<PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.ayyubid_skirmisher" />
+			<PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.ayyubid_tribal_horseman" />
+			<PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.ayyubid_curde_regular" />
+			<PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.ayyubid_kurdish_cavalry" />
+			<PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.ayyubid_infantry" />
+			<PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.ayyubid_veteran_infantry" />
+			<PartyTemplateStack min_value="5" max_value="4" troop="NPCCharacter.ayyubid_archer" />
+			<PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.ayyubid_master_archer" />
+		</stacks>
+	</MBPartyTemplate>
+
+	<MBPartyTemplate id="kingdom_hero_party_goldenhorde_template" >
+		<stacks>
+			<PartyTemplateStack min_value="16" max_value="16" troop="NPCCharacter.goldenhorde_nomad" />
+			<PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.goldenhorde_tribal_warrior" />
+			<PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.goldenhorde_raider" />
+			<PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.goldenhorde_lancer" />
+			<PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.goldenhorde_heavy_lancer" />
+			<PartyTemplateStack min_value="2" max_value="3" troop="NPCCharacter.goldenhorde_horse_archer" />
+			<PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.goldenhorde_heavy_horse_archer" />
+			<PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.goldenhorde_hunter" />
+			<PartyTemplateStack min_value="4" max_value="5" troop="NPCCharacter.goldenhorde_archer" />
+			<PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.goldenhorde_marksman" />
+			<PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.goldenhorde_spearman" />
+			<PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.goldenhorde_spear_infantry" />
+			<PartyTemplateStack min_value="1" max_value="2" troop="NPCCharacter.goldenhorde_darkhan" />
+		</stacks>
+	</MBPartyTemplate>
+
+	<MBPartyTemplate id="kingdom_hero_party_nabataean_template" >
+		<stacks>
+			<PartyTemplateStack min_value="16" max_value="30" troop="NPCCharacter.eastern_spearmen_1" />
+			<PartyTemplateStack min_value="8" max_value="16" troop="NPCCharacter.muqrabe_1" />
+			<PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.natarin_1" />
+		</stacks>
+	</MBPartyTemplate>
+
 
 	<!-- party templates for rural cultures -->
 
@@ -1228,6 +1424,107 @@
 			<PartyTemplateStack min_value="16" max_value="30" troop="NPCCharacter.roman_levy" />
 			<PartyTemplateStack min_value="8" max_value="16" troop="NPCCharacter.roman_spear_01" />
 			<PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.roman_spear_02" />
+		</stacks>
+	</MBPartyTemplate>
+
+
+	<MBPartyTemplate id="kingdom_hero_party_greek_template" >
+		<stacks>
+			<PartyTemplateStack min_value="16" max_value="30" troop="NPCCharacter.greek_regular_1" />
+			<PartyTemplateStack min_value="8" max_value="16" troop="NPCCharacter.greek_peltast_2" />
+			<PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.greek_cavalry_1" />
+		</stacks>
+	</MBPartyTemplate>
+
+
+	<MBPartyTemplate id="kingdom_hero_party_rural_germanic_template" >
+		<stacks>
+			<PartyTemplateStack min_value="16" max_value="30" troop="NPCCharacter.germanic_youths_1" />
+			<PartyTemplateStack min_value="8" max_value="16" troop="NPCCharacter.germanic_skrimishers_2" />
+			<PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.germanic_horsemen_1" />
+		</stacks>
+	</MBPartyTemplate>
+
+
+	<MBPartyTemplate id="kingdom_hero_party_Aigyptos_template" >
+		<stacks>
+			<PartyTemplateStack min_value="16" max_value="30" troop="NPCCharacter.eastern_spearmen_1" />
+			<PartyTemplateStack min_value="8" max_value="16" troop="NPCCharacter.eastern_slinger_1" />
+			<PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.eastern_spearmen_2" />
+		</stacks>
+	</MBPartyTemplate>
+
+	<MBPartyTemplate id="kingdom_hero_party_rural_celtiberian_template" >
+		<stacks>
+			<PartyTemplateStack min_value="16" max_value="30" troop="NPCCharacter.sheild_sister_recruit" />
+			<PartyTemplateStack min_value="8" max_value="16" troop="NPCCharacter.sheild_sister_t2" />
+			<PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.sheild_sister_t3" />
+		</stacks>
+	</MBPartyTemplate>
+
+
+	<MBPartyTemplate id="kingdom_hero_party_Numidian_template" >
+		<stacks>
+			<PartyTemplateStack min_value="16" max_value="30" troop="NPCCharacter.numidian_milites_1" />
+			<PartyTemplateStack min_value="8" max_value="16" troop="NPCCharacter.numidian_tribal_axemen_2" />
+			<PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.numidian_tribal_scout_1" />
+		</stacks>
+	</MBPartyTemplate>
+
+
+	<MBPartyTemplate id="kingdom_hero_party_libyan_template" >
+		<stacks>
+			<PartyTemplateStack min_value="16" max_value="30" troop="NPCCharacter.libyan_tribesmen_1" />
+			<PartyTemplateStack min_value="8" max_value="16" troop="NPCCharacter.libyan_spearmen_2" />
+			<PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.Libyan_Horseman" />
+		</stacks>
+	</MBPartyTemplate>
+
+	<MBPartyTemplate id="kingdom_hero_party_carthago_nova_template">
+		<stacks>
+			<PartyTemplateStack min_value="12" max_value="30" troop="NPCCharacter.iberian_tribesmen_1"/>
+			<PartyTemplateStack min_value="7" max_value="16" troop="NPCCharacter.iberian_tribesmen_2"/>
+			<PartyTemplateStack min_value="7" max_value="7" troop="NPCCharacter.iberian_tribal_warrior_2"/>
+		</stacks>
+	</MBPartyTemplate>
+
+	<MBPartyTemplate id="kingdom_hero_party_rural_gallic_template" >
+		<stacks>
+			<PartyTemplateStack min_value="16" max_value="30" troop="NPCCharacter.gallic_youth_1" />
+			<PartyTemplateStack min_value="8" max_value="16" troop="NPCCharacter.gallic_spear_2" />
+			<PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.leuce_epos_1" />
+		</stacks>
+	</MBPartyTemplate>
+
+	<MBPartyTemplate id="kingdom_hero_party_rural_caledonian_template" >
+		<stacks>
+			<PartyTemplateStack min_value="16" max_value="30" troop="NPCCharacter.pictish_tribesmen_1" />
+			<PartyTemplateStack min_value="8" max_value="16" troop="NPCCharacter.pictish_slinger_2" />
+			<PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.pictish_horsemen_1" />
+		</stacks>
+	</MBPartyTemplate>
+
+	<MBPartyTemplate id="kingdom_hero_party_rural_achaemenid_template" >
+		<stacks>
+			<PartyTemplateStack min_value="16" max_value="30" troop="NPCCharacter.persian_rural_1" />
+			<PartyTemplateStack min_value="8" max_value="16" troop="NPCCharacter.persian_rural_axe_1" />
+			<PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.persian_rural_elite_1" />
+		</stacks>
+	</MBPartyTemplate>
+
+	<MBPartyTemplate id="kingdom_hero_party_rural_macedonia_template" >
+		<stacks>
+			<PartyTemplateStack min_value="16" max_value="30" troop="NPCCharacter.makedon_pike_1" />
+			<PartyTemplateStack min_value="8" max_value="16" troop="NPCCharacter.makedon_pike_2" />
+			<PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.makedon_ranged_2" />
+		</stacks>
+	</MBPartyTemplate>
+
+	<MBPartyTemplate id="kingdom_hero_party_rural_celto_greek_template" >
+		<stacks>
+			<PartyTemplateStack min_value="16" max_value="30" troop="NPCCharacter.massaloi_peltasts_1" />
+			<PartyTemplateStack min_value="8" max_value="16" troop="NPCCharacter.massaloi_slinger_1" />
+			<PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.massaloi_galoxiphophoroi_1" />
 		</stacks>
 	</MBPartyTemplate>
 
@@ -1241,9 +1538,9 @@
     </MBPartyTemplate>
     <MBPartyTemplate id="kingdom_hero_party_mercenary_empire_template">
         <stacks>
-            <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.legion_of_the_betrayed_tier_3"/>
-            <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.legion_of_the_betrayed_tier_2"/>
-            <PartyTemplateStack min_value="16" max_value="16" troop="NPCCharacter.legion_of_the_betrayed_tier_1"/>
+            <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.greek_mercenary_hoplite_3"/>
+            <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.greek_mercenary_hoplite_2"/>
+            <PartyTemplateStack min_value="16" max_value="16" troop="NPCCharacter.greek_mercenary_hoplite_1"/>
         </stacks>
     </MBPartyTemplate>
     <MBPartyTemplate id="kingdom_hero_party_mercenary_sturgia_template">
@@ -1393,8 +1690,8 @@
     </MBPartyTemplate>
     <MBPartyTemplate id="vassal_reward_troops_celtiberian">
         <stacks>
-            <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.lusitani_vetren_horsemen"/>
-            <PartyTemplateStack min_value="5" max_value="5" troop="NPCCharacter.lusitani_horsemen"/>
+            <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.lusitani_scutarii_3"/>
+            <PartyTemplateStack min_value="5" max_value="5" troop="NPCCharacter.lusitani_scutarii_1"/>
         </stacks>
     </MBPartyTemplate>
     <MBPartyTemplate id="vassal_reward_troops_cantabri">
@@ -1481,4 +1778,26 @@
             <PartyTemplateStack min_value="5" max_value="5" troop="NPCCharacter.baltic_horse_bowmen"/>
         </stacks>
     </MBPartyTemplate>
+
+	<MBPartyTemplate id="vassal_reward_troops_byzantine" >
+		<stacks>
+			<PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.byzantine_cataphract" />
+			<PartyTemplateStack min_value="5" max_value="5" troop="NPCCharacter.byzantine_heavy_horseman" />
+		</stacks>
+	</MBPartyTemplate>
+
+	<MBPartyTemplate id="vassal_reward_troops_ayyubid" >
+		<stacks>
+			<PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.ayyubid_veteran_faris" />
+			<PartyTemplateStack min_value="5" max_value="5" troop="NPCCharacter.ayyubid_faris" />
+		</stacks>
+	</MBPartyTemplate>
+
+	<MBPartyTemplate id="vassal_reward_troops_goldenhorde" >
+		<stacks>
+			<PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.goldenhorde_kheshig" />
+			<PartyTemplateStack min_value="5" max_value="5" troop="NPCCharacter.goldenhorde_torguud" />
+		</stacks>
+	</MBPartyTemplate>
+	
 </partyTemplates>

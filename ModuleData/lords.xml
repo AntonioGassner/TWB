@@ -1159,8 +1159,8 @@
     </Traits>
     <Equipments>
       <EquipmentRoster />
-      <EquipmentSet id="emp_bat_template_medium" />
-      <EquipmentSet id="emp_civ_template_default"
+      <EquipmentSet id="rom_bat_template_medium" />
+      <EquipmentSet id="rom_civ_template_default"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
@@ -1212,8 +1212,8 @@
     </Traits>
     <Equipments>
       <EquipmentRoster />
-      <EquipmentSet id="emp_bat_template_medium" />
-      <EquipmentSet id="emp_civ_template_default"
+      <EquipmentSet id="rom_bat_template_medium" />
+      <EquipmentSet id="rom_civ_template_default"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
@@ -1874,7 +1874,7 @@
     <Equipments>
       <EquipmentRoster />
       <EquipmentSet id="emp_bat_template_northfrontier" />
-      <EquipmentSet id="emp_civ_template_default"
+      <EquipmentSet id="rom_civ_template_default"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
@@ -1913,7 +1913,7 @@
     <Equipments>
       <EquipmentRoster />
       <EquipmentSet id="emp_bat_template_stoic" />
-      <EquipmentSet id="emp_civ_template_default"
+      <EquipmentSet id="rom_civ_template_default"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
@@ -1952,7 +1952,7 @@
     <Equipments>
       <EquipmentRoster />
       <EquipmentSet id="emp_bat_template_heavy" />
-      <EquipmentSet id="emp_civ_template_default"
+      <EquipmentSet id="rom_civ_template_default"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
@@ -1991,7 +1991,7 @@
     <Equipments>
       <EquipmentRoster />
       <EquipmentSet id="emp_bat_template_northfrontier" />
-      <EquipmentSet id="emp_civ_template_default"
+      <EquipmentSet id="rom_civ_template_default"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
@@ -2029,8 +2029,8 @@
     </Traits>
     <Equipments>
       <EquipmentRoster />
-      <EquipmentSet id="emp_bat_template_medium" />
-      <EquipmentSet id="emp_civ_template_default"
+      <EquipmentSet id="rom_bat_template_medium" />
+      <EquipmentSet id="rom_civ_template_default"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
@@ -2071,7 +2071,7 @@
     <Equipments>
       <EquipmentRoster />
       <EquipmentSet id="emp_bat_template_northfrontier" />
-      <EquipmentSet id="emp_civ_template_default"
+      <EquipmentSet id="rom_civ_template_default"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
@@ -2109,7 +2109,7 @@
     </Traits>
     <Equipments>
       <EquipmentSet id="emp_bat_template_southfrontier" />
-      <EquipmentSet id="emp_civ_template_default"
+      <EquipmentSet id="rom_civ_template_default"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
@@ -2179,8 +2179,8 @@
              value="1" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="emp_bat_template_medium" />
-      <EquipmentSet id="emp_civ_template_default"
+      <EquipmentSet id="rom_bat_template_medium" />
+      <EquipmentSet id="rom_civ_template_default"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
@@ -2220,7 +2220,7 @@
     </Traits>
     <Equipments>
       <EquipmentSet id="emp_bat_template_southfrontier" />
-      <EquipmentSet id="emp_civ_template_default"
+      <EquipmentSet id="rom_civ_template_default"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
@@ -2262,7 +2262,7 @@
     </Traits>
     <Equipments>
       <EquipmentSet id="emp_bat_template_heavy" />
-      <EquipmentSet id="emp_civ_template_default"
+      <EquipmentSet id="rom_civ_template_default"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
@@ -2302,7 +2302,7 @@
     </Traits>
     <Equipments>
       <EquipmentSet id="emp_bat_template_heavy" />
-      <EquipmentSet id="emp_civ_template_default"
+      <EquipmentSet id="rom_civ_template_default"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
@@ -2461,7 +2461,7 @@
     <Equipments>
       <EquipmentRoster />
       <EquipmentSet id="emp_bat_template_heavy" />
-      <EquipmentSet id="emp_civ_template_default"
+      <EquipmentSet id="rom_civ_template_default"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
@@ -2500,7 +2500,7 @@
     </Traits>
     <Equipments>
       <EquipmentSet id="emp_bat_template_northfrontier" />
-      <EquipmentSet id="emp_civ_template_default"
+      <EquipmentSet id="rom_civ_template_default"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
@@ -2537,7 +2537,7 @@
     </Traits>
     <Equipments>
       <EquipmentSet id="emp_bat_template_northfrontier" />
-      <EquipmentSet id="emp_civ_template_default"
+      <EquipmentSet id="rom_civ_template_default"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
@@ -2581,7 +2581,7 @@
     <Equipments>
       <EquipmentRoster />
       <EquipmentSet id="emp_bat_template_southfrontier" />
-      <EquipmentSet id="emp_civ_template_default"
+      <EquipmentSet id="rom_civ_template_default"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
@@ -2695,8 +2695,8 @@
              value="-1" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="emp_bat_template_medium" />
-      <EquipmentSet id="emp_civ_template_default"
+      <EquipmentSet id="rom_bat_template_medium" />
+      <EquipmentSet id="rom_civ_template_default"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
@@ -2736,7 +2736,7 @@
     </Traits>
     <Equipments>
       <EquipmentSet id="emp_bat_template_stoic" />
-      <EquipmentSet id="emp_civ_template_default"
+      <EquipmentSet id="rom_civ_template_default"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
@@ -2775,7 +2775,7 @@
     <Equipments>
       <EquipmentRoster />
       <EquipmentSet id="emp_bat_template_heavy" />
-      <EquipmentSet id="emp_civ_template_default"
+      <EquipmentSet id="rom_civ_template_default"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
@@ -2815,8 +2815,8 @@
     </Traits>
     <Equipments>
       <EquipmentRoster />
-      <EquipmentSet id="emp_bat_template_medium" />
-      <EquipmentSet id="emp_civ_template_default"
+      <EquipmentSet id="rom_bat_template_medium" />
+      <EquipmentSet id="rom_civ_template_default"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
@@ -2855,7 +2855,7 @@
     <Equipments>
       <EquipmentRoster />
       <EquipmentSet id="emp_bat_template_stoic" />
-      <EquipmentSet id="emp_civ_template_default"
+      <EquipmentSet id="rom_civ_template_default"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
@@ -2896,7 +2896,7 @@
     <Equipments>
       <EquipmentRoster />
       <EquipmentSet id="emp_bat_template_heavy" />
-      <EquipmentSet id="emp_civ_template_default"
+      <EquipmentSet id="rom_civ_template_default"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
@@ -2959,7 +2959,7 @@
     <Equipments>
       <EquipmentRoster />
       <EquipmentSet id="emp_bat_template_lady" />
-      <EquipmentSet id="emp_civ_template_default"
+      <EquipmentSet id="rom_civ_template_default"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
@@ -2987,7 +2987,7 @@
     <Equipments>
       <EquipmentRoster />
       <EquipmentSet id="emp_bat_template_lady" />
-      <EquipmentSet id="emp_civ_template_default"
+      <EquipmentSet id="rom_civ_template_default"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
@@ -3025,8 +3025,8 @@
     </Traits>
     <Equipments>
       <EquipmentRoster />
-      <EquipmentSet id="emp_bat_template_medium" />
-      <EquipmentSet id="emp_civ_template_default"
+      <EquipmentSet id="rom_bat_template_medium" />
+      <EquipmentSet id="rom_civ_template_default"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
@@ -3090,7 +3090,7 @@
     <Equipments>
       <EquipmentRoster />
       <EquipmentSet id="emp_bat_template_lady" />
-      <EquipmentSet id="emp_civ_template_default"
+      <EquipmentSet id="rom_civ_template_default"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
@@ -3133,7 +3133,7 @@
     <Equipments>
       <EquipmentRoster />
       <EquipmentSet id="emp_bat_template_flamboyant" />
-      <EquipmentSet id="emp_civ_template_default"
+      <EquipmentSet id="rom_civ_template_default"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
@@ -3174,7 +3174,7 @@
     </Traits>
     <Equipments>
       <EquipmentSet id="emp_bat_template_stoic" />
-      <EquipmentSet id="emp_civ_template_default"
+      <EquipmentSet id="rom_civ_template_default"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
@@ -3219,7 +3219,7 @@
     <Equipments>
       <EquipmentRoster />
       <EquipmentSet id="emp_bat_template_flamboyant" />
-      <EquipmentSet id="emp_civ_template_default"
+      <EquipmentSet id="rom_civ_template_default"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
@@ -3292,7 +3292,7 @@
     <Equipments>
       <EquipmentRoster />
       <EquipmentSet id="emp_bat_template_stoic" />
-      <EquipmentSet id="emp_civ_template_default"
+      <EquipmentSet id="rom_civ_template_default"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
@@ -3334,8 +3334,8 @@
     </Traits>
     <Equipments>
       <EquipmentRoster />
-      <EquipmentSet id="emp_bat_template_medium" />
-      <EquipmentSet id="emp_civ_template_default"
+      <EquipmentSet id="rom_bat_template_medium" />
+      <EquipmentSet id="rom_civ_template_default"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
@@ -3406,7 +3406,7 @@
     </Traits>
     <Equipments>
       <EquipmentSet id="emp_bat_template_stoic" />
-      <EquipmentSet id="emp_civ_template_default"
+      <EquipmentSet id="rom_civ_template_default"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
@@ -3449,7 +3449,7 @@
     <Equipments>
       <EquipmentRoster />
       <EquipmentSet id="emp_bat_template_stoic" />
-      <EquipmentSet id="emp_civ_template_default"
+      <EquipmentSet id="rom_civ_template_default"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
@@ -3492,7 +3492,7 @@
     <Equipments>
       <EquipmentRoster />
       <EquipmentSet id="emp_bat_template_heavy" />
-      <EquipmentSet id="emp_civ_template_default"
+      <EquipmentSet id="rom_civ_template_default"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
@@ -3569,8 +3569,8 @@
     </Traits>
     <Equipments>
       <EquipmentRoster />
-      <EquipmentSet id="emp_bat_template_medium" />
-      <EquipmentSet id="emp_civ_template_default"
+      <EquipmentSet id="rom_bat_template_medium" />
+      <EquipmentSet id="rom_civ_template_default"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
@@ -3614,8 +3614,8 @@
     </Traits>
     <Equipments>
       <EquipmentRoster />
-      <EquipmentSet id="emp_bat_template_medium" />
-      <EquipmentSet id="emp_civ_template_default"
+      <EquipmentSet id="rom_bat_template_medium" />
+      <EquipmentSet id="rom_civ_template_default"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
@@ -3659,7 +3659,7 @@
     <Equipments>
       <EquipmentRoster />
       <EquipmentSet id="emp_bat_template_heavy" />
-      <EquipmentSet id="emp_civ_template_default"
+      <EquipmentSet id="rom_civ_template_default"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
@@ -3734,8 +3734,8 @@
     </Traits>
     <Equipments>
       <EquipmentRoster />
-      <EquipmentSet id="emp_bat_template_medium" />
-      <EquipmentSet id="emp_civ_template_default"
+      <EquipmentSet id="rom_bat_template_medium" />
+      <EquipmentSet id="rom_civ_template_default"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
@@ -3780,7 +3780,7 @@
     <Equipments>
       <EquipmentRoster />
       <EquipmentSet id="emp_bat_template_heavy" />
-      <EquipmentSet id="emp_civ_template_default"
+      <EquipmentSet id="rom_civ_template_default"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
@@ -3825,8 +3825,8 @@
     </Traits>
     <Equipments>
       <EquipmentRoster />
-      <EquipmentSet id="emp_bat_template_medium" />
-      <EquipmentSet id="emp_civ_template_default"
+      <EquipmentSet id="rom_bat_template_medium" />
+      <EquipmentSet id="rom_civ_template_default"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
@@ -3899,8 +3899,8 @@
     </Traits>
     <Equipments>
       <EquipmentRoster />
-      <EquipmentSet id="emp_bat_template_medium" />
-      <EquipmentSet id="emp_civ_template_default"
+      <EquipmentSet id="rom_bat_template_medium" />
+      <EquipmentSet id="rom_civ_template_default"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
@@ -3976,7 +3976,7 @@
     <Equipments>
       <EquipmentRoster />
       <EquipmentSet id="emp_bat_template_heavy" />
-      <EquipmentSet id="emp_civ_template_default"
+      <EquipmentSet id="rom_civ_template_default"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
@@ -4078,7 +4078,7 @@
     <Equipments>
       <EquipmentRoster />
       <EquipmentSet id="emp_bat_template_flamboyant" />
-      <EquipmentSet id="emp_civ_template_default"
+      <EquipmentSet id="rom_civ_template_default"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
@@ -4181,8 +4181,8 @@
     </Traits>
     <Equipments>
       <EquipmentRoster />
-      <EquipmentSet id="emp_bat_template_medium" />
-      <EquipmentSet id="emp_civ_template_default"
+      <EquipmentSet id="rom_bat_template_medium" />
+      <EquipmentSet id="rom_civ_template_default"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
@@ -4222,8 +4222,8 @@
     </Traits>
     <Equipments>
       <EquipmentRoster />
-      <EquipmentSet id="emp_bat_template_medium" />
-      <EquipmentSet id="emp_civ_template_default"
+      <EquipmentSet id="rom_bat_template_medium" />
+      <EquipmentSet id="rom_civ_template_default"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
@@ -4341,8 +4341,8 @@
     </Traits>
     <Equipments>
       <EquipmentRoster />
-      <EquipmentSet id="emp_bat_template_medium" />
-      <EquipmentSet id="emp_civ_template_default"
+      <EquipmentSet id="rom_bat_template_medium" />
+      <EquipmentSet id="rom_civ_template_default"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
@@ -4417,7 +4417,7 @@
     <Equipments>
       <EquipmentRoster />
       <EquipmentSet id="emp_bat_template_stoic" />
-      <EquipmentSet id="emp_civ_template_default"
+      <EquipmentSet id="rom_civ_template_default"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
@@ -4496,8 +4496,8 @@
     </Traits>
     <Equipments>
       <EquipmentRoster />
-      <EquipmentSet id="emp_bat_template_medium" />
-      <EquipmentSet id="emp_civ_template_default"
+      <EquipmentSet id="rom_bat_template_medium" />
+      <EquipmentSet id="rom_civ_template_default"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
@@ -4583,7 +4583,7 @@
     <Equipments>
       <EquipmentRoster />
       <EquipmentSet id="emp_bat_template_lady" />
-      <EquipmentSet id="emp_civ_template_default"
+      <EquipmentSet id="rom_civ_template_default"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
@@ -4624,7 +4624,7 @@
     <Equipments>
       <EquipmentRoster />
       <EquipmentSet id="emp_bat_template_heavy" />
-      <EquipmentSet id="emp_civ_template_default"
+      <EquipmentSet id="rom_civ_template_default"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
@@ -4715,7 +4715,7 @@
     <Equipments>
       <EquipmentRoster />
       <EquipmentSet id="emp_bat_template_lady" />
-      <EquipmentSet id="emp_civ_template_default"
+      <EquipmentSet id="rom_civ_template_default"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
@@ -4753,7 +4753,7 @@
     <Equipments>
       <EquipmentRoster />
       <EquipmentSet id="emp_bat_template_stoic" />
-      <EquipmentSet id="emp_civ_template_default"
+      <EquipmentSet id="rom_civ_template_default"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
@@ -4827,7 +4827,7 @@
     <Equipments>
       <EquipmentRoster />
       <EquipmentSet id="emp_bat_template_southfrontier" />
-      <EquipmentSet id="emp_civ_template_default"
+      <EquipmentSet id="rom_civ_template_default"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
@@ -4900,7 +4900,7 @@
     <Equipments>
       <EquipmentRoster />
       <EquipmentSet id="emp_bat_template_heavy" />
-      <EquipmentSet id="emp_civ_template_default"
+      <EquipmentSet id="rom_civ_template_default"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
@@ -4963,7 +4963,7 @@
     <Equipments>
       <EquipmentRoster />
       <EquipmentSet id="emp_bat_template_lady" />
-      <EquipmentSet id="emp_civ_template_default"
+      <EquipmentSet id="rom_civ_template_default"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
@@ -5028,8 +5028,8 @@
     </Traits>
     <Equipments>
       <EquipmentRoster />
-      <EquipmentSet id="emp_bat_template_medium" />
-      <EquipmentSet id="emp_civ_template_default"
+      <EquipmentSet id="rom_bat_template_medium" />
+      <EquipmentSet id="rom_civ_template_default"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
@@ -5138,7 +5138,7 @@
     </Traits>
     <Equipments>
       <EquipmentSet id="emp_bat_template_southfrontier" />
-      <EquipmentSet id="emp_civ_template_default"
+      <EquipmentSet id="rom_civ_template_default"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
@@ -5207,8 +5207,8 @@
              value="1" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="emp_bat_template_medium" />
-      <EquipmentSet id="emp_civ_template_default"
+      <EquipmentSet id="rom_bat_template_medium" />
+      <EquipmentSet id="rom_civ_template_default"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
@@ -5303,7 +5303,7 @@
     </Traits>
     <Equipments>
       <EquipmentSet id="emp_bat_template_stoic" />
-      <EquipmentSet id="emp_civ_template_default"
+      <EquipmentSet id="rom_civ_template_default"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
@@ -5412,8 +5412,8 @@
              value="1" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="emp_bat_template_medium" />
-      <EquipmentSet id="emp_civ_template_default"
+      <EquipmentSet id="rom_bat_template_medium" />
+      <EquipmentSet id="rom_civ_template_default"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
@@ -5485,7 +5485,7 @@
     <Equipments>
       <EquipmentRoster />
       <EquipmentSet id="emp_bat_template_heavy" />
-      <EquipmentSet id="emp_civ_template_default"
+      <EquipmentSet id="rom_civ_template_default"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
@@ -5560,7 +5560,7 @@
     <Equipments>
       <EquipmentRoster />
       <EquipmentSet id="emp_bat_template_flamboyant" />
-      <EquipmentSet id="emp_civ_template_default"
+      <EquipmentSet id="rom_civ_template_default"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
@@ -5584,7 +5584,7 @@
     <Equipments>
       <EquipmentRoster />
       <EquipmentSet id="emp_bat_template_lady" />
-      <EquipmentSet id="emp_civ_template_default"
+      <EquipmentSet id="rom_civ_template_default"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
@@ -5623,7 +5623,7 @@
     <Equipments>
       <EquipmentRoster />
       <EquipmentSet id="emp_bat_template_flamboyant" />
-      <EquipmentSet id="emp_civ_template_default"
+      <EquipmentSet id="rom_civ_template_default"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
@@ -5661,8 +5661,8 @@
     </Traits>
     <Equipments>
       <EquipmentRoster />
-      <EquipmentSet id="emp_bat_template_medium" />
-      <EquipmentSet id="emp_civ_template_default"
+      <EquipmentSet id="rom_bat_template_medium" />
+      <EquipmentSet id="rom_civ_template_default"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
@@ -5696,8 +5696,8 @@
     </Traits>
     <Equipments>
       <EquipmentRoster />
-      <EquipmentSet id="emp_bat_template_medium" />
-      <EquipmentSet id="emp_civ_template_default"
+      <EquipmentSet id="rom_bat_template_medium" />
+      <EquipmentSet id="rom_civ_template_default"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
@@ -5739,7 +5739,7 @@
     <Equipments>
       <EquipmentRoster />
       <EquipmentSet id="emp_bat_template_stoic" />
-      <EquipmentSet id="emp_civ_template_default"
+      <EquipmentSet id="rom_civ_template_default"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
@@ -5816,7 +5816,7 @@
     <Equipments>
       <EquipmentRoster />
       <EquipmentSet id="emp_bat_template_heavy" />
-      <EquipmentSet id="emp_civ_template_default"
+      <EquipmentSet id="rom_civ_template_default"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
@@ -5853,7 +5853,7 @@
     <Equipments>
       <EquipmentRoster />
       <EquipmentSet id="emp_bat_template_stoic" />
-      <EquipmentSet id="emp_civ_template_default"
+      <EquipmentSet id="rom_civ_template_default"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
@@ -5927,7 +5927,7 @@
     <Equipments>
       <EquipmentRoster />
       <EquipmentSet id="emp_bat_template_southfrontier" />
-      <EquipmentSet id="emp_civ_template_default"
+      <EquipmentSet id="rom_civ_template_default"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
@@ -15397,7 +15397,7 @@ voice="Male, northern accent, older, authoritative and competent"-->
                 age="20"
                 voice="earnest"
                 is_hero="true"
-                culture="Culture.empire"
+                culture="Culture.byzantine"
                 occupation="Lord"
                 default_group="Cavalry"
                 face_mesh_cache="true">
@@ -15437,7 +15437,7 @@ voice="Male, northern accent, older, authoritative and competent"-->
 	</NPCCharacter>
 
 	<NPCCharacter id="lord_twb_1_15"
-                name="{=RyorjCXF}Decius"
+                name="{=RyorjCXF}Decius" 
                 age="26"
                 voice="earnest"
                 is_hero="true"
@@ -15472,8 +15472,8 @@ voice="Male, northern accent, older, authoritative and competent"-->
 		</Traits>
 		<Equipments>
 			<EquipmentRoster />
-			<EquipmentSet id="emp_bat_template_medium" />
-			<EquipmentSet id="emp_civ_template_default"
+			<EquipmentSet id="rom_bat_template_medium" />
+			<EquipmentSet id="rom_civ_template_default"
 						  civilian="true" />
 		</Equipments>
 	</NPCCharacter>
@@ -15490,7 +15490,6 @@ voice="Male, northern accent, older, authoritative and competent"-->
 		<face>
 			<!--face_key value="0011812fc03c000d56c95a399826a7946c65c77675b4c727b9a5987c94b6ba3b000e64740cda898600001105000030a30000001f000000000000000000009000" /-->
 			<BodyProperties version="4"
-							age="30.72"
 							weight="0.4"
 							build="0.4"
 							key="001BAC0D0000300D42746C988A84BBB688BBB996CD33B5E398A4A865579756A6007776030786687300000000000000000000000000000000000000003AF43002" />
@@ -15500,11 +15499,11 @@ voice="Male, northern accent, older, authoritative and competent"-->
 			<Trait id="HopliteFightingSkills"
 				   value="6" />
 			<Trait id="Commander"
-				   value="6" />
+				   value="14" />
 			<Trait id="Politician"
-				   value="5" />
+				   value="13" />
 			<Trait id="Manager"
-				   value="4" />
+				   value="12" />
 			<Trait id="Valor"
 				   value="1" />
 			<Trait id="Generosity"
@@ -15513,8 +15512,8 @@ voice="Male, northern accent, older, authoritative and competent"-->
 		</Traits>
 		<Equipments>
 			<EquipmentRoster />
-			<EquipmentSet id="emp_bat_template_medium" />
-			<EquipmentSet id="emp_civ_template_default"
+			<EquipmentSet id="rom_bat_template_medium" />
+			<EquipmentSet id="rom_civ_template_default"
 						  civilian="true" />
 		</Equipments>
 	</NPCCharacter>
@@ -15553,8 +15552,8 @@ voice="Male, northern accent, older, authoritative and competent"-->
 		</Traits>
 		<Equipments>
 			<EquipmentRoster />
-			<EquipmentSet id="emp_bat_template_medium" />
-			<EquipmentSet id="emp_civ_template_default"
+			<EquipmentSet id="rom_bat_template_medium" />
+			<EquipmentSet id="rom_civ_template_default"
 						  civilian="true" />
 		</Equipments>
 	</NPCCharacter>
@@ -15595,8 +15594,8 @@ voice="Male, northern accent, older, authoritative and competent"-->
 		</Traits>
 		<Equipments>
 			<EquipmentRoster />
-			<EquipmentSet id="emp_bat_template_medium" />
-			<EquipmentSet id="emp_civ_template_default"
+			<EquipmentSet id="rom_bat_template_medium" />
+			<EquipmentSet id="rom_civ_template_default"
 						  civilian="true" />
 		</Equipments>
 	</NPCCharacter>
@@ -15955,6 +15954,40 @@ voice="Male, northern accent, older, authoritative and competent"-->
 			<EquipmentRoster />
 			<EquipmentSet id="bat_bat_template_medium" />
 			<EquipmentSet id="bat_civ_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="lord_twb_1_29"
+                name="{=valerius12}Marcus Valerius Corvus"
+                age="44"
+                voice="curt"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.empire"
+                occupation="Lord"
+                face_mesh_cache="true">
+		<face>
+			<!--face_key value="0008b08c8000244277b884755a5972cc8776b9a6a95b558e342d38679ca7288a00049b82c17bb770000000000000000000000000000000000000000000006000" /-->
+			<BodyProperties version="4"
+							key="001BB80D0F00364DC33DA48C25956CB78A3C6B7B99C864D364D8994486B7758700777603079F59CA00000000000000000000000000000000000000003AF48102" />
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="Valor"
+				   value="1" />
+			<Trait id="HopliteFightingSkills"
+				   value="7" />
+			<Trait id="Commander"
+				   value="7" />
+			<Trait id="Manager"
+				   value="6" />
+
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="rom_bat_template_medium" />
+			<EquipmentSet id="rom_civ_template_default"
 						  civilian="true" />
 		</Equipments>
 	</NPCCharacter>
@@ -17778,6 +17811,3401 @@ voice="Male, northern accent, older, authoritative and competent"-->
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
-	
+
+
+
+	<!-- Byzantine -->
+	<!-- Clan 1 -->
+	<NPCCharacter id="lord_byzantine_1_14"
+				  name="{=byzkadJAjaA}Alexios"
+				  default_group="Infantry"
+				  age="52"
+				  voice="earnest"
+				  is_hero="true"
+				  culture="Culture.byzantine"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4" weight="0.1" build="0.3"  key="0010AC0E5400394E87C5E9B44A95788545394D93983797878DB936444998868603841635087C26610000000000000000000000000000000000000000011C8080"  />
+		</face>
+		<Traits>
+			<Trait id="BalancedFightingSkills"
+				   value="7" />
+			<Trait id="Commander"
+				   value="15" />
+			<Trait id="Politician"
+				   value="18" />
+			<Trait id="Manager"
+				   value="12" />
+			<Trait id="Generosity"
+				   value="1" />
+			<Trait id="Calculating"
+				   value="1" />
+			<Trait id="Authoritarian"
+				   value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet id="emp_bat_template_heavy" />
+			<EquipmentSet id="emp_civ_template_flamboyant"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="lord_byzantine_1_27"
+				  name="{=byzwaQPRCaT}Anastasius"
+				  age="37"
+				  voice="earnest"
+				  is_hero="true"
+				  culture="Culture.byzantine"
+				  occupation="Lord"
+				  default_group="Cavalry"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4" age="37.3" weight="0.6" build="0.3"  key="000D6C0B80B4104879D8455AA9684859888735557C6493786867627857B2895802B498240B8735D900001105000030A30000001F000000000000000001686000"  />
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="HorseArcherFightingSkills"
+				   value="6" />
+			<Trait id="Commander"
+				   value="14" />
+			<Trait id="Politician"
+				   value="7" />
+			<Trait id="Manager"
+				   value="7" />
+			<Trait id="Mercy"
+				   value="1" />
+			<Trait id="Generosity"
+				   value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet id="emp_bat_template_southfrontier" />
+			<EquipmentSet id="rom_civ_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="lord_byzantine_1_27_1"
+				  name="{=byzd6aTWH9m}Leda"
+				  age="37"
+				  is_female="true"
+				  voice="softspoken"
+				  is_hero="true"
+				  culture="Culture.byzantine"
+				  occupation="Lord"
+				  default_group="Cavalry"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							age="25.84"
+							weight="0.2"
+							build="0.2"
+							key="0005B8071070000A987877861A2999B848987C68EA6BB7869423371443C8EA4801377613036AB66200000000000000000000000000000000000000005A6C3003" />
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="Politician"
+				   value="8" />
+			<Trait id="Manager"
+				   value="6" />
+			<Trait id="Mercy"
+				   value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet id="emp_bat_template_lady" />
+			<EquipmentSet id="emp_noncom_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="lord_byzantine_1_27_2"
+				  name="{=byzzaHnL2It}Philippos"
+				  age="18"
+				  voice="earnest"
+				  is_hero="true"
+				  culture="Culture.byzantine"
+				  occupation="Lord"
+				  default_group="Cavalry"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							age="30.7"
+							weight="0.4"
+							build="0.4"
+							key="000B8802C0BC1005B9D8455AA96848594597AD77996A54B899D967BA74979778010008930FBA9A7900001105000030A30000001F000000000000000001683100" />
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="HorseArcherFightingSkills"
+				   value="4" />
+			<Trait id="Commander"
+				   value="8" />
+			<Trait id="Politician"
+				   value="2" />
+			<Trait id="Manager"
+				   value="2" />
+			<Trait id="Mercy"
+				   value="-1" />
+			<Trait id="Calculating"
+				   value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet id="rom_bat_template_medium" />
+			<EquipmentSet id="rom_civ_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="lord_byzantine_1_27_3"
+				  name="{=byzlGrQRXKt}Irene"
+				  is_female="true"
+				  age="34"
+				  voice="earnest"
+				  is_hero="true"
+				  culture="Culture.byzantine"
+				  occupation="Lord"
+				  default_group="Cavalry"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4" weight="0.2" build="0.3"  key="0010880D00B4100BB9D8455AA96848594597AD77996A54B899D967BA7497977809B438920ABA9A7900001105000030A30000001F0000000000000000016830C0"  />
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="HorseArcherFightingSkills"
+				   value="5" />
+			<Trait id="Commander"
+				   value="14" />
+			<Trait id="Politician"
+				   value="12" />
+			<Trait id="Manager"
+				   value="10" />
+			<Trait id="Mercy"
+				   value="-1" />
+			<Trait id="Calculating"
+				   value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet id="emp_bat_template_southfrontier" />
+			<EquipmentSet id="rom_civ_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="lord_byzantine_1_37"
+				  name="{=byzHSlPLC4m}Ioannes"
+				  age="12"
+				  voice="ironic"
+				  is_hero="true"
+				  culture="Culture.byzantine"
+				  occupation="Lord"
+				  default_group="Cavalry"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4" weight="0.1" build="0.3"  key="0010AC0E4000394887C5E9B44A95788545394D93983797878DB93644499886860C8416C20A7C26610000000000000000000000000000000000000000011C8080"  />
+		</face>
+		<skills></skills>
+		<Traits>
+			<!-- Teenager 
+      <Trait id="CavalryFightingSkills"
+             value="7" />
+      <Trait id="Commander"
+             value="5" />
+      <Trait id="Politician"
+             value="6" />
+      <Trait id="Manager"
+             value="2" />
+      <Trait id="Calculating"
+             value="-1" />
+      <Trait id="Generosity"
+             value="-1" />
+      <Trait id="Mercy"
+             value="-1" />
+      <Trait id="Valor"
+             value="1" />
+			 -->
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="emp_bat_template_southfrontier" />
+			<EquipmentSet id="rom_civ_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="lord_byzantine_1_47"
+				  name="{=byzxViSxONn}Nikolaos"
+				  default_group="Cavalry"
+				  age="45"
+				  voice="curt"
+				  is_hero="true"
+				  culture="Culture.byzantine"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"  weight="0.5" build="0.5"  key="0013B40997B4024D94A8C26585AAA93992D5A78776779C82329B657437695D350367753506E9BA6200001105000030A30000001F000000000000000000D80000"  />
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="KnightFightingSkills"
+				   value="8" />
+			<Trait id="Commander"
+				   value="14" />
+			<Trait id="Politician"
+				   value="8" />
+			<Trait id="Manager"
+				   value="8" />
+			<Trait id="Mercy"
+				   value="-1" />
+			<Trait id="Honor"
+				   value="1" />
+			<Trait id="Generosity"
+				   value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="emp_bat_template_heavy" />
+			<EquipmentSet id="rom_civ_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="lord_byzantine_1_47_1"
+				  name="{=byzQvfUqzpF}Nikoletta"
+				  age="38"
+				  is_female="true"
+				  voice="earnest"
+				  is_hero="true"
+				  culture="Culture.byzantine"
+				  default_group="Cavalry"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="001CD00FD114000AE46398467C698988876DB2B863D57A6D87B96C58967BE7660187761308364A49000000000000000000000000000000000000000019142003" />
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="Politician"
+				   value="3" />
+			<Trait id="Manager"
+				   value="2" />
+			<Trait id="Honor"
+				   value="1" />
+			<Trait id="Valor"
+				   value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="emp_bat_template_lady" />
+			<EquipmentSet id="emp_noncom_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="lord_byzantine_1_47_2"
+				  name="{=byzysrWE08a}Sibylla"
+				  default_group="Cavalry"
+				  age="14"
+				  is_female="true"
+				  voice="softspoken"
+				  is_hero="true"
+				  culture="Culture.byzantine"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="001C880A111400012857DAA3C88BD254869B9BB7C7796796A6987253285773960137761303A670BD00000000000000000000000000000000000000005A741083" />
+		</face>
+		<skills></skills>
+		<Traits>
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="emp_bat_template_lady" />
+			<EquipmentSet id="rom_civ_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="lord_byzantine_1_47_3"
+				  name="{=byzKwNdjleW}Anna"
+				  default_group="Cavalry"
+				  age="17"
+				  is_female="true"
+				  voice="softspoken"
+				  is_hero="true"
+				  culture="Culture.byzantine"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="00115C0A13702007997A77A685B88487865116663789A798A6A897926887369901A776130A8B49B500000000000000000000000000000000000000001F543083" />
+		</face>
+		<skills></skills>
+		<Traits>
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="emp_bat_template_lady" />
+			<EquipmentSet id="rom_civ_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+
+	<!-- Clan 2 -->
+	<NPCCharacter id="lord_byzantine_1_15"
+				  name="{=byzHSlPLC4m}Ioannes"
+				  age="62"
+				  voice="softspoken"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  culture="Culture.byzantine"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4" weight="0.4" build="0.6"  key="0013CC0D0000038F640B69B8656667865969A5977D6878675667688679664368065960670569896600001105000030A30000001F000000000000000000A40000"  />
+			<hair_tags>
+				<hair_tag name="Short" />
+			</hair_tags>
+			<beard_tags>
+				<beard_tag name="LightShortBeard" />
+			</beard_tags>
+		</face>
+		<Traits>
+			<Trait id="KnightFightingSkills"
+				   value="5" />
+			<Trait id="Commander"
+				   value="12" />
+			<Trait id="Politician"
+				   value="8" />
+			<Trait id="Manager"
+				   value="12" />
+			<Trait id="Valor"
+				   value="-1" />
+			<Trait id="Generosity"
+				   value="1" />
+			<Trait id="Honor"
+				   value="1" />
+			<Trait id="Authoritarian"
+				   value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentRoster civilian="true" />
+			<EquipmentSet id="emp_bat_template_flamboyant" />
+			<EquipmentSet id="emp_civ_template_flamboyant"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="lord_byzantine_1_155"
+				  name="{=byzUTFGUeVQ}Zenone"
+				  age="18"
+				  voice="ironic"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  culture="Culture.byzantine"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4" weight="0.5" build="0.4"  key="0015CC0D0000004F640B69B8656667865969A5977D6878675667688679664368005670030569896600001105000030A30000001F000000000000000000A40000"  />
+		</face>
+		<Traits>
+			<Trait id="KnightFightingSkills"
+				   value="4" />
+			<Trait id="Commander"
+				   value="2" />
+			<Trait id="Politician"
+				   value="2" />
+			<Trait id="Manager"
+				   value="2" />
+			<Trait id="Generosity"
+				   value="1" />
+			<Trait id="Honor"
+				   value="1" />
+			<Trait id="Authoritarian"
+				   value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentRoster civilian="true" />
+			<EquipmentSet id="emp_bat_template_southfrontier" />
+			<EquipmentSet id="emp_civ_template_southfrontier"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="lord_byzantine_1_16"
+				  name="{=byz2fYYfHUI}Petra"
+				  age="50"
+				  voice="softspoken"
+				  is_hero="true"
+				  default_group="Cavalry"
+				  is_female="true"
+				  culture="Culture.byzantine"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.4"
+							key="0000A008800000049A6A869356765374D67695669A8482546E75A699765777B50006600A0668A9880000000000000FFE00000000000000000000000000280000" />
+		</face>
+		<Traits>
+			<Trait id="Politician"
+				   value="1" />
+			<Trait id="Manager"
+				   value="2" />
+			<Trait id="Valor"
+				   value="-1" />
+			<Trait id="Generosity"
+				   value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet id="emp_bat_template_lady" />
+			<EquipmentSet id="emp_noncom_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="lord_byzantine_1_28"
+				  name="{=byzHGBWqbhQ}Stefanos"
+				  age="25"
+				  voice="earnest"
+				  is_hero="true"
+				  culture="Culture.byzantine"
+				  occupation="Lord"
+				  default_group="Cavalry"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4" weight="0.3" build="0.3"  key="0013500C40FC0384697797684AB4518CA479A943769585B39599B4916B7BA66801944E130997A98D000000000000000000000000000000000000000001240000"  />
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="KnightFightingSkills"
+				   value="5" />
+			<Trait id="Commander"
+				   value="14" />
+			<Trait id="Politician"
+				   value="18" />
+			<Trait id="Manager"
+				   value="12" />
+			<Trait id="Valor"
+				   value="1" />
+			<Trait id="Generosity"
+				   value="1" />
+			<Trait id="Honor"
+				   value="-1" />
+			<Trait id="Calculating"
+				   value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet id="emp_bat_template_heavy" />
+			<EquipmentSet id="rom_civ_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="lord_byzantine_1_38"
+				  name="{=byz6YiMWxVM}Melissa"
+				  age="17"
+				  voice="softspoken"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  is_female="true"
+				  culture="Culture.byzantine"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.3"
+							build="0.3"
+							key="0000BC0E00000003AA8679A465A51478883AB7777B55214664489A69975696A5000550070588A7860000000000000FFE00000000000000000000000000A00000" />
+		</face>
+		<skills>
+		</skills>
+		<Traits>
+			<Trait id="Politician"
+				   value="8" />
+			<Trait id="Manager"
+				   value="10" />
+			<Trait id="Valor"
+				   value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet id="emp_bat_template_lady" />
+			<EquipmentSet id="emp_noncom_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="lord_byzantine_1_48"
+				  name="{=byzkatzUyMI}Petronas"
+				  default_group="Cavalry"
+				  age="39"
+				  voice="earnest"
+				  is_hero="true"
+				  culture="Culture.byzantine"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="001C880580001008A66A975E5784799294576EAA3A3954B6774485A4155ABB6D000546D40DD3989700001105000030A30000001F000000000000000001189000" />
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="BalancedFightingSkills"
+				   value="6" />
+			<Trait id="Commander"
+				   value="4" />
+			<Trait id="Politician"
+				   value="4" />
+			<Trait id="Manager"
+				   value="5" />
+			<Trait id="Mercy"
+				   value="1" />
+			<Trait id="Valor"
+				   value="1" />
+			<Trait id="Calculating"
+				   value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="emp_bat_template_heavy" />
+			<EquipmentSet id="rom_civ_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="lord_byzantine_1_48_1"
+				  name="{=byzozpbN30B}Maria"
+				  default_group="Cavalry"
+				  is_female="true"
+				  age="31"
+				  voice="curt"
+				  is_hero="true"
+				  culture="Culture.byzantine"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="00054407142C000E374577A56CC36C89499569775CC59876759685188978C5270147761304DAD76800000000000000000000000000000000000000002A942003" />
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="Manager"
+				   value="2" />
+			<Trait id="Mercy"
+				   value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="emp_bat_template_lady" />
+			<EquipmentSet id="emp_noncom_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="lord_byzantine_1_48_2"
+				  name="{=byzYDy8meZp}Aeneas"
+				  default_group="Cavalry"
+				  is_female="true"
+				  age="9"
+				  voice="curt"
+				  is_hero="true"
+				  culture="Culture.byzantine"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="00054407142C000E374577A56CC36C89499569775CC59876759685188978C5270147761304DAD76800000000000000000000000000000000000000002A942003" />
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="Manager"
+				   value="1" />
+			<Trait id="Mercy"
+				   value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="emp_bat_template_lady" />
+			<EquipmentSet id="emp_noncom_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="lord_byzantine_1_48_3"
+				  name="{=byzyROMCMB3}Menelaus"
+				  default_group="Cavalry"
+				  age="11"
+				  voice="curt"
+				  is_hero="true"
+				  culture="Culture.byzantine"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							age="25.84"
+							weight="0.5"
+							build="0.5"
+							key="0000940B404420038B65576759259988AA78D997567B167678CBA478D65688B30177761307666874000000000000000000000000000000000000000000E41043" />
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="Mercy"
+				   value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="emp_bat_template_lady" />
+			<EquipmentSet id="rom_civ_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+
+	<!-- Clan 3 -->
+	<NPCCharacter id="lord_byzantine_1_17"
+				  name="{=byzJFVseSa3}Michael"
+				  age="50"
+				  voice="curt"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  culture="Culture.byzantine"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4" weight="0.8" build="0.5"  key="0013AC0C40000488975D98B886639678796AA5A76A87677859779A888658234A0457C0460597967900001105000030A30000001F000000000000000000A40000"  />
+		</face>
+		<Traits>
+			<Trait id="KnightFightingSkills"
+				   value="5" />
+			<Trait id="Commander"
+				   value="8" />
+			<Trait id="Politician"
+				   value="8" />
+			<Trait id="Manager"
+				   value="10" />
+			<Trait id="Generosity"
+				   value="-1" />
+			<Trait id="Calculating"
+				   value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="emp_bat_template_flamboyant" />
+			<EquipmentSet id="emp_civ_template_flamboyant"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="lord_byzantine_1_177"
+				  name="{=byzI2gnhOc2}Polynices"
+				  age="24"
+				  voice="curt"
+				  is_hero="true"
+				  culture="Culture.byzantine"
+				  occupation="Lord"
+				  default_group="Cavalry"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4" weight="0.6" build="0.6"  key="0010CC06C0000003755D98B886639678761559B8B7C879465D6A74A99895786C0A5990A207A91E5500001105000030A30000001F0000000000000000009C2000"  />
+		</face>
+		<Traits>
+			<Trait id="KnightFightingSkills"
+				   value="4" />
+			<Trait id="Commander"
+				   value="14" />
+			<Trait id="Politician"
+				   value="5" />
+			<Trait id="Manager"
+				   value="6" />
+			<Trait id="Calculating"
+				   value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="emp_bat_template_southfrontier" />
+			<EquipmentSet id="emp_civ_template_southfrontier"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="lord_byzantine_1_18"
+				  name="{=byzozpbN30B}Maria"
+				  age="48"
+				  voice="curt"
+				  is_hero="true"
+				  is_female="true"
+				  culture="Culture.byzantine"
+				  occupation="Lord"
+				  default_group="Cavalry"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.75"
+							build="0.5"
+							key="0005880FC000000E98AA77B76970A46A77E739675A3862468B759958865696BD00040008058788780000000000000FFE00000000000000000000000000000000" />
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="Politician"
+				   value="4" />
+			<Trait id="Manager"
+				   value="3" />
+			<Trait id="Valor"
+				   value="-1" />
+			<Trait id="Generosity"
+				   value="-1" />
+			<Trait id="Authoritarian"
+				   value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet id="emp_bat_template_lady" />
+			<EquipmentSet id="emp_noncom_template_southfrontier"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="lord_byzantine_1_29"
+				  name="{=byz5eTb2xr7}Constantine"
+				  age="23"
+				  voice="earnest"
+				  is_hero="true"
+				  culture="Culture.byzantine"
+				  occupation="Lord"
+				  default_group="Cavalry"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.4"
+							build="0.6"
+							key="000BA00B40001008A43A8AB8557888874A6A94868B767788988844778A69247900058005079777A800001105000030A30000001F000000000000000000CC0000" />
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="KnightFightingSkills"
+				   value="8" />
+			<Trait id="Commander"
+				   value="4" />
+			<Trait id="Politician"
+				   value="3" />
+			<Trait id="Manager"
+				   value="5" />
+			<Trait id="Valor"
+				   value="1" />
+			<Trait id="Mercy"
+				   value="1" />
+			<Trait id="Calculating"
+				   value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet id="emp_bat_template_heavy" />
+			<EquipmentSet id="rom_civ_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="lord_byzantine_1_39"
+				  name="{=byzYBGCXSEx}Ioanna"
+				  age="20"
+				  voice="ironic"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  is_female="true"
+				  culture="Culture.byzantine"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.3025"
+							build="0.5377"
+							key="0005F00CC02810048774371C48B5C916EA6489378A81A846D9926C347476669603A856350A065B26000000000000000000000000000000000000000061441002" />
+		</face>
+		<Traits>
+			<Trait id="Politician"
+				   value="3" />
+			<Trait id="Manager"
+				   value="5" />
+			<Trait id="Mercy"
+				   value="-1" />
+			<Trait id="Valor"
+				   value="1" />
+			<Trait id="Honor"
+				   value="1" />
+			<Trait id="Generosity"
+				   value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet id="emp_bat_template_lady" />
+			<EquipmentSet id="emp_noncom_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+
+	<!-- Clan 4 -->
+	<NPCCharacter id="lord_byzantine_1_30"
+				  name="{=byzP7iNhhPl}Giorgios"
+				  voice="earnest"
+				  age="24"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  culture="Culture.byzantine"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.4"
+							build="0.5"
+							key="0016C80E0000200DBC4597A5256457A995879939BBECA7A766C7893AA68945570005435309B1876400001105000030A30000001F000000000000000000A02000" />
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="BalancedFightingSkills"
+				   value="7" />
+			<Trait id="Commander"
+				   value="5" />
+			<Trait id="Politician"
+				   value="3" />
+			<Trait id="Manager"
+				   value="3" />
+			<Trait id="Honor"
+				   value="-1" />
+			<Trait id="Generosity"
+				   value="1" />
+			<Trait id="Calculating"
+				   value="1" />
+			<Trait id="Authoritarian"
+				   value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="rom_bat_template_medium" />
+			<EquipmentSet id="rom_civ_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="lord_byzantine_1_30_1"
+				  name="{=byzKwNdjleW}Anna"
+				  voice="curt"
+				  age="23"
+				  is_female="true"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  culture="Culture.byzantine"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="0011A40CC0B4300AA943DB689A336188B8984B56679A5AB8497A4CB9D8A6232501877613088C45970000000000000000000000000000000000000000350C1003" />
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="Manager"
+				   value="3" />
+			<Trait id="Calculating"
+				   value="1" />
+			<Trait id="Authoritarian"
+				   value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="emp_bat_template_lady" />
+			<EquipmentSet id="emp_noncom_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="lord_byzantine_1_30_2"
+				  name="{=byzfGp76I0G}Callinia"
+				  voice="softspoken"
+				  age="3"
+				  is_female="true"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  culture="Culture.byzantine"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							age="25.84"
+							weight="0.2"
+							build="0.3"
+							key="00117C0E50CC200D73C3265E79C3998BBE65798569D73495C6D87BD3AA57B6D501C776130CD465380000000000000000000000000000000000000000358C20C3" />
+		</face>
+		<skills></skills>
+		<Traits></Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="emp_bat_template_lady" />
+			<EquipmentSet id="emp_noncom_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="lord_byzantine_1_30_3"
+				  name="{=byzPQoWbtKo}Synesios"
+				  voice="softspoken"
+				  age="2"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  culture="Culture.byzantine"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							age="25.84"
+							weight="0.4"
+							build="0.3"
+							key="00117C0E50CC200D73C3265E79C3998BBE65798569D73495C6D87BD3AA57B6D501C776130CD465380000000000000000000000000000000000000000358C20C3" />
+		</face>
+		<skills></skills>
+		<Traits></Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="emp_bat_template_lady" />
+			<EquipmentSet id="rom_civ_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="lord_byzantine_1_49"
+				  name="{=byzQGIAbglw}Isaakios"
+				  default_group="Cavalry"
+				  age="48"
+				  voice="softspoken"
+				  is_hero="true"
+				  culture="Culture.byzantine"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							age="25.84"
+							weight="0.5"
+							build="0.5"
+							key="0011BC0CCE000102A5508899487841954B4F9A57D5C7D811C889B5068C4A7666012776130268769500000000000000000000000000000000000000003C4480C2" />
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="KnightFightingSkills"
+				   value="2" />
+			<Trait id="Commander"
+				   value="3" />
+			<Trait id="Politician"
+				   value="3" />
+			<Trait id="Manager"
+				   value="4" />
+			<Trait id="Valor"
+				   value="-1" />
+			<Trait id="Honor"
+				   value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="rom_bat_template_medium" />
+			<EquipmentSet id="rom_civ_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="lord_byzantine_1_49_1"
+				  name="{=byzBosCJ3Rb}Pelagia"
+				  is_female="true"
+				  age="37"
+				  default_group="Cavalry"
+				  voice="ironic"
+				  is_hero="true"
+				  culture="Culture.byzantine"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="0000200FD170300DB38B674C24E68B77237687A658475B47BC78592D78C593BB01C776130C2C8799000000000000000000000000000000000000000031840003" />
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="Commander"
+				   value="4" />
+			<Trait id="Politician"
+				   value="4" />
+			<Trait id="Manager"
+				   value="5" />
+			<Trait id="Valor"
+				   value="1" />
+			<Trait id="Mercy"
+				   value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="emp_bat_template_lady" />
+			<EquipmentSet id="bat_noncom_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="lord_byzantine_1_49_2"
+				  name="{=byzmpgkzY0Y}Kyriake"
+				  is_female="true"
+				  default_group="Cavalry"
+				  age="17"
+				  voice="earnest"
+				  is_hero="true"
+				  culture="Culture.byzantine"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							age="25.84"
+							weight="0.5"
+							build="0.5"
+							key="0011B00CD2A03006743ADC795BA745B786DABD951B876537A8C6AA5B96B893590167761306485E6600000000000000000000000000000000000000004ACC00C3" />
+		</face>
+		<skills></skills>
+		<Traits>
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="emp_bat_template_lady" />
+			<EquipmentSet id="rom_civ_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="lord_byzantine_1_56_2"
+				  name="{=byzMBKTyzXQ}Leontia"
+				  is_female="true"
+				  voice="softspoken"
+				  age="17"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  culture="Culture.byzantine"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<!--face_key value="0005c9258000100e63727ac8926a687a1a85878578987c9b437e6347545abcb7000aa894057768c900001105000030a30000001f000000000000000000004000" /-->
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="0011440CD000000F85883C187A9326A926589A94B9889854776498DB88864ED701877613084688A80000000000000000000000000000000000000000411410C3" />
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="Commander"
+				   value="1" />
+			<Trait id="Politician"
+				   value="1" />
+			<Trait id="Manager"
+				   value="2" />
+			<Trait id="Mercy"
+				   value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="emp_bat_template_lady" />
+			<EquipmentSet id="emp_noncom_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+
+	<!-- Clan 5 -->
+	<NPCCharacter id="lord_byzantine_1_63"
+				  name="{=byzAWDNxFbh}Valens"
+				  voice="curt"
+				  age="33"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  culture="Culture.byzantine"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.9"
+							build="0.9"
+							key="00065C08807C000D88566B74DA8577A325C64A9B6AA35AD26A5B2DB39752565500065BA20657885E00001105000030A30000001F000000000000000000F03000" />
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="BalancedFightingSkills"
+				   value="4" />
+			<Trait id="Commander"
+				   value="5" />
+			<Trait id="Politician"
+				   value="5" />
+			<Trait id="Manager"
+				   value="9" />
+			<Trait id="Valor"
+				   value="-1" />
+			<Trait id="Mercy"
+				   value="1" />
+			<Trait id="Generosity"
+				   value="-1" />
+			<Trait id="Calculating"
+				   value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="emp_bat_template_heavy" />
+			<EquipmentSet id="rom_civ_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="lord_byzantine_1_63_1"
+				  name="{=byzAVEDQNvr}Penelope"
+				  voice="curt"
+				  age="32"
+				  is_female="true"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  culture="Culture.byzantine"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.7"
+							build="0.8"
+							key="001C700CC0CC30106C969C364498D4369D8A57A9A772768983E88354BB2B1BCE0167761306D7CD8B000000000000000000000000000000000000000050DC4083" />
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="BalancedFightingSkills"
+				   value="3" />
+			<Trait id="Commander"
+				   value="2" />
+			<Trait id="Politician"
+				   value="3" />
+			<Trait id="Manager"
+				   value="3" />
+			<Trait id="Calculating"
+				   value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="emp_bat_template_lady" />
+			<EquipmentSet id="emp_noncom_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="lord_byzantine_1_63_2"
+				  name="{=byztRAl9AW2}Demetra"
+				  voice="curt"
+				  age="12"
+				  is_female="true"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  culture="Culture.byzantine"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="001C580892B400107792D84678A387599DAA67447A8C77C9D7D366699576C7CB0167761306D83BB700000000000000000000000000000000000000005CDC0003" />
+		</face>
+		<skills></skills>
+		<Traits></Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="emp_bat_template_lady" />
+			<EquipmentSet id="rom_civ_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="lord_byzantine_1_63_3"
+				  name="{=byzL2SmutOy}Eirene"
+				  voice="curt"
+				  age="9"
+				  is_female="true"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  culture="Culture.byzantine"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="00168C0CD3E4300B746DA4A836974259CA53A496D7AA6425822AA1429A5CACCA01677613063C365E00000000000000000000000000000000000000003CC42043" />
+		</face>
+		<skills></skills>
+		<Traits></Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="emp_bat_template_lady" />
+			<EquipmentSet id="emp_noncom_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="lord_byzantine_1_74"
+				  name="{=byz26W8jFm9}Hippolytos"
+				  voice="softspoken"
+				  age="30"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  culture="Culture.byzantine"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="0011B40B402410088733440E80468F1FFF4F9274C862B448941B5637963E5D3E000E08840B7247A6000000000000000000000000000000000000000000003101" />
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="BalancedFightingSkills"
+				   value="5" />
+			<Trait id="Commander"
+				   value="6" />
+			<Trait id="Politician"
+				   value="7" />
+			<Trait id="Manager"
+				   value="6" />
+			<Trait id="Honor"
+				   value="-1" />
+			<Trait id="Generosity"
+				   value="1" />
+			<Trait id="Calculating"
+				   value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet id="rom_bat_template_medium" />
+			<EquipmentSet id="rom_civ_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="lord_byzantine_1_74_1"
+				  name="{=byz7DJgows0}Martha"
+				  voice="curt"
+				  is_female="true"
+				  age="30"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  culture="Culture.byzantine"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="00115C0FD1A0000E3A7C7A85CC64D75ABE9B4974647554498CAA97499766E5860147761304B85D0800000000000000000000000000000000000000005C943003" />
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="Manager"
+				   value="2" />
+			<Trait id="Calculating"
+				   value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet id="emp_bat_template_lady" />
+			<EquipmentSet id="emp_noncom_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+
+	<!-- Clan 6 -->
+	<NPCCharacter id="lord_byzantine_1_54"
+				  name="{=byzsZebVgCp}Justinian"
+				  voice="ironic"
+				  age="28"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  culture="Culture.byzantine"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="0005A00140BC100DA85B899C8A71E497A32461B62479196C55058E7245674416000506530C356542000000000000000000000000000000000000000000004180" />
+		</face>
+		<Traits>
+			<Trait id="BalancedFightingSkills"
+				   value="5" />
+			<Trait id="Commander"
+				   value="6" />
+			<Trait id="Politician"
+				   value="6" />
+			<Trait id="Manager"
+				   value="4" />
+			<Trait id="Mercy"
+				   value="-1" />
+			<Trait id="Calculating"
+				   value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="emp_bat_template_stoic" />
+			<EquipmentSet id="rom_civ_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="lord_byzantine_1_54_1"
+				  name="{=byzK2UUjntt}Alkyone"
+				  voice="curt"
+				  age="26"
+				  is_female="true"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  culture="Culture.byzantine"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="0000780450B40005274C088C838671B78588B5549A7B79D979386C9D75A83863016776130698556700000000000000000000000000000000000000003ACC4083" />
+		</face>
+		<Traits>
+			<Trait id="Politician"
+				   value="6" />
+			<Trait id="Manager"
+				   value="5" />
+			<Trait id="Mercy"
+				   value="-1" />
+			<Trait id="Calculating"
+				   value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="emp_bat_template_lady" />
+			<EquipmentSet id="emp_noncom_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="lord_byzantine_1_68"
+				  name="{=byz9xyXdX4I}Iosephos"
+				  voice="curt"
+				  age="33"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  culture="Culture.byzantine"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.7"
+							build="0.9"
+							key="000BB00598FC00059A75657577A39A87B3D89A8E9774BD7677A867A97D3A634D00060C520767C68700001105000030A30000001F000000000000000000287000" />
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="BalancedFightingSkills"
+				   value="6" />
+			<Trait id="Commander"
+				   value="6" />
+			<Trait id="Politician"
+				   value="2" />
+			<Trait id="Manager"
+				   value="3" />
+			<Trait id="Valor"
+				   value="1" />
+			<Trait id="Mercy"
+				   value="-1" />
+			<Trait id="Calculating"
+				   value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet id="emp_bat_template_southfrontier" />
+			<EquipmentSet id="rom_civ_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="lord_byzantine_1_68_1"
+				  name="{=byzbujI7g96}Rita"
+				  voice="curt"
+				  age="23"
+				  is_female="true"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  culture="Culture.byzantine"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="00115C0890B42010C486966CA6A39396395EBC15947764737B762A7963D6584201A776130A5A596B00000000000000000000000000000000000000005B544003" />
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="Manager"
+				   value="3" />
+			<Trait id="Valor"
+				   value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet id="emp_bat_template_lady" />
+			<EquipmentSet id="emp_noncom_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+
+	<!-- Clan 7 -->
+	<NPCCharacter id="lord_byzantine_1_69"
+				  name="{=byz4YOoGhpK}Theophano"
+				  voice="softspoken"
+				  age="33"
+				  default_group="Infantry"
+				  is_hero="true"
+				  culture="Culture.byzantine"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.3"
+							build="0.4"
+							key="0016C40E403C1408E436C9A4849415C6909E955997C1BD57CB837C9596548C15000E4B820E71DA76000000000000000000000000000000000000000000003141" />
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="BalancedFightingSkills"
+				   value="5" />
+			<Trait id="Commander"
+				   value="6" />
+			<Trait id="Politician"
+				   value="7" />
+			<Trait id="Manager"
+				   value="6" />
+			<Trait id="Honor"
+				   value="-1" />
+			<Trait id="Generosity"
+				   value="1" />
+			<Trait id="Calculating"
+				   value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet id="rom_bat_template_medium" />
+			<EquipmentSet id="rom_civ_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="lord_byzantine_1_69_1"
+				  name="{=byzb10NS3yK}Euphemia"
+				  voice="earnest"
+				  is_female="true"
+				  age="28"
+				  default_group="Infantry"
+				  is_hero="true"
+				  culture="Culture.byzantine"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.3"
+							build="0.4"
+							key="000BBC0FC0143010E1789C45A6A4429352B8238BB9B683DBAB95A8778B89BAC501977613097656360000000000000000000000000000000000000000372410C3" />
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="Manager"
+				   value="2" />
+			<Trait id="Generosity"
+				   value="1" />
+			<Trait id="Calculating"
+				   value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet id="emp_bat_template_lady" />
+			<EquipmentSet id="emp_noncom_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="lord_byzantine_1_69_2"
+				  name="{=byz4YOld4FR}Alexia"
+				  voice="softspoken"
+				  is_female="true"
+				  age="7"
+				  default_group="Infantry"
+				  is_hero="true"
+				  culture="Culture.byzantine"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.3"
+							build="0.4"
+							key="0000900A10143006685D493BBC780A4686D18674A5379AA596B62D5A727BC485017776130799B93A000000000000000000000000000000000000000068FC4083" />
+		</face>
+		<skills></skills>
+		<Traits></Traits>
+		<Equipments>
+			<EquipmentSet id="emp_bat_template_lady" />
+			<EquipmentSet id="emp_noncom_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="lord_byzantine_1_55"
+				  name="{=byzOymqpgTX}Kontas"
+				  voice="softspoken"
+				  age="28"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  culture="Culture.byzantine"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="0011BC0CCE000102A5508899487841954B4F9A57D5C7D811C889B5068C4A7666012776130268769500000000000000000000000000000000000000003C4480C2" />
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="BalancedFightingSkills"
+				   value="6" />
+			<Trait id="Commander"
+				   value="5" />
+			<Trait id="Politician"
+				   value="6" />
+			<Trait id="Manager"
+				   value="4" />
+			<Trait id="Valor"
+				   value="-1" />
+			<Trait id="Mercy"
+				   value="1" />
+			<Trait id="Calculating"
+				   value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="emp_bat_template_southfrontier" />
+			<EquipmentSet id="rom_civ_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="lord_byzantine_1_55_1"
+				  name="{=byzVIs6y29A}Dionysia"
+				  voice="softspoken"
+				  is_female="true"
+				  age="26"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  culture="Culture.byzantine"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="000B5C070058300454262B4CA6A899758988B348E4A3854B7B2BD7728796946401A776130A3359560000000000000000000000000000000000000000375410C3" />
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="Manager"
+				   value="5" />
+			<Trait id="Mercy"
+				   value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="emp_bat_template_lady" />
+			<EquipmentSet id="emp_noncom_template_southfrontier"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+
+	<!-- Clan 8 -->
+	<NPCCharacter id="lord_byzantine_1_72"
+				  name="{=byzRYksq67N}Panajotis"
+				  voice="softspoken"
+				  age="33"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  culture="Culture.byzantine"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.6"
+							build="0.6"
+							key="0011B40B402410088733440E80468F1FFF4F9274C862B448941B5637963E5D3E000E08830B7247A6000000000000000000000000000000000000000000003101" />
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="BalancedFightingSkills"
+				   value="5" />
+			<Trait id="Commander"
+				   value="6" />
+			<Trait id="Politician"
+				   value="7" />
+			<Trait id="Manager"
+				   value="6" />
+			<Trait id="Valor"
+				   value="1" />
+			<Trait id="Generosity"
+				   value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet id="emp_bat_template_stoic" />
+			<EquipmentSet id="rom_civ_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="lord_byzantine_1_72_1"
+				  name="{=byzIbgH3J03}Nonna"
+				  is_female="true"
+				  voice="softspoken"
+				  age="31"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  culture="Culture.byzantine"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="00055C0E40CC3010AB37736CB777CA594C4C561A72B5767D2385A776BA71778B015776130579877A00000000000000000000000000000000000000003CAC40C3" />
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="Politician"
+				   value="2" />
+			<Trait id="Manager"
+				   value="3" />
+			<Trait id="Generosity"
+				   value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet id="emp_bat_template_lady" />
+			<EquipmentSet id="emp_noncom_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="lord_byzantine_SE8_c"
+				  name="{=byzQuGKE0wg}Anitipatra"
+				  is_female="true"
+				  voice="earnest"
+				  age="19"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  culture="Culture.byzantine"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.7"
+							key="0011B40B402410088733440E80468F1FFF4F9274C862B448941B5637963E5D3E000E08830B7247A6000000000000000000000000000000000000000000003101" />
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="BalancedFightingSkills"
+				   value="4" />
+			<Trait id="Commander"
+				   value="4" />
+			<Trait id="Politician"
+				   value="2" />
+			<Trait id="Manager"
+				   value="3" />
+			<Trait id="Valor"
+				   value="1" />
+			<Trait id="Honor"
+				   value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet id="emp_bat_template_southfrontier" />
+			<EquipmentSet id="emp_civ_template_southfrontier"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+
+	<!-- Clan 9 -->
+	<NPCCharacter id="lord_byzantine_SE9_l"
+				  name="{=byztxyVEr0U}Georgi"
+				  age="58"
+				  voice="ironic"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  culture="Culture.byzantine"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.6"
+							key="000BDC0FCFCC038F3D38B65122600AD02FEE2A646411F7F894359F648858075D064976670485629500000000000000000000000044FC1002000000007E7C4084" />
+		</face>
+		<Traits>
+			<Trait id="BalancedFightingSkills"
+				   value="5" />
+			<Trait id="Commander"
+				   value="6" />
+			<Trait id="Politician"
+				   value="7" />
+			<Trait id="Manager"
+				   value="6" />
+			<Trait id="Valor"
+				   value="-1" />
+			<Trait id="Generosity"
+				   value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="emp_bat_template_stoic" />
+			<EquipmentSet id="rom_civ_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="lord_byzantine_SE9_s"
+				  name="{=byz4WiAzdHf}Caterina"
+				  age="46"
+				  voice="ironic"
+				  is_female="true"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  culture="Culture.byzantine"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="0000080FD0FC100D4776686376266B93426B9C989782C82458739F1CB876963401577613051867C8000000000000000000000000000000000000000022A420C3" />
+		</face>
+		<Traits>
+			<Trait id="Politician"
+				   value="3" />
+			<Trait id="Manager"
+				   value="3" />
+			<Trait id="Generosity"
+				   value="-1" />
+			<Trait id="Calculating"
+				   value="1" />
+			<Trait id="Honor"
+				   value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="emp_bat_template_lady" />
+			<EquipmentSet id="emp_noncom_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="lord_byzantine_SE9_c1"
+				  name="{=byzrf8KHRSP}Diomedes"
+				  age="26"
+				  voice="earnest"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  culture="Culture.byzantine"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="000B700E402C325968215CB4D9779D947BABE1EA12D7B9649975B5856DB7C355016776130655A58500000000000000000000000000000000000000002AD42042" />
+		</face>
+		<Traits>
+			<Trait id="BalancedFightingSkills"
+				   value="6" />
+			<Trait id="Commander"
+				   value="14" />
+			<Trait id="Politician"
+				   value="12" />
+			<Trait id="Manager"
+				   value="8" />
+			<Trait id="Valor"
+				   value="1" />
+			<Trait id="Calculating"
+				   value="1" />
+			<Trait id="Honor"
+				   value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="emp_bat_template_southfrontier" />
+			<EquipmentSet id="rom_civ_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="lord_byzantine_SE9_c2"
+				  name="{=byzL2SmutOy}Eirene"
+				  age="24"
+				  is_female="true"
+				  voice="ironic"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  culture="Culture.byzantine"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.4"
+							build="0.3"
+							key="0000080FCEFC290B4756896A6356B7D0C06B9C989782C82458739F1C6A48C62501877613081867C80000000000000000000000000000000000000000370C2102" />
+		</face>
+		<Traits>
+			<Trait id="Politician"
+				   value="8" />
+			<Trait id="Manager"
+				   value="8" />
+			<Trait id="Calculating"
+				   value="1" />
+			<Trait id="Generosity"
+				   value="-1" />
+			<Trait id="Honor"
+				   value="1" />
+			<Trait id="Authoritarian"
+				   value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="emp_bat_template_lady" />
+			<EquipmentSet id="emp_noncom_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+
+
+	<!-- Clan 1 -->
+	<NPCCharacter id="lord_goldenhorde_6_1"
+				  name="{=ECM_lord_goldenhorde_6_1}Batu Khan"
+				  age="38"
+				  voice="curt"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  culture="Culture.goldenhorde"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4" age="38.02" weight="0.5" build="0.5"  key="0015FC0D800020CA9E89B79835AE4966A4959AF6F9AF0C3DC8756149D64B84A80277762407B1E944000000000000000000000000000000000000000000F07080"  />
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="BalancedFightingSkills"
+				   value="7" />
+			<Trait id="Commander"
+				   value="7" />
+			<Trait id="Politician"
+				   value="9" />
+			<Trait id="Manager"
+				   value="6" />
+			<Trait id="Mercy"
+				   value="-1" />
+			<Trait id="Honor"
+				   value="-1" />
+			<Trait id="Calculating"
+				   value="1" />
+			<Trait id="Generosity"
+				   value="1" />
+			<Trait id="Authoritarian"
+				   value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="gol_king_template_bat_m" />
+			<EquipmentSet id="gol_king_template_civ_m"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="lord_goldenhorde_6_2"
+				  name="{=ECM_lord_goldenhorde_6_2}Khadagan"
+				  age="39"
+				  voice="earnest"
+				  culture="Culture.goldenhorde"
+				  occupation="Lord"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  is_female="true"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4" age="39" weight="0" build="0"  key="001CC40F00441010E586A65AB6332A27A66555BCBECB2AA6B87BAC8B8567A7640C7009C20A628966000000000000000000000000000000000000000000F030C2"  />
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="Politician"
+				   value="4" />
+			<Trait id="Manager"
+				   value="7" />
+			<Trait id="Mercy"
+				   value="1" />
+			<Trait id="Valor"
+				   value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet id="khu_bat_template_medium" />
+			<EquipmentSet id="khu_noncom_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="lord_goldenhorde_6_7"
+				  name="{=ECM_lord_goldenhorde_6_7}Sartak"
+				  age="18"
+				  voice="earnest"
+				  default_group="HorseArcher"
+				  is_hero="true"
+				  culture="Culture.goldenhorde"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4" age="18.3" weight="0.8289" build="0.9085"  key="001B9806C00036CA9278E5BED8C46D5524B8763BDAAF7B916A9A1B238431A313026EC024064567A500000000000000000000000000000000000000005AD84000"  />
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="BalancedFightingSkills"
+				   value="7" />
+			<Trait id="Commander"
+				   value="6" />
+			<Trait id="Politician"
+				   value="4" />
+			<Trait id="Manager"
+				   value="5" />
+			<Trait id="Generosity"
+				   value="1" />
+			<Trait id="Honor"
+				   value="1" />
+			<Trait id="Mercy"
+				   value="-1" />
+			<Trait id="Calculating"
+				   value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="khu_bat_template_medium" />
+			<EquipmentSet id="khu_civ_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="lord_goldenhorde_6_10"
+				  name="{=ECM_lord_goldenhorde_6_10}Hogelun"
+				  age="18"
+				  voice="softspoken"
+				  default_group="Cavalry"
+				  is_female="true"
+				  is_hero="true"
+				  culture="Culture.goldenhorde"
+				  occupation="Lord">
+		<face>
+			<BodyProperties version="4" age="18" weight="0" build="0"  key="001CC40FC03C1008E586A65AB6332A27A66555BCE8CB0AA6B87BAC8B8567A7640C7009C20A628966000000000000000000000000000000000000000000F030C2"  />
+		</face>
+		<Traits>
+			<Trait id="Politician"
+				   value="6" />
+			<Trait id="Manager"
+				   value="5" />
+			<Trait id="Generosity"
+				   value="-1" />
+			<Trait id="Calculating"
+				   value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet id="khu_bat_template_lady" />
+			<EquipmentSet id="khu_noncom_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="lord_goldenhorde_6_101"
+				  name="{=ECM_lord_goldenhorde_6_101}Chagatai"
+				  age="19"
+				  voice="softspoken"
+				  is_female="true"
+				  culture="Culture.goldenhorde"
+				  occupation="Lord"
+				  is_hero="true"
+				  default_group="Cavalry"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4" age="19" weight="0.5" build="0.5"  key="0010D408C0CC300DF17616D8AD922604EE116506F7EF8110E0C91E39740710510C0776C20600120E0000000000000000000000000000000000000000340C2083"  />
+		</face>
+		<Traits>
+			<Trait id="Politician"
+				   value="3" />
+			<Trait id="Manager"
+				   value="3" />
+			<Trait id="Generosity"
+				   value="1" />
+			<Trait id="Calculating"
+				   value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet id="khu_bat_template_lady" />
+			<EquipmentSet id="khu_noncom_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="lord_goldenhorde_6_13"
+				  name="{=ECM_lord_goldenhorde_6_13}Abortu"
+				  age="18"
+				  voice="softspoken"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  culture="Culture.goldenhorde"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4" age="18" weight="0.8513" build="0.749"  key="0011B80C40002042917042372BB72A784427765EE8EF61166CAD7722833313410C8BD0C20A4567D5000000000000000000000000000000000000000003084002"  />
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="BalancedFightingSkills"
+				   value="5" />
+			<Trait id="Commander"
+				   value="6" />
+			<Trait id="Politician"
+				   value="8" />
+			<Trait id="Manager"
+				   value="5" />
+			<Trait id="Mercy"
+				   value="1" />
+			<Trait id="Valor"
+				   value="-1" />
+			<Trait id="Calculating"
+				   value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="khu_bat_template_medium" />
+			<EquipmentSet id="khu_civ_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+
+	<!-- Clan 2 -->
+	<NPCCharacter id="lord_goldenhorde_6_3"
+				  name="{=ECM_lord_goldenhorde_6_3}Tudun"
+				  age="52"
+				  voice="ironic"
+				  culture="Culture.goldenhorde"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4" age="52" weight="0.9067" build="0.8765"  key="001BA00AC0000504A2E199A58888A7674D69793CD6CE760869ABA623667824560CBDE0C20B5556350000000000000000000000000000000000000000256820C1"  />
+		</face>
+		<Traits>
+			<Trait id="BalancedFightingSkills"
+				   value="7" />
+			<Trait id="Commander"
+				   value="6" />
+			<Trait id="Politician"
+				   value="5" />
+			<Trait id="Manager"
+				   value="6" />
+			<Trait id="Honor"
+				   value="1" />
+			<Trait id="Generosity"
+				   value="1" />
+			<Trait id="Mercy"
+				   value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="khu_bat_template_heavy" />
+			<EquipmentSet id="khu_civ_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="lord_goldenhorde_6_4"
+				  name="{=ECM_lord_goldenhorde_6_4}Ulakci"
+				  voice="curt"
+				  age="50"
+				  culture="Culture.goldenhorde"
+				  occupation="Lord"
+				  default_group="HorseArcher"
+				  is_hero="true"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4" age="50" weight="0.054" build="0.4383"  key="0010D40B8858300AE9B69B5A85964674CE626C60F0EF0710F7DA1E1A740E10510C4716C208634C0A000000000000000000000000000000000000000034944083"  />
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="BalancedFightingSkills"
+				   value="4" />
+			<Trait id="Commander"
+				   value="6" />
+			<Trait id="Politician"
+				   value="8" />
+			<Trait id="Manager"
+				   value="7" />
+			<Trait id="Valor"
+				   value="1" />
+			<Trait id="Honor"
+				   value="1" />
+			<Trait id="Mercy"
+				   value="-1" />
+			<Trait id="Egalitarian"
+				   value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="khu_bat_template_medium" />
+			<EquipmentSet id="khu_civ_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="lord_goldenhorde_6_8"
+				  name="{=ECM_lord_goldenhorde_6_8}Munglig"
+				  age="22"
+				  voice="ironic"
+				  default_group="HorseArcher"
+				  is_hero="true"
+				  culture="Culture.goldenhorde"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4" age="22" weight="0.8457" build="0.7043"  key="00158C08C00020545A8A7BBBACABB47B1ADC4569FAEF63777789983933D669530C6BD0C209AC536700000000000000000000000000000000000000004EC80084"  />
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="BalancedFightingSkills"
+				   value="7" />
+			<Trait id="Commander"
+				   value="7" />
+			<Trait id="Politician"
+				   value="5" />
+			<Trait id="Manager"
+				   value="5" />
+			<Trait id="Generosity"
+				   value="1" />
+			<Trait id="Valor"
+				   value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="khu_bat_template_medium" />
+			<EquipmentSet id="khu_civ_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="lord_goldenhorde_6_81"
+				  name="{=ECM_lord_goldenhorde_6_81}Suyiketu"
+				  age="19"
+				  voice="curt"
+				  is_female="false"
+				  culture="Culture.goldenhorde"
+				  default_group="HorseArcher"
+				  is_hero="true"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4" age="19.76" weight="0.3713" build="0.7716"  key="0005EC0FC0CC30438A89B6687332AA9A85958249F69F517AA9C588C98725AC8802EC60240E9AC7A5000000000000000000000000000000000000000047D81045"  />
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="BalancedFightingSkills"
+				   value="7" />
+			<Trait id="Commander"
+				   value="4" />
+			<Trait id="Politician"
+				   value="2" />
+			<Trait id="Manager"
+				   value="2" />
+			<Trait id="Valor"
+				   value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="khu_bat_template_medium" />
+			<EquipmentSet id="khu_civ_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="lord_goldenhorde_6_9"
+				  name="{=ECM_lord_goldenhorde_6_9}Tokoqan"
+				  age="20"
+				  voice="curt"
+				  default_group="HorseArcher"
+				  is_hero="true"
+				  culture="Culture.goldenhorde"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4" age="20" weight="0.8812" build="0.7079"  key="001BD80D93003048647023132CB71B380645780ED9CF69777A9D9525881A92240C6BD0C20945665700000000000000000000000000000000000000000AD030C2"  />
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="BalancedFightingSkills"
+				   value="7" />
+			<Trait id="Commander"
+				   value="4" />
+			<Trait id="Politician"
+				   value="2" />
+			<Trait id="Manager"
+				   value="2" />
+			<Trait id="Honor"
+				   value="1" />
+			<Trait id="Generosity"
+				   value="-1" />
+			<Trait id="Calculating"
+				   value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="khu_bat_template_heavy" />
+			<EquipmentSet id="khu_civ_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="lord_goldenhorde_6_11"
+				  name="{=ECM_lord_goldenhorde_6_11}Dokez"
+				  age="22"
+				  voice="curt"
+				  default_group="HorseArcher"
+				  is_female="true"
+				  is_hero="true"
+				  culture="Culture.goldenhorde"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4" age="22.22" weight="0.3713" build="0.7716"  key="0005EC0FC0CC30438A89B6687332AA9A85958249F69F517AA9C588C98725AC8802EC60240E9AC7A5000000000000000000000000000000000000000047D81045"  />
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="BalancedFightingSkills"
+				   value="4" />
+			<Trait id="Commander"
+				   value="7" />
+			<Trait id="Politician"
+				   value="3" />
+			<Trait id="Manager"
+				   value="7" />
+			<Trait id="Calculating"
+				   value="1" />
+			<Trait id="Valor"
+				   value="1" />
+			<Trait id="Mercy"
+				   value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="khu_bat_template_nomad" />
+			<EquipmentSet id="khu_civ_template_nomad"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+
+	<!-- Clan 3 -->
+	<NPCCharacter id="lord_goldenhorde_6_5"
+				  name="{=ECM_lord_goldenhorde_6_5}Berke"
+				  age="42"
+				  voice="curt"
+				  default_group="HorseArcher"
+				  is_hero="true"
+				  culture="Culture.goldenhorde"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4" age="41.47" weight="0.7427" build="0.3027"  key="0023600D80CC201B738128A2A47829AC9572E8FEF35E08A665BB9895B83624730265B0240679765A00000000000000000000000000000000000000003ED09000"  />
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="BalancedFightingSkills"
+				   value="6" />
+			<Trait id="Commander"
+				   value="4" />
+			<Trait id="Politician"
+				   value="5" />
+			<Trait id="Manager"
+				   value="5" />
+			<Trait id="Valor"
+				   value="-1" />
+			<Trait id="Generosity"
+				   value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="khu_bat_template_heavy" />
+			<EquipmentSet id="khu_civ_template_heavy"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="lord_goldenhorde_6_51"
+				  name="{=ECM_lord_goldenhorde_6_51}Mengu"
+				  age="19"
+				  voice="curt"
+				  default_group="HorseArcher"
+				  is_hero="true"
+				  culture="Culture.goldenhorde"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4" age="19" weight="0" build="0"  key="001B840F05CC30196D84551BE92816B5859C14AF57FEA7B497D9B597A2756C3C0C4005C208819A890000037F0000000F00000037049140010000000000788080"  />
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="BalancedFightingSkills"
+				   value="4" />
+			<Trait id="Commander"
+				   value="4" />
+			<Trait id="Politician"
+				   value="3" />
+			<Trait id="Manager"
+				   value="2" />
+			<Trait id="Valor"
+				   value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="khu_bat_template_heavy" />
+			<EquipmentSet id="khu_civ_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="lord_goldenhorde_6_12"
+				  name="{=ECM_lord_goldenhorde_6_12}Holeun"
+				  age="23"
+				  voice="ironic"
+				  is_female="true"
+				  is_hero="true"
+				  culture="Culture.goldenhorde"
+				  occupation="Lord"
+				  default_group="Cavalry"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4" age="23" weight="0" build="0"  key="001B840F00CC300A6D84551BE92816B5859C14AF57FEA7B497D9B597A2756C3C0C4005C208819A890000037F0000000F00000037049140010000000000788080"  />
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="BalancedFightingSkills"
+				   value="6" />
+			<Trait id="Commander"
+				   value="5" />
+			<Trait id="Politician"
+				   value="4" />
+			<Trait id="Manager"
+				   value="2" />
+			<Trait id="Calculating"
+				   value="-1" />
+			<Trait id="Valor"
+				   value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="khu_bat_template_nomad" />
+			<EquipmentSet id="khu_civ_template_nomad"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="lord_goldenhorde_6_15"
+				  name="{=ECM_lord_goldenhorde_6_15}Guyug"
+				  age="38"
+				  voice="curt"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  culture="Culture.goldenhorde"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4" age="38.25" weight="0.9087" build="0.8402"  key="0013F40E400020518567429B64987AA3589B771EC6CE3A174E695766A35389BA028DE025086769AC00000000000000000000000000000000000000004F004001"  />
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="BalancedFightingSkills"
+				   value="6" />
+			<Trait id="Commander"
+				   value="6" />
+			<Trait id="Politician"
+				   value="3" />
+			<Trait id="Manager"
+				   value="4" />
+			<Trait id="Mercy"
+				   value="-1" />
+			<Trait id="Generosity"
+				   value="-1" />
+			<Trait id="Honor"
+				   value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="khu_bat_template_heavy" />
+			<EquipmentSet id="khu_civ_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="lord_goldenhorde_6_15_1"
+				  name="{=ECM_lord_goldenhorde_6_15_1}Khorijin"
+				  age="37"
+				  voice="ironic"
+				  is_female="true"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  culture="Culture.goldenhorde"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4" age="37.69" weight="0.9087" build="0.8402"  key="0013F40E400020518567429B64987AA3589B771EC6CE3A174E695766A35389BA028DE025086769AC00000000000000000000000000000000000000004F004001"  />
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="Politician"
+				   value="3" />
+			<Trait id="Manager"
+				   value="4" />
+			<Trait id="Honor"
+				   value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="khu_bat_template_medium" />
+			<EquipmentSet id="khu_noncom_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="lord_goldenhorde_6_15_2"
+				  name="{=ECM_lord_goldenhorde_6_15_2}al-Alta"
+				  age="18"
+				  voice="ironic"
+				  is_female="true"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  culture="Culture.goldenhorde"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4" age="18.69" weight="0.9087" build="0.8402"  key="0013F40E4D0030088567429B64987AA3589B771EC6CE3A174E695766A35389BA028DE025086769AC00000000000000000000000000000000000000004F002080"  />
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="Manager"
+				   value="4" />
+			<Trait id="Politician"
+				   value="5" />
+			<Trait id="Honor"
+				   value="-1" />
+			<Trait id="Generosity"
+				   value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="khu_bat_template_medium" />
+			<EquipmentSet id="khu_noncom_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+
+	<!-- Clan 4 -->
+	<NPCCharacter id="lord_goldenhorde_6_6"
+				  name="{=ECM_lord_goldenhorde_6_6}Chilagun"
+				  voice="curt"
+				  default_group="HorseArcher"
+				  is_hero="true"
+				  culture="Culture.goldenhorde"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4" age="30.23" weight="0.195" build="0.2239"  key="001ED40D80FC06D17988B899C63C8B19698954BC6B89698827479497A849D99903633635067B8965000000000000000000000000000000000000000070CC2103"  />
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="BalancedFightingSkills"
+				   value="6" />
+			<Trait id="Commander"
+				   value="4" />
+			<Trait id="Politician"
+				   value="5" />
+			<Trait id="Manager"
+				   value="5" />
+			<Trait id="Valor"
+				   value="-1" />
+			<Trait id="Generosity"
+				   value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="khu_bat_template_medium" />
+			<EquipmentSet id="khu_civ_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="lord_goldenhorde_6_16"
+				  name="{=ECM_lord_goldenhorde_6_16}Hurunag"
+				  age="38"
+				  voice="curt"
+				  is_female="false"
+				  is_hero="true"
+				  culture="Culture.goldenhorde"
+				  default_group="Cavalry"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4" age="38" weight="0.805" build="0.6475"  key="0015E00AC00006CC507044293BC820482534773EE5DE57546D6B2911833943150C6AC0C209556766000000000000000000000000000000000000000028C82104"  />
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="BalancedFightingSkills"
+				   value="8" />
+			<Trait id="Commander"
+				   value="5" />
+			<Trait id="Politician"
+				   value="1" />
+			<Trait id="Manager"
+				   value="3" />
+			<Trait id="Valor"
+				   value="1" />
+			<Trait id="Mercy"
+				   value="-1" />
+			<Trait id="Calculating"
+				   value="-1" />
+			<Trait id="Generosity"
+				   value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="khu_bat_template_medium" />
+			<EquipmentSet id="khu_civ_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="lord_goldenhorde_6_16_1"
+				  name="{=ECM_lord_goldenhorde_6_16_1}Khogaghchin"
+				  age="37"
+				  voice="softspoken"
+				  is_female="true"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  culture="Culture.goldenhorde"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.805"
+							build="0.6475"
+							key="0016E00B400006D3507044293BC820482534773EE5DE57546D6B291183394315056AC05706556766000000000000000000000000000000000000000028C82104" />
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="Politician"
+				   value="3" />
+			<Trait id="Manager"
+				   value="3" />
+			<Trait id="Valor"
+				   value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="khu_bat_template_medium" />
+			<EquipmentSet id="khu_noncom_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="lord_goldenhorde_6_16_2"
+				  name="{=ECM_lord_goldenhorde_6_16_2}Temulun"
+				  age="18"
+				  voice="curt"
+				  is_female="true"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  culture="Culture.goldenhorde"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="0011D40FD4CC300BCF7616D8AD922604F4116550F7EF4310E0C91E1974071056016776130600120E000000000000000000000000000000000000000034C42083" />
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="Commander"
+				   value="5" />
+			<Trait id="Politician"
+				   value="2" />
+			<Trait id="Manager"
+				   value="2" />
+			<Trait id="Valor"
+				   value="1" />
+			<Trait id="Mercy"
+				   value="-1" />
+			<Trait id="Calculating"
+				   value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="khu_bat_template_medium" />
+			<EquipmentSet id="khu_noncom_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="lord_goldenhorde_6_24"
+				  name="{=ECM_lord_goldenhorde_6_24}Bulughan"
+				  age="26"
+				  voice="softspoken"
+				  is_female="false"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  culture="Culture.goldenhorde"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							key="000C100E007C03CD7748DA3B57429988D86DBD6945B4B664644589C5283414BC000427330A7661CB0000037F0000000F00000037049140010000000000288002" />
+		</face>
+		<Traits>
+			<Trait id="BalancedFightingSkills"
+				   value="8" />
+			<Trait id="Commander"
+				   value="5" />
+			<Trait id="Politician"
+				   value="1" />
+			<Trait id="Manager"
+				   value="3" />
+			<Trait id="Valor"
+				   value="1" />
+			<Trait id="Calculating"
+				   value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="khu_bat_template_medium" />
+			<EquipmentSet id="khu_civ_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+
+	<!-- Clan 5 -->
+	<NPCCharacter id="lord_goldenhorde_6_17"
+				  name="{=ECM_lord_goldenhorde_6_17}Husun"
+				  age="36"
+				  voice="ironic"
+				  is_female="false"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  culture="Culture.goldenhorde"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.8543"
+							build="0.714"
+							key="0015B8088000084AB37043164CC705582586776DF7CE17557B7B4A03851B7804026BD02406457607000000000000000000000000000000000000000050C84080" />
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="BalancedFightingSkills"
+				   value="8" />
+			<Trait id="Commander"
+				   value="5" />
+			<Trait id="Politician"
+				   value="1" />
+			<Trait id="Manager"
+				   value="3" />
+			<Trait id="Calculating"
+				   value="1" />
+			<Trait id="Generosity"
+				   value="1" />
+			<Trait id="Valor"
+				   value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="khu_bat_template_medium" />
+			<EquipmentSet id="khu_civ_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="lord_goldenhorde_6_17_1"
+				  name="{=ECM_lord_goldenhorde_6_17_1}Chagur"
+				  age="34"
+				  voice="ironic"
+				  is_female="true"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  culture="Culture.goldenhorde"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="0016F80E4000200AB8B5A8AB37C5891C4BA88B3ABDFE344C5ADD18434234CBA6017776130746491E00000000000000000000000000000000000000003EF410C3" />
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="Commander"
+				   value="2" />
+			<Trait id="Politician"
+				   value="5" />
+			<Trait id="Manager"
+				   value="3" />
+			<Trait id="Calculating"
+				   value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="khu_bat_template_medium" />
+			<EquipmentSet id="khu_noncom_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="lord_goldenhorde_6_17_2"
+				  name="{=ECM_lord_goldenhorde_6_17_2}Kokachin"
+				  age="15"
+				  voice="softspoken"
+				  is_female="true"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  culture="Culture.goldenhorde"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="0011D40FC0003001E9761DA0AD922600C2226C60F0EF0710F7DA1E1A740E10500167761306634C0A000000000000000000000000000000000000000034C44083" />
+		</face>
+		<skills></skills>
+		<Traits>
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="khu_bat_template_medium" />
+			<EquipmentSet id="khu_noncom_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="lord_goldenhorde_6_21"
+				  name="{=ECM_lord_goldenhorde_6_21}Badai"
+				  age="30"
+				  voice="earnest"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  culture="Culture.goldenhorde"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.8419"
+							build="0.8066"
+							key="001C940AC00018CD647043256BB8222824887A4ED3EF7A517C8B7E1184213914047CD0460754671400000000000000000000000000000000000000004AE03041" />
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="BalancedFightingSkills"
+				   value="8" />
+			<Trait id="Commander"
+				   value="5" />
+			<Trait id="Politician"
+				   value="1" />
+			<Trait id="Manager"
+				   value="3" />
+			<Trait id="Valor"
+				   value="1" />
+			<Trait id="Calculating"
+				   value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="khu_bat_template_heavy" />
+			<EquipmentSet id="khu_civ_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="lord_goldenhorde_6_21_1"
+				  name="{=ECM_lord_goldenhorde_6_21_1}Argbadh"
+				  age="20"
+				  voice="earnest"
+				  is_female="true"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  culture="Culture.goldenhorde"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="0011FC0FC0B4300AF97613A1E4410600CB306C0A60EF0500F3B81E14741610460167761306016000000000000000000000000000000000000000000034C42083" />
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="Politician"
+				   value="3" />
+			<Trait id="Manager"
+				   value="4" />
+			<Trait id="Calculating"
+				   value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="khu_bat_template_heavy" />
+			<EquipmentSet id="khu_noncom_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+
+	<!-- Clan 6 -->
+	<NPCCharacter id="lord_goldenhorde_6_18"
+				  name="{=ECM_lord_goldenhorde_6_18}Kadan"
+				  age="38"
+				  voice="ironic"
+				  is_female="false"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  culture="Culture.goldenhorde"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.9162"
+							build="0.6798"
+							key="001A980880000809737023143BB71B184445782FD9BF34777B8B47148025DA12038AE03508546644000000000000000000000000000000000000000035102005" />
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="BalancedFightingSkills"
+				   value="8" />
+			<Trait id="Commander"
+				   value="5" />
+			<Trait id="Politician"
+				   value="1" />
+			<Trait id="Manager"
+				   value="3" />
+			<Trait id="Calculating"
+				   value="-1" />
+			<Trait id="Generosity"
+				   value="1" />
+			<Trait id="Mercy"
+				   value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="khu_bat_template_medium" />
+			<EquipmentSet id="khu_civ_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="lord_goldenhorde_6_18_1"
+				  name="{=ECM_lord_goldenhorde_6_18_1}Borte"
+				  age="37"
+				  voice="ironic"
+				  is_female="true"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  culture="Culture.goldenhorde"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="0016F80CD400100318B5A8AB37C5891C4BA88B3A22AF3A4C6388C1954234CBA601777613076B5C2300000000000000000000000000000000000000003EF41003" />
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="Politician"
+				   value="4" />
+			<Trait id="Manager"
+				   value="5" />
+			<Trait id="Calculating"
+				   value="1" />
+			<Trait id="Honor"
+				   value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="khu_bat_template_medium" />
+			<EquipmentSet id="khu_noncom_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="lord_goldenhorde_6_18_2"
+				  name="{=ECM_lord_goldenhorde_6_18_2}Mandukhai"
+				  age="18"
+				  voice="curt"
+				  is_female="true"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  culture="Culture.goldenhorde"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="0017B00C000007488370531C3CC826884583782EFABE43717BBC7536892A5612037DD0350754675600000000000000000000000000000000000000004CE82001" />
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="Politician"
+				   value="4" />
+			<Trait id="Manager"
+				   value="2" />
+			<Trait id="Mercy"
+				   value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="khu_bat_template_medium" />
+			<EquipmentSet id="khu_noncom_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="lord_goldenhorde_6_22"
+				  name="{=ECM_lord_goldenhorde_6_22}Chigu"
+				  age="30"
+				  voice="curt"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  culture="Culture.goldenhorde"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.8474"
+							build="0.8778"
+							key="000BF80CD100300418762BAD894AB3A687C58B3A22AF3A4C5B2C769832963D44017776130799894800000000000000000000000000000000000000003EF41043" />
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="BalancedFightingSkills"
+				   value="8" />
+			<Trait id="Commander"
+				   value="5" />
+			<Trait id="Politician"
+				   value="3" />
+			<Trait id="Manager"
+				   value="3" />
+			<Trait id="Valor"
+				   value="1" />
+			<Trait id="Generosity"
+				   value="-1" />
+			<Trait id="Mercy"
+				   value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="khu_bat_template_medium" />
+			<EquipmentSet id="khu_civ_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="lord_goldenhorde_6_22_1"
+				  name="{=ECM_lord_goldenhorde_6_22_1}Holuikhan"
+				  age="22"
+				  voice="softspoken"
+				  is_female="true"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  culture="Culture.goldenhorde"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.3"
+							build="0.3"
+							key="001EC00CC0FC100463B8C87941868498779B3336466B8678C67EEEDEC8AE75950088260308C7A5050000000000000000000000000000000000000000711C10C3" />
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="Politician"
+				   value="4" />
+			<Trait id="Manager"
+				   value="4" />
+			<Trait id="Honor"
+				   value="1" />
+			<Trait id="Generosity"
+				   value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="khu_bat_template_medium" />
+			<EquipmentSet id="khu_noncom_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+
+	<!-- Clan 7 -->
+	<NPCCharacter id="lord_goldenhorde_6_19"
+				  name="{=ECM_lord_goldenhorde_6_19}Megujin"
+				  age="41"
+				  voice="softspoken"
+				  is_female="false"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  culture="Culture.goldenhorde"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.802"
+							build="0.6066"
+							key="0012B80CC0003809737023195BB843782617793FD6DF2B416B7DA901812178230259C02405557705000000000000000000000000000000000000000078A83040" />
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="BalancedFightingSkills"
+				   value="7" />
+			<Trait id="Commander"
+				   value="9" />
+			<Trait id="Politician"
+				   value="6" />
+			<Trait id="Manager"
+				   value="6" />
+			<Trait id="Honor"
+				   value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="khu_bat_template_heavy" />
+			<EquipmentSet id="khu_civ_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="lord_goldenhorde_6_19_1"
+				  name="{=ECM_lord_goldenhorde_6_19_1}Orqina"
+				  age="40"
+				  voice="curt"
+				  is_female="true"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  culture="Culture.goldenhorde"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.3"
+							build="0.4"
+							key="000BF80CD100100318B664517CBB94C8D5398B3A22AF3A4C5B2C76989C692815017776130799894800000000000000000000000000000000000000003EF41043" />
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="Politician"
+				   value="3" />
+			<Trait id="Manager"
+				   value="6" />
+			<Trait id="Honor"
+				   value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="khu_bat_template_heavy" />
+			<EquipmentSet id="khu_noncom_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="lord_goldenhorde_6_19_2"
+				  name="{=ECM_lord_goldenhorde_6_19_2}Chabi"
+				  age="20"
+				  voice="softspoken"
+				  is_female="true"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  culture="Culture.goldenhorde"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.4"
+							build="0.4"
+							key="0011C80E50E410026053AA569B16689986BA77528958D98CA8622BA78AC9695201577613052AB956000000000000000000000000000000000000000042B41084" />
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="Politician"
+				   value="3" />
+			<Trait id="Manager"
+				   value="6" />
+			<Trait id="Valor"
+				   value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="khu_bat_template_medium" />
+			<EquipmentSet id="khu_noncom_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="lord_goldenhorde_6_23"
+				  name="{=ECM_lord_goldenhorde_6_23}Toghoril"
+				  age="30"
+				  voice="softspoken"
+				  is_female="false"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  culture="Culture.goldenhorde"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.4676"
+							build="0.4954"
+							key="0011F00CC0B423940888751A1794B0496099B698B7A4AD33C63BA5535D78938903677635065B7912000000000000000000000000000000000000000000CC3042" />
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="BalancedFightingSkills"
+				   value="8" />
+			<Trait id="Commander"
+				   value="5" />
+			<Trait id="Politician"
+				   value="1" />
+			<Trait id="Manager"
+				   value="3" />
+			<Trait id="Valor"
+				   value="1" />
+			<Trait id="Calculating"
+				   value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="khu_bat_template_heavy" />
+			<EquipmentSet id="khu_civ_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+
+	<!-- Clan 8 -->
+	<NPCCharacter id="lord_goldenhorde_6_20"
+				  name="{=ECM_lord_goldenhorde_6_20}Kanujan"
+				  age="30"
+				  voice="ironic"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  culture="Culture.goldenhorde"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.8073"
+							build="0.7638"
+							key="001CB80B400028906370542B2CC8201805177A3EE5DE68166BBA982582121925046BC0460655761500000000000000000000000000000000000000005EC03042" />
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="BalancedFightingSkills"
+				   value="8" />
+			<Trait id="Commander"
+				   value="5" />
+			<Trait id="Politician"
+				   value="1" />
+			<Trait id="Manager"
+				   value="3" />
+			<Trait id="Calculating"
+				   value="1" />
+			<Trait id="Mercy"
+				   value="-1" />
+			<Trait id="Generosity"
+				   value="1" />
+			<Trait id="Honor"
+				   value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="khu_bat_template_medium" />
+			<EquipmentSet id="khu_civ_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="lord_goldenhorde_6_20_1"
+				  name="{=ECM_lord_goldenhorde_6_20_1}Khutulun"
+				  age="28"
+				  voice="softspoken"
+				  is_female="true"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  culture="Culture.goldenhorde"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="000BC80FD1000010185895BAB8A7A974AA7C383AE2FF3A45868B383997479BD70177761307BB856400000000000000000000000000000000000000003EF410C3" />
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="Commander"
+				   value="2" />
+			<Trait id="Politician"
+				   value="3" />
+			<Trait id="Manager"
+				   value="2" />
+			<Trait id="Calculating"
+				   value="1" />
+			<Trait id="Mercy"
+				   value="-1" />
+			<Trait id="Generosity"
+				   value="-1" />
+			<Trait id="Honor"
+				   value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="khu_bat_template_lady" />
+			<EquipmentSet id="khu_noncom_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="lord_goldenhorde_K8_u"
+				  name="{=ECM_lord_goldenhorde_k8_u}Khorilartai"
+				  age="43"
+				  voice="earnest"
+				  is_female="false"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  culture="Culture.goldenhorde"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.7"
+							build="0.7"
+							key="0026F80E40002343B8708B896D682237D5D88B3D557E344C17243FB5B88988680077760307967D3B00000000000000000000000000000000000000003EF41002" />
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="Commander"
+				   value="7" />
+			<Trait id="Politician"
+				   value="6" />
+			<Trait id="Manager"
+				   value="2" />
+			<Trait id="Calculating"
+				   value="-1" />
+			<Trait id="Mercy"
+				   value="-1" />
+			<Trait id="Generosity"
+				   value="1" />
+			<Trait id="Honor"
+				   value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="khu_bat_template_heavy" />
+			<EquipmentSet id="khu_civ_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+
+	<!-- Clan 9 -->
+	<NPCCharacter id="lord_goldenhorde_K9_l"
+				  name="{=ECM_lord_goldenhorde_K9_l}Tolui"
+				  age="53"
+				  voice="softspoken"
+				  is_female="false"
+				  default_group="HorseArcher"
+				  is_hero="true"
+				  culture="Culture.goldenhorde"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="001EC00CC0FC100463B8C87941868498779B3336466B8678C67EEEDEC8AE75950088260308C7A5050000000000000000000000000000000000000000711C10C3" />
+		</face>
+		<Traits>
+			<Trait id="HorseArcherFightingSkills"
+				   value="8" />
+			<Trait id="Commander"
+				   value="6" />
+			<Trait id="Politician"
+				   value="4" />
+			<Trait id="Manager"
+				   value="3" />
+			<Trait id="Valor"
+				   value="-1" />
+			<Trait id="Honor"
+				   value="1" />
+			<Trait id="Calculating"
+				   value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="khu_bat_template_medium" />
+			<EquipmentSet id="khu_civ_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="lord_goldenhorde_K9_s"
+				  name="{=ECM_lord_goldenhorde_K9_s}Yesui"
+				  age="48"
+				  voice="earnest"
+				  is_female="true"
+				  default_group="HorseArcher"
+				  is_hero="true"
+				  culture="Culture.goldenhorde"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="000BF80CD100300418762BAD894AB3A687C58B3A22AF3A4C5B2C769832963D44017776130799894800000000000000000000000000000000000000003EF41043" />
+		</face>
+		<Traits>
+			<Trait id="Politician"
+				   value="4" />
+			<Trait id="Manager"
+				   value="3" />
+			<Trait id="Honor"
+				   value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="khu_bat_template_medium" />
+			<EquipmentSet id="khu_noncom_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="lord_goldenhorde_K9_c1"
+				  name="{=ECM_lord_goldenhorde_K9_c1}Bortu"
+				  age="24"
+				  voice="earnest"
+				  is_female="false"
+				  default_group="HorseArcher"
+				  is_hero="true"
+				  culture="Culture.goldenhorde"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.3781"
+							build="0.5478"
+							key="000C100E007C03CD7748DA3B57429988D86DBD6945B4B664644589C5283414BC000427330A7661CB0000037F0000000F00000037049140010000000000288002" />
+		</face>
+		<Traits>
+			<Trait id="HorseArcherFightingSkills"
+				   value="6" />
+			<Trait id="Commander"
+				   value="6" />
+			<Trait id="Politician"
+				   value="4" />
+			<Trait id="Manager"
+				   value="3" />
+			<Trait id="Valor"
+				   value="1" />
+			<Trait id="Calculating"
+				   value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="khu_bat_template_medium" />
+			<EquipmentSet id="khu_civ_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="lord_goldenhorde_K9_c2"
+				  name="{=ECM_lord_goldenhorde_K9_c2}Khulan"
+				  age="22"
+				  voice="ironic"
+				  is_female="true"
+				  default_group="HorseArcher"
+				  is_hero="true"
+				  culture="Culture.goldenhorde"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.142"
+							build="0.5648"
+							key="000AB40CC0141840AD48BBECA574462983C78887724DBABB65D6686C8527AA8800D866030D8459A5000000000000000000000000000000000000000063AC10C6" />
+		</face>
+		<Traits>
+			<Trait id="HorseArcherFightingSkills"
+				   value="3" />
+			<Trait id="Commander"
+				   value="4" />
+			<Trait id="Politician"
+				   value="4" />
+			<Trait id="Manager"
+				   value="7" />
+			<Trait id="Honor"
+				   value="1" />
+			<Trait id="Generosity"
+				   value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="khu_bat_template_medium" />
+			<EquipmentSet id="khu_civ_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+
+
 	<!--#endregion-->
 </NPCCharacters>

@@ -4,7 +4,7 @@
 
 
     <!-- Chest Armour-->
-    <Item id="chiton_girdle_1_1" name="Chiton with girdle faction 1" mesh="chiton_girdle_1_1" is_merchandise="true"
+    <Item id="chiton_girdle_1_1" name="Chiton with girdle white" mesh="chiton_girdle_1_1" is_merchandise="true"
           subtype="body_armor" culture="Culture.neutral" value="1000" weight="3.0" difficulty="0" appearance="3"
           Type="BodyArmor">
         <ItemComponent>
@@ -14,7 +14,7 @@
         <Flags UseTeamColor="true" Civilian="true"/>
     </Item>
 
-    <Item id="chiton_girdle_1_2" name="Chiton with girdle faction 2" mesh="chiton_girdle_1_2" is_merchandise="true"
+    <Item id="chiton_girdle_1_2" name="Chiton with girdle faction color" mesh="chiton_girdle_1_2" is_merchandise="true"
           subtype="body_armor" culture="Culture.neutral" value="1000" weight="3.0" difficulty="0" appearance="3"
           Type="BodyArmor">
         <ItemComponent>
@@ -148,7 +148,7 @@
     <Item id="hemithorakia" name="Scaled Hemithorakia" mesh="hemithorakia" is_merchandise="true" subtype="body_armor"
           culture="Culture.empire" value="3000" weight="4.0" difficulty="0" appearance="3" Type="BodyArmor">
         <ItemComponent>
-            <Armor head_armor="0" arm_armor="0" body_armor="28" leg_armor="8" covers_body="false" covers_legs="false"
+            <Armor head_armor="0" arm_armor="0" body_armor="15" leg_armor="20" covers_body="false" covers_legs="false"
                    modifier_group="Leather" material_type="Leather"/>
         </ItemComponent>
         <Flags UseTeamColor="true" Civilian="true"/>
@@ -158,17 +158,27 @@
           is_merchandise="true" subtype="body_armor" culture="Culture.neutral" value="2000" weight="3.0" difficulty="0"
           appearance="3" Type="BodyArmor">
         <ItemComponent>
-            <Armor head_armor="0" arm_armor="5" body_armor="40" leg_armor="5" covers_body="false" covers_legs="false"
+            <Armor head_armor="0" arm_armor="5" body_armor="30" leg_armor="5" covers_body="false" covers_legs="false"
                    modifier_group="Plate" material_type="Plate"/>
         </ItemComponent>
         <Flags UseTeamColor="true" Civilian="true"/>
     </Item>
 
+	<Item id="etrusc_bod" name="[Italic]Etruscan tunic with plate" mesh="etrusc_bod"
+          is_merchandise="true" subtype="body_armor" culture="Culture.neutral" value="2000" weight="3.0" difficulty="0"
+          appearance="3" Type="BodyArmor">
+		<ItemComponent>
+			<Armor head_armor="0" arm_armor="5" body_armor="30" leg_armor="5" covers_body="false" covers_legs="false"
+                   modifier_group="Plate" material_type="Plate"/>
+		</ItemComponent>
+		<Flags UseTeamColor="true" Civilian="true"/>
+	</Item>
+
     <Item id="linothorax_1" name="Scaled Hellenic Linen Cuirass" mesh="linothorax_1" is_merchandise="true"
           subtype="body_armor" culture="Culture.empire" value="8000" weight="5.0" difficulty="0" appearance="3"
           Type="BodyArmor">
         <ItemComponent>
-            <Armor head_armor="0" arm_armor="0" body_armor="48" leg_armor="20" covers_body="false" covers_legs="false"
+            <Armor head_armor="0" arm_armor="0" body_armor="38" leg_armor="20" covers_body="false" covers_legs="false"
                    modifier_group="Leather" material_type="Leather"/>
         </ItemComponent>
         <Flags UseTeamColor="true" Civilian="true"/>
@@ -178,21 +188,13 @@
           is_merchandise="true" subtype="body_armor" culture="Culture.empire" value="3500" weight="4.0" difficulty="0"
           appearance="3" Type="BodyArmor">
         <ItemComponent>
-            <Armor head_armor="0" arm_armor="0" body_armor="46" leg_armor="20" covers_body="false" covers_legs="false"
+            <Armor head_armor="0" arm_armor="0" body_armor="30" leg_armor="20" covers_body="false" covers_legs="false"
                    modifier_group="Leather" material_type="Leather"/>
         </ItemComponent>
         <Flags UseTeamColor="true" Civilian="true"/>
     </Item>
 
-    <Item id="linothorax_3_no_pteryges" name="Light Hellenic Linen Cuirass" mesh="linothorax_3_no_pteryges"
-          is_merchandise="true" subtype="body_armor" culture="Culture.empire" value="2500" weight="3.0" difficulty="0"
-          appearance="3" Type="BodyArmor">
-        <ItemComponent>
-            <Armor head_armor="0" arm_armor="0" body_armor="42" leg_armor="0" covers_body="false" covers_legs="false"
-                   modifier_group="Leather" material_type="Leather"/>
-        </ItemComponent>
-        <Flags UseTeamColor="true" Civilian="true"/>
-    </Item>
+
 
     <Item id="hayster_lino_1" name="[hellenic] Red Decorative Linothorax" mesh="hayster_lino_1" is_merchandise="true"
           subtype="body_armor" culture="Culture.carthago_nova" value="3500" weight="4.0" difficulty="0" appearance="3"
@@ -343,6 +345,46 @@
         </ItemComponent>
         <Flags UseTeamColor="true" Civilian="true"/>
     </Item>
+
+	<Item id="carthage_linothorax_b" name="[punic] Sacred Band Scaled Linothorax 2" mesh="carthage_linothorax_b"
+          is_merchandise="true" subtype="body_armor" culture="Culture.empire" value="5500" weight="12.0" difficulty="0"
+          appearance="3" Type="BodyArmor">
+		<ItemComponent>
+			<Armor head_armor="0" arm_armor="15" body_armor="65" leg_armor="20" covers_body="false" covers_legs="false"
+                   modifier_group="Leather" material_type="Leather"/>
+		</ItemComponent>
+		<Flags UseTeamColor="true" Civilian="true"/>
+	</Item>
+
+	<Item id="eastern_linothorax_a" name="[eastern] Padded Linothorax" mesh="eastern_linothorax_a"
+          is_merchandise="true" subtype="body_armor" culture="Culture.empire" value="3500" weight="8.0" difficulty="0"
+          appearance="3" Type="BodyArmor">
+		<ItemComponent>
+			<Armor head_armor="0" arm_armor="15" body_armor="35" leg_armor="20" covers_body="false" covers_legs="false"
+                   modifier_group="Leather" material_type="Leather"/>
+		</ItemComponent>
+		<Flags UseTeamColor="true" Civilian="true"/>
+	</Item>
+
+	<Item id="eastern_linothorax_b" name="[eastern] Iron Scaled Linothorax 1" mesh="eastern_linothorax_b"
+          is_merchandise="true" subtype="body_armor" culture="Culture.empire" value="5000" weight="14.0" difficulty="0"
+          appearance="3" Type="BodyArmor">
+		<ItemComponent>
+			<Armor head_armor="0" arm_armor="15" body_armor="65" leg_armor="20" covers_body="false" covers_legs="false"
+                   modifier_group="Leather" material_type="Leather"/>
+		</ItemComponent>
+		<Flags UseTeamColor="true" Civilian="true"/>
+	</Item>
+
+	<Item id="eastern_linothorax_c" name="[eastern] Iron Scaled Linothorax 2" mesh="eastern_linothorax_c"
+	  is_merchandise="true" subtype="body_armor" culture="Culture.empire" value="5200" weight="14.0" difficulty="0"
+	  appearance="3" Type="BodyArmor">
+		<ItemComponent>
+			<Armor head_armor="0" arm_armor="15" body_armor="65" leg_armor="20" covers_body="false" covers_legs="false"
+                   modifier_group="Leather" material_type="Leather"/>
+		</ItemComponent>
+		<Flags UseTeamColor="true" Civilian="true"/>
+	</Item>
 
     <Item id="linothorax_5_eastern_1_complete" name="Scaled Hellenic Chain Cuirass"
           mesh="linothorax_5_eastern_1_complete" is_merchandise="true" subtype="body_armor" culture="Culture.empire"
@@ -539,6 +581,16 @@
         </ItemComponent>
         <Flags UseTeamColor="true" Civilian="true" DoesNotHideChest="true"/>
     </Item>
+
+	<Item id="celtic_round_plate_1" name="Celtic Cardiophylax" mesh="celtic_round_plate_1"
+          is_merchandise="true" subtype="body_armor" culture="Culture.neutral" value="2000" weight="3.0" difficulty="0"
+          appearance="3" Type="BodyArmor">
+		<ItemComponent>
+			<Armor head_armor="0" arm_armor="7" body_armor="30" leg_armor="5" covers_body="false" covers_legs="false"
+                   modifier_group="Plate" material_type="Plate"/>
+		</ItemComponent>
+		<Flags UseTeamColor="true" Civilian="true"/>
+	</Item>
 
     <!--Leg Armour-->
     <Item id="armoured_legs_1_1_left" name="Bronze decorated full left leg" mesh="armoured_legs_1_1_left"
@@ -859,7 +911,7 @@
           subtype="head_armor" culture="Culture.empire" value="3500" weight="4.0" difficulty="0" appearance="3"
           Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="90" arm_armor="0" body_armor="0" leg_armor="00" covers_head="false"
+            <Armor head_armor="90" arm_armor="0" body_armor="80" leg_armor="00" covers_head="false"
                    hair_cover_type="type2" beard_cover_type="type2" modifier_group="plate" material_type="Plate"/>
         </ItemComponent>
         <Flags UseTeamColor="true" Civilian="true"/>
@@ -869,7 +921,7 @@
           subtype="head_armor" culture="Culture.empire" value="5500" weight="4.0" difficulty="0" appearance="3"
           Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="90" arm_armor="0" body_armor="0" leg_armor="00" covers_head="false"
+            <Armor head_armor="90" arm_armor="0" body_armor="80" leg_armor="00" covers_head="false"
                    hair_cover_type="type2" beard_cover_type="type2" modifier_group="plate" material_type="Plate"/>
         </ItemComponent>
         <Flags UseTeamColor="true" Civilian="true"/>
@@ -879,7 +931,7 @@
           subtype="head_armor" culture="Culture.empire" value="3000" weight="3.0" difficulty="0" appearance="3"
           Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="90" arm_armor="0" body_armor="0" leg_armor="00" covers_head="false"
+            <Armor head_armor="90" arm_armor="0" body_armor="80" leg_armor="00" covers_head="false"
                    hair_cover_type="type2" beard_cover_type="type2" modifier_group="plate" material_type="Plate"/>
         </ItemComponent>
         <Flags UseTeamColor="true" Civilian="true"/>
@@ -889,7 +941,7 @@
           is_merchandise="true" subtype="head_armor" culture="Culture.empire" value="3000" weight="3.0" difficulty="0"
           appearance="3" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="90" arm_armor="0" body_armor="0" leg_armor="00" covers_head="false"
+            <Armor head_armor="90" arm_armor="0" body_armor="80" leg_armor="00" covers_head="false"
                    hair_cover_type="type2" beard_cover_type="type2" modifier_group="plate" material_type="Plate"/>
         </ItemComponent>
         <Flags UseTeamColor="true" Civilian="true"/>
@@ -899,7 +951,7 @@
           is_merchandise="true" subtype="head_armor" culture="Culture.empire" value="10000" weight="7.0" difficulty="0"
           appearance="3" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="85" arm_armor="0" body_armor="0" leg_armor="00" covers_head="false"
+            <Armor head_armor="85" arm_armor="0" body_armor="80" leg_armor="00" covers_head="false"
                    hair_cover_type="type2" beard_cover_type="type2" modifier_group="plate" material_type="Plate"/>
         </ItemComponent>
         <Flags UseTeamColor="true" Civilian="true"/>
@@ -909,7 +961,7 @@
           is_merchandise="true" subtype="head_armor" culture="Culture.empire" value="30000" weight="10" difficulty="0"
           appearance="3" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="100" arm_armor="0" body_armor="0" leg_armor="00" covers_head="false"
+            <Armor head_armor="100" arm_armor="0" body_armor="80" leg_armor="00" covers_head="false"
                    hair_cover_type="type2" beard_cover_type="type1" modifier_group="plate" material_type="Plate"/>
         </ItemComponent>
         <Flags UseTeamColor="true" Civilian="true"/>
@@ -919,7 +971,7 @@
           mesh="corinthian_7_polemarch_helm" is_merchandise="true" subtype="head_armor" culture="Culture.empire"
           value="30000" weight="10" difficulty="0" appearance="3" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="100" arm_armor="0" body_armor="0" leg_armor="00" covers_head="false"
+            <Armor head_armor="100" arm_armor="0" body_armor="80" leg_armor="00" covers_head="false"
                    hair_cover_type="type2" beard_cover_type="type1" modifier_group="plate" material_type="Plate"/>
         </ItemComponent>
         <Flags UseTeamColor="true" Civilian="true"/>
@@ -929,7 +981,7 @@
           mesh="corinthian_8_polemarch_helm_tailed" is_merchandise="true" subtype="head_armor" culture="Culture.empire"
           value="40000" weight="12" difficulty="0" appearance="3" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="100" arm_armor="0" body_armor="0" leg_armor="00" covers_head="false"
+            <Armor head_armor="100" arm_armor="0" body_armor="80" leg_armor="00" covers_head="false"
                    hair_cover_type="type2" beard_cover_type="type1" modifier_group="plate" material_type="Plate"/>
         </ItemComponent>
         <Flags UseTeamColor="true" Civilian="true"/>
@@ -943,6 +995,24 @@
         </ItemComponent>
         <Flags UseTeamColor="true" Civilian="true"/>
     </Item>
+
+	<Item id="nubian_headband" name="[Nubian] Nubian Headband" mesh="garamantesheadband" is_merchandise="true" subtype="head_armor"
+          culture="Culture.nubian" value="600" weight="2.0" difficulty="0" appearance="3" Type="HeadArmor">
+		<ItemComponent>
+			<Armor head_armor="8" arm_armor="0" body_armor="0" leg_armor="00" covers_head="false"
+                   hair_cover_type="type1" beard_cover_type="none" modifier_group="Cloth" material_type="Cloth"/>
+		</ItemComponent>
+		<Flags UseTeamColor="true" Civilian="true"/>
+	</Item>
+
+	<Item id="garamantesheadband_2" name="[Libyan] Garamantes Noble Headband" mesh="garamantesheadband_2" is_merchandise="true" subtype="head_armor"
+	  culture="Culture.nubian" value="600" weight="2.0" difficulty="0" appearance="3" Type="HeadArmor">
+		<ItemComponent>
+			<Armor head_armor="20" arm_armor="0" body_armor="0" leg_armor="00" covers_head="false"
+                   hair_cover_type="type1" beard_cover_type="none" modifier_group="Cloth" material_type="Cloth"/>
+		</ItemComponent>
+		<Flags UseTeamColor="true" Civilian="true"/>
+	</Item>
 
     <Item id="petasos_2" name="[hellenic] Petasos slung" mesh="petasos_2" is_merchandise="false" subtype="head_armor"
           culture="Culture.neutral" value="600" weight="2.0" difficulty="0" appearance="3" Type="HeadArmor">
@@ -997,7 +1067,7 @@
           subtype="head_armor" culture="Culture.empire" value="3500" weight="2.0" difficulty="0" appearance="3"
           Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="95" arm_armor="0" body_armor="0" leg_armor="00" covers_head="false"
+            <Armor head_armor="95" arm_armor="60" body_armor="0" leg_armor="00" covers_head="false"
                    hair_cover_type="all" beard_cover_type="none" modifier_group="Plate" material_type="Plate"/>
         </ItemComponent>
         <Flags UseTeamColor="true" Civilian="true"/>
@@ -1112,66 +1182,153 @@
         <Flags UseTeamColor="true" Civilian="true"/>
     </Item>
 
-    <Item id="romanmontefortino_plumed" name="[latin] Bronze Montefortino with Plume" mesh="romanmontefortino_plumed" is_merchandise="true"
-          subtype="head_armor" culture="Culture.empire" value="4500" weight="4.3" difficulty="0" appearance="3"
-          Type="HeadArmor">
-        <ItemComponent>
-            <Armor head_armor="82" arm_armor="0" body_armor="0" leg_armor="00" covers_head="false"
+	<Item id="romanmontefortino_plumed" name="[latin] Bronze Montefortino with Plume" mesh="romanmontefortino_plumed" is_merchandise="true"
+			  subtype="head_armor" culture="Culture.empire" value="4500" weight="4.3" difficulty="0" appearance="3"
+			  Type="HeadArmor">
+		<ItemComponent>
+			<Armor head_armor="82" arm_armor="0" body_armor="0" leg_armor="00" covers_head="false"
                    hair_cover_type="type2" beard_cover_type="none" modifier_group="plate" material_type="Plate"/>
-        </ItemComponent>
-        <Flags UseTeamColor="true" Civilian="true"/>
-    </Item>
+		</ItemComponent>
+		<Flags UseTeamColor="true" Civilian="true"/>
+	</Item>
 
-    <Item id="feathered_montefortino" name="[latin] Feathered Montefortino" mesh="feathered_montefortino" is_merchandise="true"
-          subtype="head_armor" culture="Culture.empire" value="4000" weight="4.0" difficulty="0" appearance="3"
-          Type="HeadArmor">
-        <ItemComponent>
-            <Armor head_armor="82" arm_armor="0" body_armor="0" leg_armor="00" covers_head="false"
+	<Item id="feathered_montefortino" name="[latin] Feathered Montefortino" mesh="feathered_montefortino" is_merchandise="true"
+			  subtype="head_armor" culture="Culture.empire" value="4000" weight="4.0" difficulty="0" appearance="3"
+			  Type="HeadArmor">
+		<ItemComponent>
+			<Armor head_armor="82" arm_armor="0" body_armor="0" leg_armor="00" covers_head="false"
                    hair_cover_type="type2" beard_cover_type="none" modifier_group="plate" material_type="Plate"/>
-        </ItemComponent>
-        <Flags UseTeamColor="true" Civilian="true"/>
-    </Item>
-
-    <Item id="centurion_montefortino" name="[latin] Fine Montefortino with Plumes" mesh="centurion_montefortino" is_merchandise="true"
-          subtype="head_armor" culture="Culture.empire" value="5500" weight="5.3" difficulty="0" appearance="3"
-          Type="HeadArmor">
-        <ItemComponent>
-            <Armor head_armor="90" arm_armor="0" body_armor="0" leg_armor="00" covers_head="false"
+		</ItemComponent>
+		<Flags UseTeamColor="true" Civilian="true"/>
+	</Item>
+	
+	<Item id="feathered_montefortino_2" name="[latin] Feathered Montefortino 2" mesh="featheredmontefortino" is_merchandise="true"
+			  subtype="head_armor" culture="Culture.empire" value="4500" weight="4.5" difficulty="0" appearance="3"
+			  Type="HeadArmor">
+		<ItemComponent>
+			<Armor head_armor="85" arm_armor="0" body_armor="0" leg_armor="00" covers_head="false"
                    hair_cover_type="type2" beard_cover_type="none" modifier_group="plate" material_type="Plate"/>
-        </ItemComponent>
-        <Flags UseTeamColor="true" Civilian="true"/>
-    </Item>
+		</ItemComponent>
+		<Flags UseTeamColor="true" Civilian="true"/>
+	</Item>
 
-    <Item id="centurion_montefortino_b" name="[latin] Centurion Montefortino with Plumes" mesh="centurion_montefortino_b" is_merchandise="true"
-          subtype="head_armor" culture="Culture.empire" value="5800" weight="5.4" difficulty="0" appearance="3"
-          Type="HeadArmor">
-        <ItemComponent>
-            <Armor head_armor="92" arm_armor="0" body_armor="0" leg_armor="00" covers_head="false"
+	<Item id="feathered_montefortino_3" name="[latin] Feathered Montefortino 3" mesh="featheredmontefortino2" is_merchandise="true"
+		  subtype="head_armor" culture="Culture.empire" value="4500" weight="4.5" difficulty="0" appearance="3"
+		  Type="HeadArmor">
+		<ItemComponent>
+			<Armor head_armor="85" arm_armor="0" body_armor="0" leg_armor="00" covers_head="false"
                    hair_cover_type="type2" beard_cover_type="none" modifier_group="plate" material_type="Plate"/>
-        </ItemComponent>
-        <Flags UseTeamColor="true" Civilian="true"/>
-    </Item>
+		</ItemComponent>
+		<Flags UseTeamColor="true" Civilian="true"/>
+	</Item>
 
-    <Item id="feathered_samnite" name="[latin] Feathered Samnite Helm" mesh="feathered_samnite" is_merchandise="true"
-          subtype="head_armor" culture="Culture.empire" value="4000" weight="4.0" difficulty="0" appearance="3"
-          Type="HeadArmor">
-        <ItemComponent>
-            <Armor head_armor="82" arm_armor="0" body_armor="0" leg_armor="00" covers_head="false"
+	<Item id="centurion_montefortino" name="[latin] Fine Montefortino with Plumes" mesh="centurion_montefortino" is_merchandise="true"
+			  subtype="head_armor" culture="Culture.empire" value="5500" weight="5.3" difficulty="0" appearance="3"
+			  Type="HeadArmor">
+		<ItemComponent>
+			<Armor head_armor="90" arm_armor="0" body_armor="0" leg_armor="00" covers_head="false"
                    hair_cover_type="type2" beard_cover_type="none" modifier_group="plate" material_type="Plate"/>
-        </ItemComponent>
-        <Flags UseTeamColor="true" Civilian="true"/>
-    </Item>
+		</ItemComponent>
+		<Flags UseTeamColor="true" Civilian="true"/>
+	</Item>
+	
+	<Item id="centurion_montefortino_b" name="[latin] Centurion Montefortino with Plumes" mesh="centurion_montefortino_b" is_merchandise="true"
+			  subtype="head_armor" culture="Culture.empire" value="5800" weight="5.4" difficulty="0" appearance="3"
+			  Type="HeadArmor">
+		<ItemComponent>
+			<Armor head_armor="92" arm_armor="0" body_armor="0" leg_armor="00" covers_head="false"
+                   hair_cover_type="type2" beard_cover_type="none" modifier_group="plate" material_type="Plate"/>
+		</ItemComponent>
+		<Flags UseTeamColor="true" Civilian="true"/>
+	</Item>
 
-    <Item id="iberianhelmet" name="[iberian] Crested Iberian Helm " mesh="iberianhelmet"
+	<Item id="feathered_samnite" name="[latin] Feathered Samnite Helm" mesh="feathered_samnite" is_merchandise="true"
+			  subtype="head_armor" culture="Culture.empire" value="4000" weight="4.0" difficulty="0" appearance="3"
+			  Type="HeadArmor">
+		<ItemComponent>
+			<Armor head_armor="82" arm_armor="0" body_armor="0" leg_armor="00" covers_head="false"
+                   hair_cover_type="type2" beard_cover_type="none" modifier_group="plate" material_type="Plate"/>
+		</ItemComponent>
+		<Flags UseTeamColor="true" Civilian="true"/>
+	</Item>
+
+	<Item id="feathered_samnite_2" name="[latin] Samnite Noble Helm" mesh="feathered_samnite_2" is_merchandise="true"
+			  subtype="head_armor" culture="Culture.empire" value="4000" weight="4.0" difficulty="0" appearance="3"
+			  Type="HeadArmor">
+		<ItemComponent>
+			<Armor head_armor="85" arm_armor="0" body_armor="0" leg_armor="00" covers_head="false"
+                   hair_cover_type="type2" beard_cover_type="none" modifier_group="plate" material_type="Plate"/>
+		</ItemComponent>
+		<Flags UseTeamColor="true" Civilian="true"/>
+	</Item>
+
+	<Item id="feathered_samnite_3" name="[latin] Samnite Helm" mesh="feathered_samnite_3" is_merchandise="true"
+			  subtype="head_armor" culture="Culture.empire" value="4000" weight="4.0" difficulty="0" appearance="3"
+			  Type="HeadArmor">
+		<ItemComponent>
+			<Armor head_armor="80" arm_armor="0" body_armor="0" leg_armor="00" covers_head="false"
+                   hair_cover_type="type2" beard_cover_type="none" modifier_group="plate" material_type="Plate"/>
+		</ItemComponent>
+		<Flags UseTeamColor="true" Civilian="true"/>
+	</Item>
+
+	<Item id="iberianhelmet" name="[iberian] Crested Iberian Helm " mesh="iberianhelmet"
           is_merchandise="true" subtype="head_armor" culture="Culture.empire" value="5500" weight="6.0" difficulty="0"
           appearance="3" Type="HeadArmor">
-        <ItemComponent>
-            <Armor head_armor="85" arm_armor="0" body_armor="0" leg_armor="00" covers_head="false"
+		<ItemComponent>
+			<Armor head_armor="85" arm_armor="0" body_armor="0" leg_armor="00" covers_head="false"
                    hair_cover_type="type2" beard_cover_type="none" modifier_group="plate" material_type="Plate"/>
-        </ItemComponent>
-        <Flags UseTeamColor="true" Civilian="true"/>
-    </Item>
+		</ItemComponent>
+		<Flags UseTeamColor="true" Civilian="true"/>
+	</Item>
 
+	<Item id="celtiberian_helm_plain" name="[iberian] Iberian Helm " mesh="iberianHelmet_plain"
+          is_merchandise="true" subtype="head_armor" culture="Culture.empire" value="5500" weight="6.0" difficulty="0"
+          appearance="3" Type="HeadArmor">
+		<ItemComponent>
+			<Armor head_armor="65" arm_armor="0" body_armor="0" leg_armor="00" covers_head="false"
+                   hair_cover_type="type2" beard_cover_type="none" modifier_group="plate" material_type="Plate"/>
+		</ItemComponent>
+		<Flags UseTeamColor="true" Civilian="true"/>
+	</Item>
+
+	<Item id="celtiberian_feathered_helm" name="[iberian] Feathered Iberian Helm " mesh="celtiberian_feathered_helm"
+          is_merchandise="true" subtype="head_armor" culture="Culture.empire" value="5500" weight="6.0" difficulty="0"
+          appearance="3" Type="HeadArmor">
+		<ItemComponent>
+			<Armor head_armor="68" arm_armor="0" body_armor="0" leg_armor="00" covers_head="false"
+                   hair_cover_type="type2" beard_cover_type="none" modifier_group="plate" material_type="Plate"/>
+		</ItemComponent>
+		<Flags UseTeamColor="true" Civilian="true"/>
+	</Item>
+
+	<Item id="etruscan_ridged_helm_1" name="[italic] Simple Etruscan Helm" mesh="etruscanhelmet2" is_merchandise="true" subtype="head_armor"
+	  culture="Culture.neutral" value="1500" weight="2.0" difficulty="0" appearance="3" Type="HeadArmor">
+		<ItemComponent>
+			<Armor head_armor="60" arm_armor="0" body_armor="0" leg_armor="00" covers_head="false"
+                   hair_cover_type="type1" beard_cover_type="none" modifier_group="plate" material_type="Plate"/>
+		</ItemComponent>
+		<Flags UseTeamColor="true" Civilian="true"/>
+	</Item>
+
+	<Item id="etruscan_ridged_helm_2" name="[italic] Ridged Etruscan Helm" mesh="etruscanhelmet1" is_merchandise="true" subtype="head_armor"
+	  culture="Culture.neutral" value="3500" weight="5.0" difficulty="0" appearance="3" Type="HeadArmor">
+		<ItemComponent>
+			<Armor head_armor="80" arm_armor="0" body_armor="0" leg_armor="00" covers_head="false"
+                   hair_cover_type="type1" beard_cover_type="none" modifier_group="plate" material_type="Plate"/>
+		</ItemComponent>
+		<Flags UseTeamColor="true" Civilian="true"/>
+	</Item>
+
+	<Item id="feathered_celtic_noble_helm" name="[celtic] Decorated Celtic Noble Helm" mesh="getorix_helm" is_merchandise="true" subtype="head_armor"
+	  culture="Culture.neutral" value="4500" weight="5.0" difficulty="0" appearance="3" Type="HeadArmor">
+		<ItemComponent>
+			<Armor head_armor="85" arm_armor="0" body_armor="0" leg_armor="00" covers_head="false"
+                   hair_cover_type="type1" beard_cover_type="none" modifier_group="plate" material_type="Plate"/>
+		</ItemComponent>
+		<Flags UseTeamColor="true" Civilian="true"/>
+	</Item>
+	
     <Item id="punic_helm_plain"
           name="{=KoyflyeY}Punic Bronze Helm"
           mesh="punic_helm_plain"
@@ -1285,25 +1442,46 @@
         <Flags UseTeamColor="true" Civilian="true"/>
     </Item>
 
+	<Item id="linothorax_3_no_pteryges" name="Light Hellenic Linen Cuirass" mesh="linothorax_chest_cuirass"
+	  is_merchandise="true" subtype="body_armor" culture="Culture.empire" value="2500" weight="3.0" difficulty="0"
+	  appearance="3" Type="Cape">
+		<ItemComponent>
+			<Armor head_armor="0" arm_armor="0" body_armor="20" leg_armor="0" covers_body="false" covers_legs="false"
+                   modifier_group="Leather" material_type="Leather"/>
+		</ItemComponent>
+		<Flags UseTeamColor="true" Civilian="true"/>
+	</Item>
+
     <Item id="etruscan_chestpiece" name="Italic Chestpiece" mesh="etruscan_bronze_chestpiece" is_merchandise="true"
           subtype="body_armor" culture="Culture.empire" value="5000" weight="10.0" difficulty="0" appearance="3"
           Type="Cape">
         <ItemComponent>
-            <Armor head_armor="0" arm_armor="5" body_armor="60" leg_armor="0" covers_body="false" covers_legs="false"
-                   modifier_group="Plate" material_type="Plate"/>
-        </ItemComponent>
-        <Flags UseTeamColor="true" Civilian="true"/>
-    </Item>
-    <Item id="round_chestpiece" name="Cardiophylax" mesh="round_plate_2" is_merchandise="true" subtype="body_armor"
-          culture="Culture.empire" value="5000" weight="10.0" difficulty="0" appearance="3" Type="Cape">
-        <ItemComponent>
-            <Armor head_armor="0" arm_armor="5" body_armor="40" leg_armor="0" covers_body="false" covers_legs="false"
+            <Armor head_armor="0" arm_armor="5" body_armor="25" leg_armor="0" covers_body="false" covers_legs="false"
                    modifier_group="Plate" material_type="Plate"/>
         </ItemComponent>
         <Flags UseTeamColor="true" Civilian="true"/>
     </Item>
 
-    <Item id="slave_collar" name="Slave Collar" mesh="slave_collar" is_merchandise="true" subtype="body_armor"
+	<Item id="muscle_plate_cuirass" name="Muscled Chestpiece" mesh="muscle_plate_cuirass" is_merchandise="true"
+          subtype="body_armor" culture="Culture.empire" value="5500" weight="10.0" difficulty="0" appearance="3"
+          Type="Cape">
+		<ItemComponent>
+			<Armor head_armor="0" arm_armor="5" body_armor="30" leg_armor="0" covers_body="false" covers_legs="false"
+                   modifier_group="Plate" material_type="Plate"/>
+		</ItemComponent>
+		<Flags UseTeamColor="true" Civilian="true"/>
+	</Item>
+	
+    <Item id="round_chestpiece" name="Cardiophylax" mesh="round_plate_2" is_merchandise="true" subtype="body_armor"
+          culture="Culture.empire" value="5000" weight="10.0" difficulty="0" appearance="3" Type="Cape">
+        <ItemComponent>
+            <Armor head_armor="0" arm_armor="5" body_armor="20" leg_armor="0" covers_body="false" covers_legs="false"
+                   modifier_group="Plate" material_type="Plate"/>
+        </ItemComponent>
+        <Flags UseTeamColor="true" Civilian="true"/>
+    </Item>
+	
+	<Item id="slave_collar" name="Slave Collar" mesh="slave_collar" is_merchandise="true" subtype="body_armor"
           culture="Culture.empire" value="50" weight="5.0" difficulty="0" appearance="3" Type="Cape">
         <ItemComponent>
             <Armor head_armor="5" arm_armor="0" body_armor="1" leg_armor="0" covers_body="false" covers_legs="false"

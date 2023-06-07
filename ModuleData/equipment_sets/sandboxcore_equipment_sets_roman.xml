@@ -1,0 +1,827 @@
+<EquipmentRosters>
+
+ 
+  <EquipmentRoster id="rom_bat_template_medium"
+                   culture="Culture.empire">
+    <EquipmentSet>
+      <Equipment slot="Item0"
+                 id="Item.hasta_spear_cavalry" />
+      <Equipment slot="Item1"
+                 id="Item.celtic_oval_shield_2" />
+      <Equipment slot="Head"
+                 id="Item.crested_chalcidian" />
+      <Equipment slot="Body"
+                 id="Item.hayster_lino_11" />
+      <Equipment slot="Cape"
+                 id="Item.a_battania_cloak_a" />
+      <Equipment slot="Leg"
+                 id="Item.sandals_1_bronze_greaves_dual" />
+
+      <Equipment slot="Horse"
+                 id="Item.noble_horse_imperial" />
+      <Equipment slot="HorseHarness"
+                 id="Item.imperial_scale_barding" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0"
+                 id="Item.hasta_spear_cavalry" />
+      <Equipment slot="Item1"
+                 id="Item.celtic_oval_shield_2" />
+      <Equipment slot="Head"
+                 id="Item.crested_chalcidian" />
+      <Equipment slot="Body"
+                 id="Item.hayster_lino_11" />
+      <Equipment slot="Cape"
+                 id="Item.a_battania_cloak_a" />
+      <Equipment slot="Leg"
+                 id="Item.sandals_1_bronze_greaves_dual" />
+ 
+      <Equipment slot="Horse"
+                 id="Item.noble_horse_imperial" />
+      <Equipment slot="HorseHarness"
+                 id="Item.imperial_scale_barding" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0"
+                 id="Item.hasta_spear_cavalry" />
+      <Equipment slot="Item1"
+                 id="Item.celtic_oval_shield_2" />
+      <Equipment slot="Head"
+                 id="Item.crested_chalcidian" />
+      <Equipment slot="Body"
+                 id="Item.hayster_lino_11" />
+      <Equipment slot="Cape"
+                 id="Item.a_battania_cloak_a" />
+      <Equipment slot="Leg"
+                 id="Item.sandals_1_bronze_greaves_dual" />
+ 
+      <Equipment slot="Horse"
+                 id="Item.noble_horse_imperial" />
+      <Equipment slot="HorseHarness"
+                 id="Item.imperial_scale_barding" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0"
+                 id="Item.hasta_spear_cavalry" />
+      <Equipment slot="Item1"
+                 id="Item.celtic_oval_shield_2" />
+      <Equipment slot="Head"
+                 id="Item.crested_chalcidian" />
+      <Equipment slot="Body"
+                 id="Item.hayster_lino_11" />
+      <Equipment slot="Cape"
+                 id="Item.a_battania_cloak_a" />
+      <Equipment slot="Leg"
+                 id="Item.sandals_1_bronze_greaves_dual" />
+ 
+      <Equipment slot="Horse"
+                 id="Item.noble_horse_imperial" />
+      <Equipment slot="HorseHarness"
+                 id="Item.imperial_scale_barding" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0"
+                 id="Item.hasta_spear_cavalry" />
+      <Equipment slot="Item1"
+                 id="Item.celtic_oval_shield_2" />
+      <Equipment slot="Head"
+                 id="Item.crested_chalcidian" />
+      <Equipment slot="Body"
+                 id="Item.hayster_lino_11" />
+      <Equipment slot="Leg"
+                 id="Item.sandals_1_bronze_greaves_dual" />
+ 
+      <Equipment slot="Horse"
+                 id="Item.noble_horse_imperial" />
+      <Equipment slot="HorseHarness"
+                 id="Item.imperial_scale_barding" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0"
+                 id="Item.hasta_spear_cavalry" />
+      <Equipment slot="Item1"
+                 id="Item.celtic_oval_shield_2" />
+      <Equipment slot="Head"
+                 id="Item.crested_chalcidian" />
+      <Equipment slot="Body"
+                 id="Item.hayster_lino_11" />
+      <Equipment slot="Leg"
+                 id="Item.sandals_1_bronze_greaves_dual" />
+
+      <Equipment slot="Horse"
+                 id="Item.noble_horse_imperial" />
+      <Equipment slot="HorseHarness"
+                 id="Item.imperial_scale_barding" />
+    </EquipmentSet>
+    <Flags  IsNobleTemplate="true"
+           IsMediumTemplate="true" />
+  </EquipmentRoster>
+  <EquipmentRoster id="rom_bat_template_heavy"
+                   culture="Culture.empire">
+    <EquipmentSet>
+      <Equipment slot="Item0"
+                 id="Item.hasta_spear_cavalry" />
+      <Equipment slot="Item1"
+                 id="Item.celtic_oval_shield_2" />
+      <Equipment slot="Head"
+                 id="Item.crested_chalcidian" />
+      <Equipment slot="Body"
+                 id="Item.hayster_lino_11" />
+      <Equipment slot="Cape"
+                 id="Item.imperial_studded_strip_shoulders" />
+      <Equipment slot="Leg"
+                 id="Item.sandals_1_bronze_greaves_dual" />
+      <Equipment slot="Gloves"
+                 id="Item.mail_mitten" />
+      <Equipment slot="Horse"
+                 id="Item.noble_horse_imperial" />
+      <Equipment slot="HorseHarness"
+                 id="Item.imperial_scale_barding" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0"
+                 id="Item.hasta_spear_cavalry" />
+      <Equipment slot="Item1"
+                 id="Item.celtic_oval_shield_2" />
+      <Equipment slot="Head"
+                 id="Item.crested_chalcidian" />
+      <Equipment slot="Body"
+                 id="Item.hayster_lino_11" />
+      <Equipment slot="Leg"
+                 id="Item.sandals_1_bronze_greaves_dual" />
+      <Equipment slot="Cape"
+                 id="Item.studded_imperial_neckguard" />
+      <Equipment slot="Gloves"
+                 id="Item.reinforced_mail_mitten" />
+      <Equipment slot="Horse"
+                 id="Item.noble_horse_imperial" />
+      <Equipment slot="HorseHarness"
+                 id="Item.imperial_scale_barding" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0"
+                 id="Item.hasta_spear_cavalry" />
+      <Equipment slot="Item1"
+                 id="Item.celtic_oval_shield_2" />
+      <Equipment slot="Head"
+                 id="Item.crested_chalcidian" />
+      <Equipment slot="Body"
+                 id="Item.hayster_lino_11" />
+      <Equipment slot="Cape"
+                 id="Item.imperial_studded_strip_shoulders" />
+      <Equipment slot="Leg"
+                 id="Item.sandals_1_bronze_greaves_dual" />
+      <Equipment slot="Gloves"
+                 id="Item.lamellar_plate_gauntlets" />
+      <Equipment slot="Horse"
+                 id="Item.noble_horse_imperial" />
+      <Equipment slot="HorseHarness"
+                 id="Item.imperial_scale_barding" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0"
+                 id="Item.hasta_spear_cavalry" />
+      <Equipment slot="Item1"
+                 id="Item.celtic_oval_shield_2" />
+      <Equipment slot="Head"
+                 id="Item.empire_guarded_lord_helmet" />
+      <Equipment slot="Body"
+                 id="Item.hayster_lino_11" />
+      <Equipment slot="Cape"
+                 id="Item.imperial_studded_strip_shoulders" />
+      <Equipment slot="Leg"
+                 id="Item.decorated_imperial_boots" />
+      <Equipment slot="Gloves"
+                 id="Item.lamellar_plate_gauntlets" />
+      <Equipment slot="Horse"
+                 id="Item.noble_horse_imperial" />
+      <Equipment slot="HorseHarness"
+                 id="Item.imperial_scale_barding" />
+    </EquipmentSet>
+    <Flags IsNobleTemplate="true"
+           IsHeavyTemplate="true"
+           IsCombatantTemplate="true" />
+  </EquipmentRoster>
+  <EquipmentRoster id="rom_bat_template_flamboyant"
+                   culture="Culture.empire">
+    <EquipmentSet>
+      <Equipment slot="Item0"
+                 id="Item.hasta_spear_cavalry" />
+      <Equipment slot="Item1"
+                 id="Item.celtic_oval_shield_2" />
+      <Equipment slot="Head"
+                 id="Item.empire_lord_helmet" />
+      <Equipment slot="Body"
+                 id="Item.hayster_lino_11" />
+      <Equipment slot="Cape"
+                 id="Item.pauldron_cape_a" />
+      <Equipment slot="Leg"
+                 id="Item.decorated_imperial_boots" />
+      <Equipment slot="Gloves"
+                 id="Item.decorated_imperial_gauntlets" />
+      <Equipment slot="Horse"
+                 id="Item.noble_horse_imperial" />
+      <Equipment slot="HorseHarness"
+                 id="Item.imperial_scale_barding" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0"
+                 id="Item.hasta_spear_cavalry" />
+      <Equipment slot="Item1"
+                 id="Item.celtic_oval_shield_2" />
+      <Equipment slot="Head"
+                 id="Item.empire_guarded_lord_helmet" />
+      <Equipment slot="Body"
+                 id="Item.hayster_lino_11_over_leather" />
+      <Equipment slot="Leg"
+                 id="Item.decorated_imperial_boots" />
+      <Equipment slot="Gloves"
+                 id="Item.decorated_imperial_gauntlets" />
+      <Equipment slot="Horse"
+                 id="Item.noble_horse_imperial" />
+      <Equipment slot="HorseHarness"
+                 id="Item.imperial_scale_barding" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0"
+                 id="Item.hasta_spear_cavalry" />
+      <Equipment slot="Item1"
+                 id="Item.celtic_oval_shield_2" />
+      <Equipment slot="Head"
+                 id="Item.crested_chalcidian" />
+      <Equipment slot="Body"
+                 id="Item.hayster_lino_11" />
+      <Equipment slot="Cape"
+                 id="Item.pauldron_cape_a" />
+      <Equipment slot="Leg"
+                 id="Item.decorated_imperial_boots" />
+      <Equipment slot="Gloves"
+                 id="Item.decorated_imperial_gauntlets" />
+      <Equipment slot="Horse"
+                 id="Item.noble_horse_imperial" />
+      <Equipment slot="HorseHarness"
+                 id="Item.imperial_scale_barding" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0"
+                 id="Item.hasta_spear_cavalry" />
+      <Equipment slot="Item1"
+                 id="Item.celtic_oval_shield_2" />
+      <Equipment slot="Head"
+                 id="Item.leatherlame_feathered_spangenhelm_over_mail" />
+      <Equipment slot="Body"
+                 id="Item.brass_lamellar_over_mail" />
+      <Equipment slot="Leg"
+                 id="Item.decorated_imperial_boots" />
+      <Equipment slot="Gloves"
+                 id="Item.decorated_imperial_gauntlets" />
+      <Equipment slot="Horse"
+                 id="Item.noble_horse_imperial" />
+      <Equipment slot="HorseHarness"
+                 id="Item.imperial_scale_barding" />
+    </EquipmentSet>
+    <Flags IsNobleTemplate="true"
+            IsFlamboyantTemplate="true"
+            IsCombatantTemplate="true" />
+  </EquipmentRoster>
+  <EquipmentRoster id="rom_bat_template_stoic"
+                   culture="Culture.empire">
+    <EquipmentSet>
+      <Equipment slot="Item0"
+                 id="Item.hasta_spear_cavalry" />
+      <Equipment slot="Item1"
+                 id="Item.celtic_oval_shield_2" />
+      <Equipment slot="Head"
+                 id="Item.heavy_nasalhelm_over_imperial_padding" />
+      <Equipment slot="Body"
+                 id="Item.legionary_mail" />
+      <Equipment slot="Cape"
+                 id="Item.wrapped_scarf" />
+      <Equipment slot="Leg"
+                 id="Item.sandals_1_bronze_greaves_dual" />
+      <Equipment slot="Gloves"
+                 id="Item.leather_gloves" />
+      <Equipment slot="Horse"
+                 id="Item.noble_horse_imperial" />
+      <Equipment slot="HorseHarness"
+                 id="Item.imperial_scale_barding" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0"
+                 id="Item.hasta_spear_cavalry" />
+      <Equipment slot="Item1"
+                 id="Item.celtic_oval_shield_2" />
+      <Equipment slot="Head"
+                 id="Item.heavy_nasalhelm_over_laced_cloth" />
+      <Equipment slot="Body"
+                 id="Item.hayster_lino_11_over_leather" />
+      <Equipment slot="Leg"
+                 id="Item.sandals_1_bronze_greaves_dual" />
+      <Equipment slot="Horse"
+                 id="Item.noble_horse_imperial" />
+      <Equipment slot="HorseHarness"
+                 id="Item.imperial_scale_barding" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0"
+                 id="Item.hasta_spear_cavalry" />
+      <Equipment slot="Item1"
+                 id="Item.celtic_oval_shield_2" />
+      <Equipment slot="Head"
+                 id="Item.ironlame_nasalhelm_over_imperial_coif" />
+      <Equipment slot="Body"
+                 id="Item.basic_imperial_leather_armor" />
+      <Equipment slot="Leg"
+                 id="Item.sandals_1_bronze_greaves_dual" />
+      <Equipment slot="Gloves"
+                 id="Item.leather_gloves" />
+      <Equipment slot="Horse"
+                 id="Item.noble_horse_imperial" />
+      <Equipment slot="HorseHarness"
+                 id="Item.imperial_scale_barding" />
+    </EquipmentSet>
+    <Flags IsNobleTemplate="true"
+           IsStoicTemplate="true"
+           IsCombatantTemplate="true" />
+  </EquipmentRoster>
+  <EquipmentRoster id="rom_bat_template_southfrontier"
+                   culture="Culture.empire">
+    <EquipmentSet>
+      <Equipment slot="Item0"
+                 id="Item.hasta_spear_cavalry" />
+      <Equipment slot="Item1"
+                 id="Item.celtic_oval_shield_2" />
+      <Equipment slot="Head"
+                 id="Item.crested_chalcidian" />
+      <Equipment slot="Body"
+                 id="Item.brass_lamellar_over_mail" />
+      <Equipment slot="Cape"
+                 id="Item.leopard_pelt" />
+      <Equipment slot="Leg"
+                 id="Item.decorated_imperial_boots" />
+      <Equipment slot="Gloves"
+                 id="Item.decorated_imperial_gauntlets" />
+      <Equipment slot="Horse"
+                 id="Item.noble_horse_imperial" />
+      <Equipment slot="HorseHarness"
+                 id="Item.imperial_scale_barding" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0"
+                 id="Item.hasta_spear_cavalry" />
+      <Equipment slot="Item1"
+                 id="Item.celtic_oval_shield_2" />
+      <Equipment slot="Head"
+                 id="Item.heavy_nasalhelm_over_laced_cloth" />
+      <Equipment slot="Body"
+                 id="Item.brass_lamellar_over_mail" />
+      <Equipment slot="Cape"
+                 id="Item.wrapped_scarf" />
+      <Equipment slot="Leg"
+                 id="Item.decorated_imperial_boots" />
+      <Equipment slot="Gloves"
+                 id="Item.decorated_imperial_gauntlets" />
+      <Equipment slot="Horse"
+                 id="Item.noble_horse_imperial" />
+      <Equipment slot="HorseHarness"
+                 id="Item.imperial_scale_barding" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0"
+                 id="Item.hasta_spear_cavalry" />
+      <Equipment slot="Item1"
+                 id="Item.celtic_oval_shield_2" />
+      <Equipment slot="Head"
+                 id="Item.ironlame_nasalhelm_over_imperial_coif" />
+      <Equipment slot="Body"
+                 id="Item.desert_scale_armor" />
+      <Equipment slot="Cape"
+                 id="Item.leopard_pelt" />
+      <Equipment slot="Leg"
+                 id="Item.decorated_imperial_boots" />
+      <Equipment slot="Gloves"
+                 id="Item.decorated_imperial_gauntlets" />
+      <Equipment slot="Horse"
+                 id="Item.noble_horse_imperial" />
+      <Equipment slot="HorseHarness"
+                 id="Item.imperial_scale_barding" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0"
+                 id="Item.hasta_spear_cavalry" />
+      <Equipment slot="Item1"
+                 id="Item.celtic_oval_shield_2" />
+      <Equipment slot="Head"
+                 id="Item.ironlame_nasalhelm_over_imperial_coif" />
+      <Equipment slot="Body"
+                 id="Item.aserai_archer_armor" />
+      <Equipment slot="Leg"
+                 id="Item.decorated_imperial_boots" />
+      <Equipment slot="Gloves"
+                 id="Item.decorated_imperial_gauntlets" />
+      <Equipment slot="Horse"
+                 id="Item.noble_horse_imperial" />
+      <Equipment slot="HorseHarness"
+                 id="Item.imperial_scale_barding" />
+    </EquipmentSet>
+    <Flags IsNobleTemplate="true"
+           IsNomadTemplate="true"
+           IsCombatantTemplate="true"/>
+  </EquipmentRoster>
+  <EquipmentRoster id="rom_bat_template_northfrontier"
+                   culture="Culture.empire">
+    <EquipmentSet>
+      <Equipment slot="Item0"
+                 id="Item.hasta_spear_cavalry" />
+      <Equipment slot="Item1"
+                 id="Item.celtic_oval_shield_2" />
+      <Equipment slot="Head"
+                 id="Item.heavy_nasalhelm_over_imperial_padding" />
+      <Equipment slot="Body"
+                 id="Item.mail_shirt" />
+      <Equipment slot="Cape"
+                 id="Item.brass_lamellar_shoulder_white" />
+      <Equipment slot="Leg"
+                 id="Item.sandals_1_bronze_greaves_dual" />
+      <Equipment slot="Gloves"
+                 id="Item.plated_strip_gauntlets" />
+      <Equipment slot="Horse"
+                 id="Item.noble_horse_imperial" />
+      <Equipment slot="HorseHarness"
+                 id="Item.imperial_scale_barding" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0"
+                 id="Item.hasta_spear_cavalry" />
+      <Equipment slot="Item1"
+                 id="Item.celtic_oval_shield_2" />
+      <Equipment slot="Head"
+                 id="Item.heavy_nasalhelm_over_imperial_mail" />
+      <Equipment slot="Body"
+                 id="Item.northern_brass_lamellar_over_mail" />
+      <Equipment slot="Cape"
+                 id="Item.mail_shoulders" />
+      <Equipment slot="Leg"
+                 id="Item.sandals_1_bronze_greaves_dual" />
+      <Equipment slot="Gloves"
+                 id="Item.plated_strip_gauntlets" />
+      <Equipment slot="Horse"
+                 id="Item.noble_horse_imperial" />
+      <Equipment slot="HorseHarness"
+                 id="Item.imperial_scale_barding" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0"
+                 id="Item.hasta_spear_cavalry" />
+      <Equipment slot="Item1"
+                 id="Item.celtic_oval_shield_2" />
+      <Equipment slot="Head"
+                 id="Item.imperial_nasal_helm" />
+      <Equipment slot="Body"
+                 id="Item.northern_brass_lamellar_over_mail" />
+      <Equipment slot="Cape"
+                 id="Item.brass_lamellar_shoulder_white" />
+      <Equipment slot="Leg"
+                 id="Item.sandals_1_bronze_greaves_dual" />
+      <Equipment slot="Gloves"
+                 id="Item.plated_strip_gauntlets" />
+      <Equipment slot="Horse"
+                 id="Item.noble_horse_imperial" />
+      <Equipment slot="HorseHarness"
+                 id="Item.imperial_scale_barding" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0"
+                 id="Item.hasta_spear_cavalry" />
+      <Equipment slot="Item1"
+                 id="Item.celtic_oval_shield_2" />
+      <Equipment slot="Head"
+                 id="Item.heavy_nasalhelm_over_imperial_leather" />
+      <Equipment slot="Body"
+                 id="Item.hauberk" />
+      <Equipment slot="Cape"
+                 id="Item.mail_shoulders" />
+      <Equipment slot="Leg"
+                 id="Item.sandals_1_bronze_greaves_dual" />
+      <Equipment slot="Gloves"
+                 id="Item.plated_strip_gauntlets" />
+      <Equipment slot="Horse"
+                 id="Item.noble_horse_imperial" />
+      <Equipment slot="HorseHarness"
+                 id="Item.imperial_scale_barding" />
+    </EquipmentSet>
+    <Flags IsNobleTemplate="true"
+           IsCombatantTemplate="true"
+           IsWoodlandTemplate="true" />
+  </EquipmentRoster>
+
+  <EquipmentRoster id="rom_civ_template_default"
+                   culture="Culture.empire">
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+                 id="Item.hasta_spear_cavalry" />
+      <Equipment slot="Body"
+                 id="Item.imperial_robes" />
+      <Equipment slot="Leg"
+                 id="Item.fine_town_boots" />
+      <Equipment slot="Horse"
+                 id="Item.noble_horse_imperial" />
+      <Equipment slot="HorseHarness"
+                 id="Item.light_harness" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+                 id="Item.hasta_spear_cavalry" />
+      <Equipment slot="Body"
+                 id="Item.fine_town_tunic" />
+      <Equipment slot="Leg"
+                 id="Item.folded_town_boots" />
+      <Equipment slot="Horse"
+                 id="Item.noble_horse_imperial" />
+      <Equipment slot="HorseHarness"
+                 id="Item.light_harness" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+                 id="Item.hasta_spear_cavalry" />
+      <Equipment slot="Body"
+                 id="Item.imperial_robes" />
+      <Equipment slot="Leg"
+                 id="Item.fine_town_boots" />
+      <Equipment slot="Horse"
+                 id="Item.noble_horse_imperial" />
+      <Equipment slot="HorseHarness"
+                 id="Item.light_harness" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+                 id="Item.hasta_spear_cavalry" />
+      <Equipment slot="Body"
+                 id="Item.imperial_robes" />
+      <Equipment slot="Leg"
+                 id="Item.fine_town_boots" />
+      <Equipment slot="Horse"
+                 id="Item.noble_horse_imperial" />
+      <Equipment slot="HorseHarness"
+                 id="Item.light_harness" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+                 id="Item.hasta_spear_cavalry" />
+      <Equipment slot="Body"
+                 id="Item.imperial_robes" />
+      <Equipment slot="Leg"
+                 id="Item.fine_town_boots" />
+      <Equipment slot="Horse"
+                 id="Item.noble_horse_imperial" />
+      <Equipment slot="HorseHarness"
+                 id="Item.light_harness" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+                 id="Item.hasta_spear_cavalry" />
+      <Equipment slot="Body"
+                 id="Item.imperial_robes" />
+      <Equipment slot="Leg"
+                 id="Item.fine_town_boots" />
+      <Equipment slot="Horse"
+                 id="Item.noble_horse_imperial" />
+      <Equipment slot="HorseHarness"
+                 id="Item.light_harness" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+                 id="Item.hasta_spear_cavalry" />
+      <Equipment slot="Body"
+                 id="Item.fine_town_tunic" />
+      <Equipment slot="Cape"
+                 id="Item.scarf" />
+      <Equipment slot="Leg"
+                 id="Item.folded_town_boots" />
+      <Equipment slot="Horse"
+                 id="Item.noble_horse_imperial" />
+      <Equipment slot="HorseHarness"
+                 id="Item.light_harness" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+                 id="Item.hasta_spear_cavalry" />
+      <Equipment slot="Body"
+                 id="Item.imperial_robes" />
+      <Equipment slot="Cape"
+                 id="Item.scarf" />
+      <Equipment slot="Leg"
+                 id="Item.fine_town_boots" />
+      <Equipment slot="Horse"
+                 id="Item.noble_horse_imperial" />
+      <Equipment slot="HorseHarness"
+                 id="Item.light_harness" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+                 id="Item.hasta_spear_cavalry" />
+      <Equipment slot="Body"
+                 id="Item.fine_town_tunic" />
+      <Equipment slot="Cape"
+                 id="Item.scarf" />
+      <Equipment slot="Leg"
+                 id="Item.folded_town_boots" />
+      <Equipment slot="Horse"
+                 id="Item.noble_horse_imperial" />
+      <Equipment slot="HorseHarness"
+                 id="Item.light_harness" />
+    </EquipmentSet>
+    <Flags IsNobleTemplate="true"
+           IsCombatantTemplate="true"
+           IsCivilianTemplate="true" />
+  </EquipmentRoster>
+  <EquipmentRoster id="rom_civ_template_stoic"
+                   culture="Culture.empire">
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+                 id="Item.hasta_spear_cavalry" />
+      <Equipment slot="Body"
+                 id="Item.fine_town_tunic" />
+      <Equipment slot="Leg"
+                 id="Item.folded_town_boots" />
+      <Equipment slot="Horse"
+                 id="Item.noble_horse_imperial" />
+      <Equipment slot="HorseHarness"
+                 id="Item.light_harness" />
+    </EquipmentSet>
+    <Flags IsCivilianTemplate="true"
+      IsStoicTemplate="true"
+      IsNobleTemplate="true"
+      IsCombatantTemplate="true" />
+  </EquipmentRoster>
+  <EquipmentRoster id="rom_civ_template_flamboyant"
+                   culture="Culture.empire">
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+                 id="Item.hasta_spear_cavalry" />
+      <Equipment slot="Body"
+                 id="Item.imperial_robes" />
+      <Equipment slot="Leg"
+                 id="Item.fine_town_boots" />
+      <Equipment slot="Cape"
+                 id="Item.scarf" />
+      <Equipment slot="Horse"
+                 id="Item.noble_horse_imperial" />
+      <Equipment slot="HorseHarness"
+                 id="Item.light_harness" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+                 id="Item.hasta_spear_cavalry" />
+      <Equipment slot="Body"
+                 id="Item.fine_town_tunic" />
+      <Equipment slot="Leg"
+                 id="Item.fine_town_boots" />
+      <Equipment slot="Horse"
+                 id="Item.noble_horse_imperial" />
+      <Equipment slot="HorseHarness"
+                 id="Item.light_harness" />
+    </EquipmentSet>
+    <Flags IsCivilianTemplate="true"
+           IsFlamboyantTemplate="true"
+           IsNobleTemplate="true"
+           IsCombatantTemplate="true" />
+  </EquipmentRoster>
+  <EquipmentRoster id="rom_civ_template_heavy"
+                   culture="Culture.empire">
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+                 id="Item.hasta_spear_cavalry" />
+      <Equipment slot="Body"
+                 id="Item.empire_warrior_padded_armor_e" />
+      <Equipment slot="Leg"
+                 id="Item.fine_town_boots" />
+      <Equipment slot="Cape"
+                 id="Item.scarf" />
+      <Equipment slot="Horse"
+                 id="Item.noble_horse_imperial" />
+      <Equipment slot="HorseHarness"
+                 id="Item.light_harness" />
+    </EquipmentSet>
+    <Flags IsHeavyTemplate="true"
+           IsNobleTemplate="true"
+           IsCombatantTemplate="true" />
+  </EquipmentRoster>
+  <EquipmentRoster id="rom_civ_template_southfrontier"
+                   culture="Culture.empire">
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+                 id="Item.hasta_spear_cavalry" />
+      <Equipment slot="Head"
+                 id="Item.aserai_civil_d_hscarf" />
+      <Equipment slot="Body"
+                 id="Item.imperial_robes" />
+      <Equipment slot="Cape"
+                 id="Item.leopard_pelt" />
+      <Equipment slot="Leg"
+                 id="Item.fine_town_boots" />
+      <Equipment slot="Horse"
+                 id="Item.noble_horse_imperial" />
+      <Equipment slot="HorseHarness"
+                 id="Item.light_harness" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+                 id="Item.hasta_spear_cavalry" />
+      <Equipment slot="Body"
+                 id="Item.fine_town_tunic" />
+      <Equipment slot="Cape"
+                 id="Item.leopard_pelt" />
+      <Equipment slot="Leg"
+                 id="Item.fine_town_boots" />
+      <Equipment slot="Horse"
+                 id="Item.noble_horse_imperial" />
+      <Equipment slot="HorseHarness"
+                 id="Item.light_harness" />
+    </EquipmentSet>
+    <Flags IsCivilianTemplate="true"
+           IsNobleTemplate="true"
+           IsNomadTemplate="true"
+           IsCombatantTemplate="true" />
+  </EquipmentRoster>
+  <EquipmentRoster id="rom_civ_template_northfrontier"
+                   culture="Culture.empire">
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+                 id="Item.hasta_spear_cavalry" />
+      <Equipment slot="Body"
+                 id="Item.heavy_nordic_tunic" />
+      <Equipment slot="Cape"
+                 id="Item.scarf" />
+      <Equipment slot="Leg"
+                 id="Item.empire_horseman_boots" />
+      <Equipment slot="Gloves"
+                 id="Item.leather_gloves" />
+      <Equipment slot="Horse"
+                 id="Item.noble_horse_imperial" />
+      <Equipment slot="HorseHarness"
+                 id="Item.light_harness" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+                 id="Item.hasta_spear_cavalry" />
+      <Equipment slot="Body"
+                 id="Item.heavy_nordic_coat" />
+      <Equipment slot="Leg"
+                 id="Item.empire_horseman_boots" />
+      <Equipment slot="Gloves"
+                 id="Item.leather_gloves" />
+      <Equipment slot="Horse"
+                 id="Item.noble_horse_imperial" />
+      <Equipment slot="HorseHarness"
+                 id="Item.light_harness" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+                 id="Item.hasta_spear_cavalry" />
+      <Equipment slot="Body"
+                 id="Item.northern_padded_gambeson" />
+      <Equipment slot="Cape"
+                 id="Item.scarf" />
+      <Equipment slot="Leg"
+                 id="Item.empire_horseman_boots" />
+      <Equipment slot="Gloves"
+                 id="Item.leather_gloves" />
+      <Equipment slot="Horse"
+                 id="Item.noble_horse_imperial" />
+      <Equipment slot="HorseHarness"
+                 id="Item.light_harness" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+                 id="Item.hasta_spear_cavalry" />
+      <Equipment slot="Body"
+                 id="Item.northern_leather_vest" />
+      <Equipment slot="Leg"
+                 id="Item.empire_horseman_boots" />
+      <Equipment slot="Gloves"
+                 id="Item.leather_gloves" />
+      <Equipment slot="Horse"
+                 id="Item.noble_horse_imperial" />
+      <Equipment slot="HorseHarness"
+                 id="Item.light_harness" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+                 id="Item.hasta_spear_cavalry" />
+      <Equipment slot="Body"
+                 id="Item.empire_warrior_padded_armor_c" />
+      <Equipment slot="Leg"
+                 id="Item.fine_town_boots" />
+      <Equipment slot="Horse"
+                 id="Item.noble_horse_imperial" />
+      <Equipment slot="HorseHarness"
+                 id="Item.light_harness" />
+    </EquipmentSet>
+    <Flags IsCivilianTemplate="true"
+           IsNobleTemplate="true"
+           IsWoodlandTemplate="true"
+           IsCombatantTemplate="true" />
+  </EquipmentRoster>
+
+</EquipmentRosters>

@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Items>
     <!-- Caledonian spears -->
-    <CraftedItem id="Caledonian_pine_militia_Iron_Fork"
+    <CraftedItem id="caledonian_pine_militia_Iron_Fork"
                  name="{=CaledonianM1}Caledonian Militia Iron Fork"
                  crafting_template="TwoHandedPolearm"
                  culture="Culture.caledones">
@@ -14,7 +14,7 @@
                    scale_factor="90"/>
         </Pieces>
     </CraftedItem>
-    <CraftedItem id="Caledonian_pine_spear"
+    <CraftedItem id="caledonian_pine_spear"
                  name="{=CaledonianM2}Caledonian Simple Pine Spear"
                  crafting_template="TwoHandedPolearm"
                  culture="Culture.caledones">
@@ -30,7 +30,7 @@
                    scale_factor="90"/>
         </Pieces>
     </CraftedItem>
-    <CraftedItem id="Caledonian_pine_spear_vet"
+    <CraftedItem id="caledonian_pine_spear_vet"
                  name="{=CaledonianM3}Caledonian Highland Spear"
                  crafting_template="TwoHandedPolearm"
                  culture="Culture.caledones">

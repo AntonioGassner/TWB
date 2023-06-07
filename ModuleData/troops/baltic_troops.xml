@@ -93,7 +93,7 @@
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.highland_spear_3_t3"/>
                 <equipment slot="Item1" id="Item.western_javelin_2_t3"/>
-                <equipment slot="Item2" id="Item.cla_scythian_shield_c"/>
+                <equipment slot="Item2" id="Item.celtic_oval_shield_2"/>
                 <equipment slot="Head" id="Item.cla_scytian_helm_a"/>
                 <equipment slot="Cape" id="Item.bearskin"/>
                 <equipment slot="Body" id="Item.cla_scythian_armor_c1"/>
@@ -115,7 +115,7 @@
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.highland_spear_3_t3"/>
                 <equipment slot="Item1" id="Item.western_javelin_2_t3"/>
-                <equipment slot="Item2" id="Item.cla_scythian_shield_c"/>
+                <equipment slot="Item2" id="Item.celtic_oval_shield_2"/>
                 <equipment slot="Head" id="Item.cla_scytian_helm_aa"/>
                 <equipment slot="Cape" id="Item.bearskin"/>
                 <equipment slot="Body" id="Item.cla_scythian_armor_c"/>
@@ -169,7 +169,7 @@
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.highland_spear_3_t3"/>
                 <equipment slot="Item1" id="Item.western_javelin_2_t3"/>
-                <equipment slot="Item2" id="Item.cla_scythian_shield_c"/>
+                <equipment slot="Item2" id="Item.celtic_oval_shield_2"/>
                 <equipment slot="Head" id="Item.cla_scythian_ram_helmet"/>
                 <equipment slot="Cape" id="Item.bearskin"/>
                 <equipment slot="Body" id="Item.cla_scythian_armor_cav_b"/>
@@ -191,7 +191,7 @@
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.highland_spear_3_t3"/>
                 <equipment slot="Item1" id="Item.western_javelin_2_t3"/>
-                <equipment slot="Item2" id="Item.cla_scythian_shield_c"/>
+                <equipment slot="Item2" id="Item.celtic_oval_shield_2"/>
                 <equipment slot="Head" id="Item.cla_scythian_ram_helmet"/>
                 <equipment slot="Cape" id="Item.bearskin"/>
                 <equipment slot="Body" id="Item.cla_scythian_saka_armor"/>
@@ -482,7 +482,7 @@
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.highland_spear_3_t3"/>
                 <equipment slot="Item1" id="Item.western_javelin_2_t3"/>
-                <equipment slot="Item2" id="Item.cla_scythian_shield_c"/>
+                <equipment slot="Item2" id="Item.celtic_oval_shield_2"/>
                 <equipment slot="Head" id="Item.cla_scythian_ram_helmet"/>
                 <equipment slot="Cape" id="Item.bearskin"/>
                 <equipment slot="Body" id="Item.cla_scythian_armor_cav_b"/>
@@ -504,7 +504,7 @@
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.highland_spear_3_t3"/>
                 <equipment slot="Item1" id="Item.western_javelin_2_t3"/>
-                <equipment slot="Item2" id="Item.cla_scythian_shield_c"/>
+                <equipment slot="Item2" id="Item.celtic_oval_shield_2"/>
                 <equipment slot="Head" id="Item.cla_scythian_ram_helmet"/>
                 <equipment slot="Cape" id="Item.bearskin"/>
                 <equipment slot="Body" id="Item.cla_scythian_saka_armor"/>
@@ -555,7 +555,7 @@
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.highland_spear_3_t3"/>
                 <equipment slot="Item1" id="Item.western_javelin_2_t3"/>
-                <equipment slot="Item2" id="Item.cla_scythian_shield_c"/>
+                <equipment slot="Item2" id="Item.celtic_oval_shield_2"/>
                 <equipment slot="Head" id="Item.cla_scythian_ram_helmet"/>
                 <equipment slot="Cape" id="Item.bearskin"/>
                 <equipment slot="Body" id="Item.cla_scythian_armor_cav_b"/>
@@ -577,7 +577,7 @@
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.highland_spear_3_t3"/>
                 <equipment slot="Item1" id="Item.western_javelin_2_t3"/>
-                <equipment slot="Item2" id="Item.cla_scythian_shield_c"/>
+                <equipment slot="Item2" id="Item.celtic_oval_shield_2"/>
                 <equipment slot="Head" id="Item.cla_scythian_ram_helmet"/>
                 <equipment slot="Cape" id="Item.bearskin"/>
                 <equipment slot="Body" id="Item.cla_scythian_saka_armor"/>

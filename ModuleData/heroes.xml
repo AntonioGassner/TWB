@@ -493,7 +493,7 @@
   <Hero id="lord_twb_1_26" faction="Faction.twb_clan_26" />
   <Hero id="lord_twb_1_27" faction="Faction.twb_clan_27" />
   <Hero id="lord_twb_1_28" faction="Faction.twb_clan_28" />
-	
+  <Hero id="lord_twb_1_29" faction="Faction.clan_empire_south_1" />
 	
 	<!-- ayyubid clan 1 -->
   <Hero id="lord_ayyubid_3_1" spouse="Hero.lord_ayyubid_3_2" faction="Faction.clan_ayyubid_1" text="{=L90aSR5J}The current Sultan of ayyubid is Jinda Ayyub." />
@@ -557,6 +557,130 @@
   <Hero id="lord_ayyubid_A9_c" father="Hero.lord_ayyubid_A9_l" mother="Hero.lord_ayyubid_A9_s" faction="Faction.clan_ayyubid_9" />
   <Hero id="lord_ayyubid_A9_u" faction="Faction.clan_ayyubid_9" />
 
+
+	<!-- byzantine 1 -->
+	<Hero id="lord_byzantine_1_14"  spouse="Hero.lord_byzantine_1_27_3" faction="Faction.clan_byzantine_1" text="{=bizuX0dbuLa}Alexios I Kommenos is the current emperor. Under his leadership, the Byzantine Empire managed to quell the civil wars, and through various military manoeuvres managed to re-annex the previously lost territories of Asia Minor." />
+	<Hero id="lord_byzantine_1_27" spouse="Hero.lord_byzantine_1_27_1" faction="Faction.clan_byzantine_1" />
+	<Hero id="lord_byzantine_1_27_1" spouse="Hero.lord_byzantine_1_27" faction="Faction.clan_byzantine_1" />
+	<Hero id="lord_byzantine_1_27_2" father="Hero.lord_byzantine_1_27" mother="Hero.lord_byzantine_1_27_1" faction="Faction.clan_byzantine_1" />
+	<Hero id="lord_byzantine_1_27_3" spouse="Hero.lord_byzantine_1_14" faction="Faction.clan_byzantine_1" />
+	<Hero id="lord_byzantine_1_37" father="Hero.lord_byzantine_1_14" mother="Hero.lord_byzantine_1_27_3" faction="Faction.clan_byzantine_1" text="{=bizZwavTRcF}Ioannes." />
+	<Hero id="lord_byzantine_1_47" spouse="Hero.lord_byzantine_1_47_1" faction="Faction.clan_byzantine_1" />
+	<Hero id="lord_byzantine_1_47_1" spouse="Hero.lord_byzantine_1_47" faction="Faction.clan_byzantine_1" />
+	<Hero id="lord_byzantine_1_47_2" father="Hero.lord_byzantine_1_47" mother="Hero.lord_byzantine_1_47_1" faction="Faction.clan_byzantine_1" />
+	<Hero id="lord_byzantine_1_47_3" father="Hero.lord_byzantine_1_47" mother="Hero.lord_byzantine_1_47_1" faction="Faction.clan_byzantine_1" />
+
+
+	<!-- byzantine 2 -->
+	<Hero id="lord_byzantine_1_15" spouse="Hero.lord_byzantine_1_16" faction="Faction.clan_byzantine_2"  />
+	<Hero id="lord_byzantine_1_155" father="Hero.lord_byzantine_1_15" mother="Hero.lord_byzantine_1_16" faction="Faction.clan_byzantine_2" />
+	<Hero id="lord_byzantine_1_16" spouse="Hero.lord_byzantine_1_15" faction="Faction.clan_byzantine_2" />
+	<Hero id="lord_byzantine_1_28" father="Hero.lord_byzantine_1_15" mother="Hero.lord_byzantine_1_16" faction="Faction.clan_byzantine_2" />
+	<Hero id="lord_byzantine_1_38" father="Hero.lord_byzantine_1_15" mother="Hero.lord_byzantine_1_16" faction="Faction.clan_byzantine_2" />
+	<Hero id="lord_byzantine_1_48" spouse="Hero.lord_byzantine_1_48_1" faction="Faction.clan_byzantine_2" />
+	<Hero id="lord_byzantine_1_48_1" spouse="Hero.lord_byzantine_1_48" faction="Faction.clan_byzantine_2" />
+	<Hero id="lord_byzantine_1_48_2" father="Hero.lord_byzantine_1_48" mother="Hero.lord_byzantine_1_48_1" faction="Faction.clan_byzantine_2" />
+	<Hero id="lord_byzantine_1_48_3" father="Hero.lord_byzantine_1_48" mother="Hero.lord_byzantine_1_48_1" faction="Faction.clan_byzantine_2" />
+
+
+	<!-- byzantine 3 -->
+	<Hero id="lord_byzantine_1_177" spouse="Hero.lord_byzantine_1_39" faction="Faction.clan_byzantine_3" />
+	<Hero id="lord_byzantine_1_29" father="Hero.lord_byzantine_1_17" mother="Hero.lord_byzantine_1_18" faction="Faction.clan_byzantine_3" />
+	<Hero id="lord_byzantine_1_17" spouse="Hero.lord_byzantine_1_18" faction="Faction.clan_byzantine_3" />
+	<Hero id="lord_byzantine_1_18" spouse="Hero.lord_byzantine_1_17" faction="Faction.clan_byzantine_3" />
+	<Hero id="lord_byzantine_1_39" spouse="Hero.lord_byzantine_1_177" faction="Faction.clan_byzantine_3" />
+	<!-- South 4: Hongeros -->
+	<Hero id="lord_byzantine_1_30" spouse="Hero.lord_byzantine_1_30_1" faction="Faction.clan_byzantine_4" />
+	<Hero id="lord_byzantine_1_30_1" spouse="Hero.lord_byzantine_1_30" faction="Faction.clan_byzantine_4" />
+	<Hero id="lord_byzantine_1_49" spouse="Hero.lord_byzantine_1_49_1" faction="Faction.clan_byzantine_4" />
+	<Hero id="lord_byzantine_1_49_1" spouse="Hero.lord_byzantine_1_49" faction="Faction.clan_byzantine_4" />
+	<Hero id="lord_byzantine_1_49_2" father="Hero.lord_byzantine_1_49" mother="Hero.lord_byzantine_1_49_1" faction="Faction.clan_byzantine_4" />
+	<Hero id="lord_byzantine_1_30_2" father="Hero.lord_byzantine_1_30" mother="Hero.lord_byzantine_1_30_1" faction="Faction.clan_byzantine_4" />
+	<Hero id="lord_byzantine_1_30_3" father="Hero.lord_byzantine_1_30" mother="Hero.lord_byzantine_1_30_1" faction="Faction.clan_byzantine_4" />
+	<Hero id="lord_byzantine_1_56_2" faction="Faction.clan_byzantine_4" />
+	<!-- South 5:  -->
+	<Hero id="lord_byzantine_1_63_2" father="Hero.lord_byzantine_1_63" mother="Hero.lord_byzantine_1_63_1" faction="Faction.clan_byzantine_5" />
+	<Hero id="lord_byzantine_1_63_3" father="Hero.lord_byzantine_1_63" mother="Hero.lord_byzantine_1_63_1" faction="Faction.clan_byzantine_5" />
+	<Hero id="lord_byzantine_1_63" spouse="Hero.lord_byzantine_1_63_1" faction="Faction.clan_byzantine_5" />
+	<Hero id="lord_byzantine_1_63_1" spouse="Hero.lord_byzantine_1_63" faction="Faction.clan_byzantine_5" />
+	<Hero id="lord_byzantine_1_74" spouse="Hero.lord_byzantine_1_74_1" faction="Faction.clan_byzantine_5" />
+	<Hero id="lord_byzantine_1_74_1" spouse="Hero.lord_byzantine_1_74" faction="Faction.clan_byzantine_5" />
+	<!-- South 6:  -->
+	<Hero id="lord_byzantine_1_54" spouse="Hero.lord_byzantine_1_54_1" faction="Faction.clan_byzantine_6" />
+	<Hero id="lord_byzantine_1_54_1" spouse="Hero.lord_byzantine_1_54" faction="Faction.clan_byzantine_6" />
+	<Hero id="lord_byzantine_1_68" spouse="Hero.lord_byzantine_1_68_1" faction="Faction.clan_byzantine_6" />
+	<Hero id="lord_byzantine_1_68_1" spouse="Hero.lord_byzantine_1_68" faction="Faction.clan_byzantine_6" />
+	<!-- South 7: Avlonos -->
+	<Hero id="lord_byzantine_1_69_2" father="Hero.lord_byzantine_1_69" mother="Hero.lord_byzantine_1_69_1" faction="Faction.clan_byzantine_7" />
+	<Hero id="lord_byzantine_1_69" spouse="Hero.lord_byzantine_1_69_1" faction="Faction.clan_byzantine_7" />
+	<Hero id="lord_byzantine_1_69_1" spouse="Hero.lord_byzantine_1_69" faction="Faction.clan_byzantine_7" />
+	<Hero id="lord_byzantine_1_55" spouse="Hero.lord_byzantine_1_55_1" faction="Faction.clan_byzantine_7" />
+	<Hero id="lord_byzantine_1_55_1" spouse="Hero.lord_byzantine_1_55" faction="Faction.clan_byzantine_7" />
+	<!-- South 8: Prienicos -->
+	<Hero id="lord_byzantine_1_72" spouse="Hero.lord_byzantine_1_72_1" faction="Faction.clan_byzantine_8" />
+	<Hero id="lord_byzantine_1_72_1" spouse="Hero.lord_byzantine_1_72" faction="Faction.clan_byzantine_8" />
+	<Hero id="lord_byzantine_SE8_c" faction="Faction.clan_byzantine_8" />
+	<!-- Vetranis, older patriarch was a child of a traitor, was rehabilitated by Arenicos-->
+	<Hero id="lord_byzantine_SE9_l" spouse="Hero.lord_byzantine_SE9_s" faction="Faction.clan_byzantine_9" />
+	<Hero id="lord_byzantine_SE9_s" spouse="Hero.lord_byzantine_SE9_l" faction="Faction.clan_byzantine_9" />
+	<Hero id="lord_byzantine_SE9_c1" father="Hero.lord_byzantine_SE9_l" mother="Hero.lord_byzantine_SE9_s" faction="Faction.clan_byzantine_9" />
+	<Hero id="lord_byzantine_SE9_c2" father="Hero.lord_byzantine_SE9_l" mother="Hero.lord_byzantine_SE9_s" faction="Faction.clan_byzantine_9" />
+
+	<!-- Golden Horde -->
+
+	<!-- Khuzait Clan 1 -->
+	<Hero id="lord_goldenhorde_6_1" spouse="Hero.lord_goldenhorde_6_2" faction="Faction.clan_goldenhorde_1" preferred_upgrade_formation="HorseArcher" text="{=ECM_lord_goldenhorde_6_1_text}" />
+	<Hero id="lord_goldenhorde_6_2" spouse="Hero.lord_goldenhorde_6_1" faction="Faction.clan_goldenhorde_1" />
+	<Hero id="lord_goldenhorde_6_7" father="Hero.lord_goldenhorde_6_1" mother="Hero.lord_goldenhorde_6_2" faction="Faction.clan_goldenhorde_1" />
+	<Hero id="lord_goldenhorde_6_10" father="Hero.lord_goldenhorde_6_1" mother="Hero.lord_goldenhorde_6_2" faction="Faction.clan_goldenhorde_1" />
+	<Hero id="lord_goldenhorde_6_101" father="Hero.lord_goldenhorde_6_1" mother="Hero.lord_goldenhorde_6_2" faction="Faction.clan_goldenhorde_1" />
+	<Hero id="lord_goldenhorde_6_13" father="Hero.lord_goldenhorde_6_1" faction="Faction.clan_goldenhorde_1" />
+	<!-- Khuzait Clan 2 -->
+	<Hero id="lord_goldenhorde_6_3" faction="Faction.clan_goldenhorde_2" />
+	<Hero id="lord_goldenhorde_6_4" faction="Faction.clan_goldenhorde_2" text="{=ECM_lord_goldenhorde_6_4_text}" />
+	<Hero id="lord_goldenhorde_6_8"  father="Hero.lord_goldenhorde_6_4" faction="Faction.clan_goldenhorde_2" />
+	<Hero id="lord_goldenhorde_6_81"  father="Hero.lord_goldenhorde_6_4" faction="Faction.clan_goldenhorde_2" />
+	<Hero id="lord_goldenhorde_6_9" father="Hero.lord_goldenhorde_6_5" faction="Faction.clan_goldenhorde_3" />
+	<Hero id="lord_goldenhorde_6_11" father="Hero.lord_goldenhorde_6_4" faction="Faction.clan_goldenhorde_2" />
+	<!-- Khuzait Clan 3 -->
+	<Hero id="lord_goldenhorde_6_5" father="Hero.dead_lord_goldenhorde_6_3" faction="Faction.clan_goldenhorde_3" />
+	<Hero id="lord_goldenhorde_6_51" father="Hero.lord_goldenhorde_6_5" faction="Faction.clan_goldenhorde_3" />
+	<Hero id="lord_goldenhorde_6_12" father="Hero.lord_goldenhorde_6_5" faction="Faction.clan_goldenhorde_3" />
+	<Hero id="lord_goldenhorde_6_15" spouse="Hero.lord_goldenhorde_6_15_1" father="Hero.dead_lord_goldenhorde_6_3" faction="Faction.clan_goldenhorde_3" />
+	<Hero id="lord_goldenhorde_6_15_1" spouse="Hero.lord_goldenhorde_6_15" faction="Faction.clan_goldenhorde_3" />
+	<Hero id="lord_goldenhorde_6_15_2" father="Hero.lord_goldenhorde_6_15" mother="Hero.lord_goldenhorde_6_15_1" faction="Faction.clan_goldenhorde_3" />
+	<!-- Khuzait Clan 4 -->
+	<Hero id="lord_goldenhorde_6_6" faction="Faction.clan_goldenhorde_4" />
+	<Hero id="lord_goldenhorde_6_16" spouse="Hero.lord_goldenhorde_6_16_1" faction="Faction.clan_goldenhorde_4" />
+	<Hero id="lord_goldenhorde_6_16_1" spouse="Hero.lord_goldenhorde_6_16" faction="Faction.clan_goldenhorde_4" />
+	<Hero id="lord_goldenhorde_6_16_2" father="Hero.lord_goldenhorde_6_16" mother="Hero.lord_goldenhorde_6_16_1" faction="Faction.clan_goldenhorde_4" />
+	<Hero id="lord_goldenhorde_6_24" faction="Faction.clan_goldenhorde_4" />
+	<!-- Khuzait Clan 5 -->
+	<Hero id="lord_goldenhorde_6_17" spouse="Hero.lord_goldenhorde_6_17_1" faction="Faction.clan_goldenhorde_5" />
+	<Hero id="lord_goldenhorde_6_17_1" spouse="Hero.lord_goldenhorde_6_17" faction="Faction.clan_goldenhorde_5" />
+	<Hero id="lord_goldenhorde_6_17_2" father="Hero.lord_goldenhorde_6_17" mother="Hero.lord_goldenhorde_6_17_1" faction="Faction.clan_goldenhorde_5" />
+	<Hero id="lord_goldenhorde_6_21" spouse="Hero.lord_goldenhorde_6_21_1" faction="Faction.clan_goldenhorde_5" />
+	<Hero id="lord_goldenhorde_6_21_1" spouse="Hero.lord_goldenhorde_6_21" faction="Faction.clan_goldenhorde_5" />
+	<!-- Khuzait Clan 6 -->
+	<Hero id="lord_goldenhorde_6_18" spouse="Hero.lord_goldenhorde_6_18_1" faction="Faction.clan_goldenhorde_6" />
+	<Hero id="lord_goldenhorde_6_18_1" spouse="Hero.lord_goldenhorde_6_18" faction="Faction.clan_goldenhorde_6" />
+	<Hero id="lord_goldenhorde_6_18_2" father="Hero.lord_goldenhorde_6_18" mother="Hero.lord_goldenhorde_6_18_1" faction="Faction.clan_goldenhorde_6" />
+	<Hero id="lord_goldenhorde_6_22" spouse="Hero.lord_goldenhorde_6_22_1" faction="Faction.clan_goldenhorde_6" />
+	<Hero id="lord_goldenhorde_6_22_1" spouse="Hero.lord_goldenhorde_6_22" faction="Faction.clan_goldenhorde_6" />
+	<!-- Khuzait Clan 7 -->
+	<Hero id="lord_goldenhorde_6_19" spouse="Hero.lord_goldenhorde_6_19_1" faction="Faction.clan_goldenhorde_7" />
+	<Hero id="lord_goldenhorde_6_19_1" spouse="Hero.lord_goldenhorde_6_19" faction="Faction.clan_goldenhorde_7" />
+	<Hero id="lord_goldenhorde_6_19_2" father="Hero.lord_goldenhorde_6_19" mother="Hero.lord_goldenhorde_6_19_1" faction="Faction.clan_goldenhorde_7" />
+	<Hero id="lord_goldenhorde_6_23" faction="Faction.clan_goldenhorde_7" />
+	<!-- Yanserit, Khuzait 8 -->
+	<Hero id="lord_goldenhorde_6_20" spouse="Hero.lord_goldenhorde_6_20_1" faction="Faction.clan_goldenhorde_8" />
+	<Hero id="lord_goldenhorde_6_20_1" spouse="Hero.lord_goldenhorde_6_20" faction="Faction.clan_goldenhorde_8" />
+	<Hero id="lord_goldenhorde_K8_u" faction="Faction.clan_goldenhorde_8" />
+	<!-- Oburit -->
+	<Hero id="lord_goldenhorde_K9_l" spouse="Hero.lord_goldenhorde_K9_s" faction="Faction.clan_goldenhorde_9" />
+	<Hero id="lord_goldenhorde_K9_s" spouse="Hero.lord_goldenhorde_K9_l" faction="Faction.clan_goldenhorde_9" />
+	<Hero id="lord_goldenhorde_K9_c1" father="Hero.lord_goldenhorde_K9_l" mother="Hero.lord_goldenhorde_K9_s" faction="Faction.clan_goldenhorde_9" />
+	<Hero id="lord_goldenhorde_K9_c2" father="Hero.lord_goldenhorde_K9_l" mother="Hero.lord_goldenhorde_K9_s" faction="Faction.clan_goldenhorde_9" />
 
 	<!-- New heroes added
   <Hero id="lord_7_5" spouse="Hero.lord_7_5_1" faction="Faction.clan_battania_8" />

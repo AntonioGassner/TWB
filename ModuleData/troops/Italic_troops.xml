@@ -4,7 +4,7 @@
     <NPCCharacter id="roman_levy"
                   default_group="Infantry"
                   level="6"
-                  name="{=GEnwDYp1}Italic Levy"
+                  name="{=GEnwDYp1}Hastati I"
                   occupation="Soldier"
                   is_basic_troop="true"
                   culture="Culture.Italic">
@@ -38,7 +38,7 @@
                 <equipment slot="Item0"
                            id="Item.western_spear_2_t2"/>
                 <equipment slot="Item1"
-                           id="Item.battania_targe_b"/>
+                           id="Item.battania_large_shield_a"/>
 
                 <equipment slot="Body"
                            id="Item.hemp_tunic"/>
@@ -86,7 +86,7 @@
     <NPCCharacter id="roman_spear_01"
                   default_group="Infantry"
                   level="11"
-                  name="{=yPF32fbh}Hastati I"
+                  name="{=yPF32fbh}Hastati II"
                   occupation="Soldier"
                   culture="Culture.Italic">
         <face>
@@ -119,21 +119,21 @@
                 <equipment slot="Item0"
                            id="Item.hasta_spear"/>
                 <equipment slot="Item1"
-                           id="Item.battania_large_shield_a"/>
+                           id="Item.celtic_scutum_1"/>
 
                 <equipment slot="Body"
                            id="Item.tied_cloth_tunic"/>
                 <equipment slot="Leg"
                            id="Item.sandals_1"/>
                 <equipment slot="Head"
-                           id="Item.AR_battania_helmet_w2"/>
+                           id="Item.battania_earmuff_helmet_c_cpr"/>
 
             </EquipmentRoster>
             <EquipmentRoster>
                 <equipment slot="Item0"
                            id="Item.hasta_spear"/>
                 <equipment slot="Item1"
-                           id="Item.round_wood_pelta_3"/>
+                           id="Item.celtic_scutum_1"/>
 
                 <equipment slot="Body"
                            id="Item.cloth_tunic"/>
@@ -164,7 +164,7 @@
     <NPCCharacter id="roman_spear_02"
                   default_group="Infantry"
                   level="16"
-                  name="{=Gd0y7SxJ}Hastati II"
+                  name="{=Gd0y7SxJ}Hastati III"
                   occupation="Soldier"
                   culture="Culture.Italic">
         <face>
@@ -196,8 +196,9 @@
                 <equipment slot="Item0"
                            id="Item.hasta_spear"/>
                 <equipment slot="Item1"
-                           id="Item.battania_large_shield_a"/>
-
+                           id="Item.scutum_hastati_300"/>
+				<equipment slot="Item2"
+						   id="Item.imperial_throwing_spear_1_t4"/>
                 <equipment slot="Body"
                            id="Item.chiton_girdle_1_3"/>
                 <equipment slot="Leg"
@@ -206,11 +207,28 @@
                            id="Item.TV_battania_helmet_d"/>
 
             </EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0"
+                           id="Item.hasta_spear"/>
+				<equipment slot="Item1"
+                           id="Item.scutum_hastati_300"/>
+				<equipment slot="Item2"
+						   id="Item.imperial_throwing_spear_1_t4"/>
+				<equipment slot="Body"
+                           id="Item.chiton_girdle_1_3"/>
+				<equipment slot="Leg"
+                           id="Item.sandals_1"/>
+				<equipment slot="Head"
+                           id="Item.romanmontefortino"/>
+				<equipment slot="Cape"
+                           id="Item.linothorax_3_no_pteryges"/>
+
+			</EquipmentRoster>
             <EquipmentRoster>
                 <equipment slot="Item0"
                            id="Item.hasta_spear"/>
                 <equipment slot="Item1"
-                           id="Item.round_wood_pelta_3"/>
+                           id="Item.battania_large_shield_a"/>
 
                 <equipment slot="Body"
                            id="Item.chiton_girdle_1_3"/>
@@ -219,15 +237,16 @@
                 <equipment slot="Head"
                            id="Item.romanmontefortino"/>
                 <equipment slot="Cape"
-                           id="Item.etruscan_chestpiece"/>
+                           id="Item.round_chestpiece"/>
 
             </EquipmentRoster>
             <EquipmentRoster>
                 <equipment slot="Item0"
                            id="Item.hasta_spear"/>
                 <equipment slot="Item1"
-                           id="Item.scutum_hastati_300"/>
-
+                           id="Item.celtic_scutum_1"/>
+				<equipment slot="Item2"
+						   id="Item.imperial_throwing_spear_1_t4"/>
                 <equipment slot="Body"
                            id="Item.tied_cloth_tunic"/>
                 <equipment slot="Leg"
@@ -246,7 +265,7 @@
 	<NPCCharacter id="roman_skirmisher"
                   default_group="Ranged"
                   level="11"
-                  name="{=SvA25Owm}Rorarii I"
+                  name="{=SvA25Owm}Rorarii II"
                   occupation="Soldier"
                   culture="Culture.Italic">
 		<face>
@@ -324,7 +343,7 @@
 	<NPCCharacter id="roman_skirmisher_2"
                   default_group="Ranged"
                   level="16"
-                  name="{=SvAADOwm}Rorarii II"
+                  name="{=SvAADOwm}Rorarii III"
                   occupation="Soldier"
                   culture="Culture.Italic">
 		<face>
@@ -363,7 +382,7 @@
 				<equipment slot="Leg"
                            id="Item.sandals_1"/>
 				<equipment slot="Head"
-                           id="Item.wolfhead"/>
+                           id="Item.AR_battania_helmet_w2"/>
 
 			</EquipmentRoster>
 			<EquipmentRoster>
@@ -393,7 +412,7 @@
 				<equipment slot="Leg"
                            id="Item.sandals_1"/>
 				<equipment slot="Head"
-                           id="Item.wolfhead"/>
+                           id="Item.AR_battania_helmet_w2"/>
 
 			</EquipmentRoster>
 			<EquipmentSet id="vlandia_troop_civilian_template_t1"
@@ -403,7 +422,7 @@
 	<NPCCharacter id="roman_slingers"
                   default_group="Ranged"
                   level="16"
-                  name="{=kih9DwL4}Fundibalārius"
+                  name="{=kih9DwL4}Fundibalārius III"
                   occupation="Soldier"
                   culture="Culture.Italic">
 		<face>
@@ -479,9 +498,9 @@
                   default_group="Cavalry"
                   level="16"
                   name="{=equitrur}Equites Ruralis I"
-
                   occupation="Soldier"
-                  culture="Culture.empire">
+				  is_basic_troop="true"
+                  culture="Culture.Italic">
 		<face>
 			<face_key_template value="BodyProperty.fighter_rome"/>
 		</face>
@@ -509,7 +528,7 @@
 		<Equipments>
 			<EquipmentRoster>
 				<equipment slot="Item0"
-                           id="Item.empire_lance_3_t5"/>
+                           id="Item.hasta_spear_cavalry"/>
 				<equipment slot="Item1"
                            id="Item.northern_round_shield"/>
 				<equipment slot="Item2"
@@ -527,7 +546,7 @@
 			</EquipmentRoster>
 			<EquipmentRoster>
 				<equipment slot="Item0"
-                           id="Item.empire_lance_3_t5"/>
+                           id="Item.hasta_spear_cavalry"/>
 				<equipment slot="Item1"
                            id="Item.northern_round_shield"/>
 				<equipment slot="Item2"
@@ -544,7 +563,7 @@
 			</EquipmentRoster>
 			<EquipmentRoster>
 				<equipment slot="Item0"
-                           id="Item.empire_lance_3_t5"/>
+                           id="Item.hasta_spear_cavalry"/>
 				<equipment slot="Item1"
                            id="Item.northern_round_shield"/>
 				<equipment slot="Item2"
@@ -576,7 +595,7 @@
                   name="{=equitrur2}Equites Ruralis II"
 
                   occupation="Soldier"
-                  culture="Culture.empire">
+                  culture="Culture.Italic">
 		<face>
 			<face_key_template value="BodyProperty.fighter_rome"/>
 		</face>
@@ -604,7 +623,7 @@
 		<Equipments>
 			<EquipmentRoster>
 				<equipment slot="Item0"
-                           id="Item.empire_lance_3_t5"/>
+                           id="Item.hasta_spear_cavalry"/>
 				<equipment slot="Item1"
                            id="Item.northern_round_shield"/>
 				<equipment slot="Item2"
@@ -622,7 +641,7 @@
 			</EquipmentRoster>
 			<EquipmentRoster>
 				<equipment slot="Item0"
-                           id="Item.empire_lance_3_t5"/>
+                           id="Item.hasta_spear_cavalry"/>
 				<equipment slot="Item1"
                            id="Item.northern_round_shield"/>
 				<equipment slot="Item2"
@@ -640,7 +659,7 @@
 			</EquipmentRoster>
 			<EquipmentRoster>
 				<equipment slot="Item0"
-                           id="Item.empire_lance_3_t5"/>
+                           id="Item.hasta_spear_cavalry"/>
 				<equipment slot="Item1"
                            id="Item.northern_round_shield"/>
 				<equipment slot="Item2"
@@ -672,7 +691,7 @@
                   name="{=equitrur3}Equites Ruralis III"
 
                   occupation="Soldier"
-                  culture="Culture.empire">
+                  culture="Culture.Italic">
 		<face>
 			<face_key_template value="BodyProperty.fighter_rome"/>
 		</face>
@@ -700,7 +719,7 @@
 		<Equipments>
 			<EquipmentRoster>
 				<equipment slot="Item0"
-                           id="Item.empire_lance_3_t5"/>
+                           id="Item.hasta_spear_cavalry"/>
 				<equipment slot="Item1"
                            id="Item.northern_round_shield"/>
 				<equipment slot="Item2"
@@ -717,7 +736,7 @@
 			</EquipmentRoster>
 			<EquipmentRoster>
 				<equipment slot="Item0"
-                           id="Item.empire_lance_3_t5"/>
+                           id="Item.hasta_spear_cavalry"/>
 				<equipment slot="Item1"
                            id="Item.northern_round_shield"/>
 				<equipment slot="Item2"
@@ -734,7 +753,7 @@
 			</EquipmentRoster>
 			<EquipmentRoster>
 				<equipment slot="Item0"
-                           id="Item.empire_lance_3_t5"/>
+                           id="Item.hasta_spear_cavalry"/>
 				<equipment slot="Item1"
                            id="Item.northern_round_shield"/>
 				<equipment slot="Item2"
@@ -798,8 +817,10 @@
                            id="Item.hasta_spear"/>
 				<equipment slot="Item1"
                            id="Item.scutum_hastati_300"/>
+				<equipment slot="Item2"
+						   id="Item.imperial_throwing_spear_1_t4"/>
 				<equipment slot="Body"
-                           id="Item.chiton_girdle_1_3"/>
+                           id="Item.chiton_girdle_1_1"/>
 				<equipment slot="Leg"
                            id="Item.sandals_1_bronze_greaves_dual"/>
 				<equipment slot="Head"
@@ -813,14 +834,16 @@
                            id="Item.hasta_spear"/>
 				<equipment slot="Item1"
                            id="Item.scutum_hastati_300"/>
+				<equipment slot="Item2"
+						   id="Item.imperial_throwing_spear_1_t4"/>
 				<equipment slot="Body"
-                           id="Item.linothorax_3_no_pteryges"/>
+                           id="Item.chiton_girdle_1_2"/>
 				<equipment slot="Leg"
                            id="Item.sandals_1_bronze_greaves_dual"/>
 				<equipment slot="Head"
-                           id="Item.TV_battania_helmet_d"/>
-				<equipment slot="Gloves"
-                           id="Item.linothorax_no_sleeves_ua_b"/>
+                           id="Item.feathered_montefortino"/>
+				<equipment slot="Cape"
+                           id="Item.linothorax_3_no_pteryges"/>
 
 			</EquipmentRoster>
 			<EquipmentRoster>
@@ -828,6 +851,8 @@
                            id="Item.hasta_spear"/>
 				<equipment slot="Item1"
                            id="Item.scutum_hastati_300"/>
+				<equipment slot="Item2"
+						   id="Item.imperial_throwing_spear_1_t4"/>
 				<equipment slot="Body"
                            id="Item.chiton_girdle_1_3"/>
 				<equipment slot="Leg"
@@ -835,7 +860,7 @@
 				<equipment slot="Head"
                            id="Item.romanmontefortino"/>
 				<equipment slot="Cape"
-                           id="Item.etruscan_chestpiece"/>
+                           id="Item.round_chestpiece"/>
 
 			</EquipmentRoster>
 			<EquipmentRoster>
@@ -843,6 +868,8 @@
                            id="Item.hasta_spear"/>
 				<equipment slot="Item1"
                            id="Item.scutum_hastati_300"/>
+				<equipment slot="Item2"
+						   id="Item.imperial_throwing_spear_1_t4"/>
 				<equipment slot="Body"
                            id="Item.chiton_girdle_1_3"/>
 				<equipment slot="Leg"
@@ -893,8 +920,10 @@
                            id="Item.hasta_spear"/>
                 <equipment slot="Item1"
                            id="Item.scutum_hastati_300"/>
+				<equipment slot="Item2"
+						   id="Item.imperial_throwing_spear_1_t4"/>
                 <equipment slot="Body"
-                           id="Item.chiton_girdle_1_3"/>
+                           id="Item.chiton_girdle_1_1"/>
                 <equipment slot="Leg"
                            id="Item.sandals_1_bronze_greaves_dual"/>
                 <equipment slot="Head"
@@ -908,14 +937,16 @@
                            id="Item.hasta_spear"/>
                 <equipment slot="Item1"
                            id="Item.scutum_hastati_300"/>
+				<equipment slot="Item2"
+						   id="Item.imperial_throwing_spear_1_t4"/>
                 <equipment slot="Body"
-                           id="Item.linothorax_3_no_pteryges"/>
+                           id="Item.chiton_girdle_1_2"/>
                 <equipment slot="Leg"
                            id="Item.sandals_1_bronze_greaves_dual"/>
                 <equipment slot="Head"
-                           id="Item.TV_battania_helmet_d"/>
-                <equipment slot="Gloves"
-                           id="Item.linothorax_no_sleeves_ua_b"/>
+                           id="Item.feathered_montefortino"/>
+				<equipment slot="Cape"
+                           id="Item.muscle_plate_cuirass"/>
 
             </EquipmentRoster>
             <EquipmentRoster>
@@ -923,6 +954,8 @@
                            id="Item.hasta_spear"/>
                 <equipment slot="Item1"
                            id="Item.scutum_hastati_300"/>
+				<equipment slot="Item2"
+						   id="Item.imperial_throwing_spear_1_t4"/>
                 <equipment slot="Body"
                            id="Item.chiton_girdle_1_3"/>
                 <equipment slot="Leg"
@@ -930,7 +963,7 @@
                 <equipment slot="Head"
                            id="Item.romanmontefortino"/>
                 <equipment slot="Cape"
-                           id="Item.etruscan_chestpiece"/>
+                           id="Item.linothorax_3_no_pteryges"/>
 
             </EquipmentRoster>
             <EquipmentRoster>
@@ -938,6 +971,8 @@
                            id="Item.hasta_spear"/>
                 <equipment slot="Item1"
                            id="Item.scutum_hastati_300"/>
+				<equipment slot="Item2"
+						   id="Item.imperial_throwing_spear_1_t4"/>
                 <equipment slot="Body"
                            id="Item.chiton_girdle_1_3"/>
                 <equipment slot="Leg"
@@ -988,12 +1023,31 @@
                            id="Item.hasta_spear"/>
 				<equipment slot="Item1"
                            id="Item.scutum_hastati_300"/>
+				<equipment slot="Item2"
+						   id="Item.imperial_throwing_spear_1_t4"/>
 				<equipment slot="Body"
-                           id="Item.chiton_girdle_1_3"/>
+                           id="Item.chiton_girdle_1_1"/>
 				<equipment slot="Leg"
                            id="Item.sandals_1_bronze_greaves_dual"/>
 				<equipment slot="Head"
                            id="Item.feathered_montefortino"/>
+				<equipment slot="Cape"
+                           id="Item.muscle_plate_cuirass"/>
+
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0"
+                           id="Item.hasta_spear"/>
+				<equipment slot="Item1"
+                           id="Item.scutum_hastati_300"/>
+				<equipment slot="Item2"
+						   id="Item.imperial_throwing_spear_1_t4"/>
+				<equipment slot="Body"
+                           id="Item.chiton_girdle_1_2"/>
+				<equipment slot="Leg"
+                           id="Item.sandals_1_bronze_greaves_dual"/>
+				<equipment slot="Head"
+                           id="Item.TV_battania_helmet_d"/>
 				<equipment slot="Cape"
                            id="Item.etruscan_chestpiece"/>
 
@@ -1003,21 +1057,8 @@
                            id="Item.hasta_spear"/>
 				<equipment slot="Item1"
                            id="Item.scutum_hastati_300"/>
-				<equipment slot="Body"
-                           id="Item.linothorax_3_no_pteryges"/>
-				<equipment slot="Leg"
-                           id="Item.sandals_1_bronze_greaves_dual"/>
-				<equipment slot="Head"
-                           id="Item.TV_battania_helmet_d"/>
-				<equipment slot="Gloves"
-                           id="Item.linothorax_no_sleeves_ua_b"/>
-
-			</EquipmentRoster>
-			<EquipmentRoster>
-				<equipment slot="Item0"
-                           id="Item.hasta_spear"/>
-				<equipment slot="Item1"
-                           id="Item.scutum_hastati_300"/>
+				<equipment slot="Item2"
+						   id="Item.imperial_throwing_spear_1_t4"/>
 				<equipment slot="Body"
                            id="Item.chiton_girdle_1_3"/>
 				<equipment slot="Leg"
@@ -1025,7 +1066,7 @@
 				<equipment slot="Head"
                            id="Item.romanmontefortino"/>
 				<equipment slot="Cape"
-                           id="Item.etruscan_chestpiece"/>
+                           id="Item.muscle_plate_cuirass"/>
 
 			</EquipmentRoster>
 			<EquipmentRoster>
@@ -1033,12 +1074,14 @@
                            id="Item.hasta_spear"/>
 				<equipment slot="Item1"
                            id="Item.scutum_hastati_300"/>
+				<equipment slot="Item2"
+						   id="Item.imperial_throwing_spear_1_t4"/>
 				<equipment slot="Body"
                            id="Item.chiton_girdle_1_3"/>
 				<equipment slot="Leg"
                            id="Item.sandals_1_bronze_greaves_dual"/>
 				<equipment slot="Head"
-                           id="Item.TV_battania_helmet_d"/>
+                           id="Item.feathered_montefortino"/>
 				<equipment slot="Cape"
                            id="Item.etruscan_chestpiece"/>
 			</EquipmentRoster>
@@ -1201,13 +1244,13 @@
                            id="Item.scutum_triarii_300"/>
 
                 <equipment slot="Body"
-                           id="Item.linothorax_1"/>
+                           id="Item.hayster_lino_11"/>
                 <equipment slot="Leg"
                            id="Item.sandals_1_bronze_greaves_dual"/>
                 <equipment slot="Head"
                            id="Item.centurion_montefortino"/>
                 <equipment slot="Gloves"
-                           id="Item.linothorax_no_sleeves_ua"/>
+                           id="Item.arm_guard_1_1_bracer"/>
             </EquipmentRoster>
             <EquipmentSet id="vlandia_troop_civilian_template_t3"
                           civilian="true"/>
@@ -1295,7 +1338,7 @@
 
 	<NPCCharacter id="roman_horse_1"
                   default_group="Cavalry"
-                  level="21"
+                  level="26"
                   name="{=3VosbFR0}Equites I"
 
                   occupation="Soldier"
@@ -1309,11 +1352,11 @@
 			<skill id="Riding"
                    value="135"/>
 			<skill id="OneHanded"
-                   value="170"/>
+                   value="210"/>
 			<skill id="TwoHanded"
                    value="60"/>
 			<skill id="Polearm"
-                   value="160"/>
+                   value="200"/>
 			<skill id="Bow"
                    value="45"/>
 			<skill id="Crossbow"
@@ -1327,7 +1370,7 @@
 		<Equipments>
 			<EquipmentRoster>
 				<equipment slot="Item0"
-                           id="Item.empire_lance_3_t5"/>
+                           id="Item.hasta_spear_cavalry"/>
 				<equipment slot="Item1"
                            id="Item.northern_round_shield"/>
 				<equipment slot="Item2"
@@ -1343,7 +1386,7 @@
 			</EquipmentRoster>
 			<EquipmentRoster>
 				<equipment slot="Item0"
-                           id="Item.empire_lance_3_t5"/>
+                           id="Item.hasta_spear_cavalry"/>
 				<equipment slot="Item1"
                            id="Item.northern_round_shield"/>
 				<equipment slot="Item2"
@@ -1359,7 +1402,7 @@
 			</EquipmentRoster>
 			<EquipmentRoster>
 				<equipment slot="Item0"
-                           id="Item.empire_lance_3_t5"/>
+                           id="Item.hasta_spear_cavalry"/>
 				<equipment slot="Item1"
                            id="Item.northern_round_shield"/>
 				<equipment slot="Item2"
@@ -1385,7 +1428,7 @@
 	
     <NPCCharacter id="roman_horse"
                   default_group="Cavalry"
-                  level="26"
+                  level="31"
                   name="{=3VosbFR0}Equites II"
 
                   occupation="Soldier"
@@ -1399,11 +1442,11 @@
             <skill id="Riding"
                    value="135"/>
             <skill id="OneHanded"
-                   value="210"/>
+                   value="250"/>
             <skill id="TwoHanded"
                    value="60"/>
             <skill id="Polearm"
-                   value="200"/>
+                   value="240"/>
             <skill id="Bow"
                    value="45"/>
             <skill id="Crossbow"
@@ -1417,7 +1460,7 @@
         <Equipments>
             <EquipmentRoster>
                 <equipment slot="Item0"
-                           id="Item.empire_lance_3_t5"/>
+                           id="Item.hasta_spear_cavalry"/>
                 <equipment slot="Item1"
                            id="Item.northern_round_shield"/>
                 <equipment slot="Item2"
@@ -1433,7 +1476,7 @@
             </EquipmentRoster>
             <EquipmentRoster>
                 <equipment slot="Item0"
-                           id="Item.empire_lance_3_t5"/>
+                           id="Item.hasta_spear_cavalry"/>
                 <equipment slot="Item1"
                            id="Item.northern_round_shield"/>
                 <equipment slot="Item2"
@@ -1449,7 +1492,7 @@
             </EquipmentRoster>
             <EquipmentRoster>
                 <equipment slot="Item0"
-                           id="Item.empire_lance_3_t5"/>
+                           id="Item.hasta_spear_cavalry"/>
                 <equipment slot="Item1"
                            id="Item.northern_round_shield"/>
                 <equipment slot="Item2"

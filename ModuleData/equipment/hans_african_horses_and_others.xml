@@ -210,7 +210,6 @@
                    material_type="Cloth"/>
         </ItemComponent>
         <Flags Civilian="true"/>
-        <Flags/>
     </Item>
     <Item id="hans_reienforced_saddle_desert"
           name="Hans Reinforced Desert Saddle"

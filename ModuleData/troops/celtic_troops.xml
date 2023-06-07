@@ -5,7 +5,2584 @@
     <!-- Breton Troops -->
     <!-- Caledones Troops -->
     <!-- Scordisci Troops -->
-    <!-- Gaul Troops -->
+
+	<!-- Gallic Rural Troops -->
+
+	<NPCCharacter id="gallic_youth_1"
+			  default_group="Infantry"
+			  level="6"
+			  name="{=Atectoi I}Atectoi I"
+			  occupation="Soldier"
+			  is_basic_troop="true"
+			  culture="Culture.vlandia">
+		<face>
+			<face_key_template value="BodyProperty.fighter_gaul"/>
+		</face>
+		<skills>
+			<skill id="Athletics" value="90"/>
+			<skill id="Riding" value="20"/>
+			<skill id="OneHanded" value="50"/>
+			<skill id="TwoHanded" value="20"/>
+			<skill id="Polearm" value="50"/>
+			<skill id="Bow" value="20"/>
+			<skill id="Crossbow" value="20"/>
+			<skill id="Throwing" value="50"/>
+		</skills>
+		<upgrade_targets>
+			<upgrade_target id="NPCCharacter.gallic_youth_2"/>
+			<upgrade_target id="NPCCharacter.gallic_spear_2"/>
+		</upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.western_javelin_1_t2"/>
+				<equipment slot="Item1" id="Item.pelta_a"/>
+				<equipment slot="Item2" id="Item.vlandia_axe_1_t3"/>
+				<equipment slot="Cape" id="Item.battania_cloak"/>
+				<equipment slot="Body" id="Item.leather_coat_over_cloth"/>
+				<equipment slot="Leg" id="Item.strapped_leather_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.northern_javelin_1_t2"/>
+				<equipment slot="Item1" id="Item.pelta_a"/>
+				<equipment slot="Item2" id="Item.small_bit_axe_t2"/>
+				<equipment slot="Cape" id="Item.ao_durkhan_tassled_necklace"/>
+				<equipment slot="Body" id="Item.battania_light_armor_e"/>
+				<equipment slot="Gloves" id="Item.eastern_wrapped_armguards"/>
+				<equipment slot="Leg" id="Item.TV_battania_boots_a"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.northern_javelin_1_t2"/>
+				<equipment slot="Item1" id="Item.adarga"/>
+				<equipment slot="Item2" id="Item.battania_axe_1_t2"/>
+				<equipment slot="Cape" id="Item.battania_cloak"/>
+				<equipment slot="Body" id="Item.battania_civil_a"/>
+				<equipment slot="Gloves" id="Item.eastern_wrapped_armguards"/>
+				<equipment slot="Leg" id="Item.TV_battania_boots_a"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.western_javelin_1_t2"/>
+				<equipment slot="Item1" id="Item.adarga"/>
+				<equipment slot="Item2" id="Item.sturgia_sword_2_t3"/>
+				<equipment slot="Body" id="Item.tunic_with_rolled_cloth"/>
+				<equipment slot="Gloves" id="Item.armwraps"/>
+				<equipment slot="Leg" id="Item.TV_battania_boots_v"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+				<equipment slot="Item2" id="Item.throwing_stone"/>
+				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="gallic_youth_2"
+			  default_group="Infantry"
+			  level="11"
+			  name="{=Gallic Youth II}Gallic Youth II"
+			  occupation="Soldier"
+			  culture="Culture.vlandia">
+		<face>
+			<face_key_template value="BodyProperty.fighter_gaul"/>
+		</face>
+		<skills>
+			<skill id="Athletics" value="150"/>
+			<skill id="Riding" value="30"/>
+			<skill id="OneHanded" value="90"/>
+			<skill id="TwoHanded" value="30"/>
+			<skill id="Polearm" value="90"/>
+			<skill id="Bow" value="30"/>
+			<skill id="Crossbow" value="30"/>
+			<skill id="Throwing" value="90"/>
+		</skills>
+		<upgrade_targets>
+			<upgrade_target id="NPCCharacter.gallic_youth_3"/>
+		</upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.western_javelin_1_t2"/>
+				<equipment slot="Item1" id="Item.pelta_a"/>
+				<equipment slot="Item2" id="Item.vlandia_axe_1_t3"/>
+				<equipment slot="Cape" id="Item.battania_cloak"/>
+				<equipment slot="Body" id="Item.leather_coat_over_cloth"/>
+				<equipment slot="Leg" id="Item.strapped_leather_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.northern_javelin_1_t2"/>
+				<equipment slot="Item1" id="Item.pelta_a"/>
+				<equipment slot="Item2" id="Item.small_bit_axe_t2"/>
+				<equipment slot="Head" id="Item.wolfhead"/>
+				<equipment slot="Cape" id="Item.ao_durkhan_tassled_necklace"/>
+				<equipment slot="Body" id="Item.battania_light_armor_e"/>
+				<equipment slot="Gloves" id="Item.eastern_wrapped_armguards"/>
+				<equipment slot="Leg" id="Item.TV_battania_boots_a"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.northern_javelin_1_t2"/>
+				<equipment slot="Item1" id="Item.adarga"/>
+				<equipment slot="Item2" id="Item.battania_axe_1_t2"/>
+				<equipment slot="Cape" id="Item.battania_cloak"/>
+				<equipment slot="Body" id="Item.battania_civil_a"/>
+				<equipment slot="Gloves" id="Item.eastern_wrapped_armguards"/>
+				<equipment slot="Leg" id="Item.TV_battania_boots_a"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.western_javelin_1_t2"/>
+				<equipment slot="Item1" id="Item.adarga"/>
+				<equipment slot="Item2" id="Item.sturgia_sword_2_t3"/>
+				<equipment slot="Head" id="Item.leather_studdedhelm_over_headcloth"/>
+				<equipment slot="Body" id="Item.tunic_with_rolled_cloth"/>
+				<equipment slot="Gloves" id="Item.armwraps"/>
+				<equipment slot="Leg" id="Item.TV_battania_boots_v"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+				<equipment slot="Item2" id="Item.throwing_stone"/>
+				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="gallic_youth_3"
+		  default_group="Infantry"
+		  level="16"
+		  name="{=Gallic Youth III}Gallic Youth III"
+		  occupation="Soldier"
+		  culture="Culture.vlandia">
+		<face>
+			<face_key_template value="BodyProperty.fighter_gaul"/>
+		</face>
+		<skills>
+			<skill id="Athletics" value="150"/>
+			<skill id="Riding" value="30"/>
+			<skill id="OneHanded" value="140"/>
+			<skill id="TwoHanded" value="30"/>
+			<skill id="Polearm" value="140"/>
+			<skill id="Bow" value="30"/>
+			<skill id="Crossbow" value="30"/>
+			<skill id="Throwing" value="140"/>
+		</skills>
+
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.western_javelin_1_t2"/>
+				<equipment slot="Item1" id="Item.pelta_a"/>
+				<equipment slot="Item2" id="Item.vlandia_axe_1_t3"/>
+				<equipment slot="Head" id="Item.leather_studdedhelm_over_thinhide"/>
+				<equipment slot="Cape" id="Item.battania_cloak"/>
+				<equipment slot="Body" id="Item.leather_coat_over_cloth"/>
+				<equipment slot="Leg" id="Item.strapped_leather_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.northern_javelin_1_t2"/>
+				<equipment slot="Item1" id="Item.pelta_a"/>
+				<equipment slot="Item2" id="Item.small_bit_axe_t2"/>
+				<equipment slot="Head" id="Item.wolfhead"/>
+				<equipment slot="Cape" id="Item.ao_durkhan_tassled_necklace"/>
+				<equipment slot="Body" id="Item.battania_light_armor_e"/>
+				<equipment slot="Gloves" id="Item.eastern_wrapped_armguards"/>
+				<equipment slot="Leg" id="Item.TV_battania_boots_a"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.northern_javelin_1_t2"/>
+				<equipment slot="Item1" id="Item.adarga"/>
+				<equipment slot="Item2" id="Item.battania_axe_1_t2"/>
+				<equipment slot="Head" id="Item.leather_cap"/>
+				<equipment slot="Cape" id="Item.battania_cloak"/>
+				<equipment slot="Body" id="Item.battania_civil_a"/>
+				<equipment slot="Gloves" id="Item.eastern_wrapped_armguards"/>
+				<equipment slot="Leg" id="Item.TV_battania_boots_a"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.western_javelin_1_t2"/>
+				<equipment slot="Item1" id="Item.adarga"/>
+				<equipment slot="Item2" id="Item.sturgia_sword_2_t3"/>
+				<equipment slot="Head" id="Item.leather_studdedhelm_over_headcloth"/>
+				<equipment slot="Body" id="Item.tunic_with_rolled_cloth"/>
+				<equipment slot="Gloves" id="Item.armwraps"/>
+				<equipment slot="Leg" id="Item.TV_battania_boots_v"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+				<equipment slot="Item2" id="Item.throwing_stone"/>
+				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="gallic_spear_2"
+		  default_group="Infantry"
+		  level="11"
+		  name="{=Gallic Spear II}Atectoi II"
+		  occupation="Soldier"
+		  culture="Culture.vlandia">
+		<face>
+			<face_key_template value="BodyProperty.fighter_gaul"/>
+		</face>
+		<skills>
+			<skill id="Athletics" value="150"/>
+			<skill id="Riding" value="30"/>
+			<skill id="OneHanded" value="90"/>
+			<skill id="TwoHanded" value="30"/>
+			<skill id="Polearm" value="90"/>
+			<skill id="Bow" value="30"/>
+			<skill id="Crossbow" value="30"/>
+			<skill id="Throwing" value="90"/>
+		</skills>
+		<upgrade_targets>
+			<upgrade_target id="NPCCharacter.gallic_spear_3"/>
+		</upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.caledonian_pine_spear" />
+				<equipment slot="Item1" id="Item.AR_shield_infantry_zf" />
+				<equipment slot="Body" id="Item.burlap_waistcoat" />
+				<equipment slot="Cape" id="Item.battania_cloak" />
+				<equipment slot="Leg" id="Item.ragged_boots" />
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.caledonian_pine_spear" />
+				<equipment slot="Item1" id="Item.battania_large_shield_c" />
+				<equipment slot="Head" id="Item.TV_battania_helmet_f" />
+				<equipment slot="Body" id="Item.bandit_leather_water_flask" />
+				<equipment slot="Leg" id="Item.strapped_leather_boots" />
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.germanic_spear" />
+				<equipment slot="Item1" id="Item.celtic_oval_shield" />
+				<equipment slot="Head" id="Item.battania_earmuff_helmet_b_brnz" />
+				<equipment slot="Body" id="Item.tied_cloth_tunic" />
+				<equipment slot="Leg" id="Item.highland_leg_wrappings" />
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.imperial_spear_t2" />
+				<equipment slot="Item1" id="Item.celtic_scutum_1" />
+				<equipment slot="Body" id="Item.Caledonian_tartan" />
+				<equipment slot="Cape" id="Item.battania_cloak" />
+				<equipment slot="Leg" id="Item.leather_shoes" />
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+				<equipment slot="Item2" id="Item.throwing_stone"/>
+				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="gallic_spear_3"
+	  default_group="Infantry"
+	  level="16"
+	  name="{=Bagaudoi III}Bagaudoi III"
+	  occupation="Soldier"
+	  culture="Culture.vlandia">
+		<face>
+			<face_key_template value="BodyProperty.fighter_gaul"/>
+		</face>
+		<skills>
+			<skill id="Athletics" value="150"/>
+			<skill id="Riding" value="30"/>
+			<skill id="OneHanded" value="140"/>
+			<skill id="TwoHanded" value="30"/>
+			<skill id="Polearm" value="140"/>
+			<skill id="Bow" value="30"/>
+			<skill id="Crossbow" value="30"/>
+			<skill id="Throwing" value="140"/>
+		</skills>
+
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.germanic_spear" />
+				<equipment slot="Item1" id="Item.celtic_oval_shield" />
+				<equipment slot="Head" id="Item.battania_earmuff_helmet_b_brnz" />
+				<equipment slot="Cape" id="Item.battania_cloak" />
+				<equipment slot="Body" id="Item.Caledonian_tartan" />
+				<equipment slot="Leg" id="Item.highland_leg_wrappings" />
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.imperial_spear_t2" />
+				<equipment slot="Item1" id="Item.celtic_scutum_1" />
+				<equipment slot="Head" id="Item.TV_battania_helmet_f" />
+				<equipment slot="Body" id="Item.Caledonian_tartan" />
+				<equipment slot="Leg" id="Item.leather_shoes" />
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.germanic_spear" />
+				<equipment slot="Item1" id="Item.celtic_oval_shield" />
+				<equipment slot="Head" id="Item.battania_earmuff_helmet_b_brnz" />
+				<equipment slot="Body" id="Item.tv_battania_armor_e" />
+				<equipment slot="Cape" id="Item.battania_cloak" />
+				<equipment slot="Leg" id="Item.TV_battania_boots_v" />
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.germanic_spear" />
+				<equipment slot="Item1" id="Item.celtic_oval_shield" />
+				<equipment slot="Head" id="Item.battania_earmuff_helmet_b_brnz" />
+				<equipment slot="Body" id="Item.battania_light_armor_b" />
+				<equipment slot="Leg" id="Item.TV_aserai_boots_h" />
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.germanic_spear" />
+				<equipment slot="Item1" id="Item.celtic_oval_shield" />
+				<equipment slot="Head" id="Item.TV_battania_helmet_f" />
+				<equipment slot="Body" id="Item.battania_woodland_outfit" />
+				<equipment slot="Leg" id="Item.highland_leg_wrappings" />
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+				<equipment slot="Item2" id="Item.throwing_stone"/>
+				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+
+	<!-- Gallic Rural Elite Troops -->
+
+	<NPCCharacter id="leuce_epos_1"
+				 default_group="Cavalry"
+				 level="16"
+				 name="{=Leuce Epos I}Leuce Epos I"
+				 occupation="Soldier"
+				 is_basic_troop="true"
+				 culture="Culture.vlandia">
+		<face>
+			<face_key_template value="BodyProperty.fighter_gaul"/>
+		</face>
+		<skills>
+			<skill id="Athletics" value="100"/>
+			<skill id="Riding" value="80"/>
+			<skill id="OneHanded" value="120"/>
+			<skill id="TwoHanded" value="40"/>
+			<skill id="Polearm" value="110"/>
+			<skill id="Bow" value="40"/>
+			<skill id="Crossbow" value="40"/>
+			<skill id="Throwing" value="110"/>
+		</skills>
+		<upgrade_targets>
+			<upgrade_target id="NPCCharacter.leuce_epos_2"/>
+		</upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.northern_javelin_2_t3"/>
+				<equipment slot="Item1" id="Item.small_flat_heater_shield"/>
+				<equipment slot="Item2" id="Item.western_spear_4_t4" />
+				<equipment slot="Item3" id="Item.northern_javelin_2_t3"/>
+				<equipment slot="Head" id="Item.AR_battania_helmet_c"/>
+				<equipment slot="Body" id="Item.AR_empire_scout_armor_c"/>
+				<equipment slot="Leg" id="Item.reinforced_suede_boots"/>
+				<equipment slot="Horse" id="Item.battania_horse"/>
+				<equipment slot="HorseHarness" id="Item.imperial_riding_harness"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.northern_javelin_2_t3"/>
+				<equipment slot="Item1" id="Item.small_flat_heater_shield"/>
+				<equipment slot="Item2" id="Item.western_spear_4_t4" />
+				<equipment slot="Item3" id="Item.northern_javelin_2_t3"/>
+				<equipment slot="Head" id="Item.AR_battania_helmet_c"/>
+				<equipment slot="Cape" id="Item.battania_cloak"/>
+				<equipment slot="Body" id="Item.battania_light_armor_a"/>
+				<equipment slot="Gloves" id="Item.eastern_wrapped_armguards"/>
+				<equipment slot="Leg" id="Item.reinforced_suede_boots"/>
+				<equipment slot="Horse" id="Item.battania_horse"/>
+				<equipment slot="HorseHarness" id="Item.imperial_riding_harness"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.western_javelin_2_t3"/>
+				<equipment slot="Item1" id="Item.small_flat_heater_shield"/>
+				<equipment slot="Item2" id="Item.western_spear_4_t4" />
+				<equipment slot="Item3" id="Item.western_javelin_2_t3"/>
+				<equipment slot="Head" id="Item.AR_battania_helmet_c"/>
+				<equipment slot="Body" id="Item.battania_light_armor_a"/>
+				<equipment slot="Gloves" id="Item.eastern_wrapped_armguards"/>
+				<equipment slot="Leg" id="Item.reinforced_suede_boots"/>
+				<equipment slot="Horse" id="Item.battania_horse"/>
+				<equipment slot="HorseHarness" id="Item.light_harness"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.western_javelin_2_t3"/>
+				<equipment slot="Item1" id="Item.small_flat_heater_shield"/>
+				<equipment slot="Item2" id="Item.western_spear_4_t4" />
+				<equipment slot="Item3" id="Item.western_javelin_2_t3"/>
+				<equipment slot="Head" id="Item.AR_battania_helmet_c"/>
+				<equipment slot="Body" id="Item.AR_battania_armor_h"/>
+				<equipment slot="Gloves" id="Item.armwraps"/>
+				<equipment slot="Leg" id="Item.reinforced_suede_boots"/>
+				<equipment slot="Horse" id="Item.battania_horse"/>
+				<equipment slot="HorseHarness" id="Item.light_harness"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+				<equipment slot="Item2" id="Item.throwing_stone"/>
+				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+	
+	<NPCCharacter id="leuce_epos_2"
+                  default_group="Cavalry"
+                  level="21"
+                  name="{=Leuce Epos II}Leuce Epos II"
+                  occupation="Soldier"
+                  culture="Culture.vlandia">
+		<face>
+			<face_key_template value="BodyProperty.fighter_gaul"/>
+		</face>
+		<skills>
+			<skill id="Athletics" value="100"/>
+			<skill id="Riding" value="100"/>
+			<skill id="OneHanded" value="160"/>
+			<skill id="TwoHanded" value="50"/>
+			<skill id="Polearm" value="150"/>
+			<skill id="Bow" value="50"/>
+			<skill id="Crossbow" value="50"/>
+			<skill id="Throwing" value="150"/>
+		</skills>
+		<upgrade_targets>
+			<upgrade_target id="NPCCharacter.leuce_epos_3"/>
+		</upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.northern_javelin_2_t3"/>
+				<equipment slot="Item1" id="Item.small_flat_heater_shield"/>
+				<equipment slot="Item2" id="Item.western_spear_4_t4" />
+				<equipment slot="Item3" id="Item.northern_javelin_2_t3"/>
+				<equipment slot="Head" id="Item.AR_battania_helmet_c"/>
+				<equipment slot="Body" id="Item.AR_empire_scout_armor_c"/>
+				<equipment slot="Leg" id="Item.reinforced_suede_boots"/>
+				<equipment slot="Horse" id="Item.battania_horse"/>
+				<equipment slot="HorseHarness" id="Item.imperial_riding_harness"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.northern_javelin_2_t3"/>
+				<equipment slot="Item1" id="Item.small_flat_heater_shield"/>
+				<equipment slot="Item2" id="Item.western_spear_4_t4" />
+				<equipment slot="Item3" id="Item.northern_javelin_2_t3"/>
+				<equipment slot="Head" id="Item.AR_battania_helmet_c"/>
+				<equipment slot="Cape" id="Item.battania_cloak"/>
+				<equipment slot="Body" id="Item.battania_light_armor_a"/>
+				<equipment slot="Gloves" id="Item.eastern_wrapped_armguards"/>
+				<equipment slot="Leg" id="Item.reinforced_suede_boots"/>
+				<equipment slot="Horse" id="Item.battania_horse"/>
+				<equipment slot="HorseHarness" id="Item.imperial_riding_harness"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.western_javelin_2_t3"/>
+				<equipment slot="Item1" id="Item.small_flat_heater_shield"/>
+				<equipment slot="Item2" id="Item.western_spear_4_t4" />
+				<equipment slot="Item3" id="Item.western_javelin_2_t3"/>
+				<equipment slot="Head" id="Item.AR_battania_helmet_c"/>
+				<equipment slot="Body" id="Item.battania_light_armor_a"/>
+				<equipment slot="Gloves" id="Item.eastern_wrapped_armguards"/>
+				<equipment slot="Leg" id="Item.reinforced_suede_boots"/>
+				<equipment slot="Horse" id="Item.battania_horse"/>
+				<equipment slot="HorseHarness" id="Item.light_harness"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.western_javelin_2_t3"/>
+				<equipment slot="Item1" id="Item.small_flat_heater_shield"/>
+				<equipment slot="Item2" id="Item.western_spear_4_t4" />
+				<equipment slot="Item3" id="Item.western_javelin_2_t3"/>
+				<equipment slot="Head" id="Item.AR_battania_helmet_c"/>
+				<equipment slot="Body" id="Item.AR_battania_armor_h"/>
+				<equipment slot="Gloves" id="Item.armwraps"/>
+				<equipment slot="Leg" id="Item.reinforced_suede_boots"/>
+				<equipment slot="Horse" id="Item.battania_horse"/>
+				<equipment slot="HorseHarness" id="Item.light_harness"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+				<equipment slot="Item2" id="Item.throwing_stone"/>
+				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="leuce_epos_3"
+			  default_group="Cavalry"
+			  level="21"
+			  name="{=Leuce Epos III}Leuce Epos III"
+			  occupation="Soldier"
+			  culture="Culture.vlandia">
+		<face>
+			<face_key_template value="BodyProperty.fighter_gaul"/>
+		</face>
+		<skills>
+			<skill id="Athletics" value="100"/>
+			<skill id="Riding" value="100"/>
+			<skill id="OneHanded" value="160"/>
+			<skill id="TwoHanded" value="50"/>
+			<skill id="Polearm" value="150"/>
+			<skill id="Bow" value="50"/>
+			<skill id="Crossbow" value="50"/>
+			<skill id="Throwing" value="150"/>
+		</skills>
+
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.northern_javelin_2_t3"/>
+				<equipment slot="Item1" id="Item.small_flat_heater_shield"/>
+				<equipment slot="Item2" id="Item.western_spear_4_t4" />
+				<equipment slot="Item3" id="Item.northern_javelin_2_t3"/>
+				<equipment slot="Head" id="Item.AR_battania_helmet_c"/>
+				<equipment slot="Body" id="Item.AR_empire_scout_armor_c"/>
+				<equipment slot="Leg" id="Item.reinforced_suede_boots"/>
+				<equipment slot="Horse" id="Item.battania_horse"/>
+				<equipment slot="HorseHarness" id="Item.imperial_riding_harness"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.northern_javelin_2_t3"/>
+				<equipment slot="Item1" id="Item.small_flat_heater_shield"/>
+				<equipment slot="Item2" id="Item.western_spear_4_t4" />
+				<equipment slot="Item3" id="Item.northern_javelin_2_t3"/>
+				<equipment slot="Head" id="Item.AR_battania_helmet_c"/>
+				<equipment slot="Cape" id="Item.battania_cloak"/>
+				<equipment slot="Body" id="Item.battania_light_armor_a"/>
+				<equipment slot="Gloves" id="Item.eastern_wrapped_armguards"/>
+				<equipment slot="Leg" id="Item.reinforced_suede_boots"/>
+				<equipment slot="Horse" id="Item.battania_horse"/>
+				<equipment slot="HorseHarness" id="Item.imperial_riding_harness"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.western_javelin_2_t3"/>
+				<equipment slot="Item1" id="Item.small_flat_heater_shield"/>
+				<equipment slot="Item2" id="Item.western_spear_4_t4" />
+				<equipment slot="Item3" id="Item.western_javelin_2_t3"/>
+				<equipment slot="Head" id="Item.AR_battania_helmet_c"/>
+				<equipment slot="Body" id="Item.battania_light_armor_a"/>
+				<equipment slot="Gloves" id="Item.eastern_wrapped_armguards"/>
+				<equipment slot="Leg" id="Item.reinforced_suede_boots"/>
+				<equipment slot="Horse" id="Item.battania_horse"/>
+				<equipment slot="HorseHarness" id="Item.light_harness"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.western_javelin_2_t3"/>
+				<equipment slot="Item1" id="Item.small_flat_heater_shield"/>
+				<equipment slot="Item2" id="Item.western_spear_4_t4" />
+				<equipment slot="Item3" id="Item.western_javelin_2_t3"/>
+				<equipment slot="Head" id="Item.AR_battania_helmet_c"/>
+				<equipment slot="Body" id="Item.AR_battania_armor_h"/>
+				<equipment slot="Gloves" id="Item.armwraps"/>
+				<equipment slot="Leg" id="Item.reinforced_suede_boots"/>
+				<equipment slot="Horse" id="Item.battania_horse"/>
+				<equipment slot="HorseHarness" id="Item.light_harness"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+				<equipment slot="Item2" id="Item.throwing_stone"/>
+				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+
+
+	<!-- Caledones Rural Troops -->
+
+	<NPCCharacter id="pictish_tribesmen_1"
+	default_group="Infantry"
+	level="6"
+	name="{=Pictish Tribesmen I}Pictish Tribesmen I"
+	occupation="Soldier"
+	culture="Culture.caledones">
+		<face>
+			<face_key_template value="BodyProperty.villager_caledones"/>
+		</face>
+		<skills >
+			<skill id="Athletics" value="130"/>
+			<skill id="Riding" value="0"/>
+			<skill id="OneHanded" value="0"/>
+			<skill id="TwoHanded" value="0"/>
+			<skill id="Polearm" value="50"/>
+			<skill id="Bow" value="0"/>
+			<skill id="Crossbow" value="0"/>
+			<skill id="Throwing" value="0"/>
+		</skills>
+		<upgrade_targets>
+			<upgrade_target id="NPCCharacter.pictish_tribesmen_2"/>
+			<upgrade_target id="NPCCharacter.pictish_slinger_2"/>
+		</upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.caledonian_pine_militia_Iron_Fork"/>
+				<equipment slot="Item1" id="Item.Caledonian_Square_shield_AR"/>
+				<equipment slot="Head" id="Item.TV_battania_hood_a"/>
+				<equipment slot="Cape" id="Item.TV_battania_cloak_l"/>
+				<equipment slot="Body" id="Item.AR_battania_armor_d"/>
+				<equipment slot="Leg" id="Item.highland_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.caledonian_pine_militia_Iron_Fork"/>
+				<equipment slot="Item1" id="Item.Caledonian_round_shield"/>
+				<equipment slot="Head" id="Item.TV_battania_hood_a3"/>
+				<equipment slot="Cape" id="Item.TV_battania_cloak_l3"/>
+				<equipment slot="Body" id="Item.AR_battania_armor_e"/>
+				<equipment slot="Leg" id="Item.highland_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.caledonian_pine_militia_Iron_Fork"/>
+				<equipment slot="Item1" id="Item.Caledonian_Square_shield_AR"/>
+				<equipment slot="Head" id="Item.TV_battania_hood_a2"/>
+				<equipment slot="Cape" id="Item.TV_battania_cloak_l2"/>
+				<equipment slot="Body" id="Item.AR_battania_armor_d"/>
+				<equipment slot="Leg" id="Item.highland_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.caledonian_pine_militia_Iron_Fork"/>
+				<equipment slot="Item1" id="Item.Caledonian_round_shield"/>
+				<equipment slot="Head" id="Item.TV_battania_hood_a3"/>
+				<equipment slot="Cape" id="Item.TV_battania_cloak_l3"/>
+				<equipment slot="Body" id="Item.AR_battania_armor_e"/>
+				<equipment slot="Leg" id="Item.highland_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+				<equipment slot="Item2" id="Item.throwing_stone"/>
+				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="pictish_tribesmen_2"
+		default_group="Infantry"
+		level="11"
+		name="{=Pi8ctish Tribesmen II}Pictish Tribesmen II"
+		occupation="Soldier"
+		culture="Culture.caledones">
+		<face>
+			<face_key_template value="BodyProperty.villager_caledones"/>
+		</face>
+		<skills >
+			<skill id="Athletics" value="130"/>
+			<skill id="Riding" value="0"/>
+			<skill id="OneHanded" value="0"/>
+			<skill id="TwoHanded" value="0"/>
+			<skill id="Polearm" value="90"/>
+			<skill id="Bow" value="0"/>
+			<skill id="Crossbow" value="0"/>
+			<skill id="Throwing" value="0"/>
+		</skills>
+		<upgrade_targets>
+			<upgrade_target id="NPCCharacter.pictish_tribesmen_3"/>
+		</upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.caledonian_pine_militia_Iron_Fork"/>
+				<equipment slot="Item1" id="Item.Caledonian_Square_shield_AR"/>
+				<equipment slot="Head" id="Item.TV_battania_hood_a"/>
+				<equipment slot="Cape" id="Item.TV_battania_cloak_l"/>
+				<equipment slot="Body" id="Item.AR_battania_armor_d"/>
+				<equipment slot="Gloves" id="Item.rough_tied_bracers"/>
+				<equipment slot="Leg" id="Item.highland_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.twb_celtic_spear_4"/>
+				<equipment slot="Item1" id="Item.Caledonian_round_shield"/>
+				<equipment slot="Head" id="Item.TV_battania_hood_a3"/>
+				<equipment slot="Cape" id="Item.TV_battania_cloak_l3"/>
+				<equipment slot="Body" id="Item.AR_battania_armor_e"/>
+				<equipment slot="Gloves" id="Item.rough_tied_bracers"/>
+				<equipment slot="Leg" id="Item.highland_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.caledonian_pine_militia_Iron_Fork"/>
+				<equipment slot="Item1" id="Item.Caledonian_Square_shield_AR"/>
+				<equipment slot="Head" id="Item.TV_battania_hood_a2"/>
+				<equipment slot="Cape" id="Item.TV_battania_cloak_l2"/>
+				<equipment slot="Body" id="Item.AR_battania_armor_d"/>
+				<equipment slot="Gloves" id="Item.rough_tied_bracers"/>
+				<equipment slot="Leg" id="Item.highland_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.twb_celtic_spear_4"/>
+				<equipment slot="Item1" id="Item.Caledonian_round_shield"/>
+				<equipment slot="Head" id="Item.TV_battania_hood_a3"/>
+				<equipment slot="Cape" id="Item.TV_battania_cloak_l3"/>
+				<equipment slot="Body" id="Item.AR_battania_armor_e"/>
+				<equipment slot="Gloves" id="Item.rough_tied_bracers"/>
+				<equipment slot="Leg" id="Item.highland_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+				<equipment slot="Item2" id="Item.throwing_stone"/>
+				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="pictish_slinger_2"
+		default_group="Ranged"
+		level="11"
+		name="{=Pictish Slinger II}Pictish Slinger II"
+		occupation="Soldier"
+		culture="Culture.caledones">
+		<face>
+			<face_key_template value="BodyProperty.villager_caledones"/>
+		</face>
+		<skills >
+			<skill id="Athletics" value="130"/>
+			<skill id="Riding" value="0"/>
+			<skill id="OneHanded" value="90"/>
+			<skill id="TwoHanded" value="0"/>
+			<skill id="Polearm" value="0"/>
+			<skill id="Bow" value="0"/>
+			<skill id="Crossbow" value="90"/>
+			<skill id="Throwing" value="0"/>
+		</skills>
+		<upgrade_targets>
+			<upgrade_target id="NPCCharacter.pictish_slinger_3"/>
+		</upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.twb_wooden_club"/>
+				<equipment slot="Item1" id="Item.AR_sling_a"/>
+				<equipment slot="Item2" id="Item.AR_sling_bullets_a"/>
+				<equipment slot="Item3" id="Item.AR_sling_bullets_a"/>
+				<equipment slot="Head" id="Item.TV_battania_hood_a"/>
+				<equipment slot="Cape" id="Item.TV_battania_cloak_l"/>
+				<equipment slot="Body" id="Item.AR_battania_armor_d"/>
+				<equipment slot="Gloves" id="Item.rough_tied_bracers"/>
+				<equipment slot="Leg" id="Item.highland_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.Caledonian_simple_axe"/>
+				<equipment slot="Item1" id="Item.AR_sling_b"/>
+				<equipment slot="Item2" id="Item.AR_sling_bullets_a"/>
+				<equipment slot="Item3" id="Item.AR_sling_bullets_a"/>
+				<equipment slot="Head" id="Item.TV_battania_hood_a3"/>
+				<equipment slot="Cape" id="Item.TV_battania_cloak_l3"/>
+				<equipment slot="Body" id="Item.AR_battania_armor_e"/>
+				<equipment slot="Leg" id="Item.highland_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.twb_wooden_club"/>
+				<equipment slot="Item1" id="Item.AR_sling_a"/>
+				<equipment slot="Item2" id="Item.AR_sling_bullets_a"/>
+				<equipment slot="Item3" id="Item.AR_sling_bullets_a"/>
+				<equipment slot="Head" id="Item.TV_battania_hood_a2"/>
+				<equipment slot="Cape" id="Item.TV_battania_cloak_l2"/>
+				<equipment slot="Body" id="Item.AR_battania_armor_d"/>
+				<equipment slot="Gloves" id="Item.rough_tied_bracers"/>
+				<equipment slot="Leg" id="Item.highland_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.Caledonian_simple_axe"/>
+				<equipment slot="Item1" id="Item.AR_sling_b"/>
+				<equipment slot="Item2" id="Item.AR_sling_bullets_a"/>
+				<equipment slot="Item3" id="Item.AR_sling_bullets_a"/>
+				<equipment slot="Head" id="Item.TV_battania_hood_a3"/>
+				<equipment slot="Cape" id="Item.TV_battania_cloak_l3"/>
+				<equipment slot="Body" id="Item.AR_battania_armor_e"/>
+				<equipment slot="Leg" id="Item.highland_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+				<equipment slot="Item2" id="Item.throwing_stone"/>
+				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="pictish_slinger_3"
+		default_group="Ranged"
+		level="16"
+		name="{=Pictish Slinger III}Pictish Slinger III"
+		occupation="Soldier"
+		culture="Culture.caledones">
+		<face>
+			<face_key_template value="BodyProperty.villager_caledones"/>
+		</face>
+		<skills >
+			<skill id="Athletics" value="130"/>
+			<skill id="Riding" value="0"/>
+			<skill id="OneHanded" value="90"/>
+			<skill id="TwoHanded" value="0"/>
+			<skill id="Polearm" value="0"/>
+			<skill id="Bow" value="0"/>
+			<skill id="Crossbow" value="90"/>
+			<skill id="Throwing" value="0"/>
+		</skills>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.twb_wooden_club"/>
+				<equipment slot="Item1" id="Item.AR_sling_a"/>
+				<equipment slot="Item2" id="Item.AR_sling_bullets_a"/>
+				<equipment slot="Item3" id="Item.AR_sling_bullets_a"/>
+				<equipment slot="Head" id="Item.TV_battania_hood_a"/>
+				<equipment slot="Cape" id="Item.TV_battania_cloak_l"/>
+				<equipment slot="Body" id="Item.AR_battania_armor_d"/>
+				<equipment slot="Gloves" id="Item.rough_tied_bracers"/>
+				<equipment slot="Leg" id="Item.battania_fur_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.Caledonian_simple_axe"/>
+				<equipment slot="Item1" id="Item.AR_sling_b"/>
+				<equipment slot="Item2" id="Item.AR_sling_bullets_a"/>
+				<equipment slot="Item3" id="Item.AR_sling_bullets_a"/>
+				<equipment slot="Head" id="Item.TV_battania_hood_a3"/>
+				<equipment slot="Cape" id="Item.TV_battania_cloak_l3"/>
+				<equipment slot="Body" id="Item.AR_battania_armor_e"/>
+				<equipment slot="Leg" id="Item.highland_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.twb_wooden_club"/>
+				<equipment slot="Item1" id="Item.AR_sling_a"/>
+				<equipment slot="Item2" id="Item.AR_sling_bullets_a"/>
+				<equipment slot="Item3" id="Item.AR_sling_bullets_a"/>
+				<equipment slot="Head" id="Item.TV_battania_hood_a2"/>
+				<equipment slot="Cape" id="Item.TV_battania_cloak_l2"/>
+				<equipment slot="Body" id="Item.AR_battania_armor_d"/>
+				<equipment slot="Gloves" id="Item.rough_tied_bracers"/>
+				<equipment slot="Leg" id="Item.battania_fur_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.Caledonian_simple_axe"/>
+				<equipment slot="Item1" id="Item.AR_sling_b"/>
+				<equipment slot="Item2" id="Item.AR_sling_bullets_a"/>
+				<equipment slot="Item3" id="Item.AR_sling_bullets_a"/>
+				<equipment slot="Head" id="Item.TV_battania_hood_a3"/>
+				<equipment slot="Cape" id="Item.TV_battania_cloak_l3"/>
+				<equipment slot="Body" id="Item.AR_battania_armor_e"/>
+				<equipment slot="Leg" id="Item.highland_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+				<equipment slot="Item2" id="Item.throwing_stone"/>
+				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="pictish_tribesmen_3"
+		default_group="Infantry"
+		level="16"
+		name="{=Pictish Tribesmen III}Pictish Tribesmen III"
+		occupation="Soldier"
+		culture="Culture.caledones">
+		<face>
+			<face_key_template value="BodyProperty.villager_caledones"/>
+		</face>
+		<skills >
+			<skill id="Athletics" value="130"/>
+			<skill id="Riding" value="0"/>
+			<skill id="OneHanded" value="0"/>
+			<skill id="TwoHanded" value="0"/>
+			<skill id="Polearm" value="130"/>
+			<skill id="Bow" value="0"/>
+			<skill id="Crossbow" value="0"/>
+			<skill id="Throwing" value="0"/>
+		</skills>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.caledonian_pine_militia_Iron_Fork"/>
+				<equipment slot="Item1" id="Item.Caledonian_Square_shield_AR"/>
+				<equipment slot="Head" id="Item.TV_battania_hood_a"/>
+				<equipment slot="Cape" id="Item.TV_battania_cloak_l"/>
+				<equipment slot="Body" id="Item.AR_battania_armor_d"/>
+				<equipment slot="Gloves" id="Item.rough_tied_bracers"/>
+				<equipment slot="Leg" id="Item.battania_fur_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.twb_celtic_spear_4"/>
+				<equipment slot="Item1" id="Item.Caledonian_round_shield"/>
+				<equipment slot="Head" id="Item.TV_battania_hood_a3"/>
+				<equipment slot="Cape" id="Item.TV_battania_cloak_l3"/>
+				<equipment slot="Body" id="Item.AR_battania_armor_e"/>
+				<equipment slot="Gloves" id="Item.rough_tied_bracers"/>
+				<equipment slot="Leg" id="Item.battania_fur_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.caledonian_pine_militia_Iron_Fork"/>
+				<equipment slot="Item1" id="Item.Caledonian_Square_shield_AR"/>
+				<equipment slot="Head" id="Item.TV_battania_hood_a2"/>
+				<equipment slot="Cape" id="Item.TV_battania_cloak_l2"/>
+				<equipment slot="Body" id="Item.AR_battania_armor_d"/>
+				<equipment slot="Gloves" id="Item.rough_tied_bracers"/>
+				<equipment slot="Leg" id="Item.battania_fur_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.twb_celtic_spear_4"/>
+				<equipment slot="Item1" id="Item.Caledonian_round_shield"/>
+				<equipment slot="Head" id="Item.TV_battania_hood_a3"/>
+				<equipment slot="Cape" id="Item.TV_battania_cloak_l3"/>
+				<equipment slot="Body" id="Item.AR_battania_armor_e"/>
+				<equipment slot="Gloves" id="Item.rough_tied_bracers"/>
+				<equipment slot="Leg" id="Item.battania_fur_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+				<equipment slot="Item2" id="Item.throwing_stone"/>
+				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+	
+	<!-- Caledones Rural Elite Troops -->
+
+	<NPCCharacter id="pictish_horsemen_1"
+	default_group="Cavalry"
+	level="16"
+	name="{=Pictish Horsemen I}Pictish Horsemen I"
+	upgrade_requires="ItemCategory.horse"
+	occupation="Soldier"
+	is_basic_troop="true"
+	culture="Culture.caledones">
+		<face>
+			<face_key_template value="BodyProperty.fighter_caledone_painted"/>
+		</face>
+		<skills >
+			<skill id="Athletics" value="0"/>
+			<skill id="Riding" value="115"/>
+			<skill id="OneHanded" value="120"/>
+			<skill id="TwoHanded" value="0"/>
+			<skill id="Polearm" value="130"/>
+			<skill id="Bow" value="0"/>
+			<skill id="Crossbow" value="0"/>
+			<skill id="Throwing" value="120"/>
+		</skills>
+		<upgrade_targets>
+			<upgrade_target id="NPCCharacter.pictish_horsemen_2"/>
+		</upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.hans_celtic_spear_a"/>
+				<equipment slot="Item1" id="Item.celtic_javelin"/>
+				<equipment slot="Item2" id="Item.Caledonian_Square_shield_AR"/>
+				<equipment slot="Head" id="Item.battania_earmuff_helmet_c_cpr"/>
+				<equipment slot="Cape" id="Item.TV_wolf_pelt_f"/>
+				<equipment slot="Body" id="Item.AR_battania_armor_d_t3"/>
+				<equipment slot="Gloves" id="Item.TV_battania_gloves_d"/>
+				<equipment slot="Leg" id="Item.highland_boots"/>
+				<equipment slot="Horse" id="Item.noble_horse_battania"/>
+				<equipment slot="HorseHarness" id="Item.bandit_saddle_highland"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.hans_celtic_spear_a"/>
+				<equipment slot="Item1" id="Item.celtic_javelin"/>
+				<equipment slot="Item2" id="Item.Caledonian_round_shield"/>
+				<equipment slot="Head" id="Item.battania_earmuff_helmet_b_brnz"/>
+				<equipment slot="Cape" id="Item.TV_wolf_pelt_f"/>
+				<equipment slot="Body" id="Item.AR_battania_armor_e_t3"/>
+				<equipment slot="Gloves" id="Item.TV_battania_gloves_d"/>
+				<equipment slot="Leg" id="Item.highland_boots"/>
+				<equipment slot="Horse" id="Item.noble_horse_battania"/>
+				<equipment slot="HorseHarness" id="Item.bandit_saddle_highland"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.hans_celtic_spear_a"/>
+				<equipment slot="Item1" id="Item.celtic_javelin"/>
+				<equipment slot="Item2" id="Item.Caledonian_Square_shield_AR"/>
+				<equipment slot="Head" id="Item.battania_earmuff_helmet_c_cpr"/>
+				<equipment slot="Cape" id="Item.TV_wolf_pelt_f"/>
+				<equipment slot="Body" id="Item.AR_battania_armor_d_t3"/>
+				<equipment slot="Gloves" id="Item.TV_battania_gloves_d"/>
+				<equipment slot="Leg" id="Item.highland_boots"/>
+				<equipment slot="Horse" id="Item.noble_horse_battania"/>
+				<equipment slot="HorseHarness" id="Item.bandit_saddle_highland"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.hans_celtic_spear_a"/>
+				<equipment slot="Item1" id="Item.celtic_javelin"/>
+				<equipment slot="Item2" id="Item.Caledonian_round_shield"/>
+				<equipment slot="Head" id="Item.battania_earmuff_helmet_b_brnz"/>
+				<equipment slot="Cape" id="Item.TV_wolf_pelt_f"/>
+				<equipment slot="Body" id="Item.AR_battania_armor_e_t3"/>
+				<equipment slot="Gloves" id="Item.TV_battania_gloves_d"/>
+				<equipment slot="Leg" id="Item.highland_boots"/>
+				<equipment slot="Horse" id="Item.noble_horse_battania"/>
+				<equipment slot="HorseHarness" id="Item.bandit_saddle_highland"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+				<equipment slot="Item2" id="Item.throwing_stone"/>
+				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="pictish_horsemen_2"
+		default_group="Cavalry"
+		level="21"
+		name="{=Pictish Horsemen II}Pictish Horsemen II"
+		occupation="Soldier"
+		culture="Culture.caledones">
+		<face>
+			<face_key_template value="BodyProperty.fighter_caledone_painted"/>
+		</face>
+		<skills >
+			<skill id="Athletics" value="0"/>
+			<skill id="Riding" value="130"/>
+			<skill id="OneHanded" value="160"/>
+			<skill id="TwoHanded" value="0"/>
+			<skill id="Polearm" value="170"/>
+			<skill id="Bow" value="0"/>
+			<skill id="Crossbow" value="0"/>
+			<skill id="Throwing" value="160"/>
+		</skills>
+		<upgrade_targets>
+			<upgrade_target id="NPCCharacter.pictish_horsemen_3"/>
+		</upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.hans_celtic_spear_a"/>
+				<equipment slot="Item1" id="Item.celtic_javelin"/>
+				<equipment slot="Item2" id="Item.Caledonian_Square_shield_AR"/>
+				<equipment slot="Head" id="Item.TV_battania_helmet_d"/>
+				<equipment slot="Cape" id="Item.TV_wolf_pelt_f"/>
+				<equipment slot="Body" id="Item.AR_battania_armor_d_t3"/>
+				<equipment slot="Gloves" id="Item.TV_battania_gloves_d"/>
+				<equipment slot="Leg" id="Item.highland_boots"/>
+				<equipment slot="Horse" id="Item.noble_horse_battania"/>
+				<equipment slot="HorseHarness" id="Item.bandit_saddle_highland"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.hans_celtic_spear_a"/>
+				<equipment slot="Item1" id="Item.celtic_javelin"/>
+				<equipment slot="Item2" id="Item.Caledonian_round_shield"/>
+				<equipment slot="Head" id="Item.TV_battania_helmet_f"/>
+				<equipment slot="Cape" id="Item.TV_wolf_pelt_f"/>
+				<equipment slot="Body" id="Item.AR_battania_armor_e_t3"/>
+				<equipment slot="Gloves" id="Item.TV_battania_gloves_d"/>
+				<equipment slot="Leg" id="Item.highland_boots"/>
+				<equipment slot="Horse" id="Item.noble_horse_battania"/>
+				<equipment slot="HorseHarness" id="Item.bandit_saddle_highland"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.hans_celtic_spear_a"/>
+				<equipment slot="Item1" id="Item.celtic_javelin"/>
+				<equipment slot="Item2" id="Item.Caledonian_Square_shield_AR"/>
+				<equipment slot="Head" id="Item.TV_battania_helmet_d"/>
+				<equipment slot="Cape" id="Item.TV_wolf_pelt_f"/>
+				<equipment slot="Body" id="Item.AR_battania_armor_d_t3"/>
+				<equipment slot="Gloves" id="Item.TV_battania_gloves_d"/>
+				<equipment slot="Leg" id="Item.highland_boots"/>
+				<equipment slot="Horse" id="Item.noble_horse_battania"/>
+				<equipment slot="HorseHarness" id="Item.bandit_saddle_highland"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.hans_celtic_spear_a"/>
+				<equipment slot="Item1" id="Item.celtic_javelin"/>
+				<equipment slot="Item2" id="Item.Caledonian_round_shield"/>
+				<equipment slot="Head" id="Item.TV_battania_helmet_f"/>
+				<equipment slot="Cape" id="Item.TV_wolf_pelt_f"/>
+				<equipment slot="Body" id="Item.AR_battania_armor_e_t3"/>
+				<equipment slot="Gloves" id="Item.TV_battania_gloves_d"/>
+				<equipment slot="Leg" id="Item.highland_boots"/>
+				<equipment slot="Horse" id="Item.noble_horse_battania"/>
+				<equipment slot="HorseHarness" id="Item.bandit_saddle_highland"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+				<equipment slot="Item2" id="Item.throwing_stone"/>
+				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="pictish_horsemen_3"
+		default_group="Cavalry"
+		level="26"
+		name="{=Pictish Horsemen III}Pictish Horsemen III"
+		occupation="Soldier"
+		culture="Culture.caledones">
+		<face>
+			<face_key_template value="BodyProperty.fighter_caledone_painted"/>
+		</face>
+		<skills >
+			<skill id="Athletics" value="0"/>
+			<skill id="Riding" value="145"/>
+			<skill id="OneHanded" value="160"/>
+			<skill id="TwoHanded" value="0"/>
+			<skill id="Polearm" value="210"/>
+			<skill id="Bow" value="0"/>
+			<skill id="Crossbow" value="0"/>
+			<skill id="Throwing" value="190"/>
+		</skills>
+		<upgrade_targets>
+		</upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.hans_celtic_spear_a"/>
+				<equipment slot="Item1" id="Item.celtic_javelin"/>
+				<equipment slot="Item2" id="Item.Caledonian_Square_shield_AR"/>
+				<equipment slot="Head" id="Item.AR_battania_helmet_o"/>
+				<equipment slot="Cape" id="Item.TV_wolf_pelt_f"/>
+				<equipment slot="Body" id="Item.celtic_round_plate_1"/>
+				<equipment slot="Leg" id="Item.battania_fur_boots"/>
+				<equipment slot="Horse" id="Item.noble_horse_battania"/>
+				<equipment slot="HorseHarness" id="Item.bandit_saddle_highland"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.hans_celtic_spear_a"/>
+				<equipment slot="Item1" id="Item.celtic_javelin"/>
+				<equipment slot="Item2" id="Item.Caledonian_round_shield"/>
+				<equipment slot="Head" id="Item.AR_battania_helmet_k"/>
+				<equipment slot="Cape" id="Item.TV_wolf_pelt_f"/>
+				<equipment slot="Body" id="Item.celtic_round_plate_1"/>
+				<equipment slot="Leg" id="Item.battania_fur_boots"/>
+				<equipment slot="Horse" id="Item.noble_horse_battania"/>
+				<equipment slot="HorseHarness" id="Item.bandit_saddle_highland"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.hans_celtic_spear_a"/>
+				<equipment slot="Item1" id="Item.celtic_javelin"/>
+				<equipment slot="Item2" id="Item.Caledonian_Square_shield_AR"/>
+				<equipment slot="Head" id="Item.AR_battania_helmet_o"/>
+				<equipment slot="Cape" id="Item.TV_wolf_pelt_f"/>
+				<equipment slot="Body" id="Item.celtic_round_plate_1"/>
+				<equipment slot="Leg" id="Item.battania_fur_boots"/>
+				<equipment slot="Horse" id="Item.noble_horse_battania"/>
+				<equipment slot="HorseHarness" id="Item.bandit_saddle_highland"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.hans_celtic_spear_a"/>
+				<equipment slot="Item1" id="Item.celtic_javelin"/>
+				<equipment slot="Item2" id="Item.Caledonian_round_shield"/>
+				<equipment slot="Head" id="Item.AR_battania_helmet_k"/>
+				<equipment slot="Cape" id="Item.TV_wolf_pelt_f"/>
+				<equipment slot="Body" id="Item.celtic_round_plate_1"/>
+				<equipment slot="Leg" id="Item.battania_fur_boots"/>
+				<equipment slot="Horse" id="Item.noble_horse_battania"/>
+				<equipment slot="HorseHarness" id="Item.bandit_saddle_highland"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+				<equipment slot="Item2" id="Item.throwing_stone"/>
+				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+
+
+	
+	<!-- Gaul Urban Regular Troops -->
+
+	<NPCCharacter id="gaelaiche_1"
+                  default_group="Infantry"
+                  level="11"
+                  name="{=Gaelaiche I}Gaelaiche I"
+                  occupation="Soldier"
+			      is_basic_troop="true"
+                  culture="Culture.vlandia">
+		<face>
+			<face_key_template value="BodyProperty.fighter_celtic_painted"/>
+		</face>
+		<skills>
+			<skill id="Athletics" value="130"/>
+			<skill id="Riding" value="40"/>
+			<skill id="OneHanded" value="90"/>
+			<skill id="TwoHanded" value="40"/>
+			<skill id="Polearm" value="100"/>
+			<skill id="Bow" value="40"/>
+			<skill id="Crossbow" value="40"/>
+			<skill id="Throwing" value="40"/>
+		</skills>
+		<upgrade_targets>
+			<upgrade_target id="NPCCharacter.gaelaiche_2"/>
+		</upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.eastern_spear_4_t4"/>
+				<equipment slot="Item1" id="Item.oval_shield"/>
+				<equipment slot="Item2" id="Item.vlandia_axe_1_t3"/>
+				<equipment slot="Head" id="Item.battania_earmuff_helmet_b_brnz"/>
+				<equipment slot="Cape" id="Item.battania_shoulder_strap_cloak"/>
+				<equipment slot="Body" id="Item.ao_battanian_leather_tunic_with_kilt"/>
+				<equipment slot="Gloves" id="Item.steppe_leather_vambraces"/>
+				<equipment slot="Leg" id="Item.reinforced_suede_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.hasta_spear"/>
+				<equipment slot="Item1" id="Item.battania_large_shield_c"/>
+				<equipment slot="Item2" id="Item.small_bit_axe_t2"/>
+				<equipment slot="Head" id="Item.AR_battania_helmet_v2"/>
+				<equipment slot="Body" id="Item.leather_tunic"/>
+				<equipment slot="Gloves" id="Item.woven_leather_bracers"/>
+				<equipment slot="Leg" id="Item.reinforced_suede_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.eastern_spear_4_t4"/>
+				<equipment slot="Item1" id="Item.oval_shield"/>
+				<equipment slot="Item2" id="Item.battania_axe_1_t2"/>
+				<equipment slot="Head" id="Item.AR_battania_helmet_v"/>
+				<equipment slot="Cape" id="Item.battanian_leather_shoulder_a"/>
+				<equipment slot="Body" id="Item.battania_light_armor_a"/>
+				<equipment slot="Gloves" id="Item.woven_leather_bracers"/>
+				<equipment slot="Leg" id="Item.reinforced_suede_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.northern_spear_2_t3"/>
+				<equipment slot="Item1" id="Item.AR_shield_infantry_zd"/>
+				<equipment slot="Item2" id="Item.sturgia_sword_2_t3"/>
+				<equipment slot="Head" id="Item.battania_earmuff_helmet_b"/>
+				<equipment slot="Body" id="Item.khuzait_fortified_armor"/>
+				<equipment slot="Gloves" id="Item.highland_gloves"/>
+				<equipment slot="Leg" id="Item.reinforced_suede_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+				<equipment slot="Item2" id="Item.throwing_stone"/>
+				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="gaelaiche_2"
+			  default_group="Infantry"
+			  level="16"
+			  name="{=Gaelaiche II}Gaelaiche II"
+			  occupation="Soldier"
+			  culture="Culture.vlandia">
+		<face>
+			<face_key_template value="BodyProperty.fighter_celtic"/>
+		</face>
+		<skills>
+			<skill id="Athletics" value="130"/>
+			<skill id="Riding" value="50"/>
+			<skill id="OneHanded" value="130"/>
+			<skill id="TwoHanded" value="50"/>
+			<skill id="Polearm" value="140"/>
+			<skill id="Bow" value="50"/>
+			<skill id="Crossbow" value="50"/>
+			<skill id="Throwing" value="50"/>
+		</skills>
+		<upgrade_targets>
+			<upgrade_target id="NPCCharacter.gaelaiche_3"/>
+		</upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.eastern_spear_4_t4"/>
+				<equipment slot="Item1" id="Item.oval_shield"/>
+				<equipment slot="Item2" id="Item.vlandia_axe_1_t3"/>
+				<equipment slot="Head" id="Item.battania_earmuff_helmet_b_brnz"/>
+				<equipment slot="Cape" id="Item.battania_shoulder_strap_cloak"/>
+				<equipment slot="Body" id="Item.ao_battanian_leather_tunic_with_kilt"/>
+				<equipment slot="Gloves" id="Item.steppe_leather_vambraces"/>
+				<equipment slot="Leg" id="Item.reinforced_suede_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.hasta_spear"/>
+				<equipment slot="Item1" id="Item.celtic_scutum_1"/>
+				<equipment slot="Item2" id="Item.small_bit_axe_t2"/>
+				<equipment slot="Head" id="Item.battania_earmuff_helmet_d_brnz"/>
+				<equipment slot="Body" id="Item.leather_tunic"/>
+				<equipment slot="Gloves" id="Item.woven_leather_bracers"/>
+				<equipment slot="Leg" id="Item.reinforced_suede_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.eastern_spear_4_t4"/>
+				<equipment slot="Item1" id="Item.oval_shield"/>
+				<equipment slot="Item2" id="Item.battania_axe_1_t2"/>
+				<equipment slot="Head" id="Item.AR_battania_helmet_v"/>
+				<equipment slot="Cape" id="Item.battanian_leather_shoulder_a"/>
+				<equipment slot="Body" id="Item.battania_light_armor_a"/>
+				<equipment slot="Gloves" id="Item.woven_leather_bracers"/>
+				<equipment slot="Leg" id="Item.reinforced_suede_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.northern_spear_2_t3"/>
+				<equipment slot="Item1" id="Item.battania_large_shield_c"/>
+				<equipment slot="Item2" id="Item.sturgia_sword_2_t3"/>
+				<equipment slot="Head" id="Item.battania_earmuff_helmet_b"/>
+				<equipment slot="Body" id="Item.leather_tunic"/>
+				<equipment slot="Gloves" id="Item.highland_gloves"/>
+				<equipment slot="Leg" id="Item.reinforced_suede_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+				<equipment slot="Item2" id="Item.throwing_stone"/>
+				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+	
+	<NPCCharacter id="gaelaiche_3"
+			  default_group="Infantry"
+			  level="21"
+			  name="{=Kingetoi III}Kingetoi III"
+			  occupation="Soldier"
+			  culture="Culture.vlandia">
+		<face>
+			<face_key_template value="BodyProperty.fighter_gaul"/>
+		</face>
+		<skills>
+			<skill id="Athletics" value="130"/>
+			<skill id="Riding" value="45"/>
+			<skill id="OneHanded" value="45"/>
+			<skill id="TwoHanded" value="170"/>
+			<skill id="Polearm" value="170"/>
+			<skill id="Bow" value="45"/>
+			<skill id="Crossbow" value="45"/>
+			<skill id="Throwing" value="45"/>
+		</skills>
+		<upgrade_targets>
+		</upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.western_spear_3_t3"/>
+				<equipment slot="Item1" id="Item.oval_shield"/>
+				<equipment slot="Head" id="Item.TV_battania_helmet_c"/>
+				<equipment slot="Cape" id="Item.battania_scarf_a"/>
+				<equipment slot="Body" id="Item.northern_leather_tabard"/>
+				<equipment slot="Gloves" id="Item.steppe_leather_vambraces"/>
+				<equipment slot="Leg" id="Item.reinforced_suede_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.germanic_spear"/>
+				<equipment slot="Item1" id="Item.celtic_scutum_1"/>
+				<equipment slot="Head" id="Item.battania_earmuff_helmet_b"/>
+				<equipment slot="Body" id="Item.eastern_studded_leather"/>
+				<equipment slot="Gloves" id="Item.battania_noble_bracers"/>
+				<equipment slot="Leg" id="Item.reinforced_suede_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.germanic_spear"/>
+				<equipment slot="Item1" id="Item.oval_shield"/>
+				<equipment slot="Head" id="Item.TV_battania_lord_helmet_d"/>
+				<equipment slot="Cape" id="Item.AR_battanian_shoulder_b"/>
+				<equipment slot="Body" id="Item.eastern_stitched_leather_coat"/>
+				<equipment slot="Gloves" id="Item.battania_noble_bracers"/>
+				<equipment slot="Leg" id="Item.reinforced_suede_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.hasta_spear"/>
+				<equipment slot="Item1" id="Item.celtic_scutum_1"/>
+				<equipment slot="Head" id="Item.battania_earmuff_helmet_b"/>
+				<equipment slot="Cape" id="Item.battanian_leather_shoulder_a"/>
+				<equipment slot="Body" id="Item.battanian_chainmail_armor_b"/>
+				<equipment slot="Gloves" id="Item.steppe_leather_vambraces"/>
+				<equipment slot="Leg" id="Item.reinforced_suede_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+                <equipment slot="Item0" id="Item.highland_spear_3_t3"/>
+                <equipment slot="Item1" id="Item.celtic_scutum_2"/>
+                <equipment slot="Head" id="Item.battania_earmuff_helmet_b_brnz"/>
+                <equipment slot="Cape" id="Item.battania_scarf_a"/>
+                <equipment slot="Body" id="Item.scorilo_leather_lino_1"/>
+                <equipment slot="Leg" id="Item.TV_battania_boots_w"/>
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.highland_spear_3_t3"/>
+                <equipment slot="Item1" id="Item.battania_large_shield_c"/>
+                <equipment slot="Head" id="Item.battania_earmuff_helmet_a_brnz"/>
+                <equipment slot="Cape" id="Item.battania_cloak_b"/>
+                <equipment slot="Body" id="Item.round_plate_tunic"/>
+                <equipment slot="Leg" id="Item.TV_battania_boots_w"/>
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.highland_spear_3_t3"/>
+                <equipment slot="Item1" id="Item.celtic_scutum_2"/>
+                <equipment slot="Head" id="Item.battania_earmuff_helmet_b_brnz"/>
+                <equipment slot="Cape" id="Item.battania_scarf_a"/>
+                <equipment slot="Body" id="Item.scorilo_leather_lino_2"/>
+                <equipment slot="Leg" id="Item.TV_battania_boots_w"/>
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.highland_spear_3_t3"/>
+                <equipment slot="Item1" id="Item.battania_large_shield_c"/>
+                <equipment slot="Head" id="Item.battania_earmuff_helmet_a_brnz"/>
+                <equipment slot="Cape" id="Item.battania_cloak_b"/>
+                <equipment slot="Body" id="Item.round_plate_tunic"/>
+                <equipment slot="Leg" id="Item.TV_battania_boots_w"/>
+            </EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+				<equipment slot="Item2" id="Item.throwing_stone"/>
+				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+	
+	
+	<!-- Gaul Urban Elite Troops -->
+	
+	    <NPCCharacter id="solduros_1"
+                  default_group="Infantry"
+                  level="21"
+                  name="{=Solduros I}Solduros I"
+                  occupation="Soldier"
+				  is_basic_troop="true"
+                  culture="Culture.vlandia">
+        <face>
+            <face_key_template value="BodyProperty.fighter_gaul"/>
+        </face>
+        <skills>
+            <skill id="Athletics" value="110"/>
+            <skill id="Riding" value="60"/>
+            <skill id="OneHanded" value="60"/>
+            <skill id="TwoHanded" value="180"/>
+            <skill id="Polearm" value="160"/>
+            <skill id="Bow" value="60"/>
+            <skill id="Crossbow" value="60"/>
+            <skill id="Throwing" value="60"/>
+        </skills>
+        <upgrade_targets>
+            <upgrade_target id="NPCCharacter.solduros_2"/>
+        </upgrade_targets>
+        <Equipments>
+           <EquipmentRoster>
+                <equipment slot="Item0" id="Item.germanic_sword" />
+                <equipment slot="Item1" id="Item.AR_shield_infantry_zd" />
+                <equipment slot="Item2" id="Item.eastern_throwing_spear_1_t3" />
+                <equipment slot="Head" id="Item.TV_battania_lord_helmet_d" />
+                <equipment slot="Cape" id="Item.battanian_mail_scarf" />
+                <equipment slot="Body" id="Item.ao_sturgian_leather_over_cloth" />
+                <equipment slot="Leg" id="Item.strapped_shoes" />
+            </EquipmentRoster>
+
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.germanic_sword" />
+                <equipment slot="Item1" id="Item.battania_large_shield_c" />
+                <equipment slot="Item2" id="Item.eastern_throwing_spear_1_t3" />
+                <equipment slot="Head" id="Item.TV_battania_helmet_r" />
+                <equipment slot="Cape" id="Item.battania_cloak" />
+                <equipment slot="Body" id="Item.ao_sturgian_leather_over_cloth" />
+                <equipment slot="Leg" id="Item.strapped_shoes" />
+            </EquipmentRoster>
+
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.germanic_sword" />
+                <equipment slot="Item1" id="Item.celtic_oval_shield" />
+                <equipment slot="Item2" id="Item.celtic_javelin" />
+                <equipment slot="Head" id="Item.TV_battania_helmet_a" />
+                <equipment slot="Cape" id="Item.battanian_chainmail_shoulder_a" />
+                <equipment slot="Body" id="Item.ao_mail_shirt_sleeveless" />
+                <equipment slot="Leg" id="Item.TV_battania_boots_s" />
+            </EquipmentRoster>
+
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.germanic_sword" />
+                <equipment slot="Item1" id="Item.battania_large_shield_c" />
+                <equipment slot="Item2" id="Item.celtic_javelin" />
+                <equipment slot="Head" id="Item.TV_battania_helmet_r" />
+                <equipment slot="Cape" id="Item.TV_battania_cloak_m2" />
+                <equipment slot="Body" id="Item.ao_mail_shirt_sleeveless" />
+                <equipment slot="Leg" id="Item.wrapped_leather_boots" />
+            </EquipmentRoster>
+            <EquipmentRoster civilian="true">
+                <equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+                <equipment slot="Item2" id="Item.throwing_stone"/>
+                <equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+                <equipment slot="Leg" id="Item.wrapped_shoes"/>
+            </EquipmentRoster>
+        </Equipments>
+    </NPCCharacter>
+    <NPCCharacter id="solduros_2"
+                  default_group="Infantry"
+                  level="26"
+                  name="{=Solduros II}Solduros II"
+                  occupation="Soldier"
+                  culture="Culture.vlandia">
+        <face>
+            <face_key_template value="BodyProperty.fighter_celtic"/>
+        </face>
+        <skills>
+            <skill id="Athletics" value="110"/>
+            <skill id="Riding" value="75"/>
+            <skill id="OneHanded" value="75"/>
+            <skill id="TwoHanded" value="220"/>
+            <skill id="Polearm" value="195"/>
+            <skill id="Bow" value="75"/>
+            <skill id="Crossbow" value="75"/>
+            <skill id="Throwing" value="75"/>
+        </skills>
+        <upgrade_targets>
+            <upgrade_target id="NPCCharacter.solduros_3"/>
+        </upgrade_targets>
+        <Equipments>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.germanic_sword" />
+                <equipment slot="Item1" id="Item.celtic_scutum_1" />
+                <equipment slot="Item2" id="Item.soliferrum_javelin" />
+                <equipment slot="Head" id="Item.TV_battania_helmet_b" />
+                <equipment slot="Cape" id="Item.leather_shoulder_b" />
+                <equipment slot="Body" id="Item.ao_mail_shirt_sleeveless" />
+                <equipment slot="Leg" id="Item.strapped_shoes" />
+            </EquipmentRoster>
+
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.germanic_sword" />
+                <equipment slot="Item1" id="Item.celtic_oval_shield" />
+                <equipment slot="Item2" id="Item.soliferrum_javelin" />
+                <equipment slot="Head" id="Item.TV_battania_helmet_b" />
+                <equipment slot="Cape" id="Item.battanian_chainmail_shoulder_a" />
+                <equipment slot="Body" id="Item.mail_shirt" />
+                <equipment slot="Leg" id="Item.strapped_shoes" />
+            </EquipmentRoster>
+
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.germanic_sword" />
+                <equipment slot="Item1" id="Item.battania_large_shield_c" />
+                <equipment slot="Item2" id="Item.celtic_javelin" />
+                <equipment slot="Head" id="Item.TV_battania_lord_helmet_d" />
+                <equipment slot="Cape" id="Item.battanian_chainmail_shoulder_a" />
+                <equipment slot="Body" id="Item.mail_shirt" />
+                <equipment slot="Leg" id="Item.ragged_boots" />
+            </EquipmentRoster>
+
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.germanic_sword" />
+                <equipment slot="Item1" id="Item.celtic_oval_shield" />
+                <equipment slot="Item2" id="Item.celtic_javelin" />
+                <equipment slot="Head" id="Item.TV_battania_helmet_r" />
+                <equipment slot="Cape" id="Item.battanian_mail_scarf" />
+                <equipment slot="Body" id="Item.mail_shirt" />
+                <equipment slot="Leg" id="Item.ragged_boots" />
+            </EquipmentRoster>
+
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.germanic_sword" />
+                <equipment slot="Item1" id="Item.celtic_oval_shield" />
+                <equipment slot="Item2" id="Item.eastern_throwing_spear_1_t3" />
+                <equipment slot="Head" id="Item.TV_battania_lord_helmet_d" />
+                <equipment slot="Cape" id="Item.battania_cloak" />
+                <equipment slot="Body" id="Item.battanian_chainmail_armor_d" />
+                <equipment slot="Leg" id="Item.ragged_boots" />
+            </EquipmentRoster>
+            <EquipmentRoster civilian="true">
+                <equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+                <equipment slot="Item2" id="Item.throwing_stone"/>
+                <equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+                <equipment slot="Leg" id="Item.wrapped_shoes"/>
+            </EquipmentRoster>
+        </Equipments>
+    </NPCCharacter>
+    <NPCCharacter id="solduros_3"
+                  default_group="Infantry"
+                  level="31"
+                  name="{=Solduros III}Solduros III"
+                  occupation="Soldier"
+                  culture="Culture.vlandia">
+        <face>
+            <face_key_template value="BodyProperty.fighter_celtic"/>
+        </face>
+        <skills>
+            <skill id="Athletics" value="100"/>
+            <skill id="Riding" value="90"/>
+            <skill id="OneHanded" value="90"/>
+            <skill id="TwoHanded" value="260"/>
+            <skill id="Polearm" value="190"/>
+            <skill id="Bow" value="90"/>
+            <skill id="Crossbow" value="90"/>
+            <skill id="Throwing" value="90"/>
+        </skills>
+        <Equipments>
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.germanic_sword" />
+                <equipment slot="Item1" id="Item.celtic_oval_shield" />
+                <equipment slot="Item2" id="Item.eastern_throwing_spear_1_t3" />
+                <equipment slot="Head" id="Item.TV_battania_lord_helmet_d" />
+                <equipment slot="Cape" id="Item.battania_cloak" />
+                <equipment slot="Body" id="Item.battanian_chainmail_armor_d" />
+                <equipment slot="Leg" id="Item.ragged_boots" />
+            </EquipmentRoster>
+
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.germanic_sword" />
+                <equipment slot="Item1" id="Item.battania_large_shield_c" />
+                <equipment slot="Item2" id="Item.soliferrum_javelin" />
+                <equipment slot="Head" id="Item.TV_battania_lord_helmet_c" />
+                <equipment slot="Cape" id="Item.battanian_chainmail_shoulder_a" />
+                <equipment slot="Body" id="Item.ranger_mail" />
+                <equipment slot="Leg" id="Item.wrapped_leather_boots" />
+            </EquipmentRoster>
+
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.germanic_sword" />
+                <equipment slot="Item1" id="Item.battania_large_shield_a" />
+                <equipment slot="Item2" id="Item.eastern_throwing_spear_1_t3" />
+                <equipment slot="Head" id="Item.TV_battania_helmet_a" />
+                <equipment slot="Cape" id="Item.battanian_chainmail_shoulder_a" />
+                <equipment slot="Body" id="Item.battanian_chainmail_armor_c" />
+                <equipment slot="Leg" id="Item.wrapped_leather_boots" />
+            </EquipmentRoster>
+
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.germanic_sword" />
+                <equipment slot="Item1" id="Item.celtic_oval_shield" />
+                <equipment slot="Item2" id="Item.eastern_throwing_spear_1_t3" />
+                <equipment slot="Head" id="Item.TV_battania_helmet_a" />
+                <equipment slot="Cape" id="Item.battanian_chainmail_shoulder_a" />
+                <equipment slot="Body" id="Item.battanian_chainmail_armor_a" />
+                <equipment slot="Leg" id="Item.wrapped_leather_boots" />
+            </EquipmentRoster>
+
+            <EquipmentRoster>
+                <equipment slot="Item0" id="Item.germanic_sword" />
+                <equipment slot="Item1" id="Item.celtic_scutum_1" />
+                <equipment slot="Item2" id="Item.eastern_throwing_spear_1_t3" />
+                <equipment slot="Head" id="Item.TV_battania_helmet_a" />
+                <equipment slot="Cape" id="Item.battanian_mail_scarf" />
+                <equipment slot="Body" id="Item.battanian_chainmail_armor_a" />
+                <equipment slot="Gloves" id="Item.TV_sturgia_gloves_b" />
+                <equipment slot="Leg" id="Item.wrapped_leather_boots" />
+            </EquipmentRoster>
+            <EquipmentRoster civilian="true">
+                <equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+                <equipment slot="Item2" id="Item.throwing_stone"/>
+                <equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+                <equipment slot="Leg" id="Item.wrapped_shoes"/>
+            </EquipmentRoster>
+        </Equipments>
+    </NPCCharacter>
+
+
+	
+	<!-- Caledones Urban Troops -->
+	
+	<NPCCharacter id="pictish_warrior_1"
+	default_group="Infantry"
+	level="11"
+	name="{=Pictish Warrior I}Pictish Warrior I"
+	occupation="Soldier"
+	is_basic_troop="true"
+	culture="Culture.caledones">
+		<face>
+			<face_key_template value="BodyProperty.fighter_caledone_painted_raider"/>
+		</face>
+		<skills >
+			<skill id="Athletics" value="130"/>
+			<skill id="Riding" value="0"/>
+			<skill id="OneHanded" value="0"/>
+			<skill id="TwoHanded" value="0"/>
+			<skill id="Polearm" value="50"/>
+			<skill id="Bow" value="0"/>
+			<skill id="Crossbow" value="0"/>
+			<skill id="Throwing" value="0"/>
+		</skills>
+		<upgrade_targets>
+			<upgrade_target id="NPCCharacter.pictish_warrior_2"/>
+			<upgrade_target id="NPCCharacter.pictish_bow_maidens_2"/>
+		</upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.hans_celtic_spear_a"/>
+				<equipment slot="Item1" id="Item.Caledonian_Square_shield_AR"/>
+				<equipment slot="Head" id="Item.battania_civil_hood"/>
+				<equipment slot="Cape" id="Item.TV_battania_cloak_p2"/>
+				<equipment slot="Body" id="Item.AR_battania_armor_d_t3"/>
+				<equipment slot="Leg" id="Item.highland_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.hans_celtic_spear_a"/>
+				<equipment slot="Item1" id="Item.Caledonian_round_shield"/>
+				<equipment slot="Head" id="Item.TV_battania_hood_a2"/>
+				<equipment slot="Cape" id="Item.battania_civil_cape"/>
+				<equipment slot="Body" id="Item.AR_battania_armor_e_t3"/>
+				<equipment slot="Leg" id="Item.highland_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.hans_celtic_spear_a"/>
+				<equipment slot="Item1" id="Item.Caledonian_Square_shield_AR"/>
+				<equipment slot="Head" id="Item.battania_civil_hood"/>
+				<equipment slot="Cape" id="Item.TV_battania_cloak_p3"/>
+				<equipment slot="Body" id="Item.AR_battania_armor_d_t3"/>
+				<equipment slot="Leg" id="Item.highland_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.hans_celtic_spear_a"/>
+				<equipment slot="Item1" id="Item.Caledonian_round_shield"/>
+				<equipment slot="Head" id="Item.TV_battania_hood_a2"/>
+				<equipment slot="Cape" id="Item.battania_civil_cape"/>
+				<equipment slot="Body" id="Item.AR_battania_armor_e_t3"/>
+				<equipment slot="Leg" id="Item.highland_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+				<equipment slot="Item2" id="Item.throwing_stone"/>
+				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="pictish_warrior_2"
+		default_group="Infantry"
+		level="16"
+		name="{=Pictish Warrior II}Pictish Warrior II"
+		occupation="Soldier"
+		culture="Culture.caledones">
+		<face>
+			<face_key_template value="BodyProperty.fighter_caledone_painted_raider"/>
+		</face>
+		<skills >
+			<skill id="Athletics" value="130"/>
+			<skill id="Riding" value="0"/>
+			<skill id="OneHanded" value="0"/>
+			<skill id="TwoHanded" value="0"/>
+			<skill id="Polearm" value="130"/>
+			<skill id="Bow" value="0"/>
+			<skill id="Crossbow" value="0"/>
+			<skill id="Throwing" value="0"/>
+		</skills>
+		<upgrade_targets>
+			<upgrade_target id="NPCCharacter.pictish_warrior_3"/>
+		</upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.hans_celtic_spear_a"/>
+				<equipment slot="Item1" id="Item.Caledonian_Square_shield_AR"/>
+				<equipment slot="Head" id="Item.wolfhead"/>
+				<equipment slot="Cape" id="Item.TV_battania_cloak_p2"/>
+				<equipment slot="Body" id="Item.AR_battania_armor_d_t3"/>
+				<equipment slot="Leg" id="Item.battania_fur_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.hans_celtic_spear_a"/>
+				<equipment slot="Item1" id="Item.Caledonian_round_shield"/>
+				<equipment slot="Head" id="Item.TV_wolf_pelt_c"/>
+				<equipment slot="Cape" id="Item.battania_civil_cape"/>
+				<equipment slot="Body" id="Item.AR_battania_armor_e_t3"/>
+				<equipment slot="Leg" id="Item.battania_fur_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.hans_celtic_spear_a"/>
+				<equipment slot="Item1" id="Item.Caledonian_Square_shield_AR"/>
+				<equipment slot="Head" id="Item.wolfhead"/>
+				<equipment slot="Cape" id="Item.TV_battania_cloak_p3"/>
+				<equipment slot="Body" id="Item.AR_battania_armor_d_t3"/>
+				<equipment slot="Leg" id="Item.battania_fur_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.hans_celtic_spear_a"/>
+				<equipment slot="Item1" id="Item.Caledonian_round_shield"/>
+				<equipment slot="Head" id="Item.TV_wolf_pelt_c"/>
+				<equipment slot="Cape" id="Item.battania_civil_cape"/>
+				<equipment slot="Body" id="Item.AR_battania_armor_e_t3"/>
+				<equipment slot="Leg" id="Item.battania_fur_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+				<equipment slot="Item2" id="Item.throwing_stone"/>
+				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="pictish_warrior_3"
+		default_group="Infantry"
+		level="21"
+		name="{=Pictish Warrior III}Pictish Warrior III"
+		occupation="Soldier"
+		culture="Culture.caledones">
+		<face>
+			<face_key_template value="BodyProperty.fighter_caledone_painted_raider"/>
+		</face>
+		<skills >
+			<skill id="Athletics" value="130"/>
+			<skill id="Riding" value="0"/>
+			<skill id="OneHanded" value="0"/>
+			<skill id="TwoHanded" value="0"/>
+			<skill id="Polearm" value="170"/>
+			<skill id="Bow" value="0"/>
+			<skill id="Crossbow" value="0"/>
+			<skill id="Throwing" value="0"/>
+		</skills>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.hans_celtic_spear_a"/>
+				<equipment slot="Item1" id="Item.Caledonian_Square_shield_AR"/>
+				<equipment slot="Head" id="Item.battania_earmuff_helmet_b_brnz"/>
+				<equipment slot="Cape" id="Item.TV_battania_cloak_p2"/>
+				<equipment slot="Body" id="Item.AR_battania_armor_d_t3"/>
+				<equipment slot="Leg" id="Item.battania_fur_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.hans_celtic_spear_a"/>
+				<equipment slot="Item1" id="Item.Caledonian_round_shield"/>
+				<equipment slot="Head" id="Item.battania_earmuff_helmet_b_brnz"/>
+				<equipment slot="Cape" id="Item.battania_civil_cape"/>
+				<equipment slot="Body" id="Item.AR_battania_armor_e_t3"/>
+				<equipment slot="Leg" id="Item.battania_fur_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.hans_celtic_spear_a"/>
+				<equipment slot="Item1" id="Item.Caledonian_Square_shield_AR"/>
+				<equipment slot="Head" id="Item.battania_earmuff_helmet_b_brnz"/>
+				<equipment slot="Cape" id="Item.TV_battania_cloak_p3"/>
+				<equipment slot="Body" id="Item.AR_battania_armor_d_t3"/>
+				<equipment slot="Leg" id="Item.battania_fur_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.hans_celtic_spear_a"/>
+				<equipment slot="Item1" id="Item.Caledonian_round_shield"/>
+				<equipment slot="Head" id="Item.battania_earmuff_helmet_b_brnz"/>
+				<equipment slot="Cape" id="Item.battania_civil_cape"/>
+				<equipment slot="Body" id="Item.AR_battania_armor_e_t3"/>
+				<equipment slot="Leg" id="Item.battania_fur_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+				<equipment slot="Item2" id="Item.throwing_stone"/>
+				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+
+
+	<!-- Pictish Bow Maidens -->
+	<NPCCharacter id="pictish_bow_maidens_2"
+		default_group="Ranged"
+		level="16"
+		name="{=Pictish Bow Maidens II}Pictish Bow Maidens II"
+		occupation="Soldier"
+		is_female="true"
+		culture="Culture.caledones">
+		<face>
+			<face_key_template value="BodyProperty.fighter_pictish_maiden_painted"/>
+		</face>
+		<skills >
+			<skill id="Athletics" value="140"/>
+			<skill id="Riding" value="0"/>
+			<skill id="OneHanded" value="0"/>
+			<skill id="TwoHanded" value="0"/>
+			<skill id="Polearm" value="130"/>
+			<skill id="Bow" value="130"/>
+			<skill id="Crossbow" value="0"/>
+			<skill id="Throwing" value="0"/>
+		</skills>
+		<upgrade_targets>
+			<upgrade_target id="NPCCharacter.pictish_bow_maidens_3"/>
+		</upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.hans_celtic_spear_a"/>
+				<equipment slot="Item1" id="Item.hunting_bow"/>
+				<equipment slot="Item2" id="Item.default_arrows"/>
+				<equipment slot="Item3" id="Item.default_arrows"/>
+				<equipment slot="Head" id="Item.TV_battania_hood_a2"/>
+				<equipment slot="Cape" id="Item.TV_battania_cloak_q2"/>
+				<equipment slot="Body" id="Item.caledonian_savage_armor"/>
+				<equipment slot="Leg" id="Item.battania_fur_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.hans_celtic_spear_a"/>
+				<equipment slot="Item1" id="Item.hunting_bow"/>
+				<equipment slot="Item2" id="Item.default_arrows"/>
+				<equipment slot="Item3" id="Item.default_arrows"/>
+				<equipment slot="Head" id="Item.TV_battania_hood_a"/>
+				<equipment slot="Cape" id="Item.TV_battania_cloak_l"/>
+				<equipment slot="Body" id="Item.caledonian_savage_armor"/>
+				<equipment slot="Leg" id="Item.battania_fur_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.hans_celtic_spear_a"/>
+				<equipment slot="Item1" id="Item.hunting_bow"/>
+				<equipment slot="Item2" id="Item.default_arrows"/>
+				<equipment slot="Item3" id="Item.default_arrows"/>
+				<equipment slot="Head" id="Item.TV_battania_hood_a3"/>
+				<equipment slot="Cape" id="Item.TV_battania_cloak_p3"/>
+				<equipment slot="Body" id="Item.caledonian_savage_armor"/>
+				<equipment slot="Leg" id="Item.battania_fur_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.hans_celtic_spear_a"/>
+				<equipment slot="Item1" id="Item.hunting_bow"/>
+				<equipment slot="Item2" id="Item.default_arrows"/>
+				<equipment slot="Item3" id="Item.default_arrows"/>
+				<equipment slot="Head" id="Item.TV_battania_hood_a3"/>
+				<equipment slot="Cape" id="Item.TV_battania_cloak_l3"/>
+				<equipment slot="Body" id="Item.caledonian_savage_armor"/>
+				<equipment slot="Leg" id="Item.battania_fur_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+				<equipment slot="Item2" id="Item.throwing_stone"/>
+				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="pictish_bow_maidens_3"
+		default_group="Ranged"
+		level="21"
+		name="{=Pictish Bow Maidens III}Pictish Bow Maidens III"
+		occupation="Soldier"
+		is_female="true"
+		culture="Culture.caledones">
+		<face>
+			<face_key_template value="BodyProperty.fighter_pictish_maiden_painted"/>
+		</face>
+		<skills >
+			<skill id="Athletics" value="140"/>
+			<skill id="Riding" value="0"/>
+			<skill id="OneHanded" value="0"/>
+			<skill id="TwoHanded" value="0"/>
+			<skill id="Polearm" value="170"/>
+			<skill id="Bow" value="170"/>
+			<skill id="Crossbow" value="0"/>
+			<skill id="Throwing" value="0"/>
+		</skills>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.hans_celtic_spear_a"/>
+				<equipment slot="Item1" id="Item.woodland_yew_bow"/>
+				<equipment slot="Item2" id="Item.default_arrows"/>
+				<equipment slot="Item3" id="Item.default_arrows"/>
+				<equipment slot="Head" id="Item.battania_fur_helmet"/>
+				<equipment slot="Cape" id="Item.TV_wolf_pelt_h"/>
+				<equipment slot="Body" id="Item.battanian_savage_armor"/>
+				<equipment slot="Leg" id="Item.battania_fur_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.hans_celtic_spear_a"/>
+				<equipment slot="Item1" id="Item.woodland_yew_bow"/>
+				<equipment slot="Item2" id="Item.default_arrows"/>
+				<equipment slot="Item3" id="Item.default_arrows"/>
+				<equipment slot="Head" id="Item.battania_fur_cap"/>
+				<equipment slot="Cape" id="Item.AR_wolf_head_cloak_b"/>
+				<equipment slot="Body" id="Item.AR_battania_armor_h"/>
+				<equipment slot="Leg" id="Item.battania_fur_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.hans_celtic_spear_a"/>
+				<equipment slot="Item1" id="Item.woodland_yew_bow"/>
+				<equipment slot="Item2" id="Item.default_arrows"/>
+				<equipment slot="Item3" id="Item.default_arrows"/>
+				<equipment slot="Head" id="Item.battania_fur_helmet"/>
+				<equipment slot="Cape" id="Item.TV_wolf_pelt_h"/>
+				<equipment slot="Body" id="Item.battanian_savage_armor"/>
+				<equipment slot="Leg" id="Item.battania_fur_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.hans_celtic_spear_a"/>
+				<equipment slot="Item1" id="Item.woodland_yew_bow"/>
+				<equipment slot="Item2" id="Item.default_arrows"/>
+				<equipment slot="Item3" id="Item.default_arrows"/>
+				<equipment slot="Head" id="Item.battania_fur_cap"/>
+				<equipment slot="Cape" id="Item.AR_wolf_head_cloak_b"/>
+				<equipment slot="Body" id="Item.AR_battania_armor_h"/>
+				<equipment slot="Leg" id="Item.battania_fur_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+				<equipment slot="Item2" id="Item.throwing_stone"/>
+				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+
+
+	<!-- Pictish Urban Elite -->
+
+	<NPCCharacter id="pictish_warband_1"
+	default_group="Infantry"
+	level="21"
+	name="{=Pictish warband I}Pictish warband I"
+	occupation="Soldier"
+	culture="Culture.caledones">
+		<face>
+			<face_key_template value="BodyProperty.fighter_caledone_painted"/>
+		</face>
+		<skills >
+			<skill id="Athletics" value="100"/>
+			<skill id="Riding" value="0"/>
+			<skill id="OneHanded" value="0"/>
+			<skill id="TwoHanded" value="0"/>
+			<skill id="Polearm" value="180"/>
+			<skill id="Bow" value="0"/>
+			<skill id="Crossbow" value="0"/>
+			<skill id="Throwing" value="170"/>
+		</skills>
+		<upgrade_targets>
+			<upgrade_target id="NPCCharacter.pictish_warband_2"/>
+		</upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.hans_celtic_spear_a"/>
+				<equipment slot="Item1" id="Item.soliferrum_javelin"/>
+				<equipment slot="Item2" id="Item.Caledonian_round_shield_vet"/>
+				<equipment slot="Head" id="Item.AR_battania_helmet_o"/>
+				<equipment slot="Cape" id="Item.TV_wolf_pelt_f"/>
+				<equipment slot="Body" id="Item.celtic_round_plate_1"/>
+				<equipment slot="Leg" id="Item.battania_fur_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.hans_celtic_spear_a"/>
+				<equipment slot="Item1" id="Item.soliferrum_javelin"/>
+				<equipment slot="Item2" id="Item.Caledonian_reinforeced_small_round"/>
+				<equipment slot="Head" id="Item.AR_battania_helmet_s"/>
+				<equipment slot="Cape" id="Item.TV_wolf_pelt_h"/>
+				<equipment slot="Body" id="Item.celtic_round_plate_1"/>
+				<equipment slot="Leg" id="Item.battania_fur_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.hans_celtic_spear_a"/>
+				<equipment slot="Item1" id="Item.soliferrum_javelin"/>
+				<equipment slot="Item2" id="Item.Caledonian_round_shield_vet"/>
+				<equipment slot="Head" id="Item.AR_battania_helmet_o"/>
+				<equipment slot="Cape" id="Item.TV_wolf_pelt_f"/>
+				<equipment slot="Body" id="Item.celtic_round_plate_1"/>
+				<equipment slot="Leg" id="Item.battania_fur_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.hans_celtic_spear_a"/>
+				<equipment slot="Item1" id="Item.soliferrum_javelin"/>
+				<equipment slot="Item2" id="Item.Caledonian_Square_shield_AR"/>
+				<equipment slot="Head" id="Item.AR_battania_helmet_s"/>
+				<equipment slot="Cape" id="Item.TV_wolf_pelt_h"/>
+				<equipment slot="Body" id="Item.celtic_round_plate_1"/>
+				<equipment slot="Leg" id="Item.battania_fur_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+				<equipment slot="Item2" id="Item.throwing_stone"/>
+				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="pictish_warband_2"
+		default_group="Infantry"
+		level="26"
+		name="{=Pictish warband II}Pictish warband II"
+		occupation="Soldier"
+		culture="Culture.caledones">
+		<face>
+			<face_key_template value="BodyProperty.fighter_caledone_painted"/>
+		</face>
+		<skills >
+			<skill id="Athletics" value="100"/>
+			<skill id="Riding" value="0"/>
+			<skill id="OneHanded" value="0"/>
+			<skill id="TwoHanded" value="0"/>
+			<skill id="Polearm" value="220"/>
+			<skill id="Bow" value="0"/>
+			<skill id="Crossbow" value="0"/>
+			<skill id="Throwing" value="210"/>
+		</skills>
+		<upgrade_targets>
+			<upgrade_target id="NPCCharacter.pictish_chosen_spearband"/>
+		</upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.hans_celtic_spear_a"/>
+				<equipment slot="Item1" id="Item.soliferrum_javelin"/>
+				<equipment slot="Item2" id="Item.Caledonian_round_shield_vet"/>
+				<equipment slot="Head" id="Item.AR_battania_helmet_o"/>
+				<equipment slot="Cape" id="Item.TV_wolf_pelt_f"/>
+				<equipment slot="Body" id="Item.celtic_round_plate_1"/>
+				<equipment slot="Leg" id="Item.battania_fur_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.hans_celtic_spear_a"/>
+				<equipment slot="Item1" id="Item.soliferrum_javelin"/>
+				<equipment slot="Item2" id="Item.Caledonian_reinforeced_small_round"/>
+				<equipment slot="Head" id="Item.AR_battania_helmet_s"/>
+				<equipment slot="Cape" id="Item.TV_wolf_pelt_h"/>
+				<equipment slot="Body" id="Item.celtic_round_plate_1"/>
+				<equipment slot="Leg" id="Item.battania_fur_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.hans_celtic_spear_a"/>
+				<equipment slot="Item1" id="Item.soliferrum_javelin"/>
+				<equipment slot="Item2" id="Item.Caledonian_round_shield_vet"/>
+				<equipment slot="Head" id="Item.AR_battania_helmet_o"/>
+				<equipment slot="Cape" id="Item.TV_wolf_pelt_f"/>
+				<equipment slot="Body" id="Item.celtic_round_plate_1"/>
+				<equipment slot="Leg" id="Item.battania_fur_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.hans_celtic_spear_a"/>
+				<equipment slot="Item1" id="Item.soliferrum_javelin"/>
+				<equipment slot="Item2" id="Item.Caledonian_Square_shield_AR"/>
+				<equipment slot="Head" id="Item.AR_battania_helmet_s"/>
+				<equipment slot="Cape" id="Item.TV_wolf_pelt_h"/>
+				<equipment slot="Body" id="Item.celtic_round_plate_1"/>
+				<equipment slot="Leg" id="Item.battania_fur_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+				<equipment slot="Item2" id="Item.throwing_stone"/>
+				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="pictish_chosen_spearband"
+		default_group="Infantry"
+		level="31"
+		name="{=Pictish Chosen Spearband III}Pictish Chosen Spearband III"
+		occupation="Soldier"
+		culture="Culture.caledones">
+		<face>
+			<face_key_template value="BodyProperty.villager_caledones"/>
+		</face>
+		<skills >
+			<skill id="Athletics" value="100"/>
+			<skill id="Riding" value="0"/>
+			<skill id="OneHanded" value="0"/>
+			<skill id="TwoHanded" value="0"/>
+			<skill id="Polearm" value="260"/>
+			<skill id="Bow" value="0"/>
+			<skill id="Crossbow" value="0"/>
+			<skill id="Throwing" value="250"/>
+		</skills>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.hans_celtic_spear_a"/>
+				<equipment slot="Item1" id="Item.soliferrum_javelin"/>
+				<equipment slot="Item2" id="Item.Caledonian_round_shield_vet"/>
+				<equipment slot="Head" id="Item.wolfhelmet"/>
+				<equipment slot="Cape" id="Item.TV_wolf_pelt_f"/>
+				<equipment slot="Body" id="Item.celtic_round_plate_1"/>
+				<equipment slot="Leg" id="Item.battania_fur_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.hans_celtic_spear_a"/>
+				<equipment slot="Item1" id="Item.soliferrum_javelin"/>
+				<equipment slot="Item2" id="Item.Caledonian_reinforeced_small_round"/>
+				<equipment slot="Head" id="Item.ao_eorling_guardian_helmet"/>
+				<equipment slot="Cape" id="Item.TV_wolf_pelt_h"/>
+				<equipment slot="Body" id="Item.celtic_round_plate_1"/>
+				<equipment slot="Leg" id="Item.battania_fur_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.hans_celtic_spear_a"/>
+				<equipment slot="Item1" id="Item.soliferrum_javelin"/>
+				<equipment slot="Item2" id="Item.Caledonian_round_shield_vet"/>
+				<equipment slot="Head" id="Item.wolfhelmet"/>
+				<equipment slot="Cape" id="Item.TV_wolf_pelt_f"/>
+				<equipment slot="Body" id="Item.celtic_round_plate_1"/>
+				<equipment slot="Leg" id="Item.battania_fur_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.hans_celtic_spear_a"/>
+				<equipment slot="Item1" id="Item.soliferrum_javelin"/>
+				<equipment slot="Item2" id="Item.Caledonian_Square_shield_AR"/>
+				<equipment slot="Head" id="Item.ao_eorling_guardian_helmet"/>
+				<equipment slot="Cape" id="Item.TV_wolf_pelt_h"/>
+				<equipment slot="Body" id="Item.celtic_round_plate_1"/>
+				<equipment slot="Leg" id="Item.battania_fur_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+				<equipment slot="Item2" id="Item.throwing_stone"/>
+				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+
+
+	<!-- Scordisci Urban Troops -->
+
+
+	<NPCCharacter id="acubagaudoi_1"
+	default_group="Infantry"
+	level="11"
+	name="{=Acubagaudoi I}Acubagaudoi I"
+	occupation="Soldier"
+	is_basic_troop="true"
+	culture="Culture.vlandia">
+		<face>
+			<face_key_template value="BodyProperty.villager_vlandia"/>
+		</face>
+		<skills >
+			<skill id="Athletics" value="130"/>
+			<skill id="Riding" value="0"/>
+			<skill id="OneHanded" value="0"/>
+			<skill id="TwoHanded" value="0"/>
+			<skill id="Polearm" value="90"/>
+			<skill id="Bow" value="0"/>
+			<skill id="Crossbow" value="0"/>
+			<skill id="Throwing" value="0"/>
+		</skills>
+		<upgrade_targets>
+			<upgrade_target id="NPCCharacter.acubagaudoi_2"/>
+		</upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.twb_celtic_spear_1"/>
+				<equipment slot="Item1" id="Item.celtic_javelin"/>
+				<equipment slot="Item2" id="Item.celtic_scutum_2"/>
+				<equipment slot="Head" id="Item.phrygian_cap_3_tail"/>
+				<equipment slot="Cape" id="Item.a_battania_cloak_a"/>
+				<equipment slot="Body" id="Item.AR_battania_armor_d_t3"/>
+				<equipment slot="Leg" id="Item.sturgia_boots_a"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.twb_celtic_spear_1"/>
+				<equipment slot="Item1" id="Item.celtic_javelin"/>
+				<equipment slot="Item2" id="Item.celtic_scutum_2"/>
+				<equipment slot="Head" id="Item.leather_studdedhelm"/>
+				<equipment slot="Cape" id="Item.battania_civil_cape"/>
+				<equipment slot="Body" id="Item.AR_battania_armor_e_t3"/>
+				<equipment slot="Leg" id="Item.sturgia_boots_a"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.twb_celtic_spear_1"/>
+				<equipment slot="Item1" id="Item.celtic_javelin"/>
+				<equipment slot="Item2" id="Item.celtic_scutum_2"/>
+				<equipment slot="Head" id="Item.phrygian_cap_2_ears"/>
+				<equipment slot="Cape" id="Item.a_battania_cloak_a"/>
+				<equipment slot="Body" id="Item.AR_battania_armor_d_t3"/>
+				<equipment slot="Leg" id="Item.sturgia_boots_a"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.twb_celtic_spear_1"/>
+				<equipment slot="Item1" id="Item.celtic_javelin"/>
+				<equipment slot="Item2" id="Item.celtic_scutum_2"/>
+				<equipment slot="Head" id="Item.leather_studdedhelm_over_thinhide"/>
+				<equipment slot="Cape" id="Item.battania_civil_cape"/>
+				<equipment slot="Body" id="Item.AR_battania_armor_e_t3"/>
+				<equipment slot="Leg" id="Item.sturgia_boots_a"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+				<equipment slot="Item2" id="Item.throwing_stone"/>
+				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="acubagaudoi_2"
+		default_group="Infantry"
+		level="16"
+		name="{=Acubagaudoi II}Acubagaudoi II"
+		occupation="Soldier"
+		culture="Culture.vlandia">
+		<face>
+			<face_key_template value="BodyProperty.villager_vlandia"/>
+		</face>
+		<skills >
+			<skill id="Athletics" value="130"/>
+			<skill id="Riding" value="0"/>
+			<skill id="OneHanded" value="0"/>
+			<skill id="TwoHanded" value="0"/>
+			<skill id="Polearm" value="130"/>
+			<skill id="Bow" value="0"/>
+			<skill id="Crossbow" value="0"/>
+			<skill id="Throwing" value="0"/>
+		</skills>
+		<upgrade_targets>
+			<upgrade_target id="NPCCharacter.acubagaudoi_3"/>
+		</upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.twb_celtic_spear_1"/>
+				<equipment slot="Item1" id="Item.celtic_javelin"/>
+				<equipment slot="Item2" id="Item.celtic_scutum_2"/>
+				<equipment slot="Head" id="Item.phrygian_cap_3_tail"/>
+				<equipment slot="Cape" id="Item.a_battania_cloak_a"/>
+				<equipment slot="Body" id="Item.celtic_round_plate_1"/>
+				<equipment slot="Leg" id="Item.sturgia_boots_a"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.twb_celtic_spear_1"/>
+				<equipment slot="Item1" id="Item.celtic_javelin"/>
+				<equipment slot="Item2" id="Item.celtic_scutum_2"/>
+				<equipment slot="Head" id="Item.leather_studdedhelm"/>
+				<equipment slot="Cape" id="Item.battania_civil_cape"/>
+				<equipment slot="Body" id="Item.celtic_round_plate_1"/>
+				<equipment slot="Leg" id="Item.sturgia_boots_a"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.twb_celtic_spear_1"/>
+				<equipment slot="Item1" id="Item.celtic_javelin"/>
+				<equipment slot="Item2" id="Item.celtic_scutum_2"/>
+				<equipment slot="Head" id="Item.phrygian_cap_2_ears"/>
+				<equipment slot="Cape" id="Item.a_battania_cloak_a"/>
+				<equipment slot="Body" id="Item.celtic_round_plate_1"/>
+				<equipment slot="Leg" id="Item.sturgia_boots_a"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.twb_celtic_spear_1"/>
+				<equipment slot="Item1" id="Item.celtic_javelin"/>
+				<equipment slot="Item2" id="Item.celtic_scutum_2"/>
+				<equipment slot="Head" id="Item.leather_studdedhelm_over_thinhide"/>
+				<equipment slot="Cape" id="Item.battania_civil_cape"/>
+				<equipment slot="Body" id="Item.celtic_round_plate_1"/>
+				<equipment slot="Leg" id="Item.sturgia_boots_a"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+				<equipment slot="Item2" id="Item.throwing_stone"/>
+				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="acubagaudoi_3"
+		default_group="Infantry"
+		level="21"
+		name="{=Acubagaudoi III}Acubagaudoi III"
+		occupation="Soldier"
+		culture="Culture.vlandia">
+		<face>
+			<face_key_template value="BodyProperty.villager_vlandia"/>
+		</face>
+		<skills >
+			<skill id="Athletics" value="100"/>
+			<skill id="Riding" value="0"/>
+			<skill id="OneHanded" value="0"/>
+			<skill id="TwoHanded" value="0"/>
+			<skill id="Polearm" value="170"/>
+			<skill id="Bow" value="0"/>
+			<skill id="Crossbow" value="0"/>
+			<skill id="Throwing" value="0"/>
+		</skills>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.twb_celtic_spear_1"/>
+				<equipment slot="Item1" id="Item.celtic_javelin"/>
+				<equipment slot="Item2" id="Item.celtic_scutum_2"/>
+				<equipment slot="Head" id="Item.phrygian_cap_3_tail"/>
+				<equipment slot="Cape" id="Item.TV_battania_cloak_q3"/>
+				<equipment slot="Body" id="Item.scorilo_leather_lino_2"/>
+				<equipment slot="Leg" id="Item.sturgia_boots_a"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.twb_celtic_spear_1"/>
+				<equipment slot="Item1" id="Item.celtic_javelin"/>
+				<equipment slot="Item2" id="Item.celtic_scutum_2"/>
+				<equipment slot="Head" id="Item.leather_studdedhelm"/>
+				<equipment slot="Cape" id="Item.TV_battania_cloak_q2"/>
+				<equipment slot="Body" id="Item.scorilo_leather_lino_2"/>
+				<equipment slot="Leg" id="Item.sturgia_boots_a"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.twb_celtic_spear_1"/>
+				<equipment slot="Item1" id="Item.celtic_javelin"/>
+				<equipment slot="Item2" id="Item.celtic_scutum_2"/>
+				<equipment slot="Head" id="Item.phrygian_cap_2_ears"/>
+				<equipment slot="Cape" id="Item.TV_battania_cloak_q3"/>
+				<equipment slot="Body" id="Item.scorilo_leather_lino_2"/>
+				<equipment slot="Leg" id="Item.sturgia_boots_a"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.twb_celtic_spear_1"/>
+				<equipment slot="Item1" id="Item.celtic_javelin"/>
+				<equipment slot="Item2" id="Item.celtic_scutum_2"/>
+				<equipment slot="Head" id="Item.leather_studdedhelm_over_thinhide"/>
+				<equipment slot="Cape" id="Item.TV_battania_cloak_q2"/>
+				<equipment slot="Body" id="Item.scorilo_leather_lino_2"/>
+				<equipment slot="Leg" id="Item.sturgia_boots_a"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+				<equipment slot="Item2" id="Item.throwing_stone"/>
+				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+
+
+	<!-- Scordisci Urban Elite Troops -->
+
+
+	<NPCCharacter id="scordisci_argoi_1"
+	default_group="Infantry"
+	level="21"
+	name="{=Scordisci Argoi I}Scordisci Argoi I"
+	occupation="Soldier"
+	is_basic_troop="true"
+	culture="Culture.empire">
+		<face>
+			<face_key_template value="BodyProperty.villager_empire"/>
+		</face>
+		<skills >
+			<skill id="Athletics" value="100"/>
+			<skill id="Riding" value="0"/>
+			<skill id="OneHanded" value="0"/>
+			<skill id="TwoHanded" value="0"/>
+			<skill id="Polearm" value="180"/>
+			<skill id="Bow" value="0"/>
+			<skill id="Crossbow" value="0"/>
+			<skill id="Throwing" value="0"/>
+		</skills>
+		<upgrade_targets>
+			<upgrade_target id="NPCCharacter.scordisci_argoi_2"/>
+		</upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.twb_celtic_spear_2"/>
+				<equipment slot="Item2" id="Item.celtic_scutum_2"/>
+				<equipment slot="Head" id="Item.battania_earmuff_helmet_b_brnz"/>
+				<equipment slot="Cape" id="Item.tv_battania_cloak_g"/>
+				<equipment slot="Body" id="Item.scorilo_leather_lino_1"/>
+				<equipment slot="Leg" id="Item.wrapped_leather_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.twb_celtic_spear_1"/>
+				<equipment slot="Item2" id="Item.celtic_oval_shield_2"/>
+				<equipment slot="Head" id="Item.battania_earmuff_helmet_a_brnz"/>
+				<equipment slot="Cape" id="Item.battania_civil_cape"/>
+				<equipment slot="Body" id="Item.scorilo_leather_lino_1"/>
+				<equipment slot="Leg" id="Item.wrapped_leather_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.twb_celtic_spear_2"/>
+				<equipment slot="Item2" id="Item.celtic_scutum_2"/>
+				<equipment slot="Head" id="Item.battania_earmuff_helmet_b_brnz"/>
+				<equipment slot="Cape" id="Item.tv_battania_cloak_g"/>
+				<equipment slot="Body" id="Item.scorilo_leather_lino_1"/>
+				<equipment slot="Leg" id="Item.wrapped_leather_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.twb_celtic_spear_1"/>
+				<equipment slot="Item2" id="Item.celtic_oval_shield"/>
+				<equipment slot="Head" id="Item.battania_earmuff_helmet_a_brnz"/>
+				<equipment slot="Cape" id="Item.battania_civil_cape"/>
+				<equipment slot="Body" id="Item.scorilo_leather_lino_1"/>
+				<equipment slot="Leg" id="Item.wrapped_leather_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+				<equipment slot="Item2" id="Item.throwing_stone"/>
+				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="scordisci_argoi_2"
+		default_group="Infantry"
+		level="26"
+		name="{=Scordisci Argoi II}Scordisci Argoi II"
+		occupation="Soldier"
+		culture="Culture.empire">
+		<face>
+			<face_key_template value="BodyProperty.villager_empire"/>
+		</face>
+		<skills >
+			<skill id="Athletics" value="100"/>
+			<skill id="Riding" value="0"/>
+			<skill id="OneHanded" value="0"/>
+			<skill id="TwoHanded" value="0"/>
+			<skill id="Polearm" value="220"/>
+			<skill id="Bow" value="0"/>
+			<skill id="Crossbow" value="0"/>
+			<skill id="Throwing" value="0"/>
+		</skills>
+		<upgrade_targets>
+			<upgrade_target id="NPCCharacter.scordisci_argoi_3"/>
+		</upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.twb_celtic_spear_2"/>
+				<equipment slot="Item2" id="Item.celtic_scutum_2"/>
+				<equipment slot="Head" id="Item.TV_battania_helmet_r"/>
+				<equipment slot="Cape" id="Item.tv_battania_cloak_g"/>
+				<equipment slot="Body" id="Item.scorilo_leather_lino_1"/>
+				<equipment slot="Leg" id="Item.wrapped_leather_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.twb_celtic_spear_1"/>
+				<equipment slot="Item2" id="Item.celtic_oval_shield_2"/>
+				<equipment slot="Head" id="Item.TV_battania_helmet_r2"/>
+				<equipment slot="Cape" id="Item.battania_civil_cape"/>
+				<equipment slot="Body" id="Item.scorilo_leather_lino_1"/>
+				<equipment slot="Leg" id="Item.wrapped_leather_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.twb_celtic_spear_2"/>
+				<equipment slot="Item2" id="Item.celtic_scutum_2"/>
+				<equipment slot="Head" id="Item.TV_battania_helmet_r"/>
+				<equipment slot="Cape" id="Item.tv_battania_cloak_g"/>
+				<equipment slot="Body" id="Item.scorilo_leather_lino_1"/>
+				<equipment slot="Leg" id="Item.wrapped_leather_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.twb_celtic_spear_1"/>
+				<equipment slot="Item2" id="Item.celtic_oval_shield"/>
+				<equipment slot="Head" id="Item.TV_battania_helmet_r2"/>
+				<equipment slot="Cape" id="Item.battania_civil_cape"/>
+				<equipment slot="Body" id="Item.scorilo_leather_lino_1"/>
+				<equipment slot="Leg" id="Item.wrapped_leather_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+				<equipment slot="Item2" id="Item.throwing_stone"/>
+				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="scordisci_argoi_3"
+		default_group="Infantry"
+		level="31"
+		name="{=Scordisci Argoi III}Scordisci Argoi III"
+		occupation="Soldier"
+		culture="Culture.empire">
+		<face>
+			<face_key_template value="BodyProperty.villager_empire"/>
+		</face>
+		<skills >
+			<skill id="Athletics" value="100"/>
+			<skill id="Riding" value="0"/>
+			<skill id="OneHanded" value="0"/>
+			<skill id="TwoHanded" value="0"/>
+			<skill id="Polearm" value="260"/>
+			<skill id="Bow" value="0"/>
+			<skill id="Crossbow" value="0"/>
+			<skill id="Throwing" value="0"/>
+		</skills>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.twb_celtic_spear_2"/>
+				<equipment slot="Item2" id="Item.celtic_scutum_2"/>
+				<equipment slot="Head" id="Item.TV_battania_helmet_b"/>
+				<equipment slot="Cape" id="Item.tv_battania_cloak_g"/>
+				<equipment slot="Body" id="Item.scorilo_leather_lino_1"/>
+				<equipment slot="Leg" id="Item.wrapped_leather_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.twb_celtic_spear_1"/>
+				<equipment slot="Item2" id="Item.celtic_oval_shield_2"/>
+				<equipment slot="Head" id="Item.TV_battania_helmet_r2"/>
+				<equipment slot="Cape" id="Item.battania_civil_cape"/>
+				<equipment slot="Body" id="Item.scorilo_leather_lino_1"/>
+				<equipment slot="Leg" id="Item.wrapped_leather_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.twb_celtic_spear_2"/>
+				<equipment slot="Item2" id="Item.celtic_scutum_2"/>
+				<equipment slot="Head" id="Item.TV_battania_helmet_b"/>
+				<equipment slot="Cape" id="Item.tv_battania_cloak_g"/>
+				<equipment slot="Body" id="Item.scorilo_leather_lino_1"/>
+				<equipment slot="Leg" id="Item.wrapped_leather_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.twb_celtic_spear_1"/>
+				<equipment slot="Item2" id="Item.celtic_oval_shield"/>
+				<equipment slot="Head" id="Item.TV_battania_helmet_r2"/>
+				<equipment slot="Cape" id="Item.battania_civil_cape"/>
+				<equipment slot="Body" id="Item.scorilo_leather_lino_1"/>
+				<equipment slot="Leg" id="Item.wrapped_leather_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+				<equipment slot="Item2" id="Item.throwing_stone"/>
+				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+	
+	
+	
+	
+    <!-- old Troops -->
     <NPCCharacter id="gallic_youth"
                   default_group="Infantry"
                   level="6"
@@ -306,7 +2883,7 @@
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.battania_2hsword_3_t3"/>
                 <equipment slot="Item1" id="Item.throwing_stone"/>
-                <equipment slot="Head" id="Item.wolfhelmet"/>
+                <equipment slot="Head" id="Item.AR_battania_lord_helmet_i"/>
                 <equipment slot="Body" id="Item.tv_battania_armor_c"/>
                 <equipment slot="Gloves" id="Item.lordly_padded_mitten"/>
                 <equipment slot="Leg" id="Item.TV_battania_boots_m"/>
@@ -315,7 +2892,7 @@
                 <equipment slot="Item0" id="Item.vlandia_2hsword_2_t5"/>
                 <equipment slot="Head" id="Item.AR_battania_lord_helmet_i"/>
                 <equipment slot="Cape" id="Item.battania_shoulder_strap"/>
-                <equipment slot="Body" id="Item.ao_durkhan_heavy_lamellar"/>
+                <equipment slot="Body" id="Item.tv_battania_armor_b"/>
                 <equipment slot="Gloves" id="Item.lordly_padded_mitten"/>
                 <equipment slot="Leg" id="Item.TV_battania_boots_q"/>
             </EquipmentRoster>
@@ -2672,7 +5249,7 @@
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.caledonian_maiden_scyth"/>
                 <equipment slot="Item1" id="Item.AR_imperial_heavy_javelin_t2"/>
-                <equipment slot="Head" id="Item.battania_fur_cap"/>
+                <equipment slot="Head" id="Item.leather_studdedhelm_over_thinhide"/>
                 <equipment slot="Cape" id="Item.battania_civil_cape"/>
                 <equipment slot="Body" id="Item.caledonian_tartan_dress_a"/>
                 <equipment slot="Leg" id="Item.simple_shoes"/>
@@ -2680,7 +5257,7 @@
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.caledonian_maiden_scyth"/>
                 <equipment slot="Item1" id="Item.AR_imperial_heavy_javelin_t2"/>
-                <equipment slot="Head" id="Item.battania_fur_helmet"/>
+                <equipment slot="Head" id="Item.AR_battania_helmet_v2"/>
                 <equipment slot="Cape" id="Item.ao_light_fur_shoulder"/>
                 <equipment slot="Body" id="Item.caledonian_tartan_dress_c"/>
                 <equipment slot="Leg" id="Item.simple_shoes"/>
@@ -2688,7 +5265,7 @@
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.caledonian_maiden_scyth"/>
                 <equipment slot="Item1" id="Item.AR_imperial_heavy_javelin_t2"/>
-                <equipment slot="Head" id="Item.battania_fur_cap"/>
+                <equipment slot="Head" id="Item.leather_studdedhelm_over_thinhide"/>
                 <equipment slot="Cape" id="Item.battania_civil_cape"/>
                 <equipment slot="Body" id="Item.caledonian_woodland_dress_b"/>
                 <equipment slot="Leg" id="Item.simple_shoes"/>
@@ -2696,7 +5273,7 @@
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.caledonian_maiden_scyth"/>
                 <equipment slot="Item1" id="Item.AR_imperial_heavy_javelin_t2"/>
-                <equipment slot="Head" id="Item.battania_fur_helmet"/>
+                <equipment slot="Head" id="Item.AR_battania_helmet_v2"/>
                 <equipment slot="Cape" id="Item.ao_light_fur_shoulder"/>
                 <equipment slot="Body" id="Item.caledonian_tartan_dress_c"/>
                 <equipment slot="Leg" id="Item.simple_shoes"/>
@@ -3693,7 +6270,7 @@
         </upgrade_targets>
         <Equipments>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.baltic_falx_sword_1_t2"/>
+                <equipment slot="Item0" id="Item.baltic_falx_1hsword_1_t2"/>
                 <equipment slot="Item1" id="Item.celtic_scutum_2"/>
                 <equipment slot="Cape" id="Item.battania_scarf_a"/>
                 <equipment slot="Body" id="Item.battania_light_armor_a"/>
@@ -3707,7 +6284,7 @@
                 <equipment slot="Leg" id="Item.TV_battania_boots_w"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.baltic_falx_sword_1_t2"/>
+                <equipment slot="Item0" id="Item.baltic_falx_1hsword_1_t2"/>
                 <equipment slot="Item1" id="Item.celtic_scutum_2"/>
                 <equipment slot="Cape" id="Item.battania_scarf_a"/>
                 <equipment slot="Body" id="Item.battania_light_armor_a"/>
@@ -3952,7 +6529,7 @@
         </upgrade_targets>
         <Equipments>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.baltic_falx_sword_1_t2"/>
+                <equipment slot="Item0" id="Item.baltic_falx_1hsword_1_t2"/>
                 <equipment slot="Item1" id="Item.celtic_scutum_2"/>
                 <equipment slot="Head" id="Item.battania_earmuff_helmet_b_brnz"/>
                 <equipment slot="Cape" id="Item.battania_scarf_a"/>
@@ -3968,7 +6545,7 @@
                 <equipment slot="Leg" id="Item.TV_battania_boots_w"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.baltic_falx_sword_1_t2"/>
+                <equipment slot="Item0" id="Item.baltic_falx_1hsword_1_t2"/>
                 <equipment slot="Item1" id="Item.celtic_scutum_2"/>
                 <equipment slot="Head" id="Item.battania_earmuff_helmet_b_brnz"/>
                 <equipment slot="Cape" id="Item.battania_scarf_a"/>
@@ -4135,7 +6712,7 @@
         </skills>
         <Equipments>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.baltic_falx_sword_1_t2"/>
+                <equipment slot="Item0" id="Item.baltic_falx_1hsword_1_t2"/>
                 <equipment slot="Item1" id="Item.celtic_scutum_2"/>
                 <equipment slot="Head" id="Item.battania_earmuff_helmet_b_brnz"/>
                 <equipment slot="Cape" id="Item.tv_battania_cloak_b"/>
@@ -4151,7 +6728,7 @@
                 <equipment slot="Leg" id="Item.TV_battania_boots_w"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <equipment slot="Item0" id="Item.baltic_falx_sword_1_t2"/>
+                <equipment slot="Item0" id="Item.baltic_falx_1hsword_1_t2"/>
                 <equipment slot="Item1" id="Item.celtic_scutum_2"/>
                 <equipment slot="Head" id="Item.battania_earmuff_helmet_b_brnz"/>
                 <equipment slot="Cape" id="Item.tv_battania_cloak_b"/>

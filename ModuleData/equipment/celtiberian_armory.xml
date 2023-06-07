@@ -48,7 +48,7 @@
     <Flags Civilian="true" />
   </Item>
   <!-- Celtiberian Weapons-->
-  <CraftedItem id="Phallic_javelin"
+  <CraftedItem id="phallic_javelin"
                name="{=Phallica}Phallic Javelin"
                crafting_template="Celtic_Javelin"
                culture="Culture.celtiberian"

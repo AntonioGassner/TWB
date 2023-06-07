@@ -979,10 +979,10 @@
             <skill id="Riding" value="0"/>
             <skill id="OneHanded" value="0"/>
             <skill id="TwoHanded" value="0"/>
-            <skill id="Polearm" value="40"/>
+            <skill id="Polearm" value="30"/>
             <skill id="Bow" value="0"/>
             <skill id="Crossbow" value="0"/>
-            <skill id="Throwing" value="50"/>
+            <skill id="Throwing" value="40"/>
         </skills>
         <upgrade_targets>
             <upgrade_target id="NPCCharacter.desert_bandits_raider"/>
@@ -1043,10 +1043,10 @@
             <skill id="Riding" value="0"/>
             <skill id="OneHanded" value="0"/>
             <skill id="TwoHanded" value="0"/>
-            <skill id="Polearm" value="50"/>
+            <skill id="Polearm" value="40"/>
             <skill id="Bow" value="0"/>
             <skill id="Crossbow" value="0"/>
-            <skill id="Throwing" value="60"/>
+            <skill id="Throwing" value="50"/>
         </skills>
         <upgrade_targets>
             <upgrade_target id="NPCCharacter.nomadic_tribal_raider"/>
@@ -1107,10 +1107,10 @@
             <skill id="Riding" value="120"/>
             <skill id="OneHanded" value="0"/>
             <skill id="TwoHanded" value="0"/>
-            <skill id="Polearm" value="50"/>
+            <skill id="Polearm" value="40"/>
             <skill id="Bow" value="0"/>
             <skill id="Crossbow" value="0"/>
-            <skill id="Throwing" value="60"/>
+            <skill id="Throwing" value="50"/>
         </skills>
         <Equipments>
             <EquipmentRoster>
@@ -1175,10 +1175,10 @@
             <skill id="Riding" value="0"/>
             <skill id="OneHanded" value="0"/>
             <skill id="TwoHanded" value="0"/>
-            <skill id="Polearm" value="70"/>
+            <skill id="Polearm" value="60"/>
             <skill id="Bow" value="0"/>
             <skill id="Crossbow" value="0"/>
-            <skill id="Throwing" value="80"/>
+            <skill id="Throwing" value="70"/>
         </skills>
         <upgrade_targets>
             <upgrade_target id="NPCCharacter.nomadic_chieftain"/>
@@ -1238,10 +1238,10 @@
             <skill id="Riding" value="0"/>
             <skill id="OneHanded" value="0"/>
             <skill id="TwoHanded" value="0"/>
-            <skill id="Polearm" value="100"/>
+            <skill id="Polearm" value="90"/>
             <skill id="Bow" value="0"/>
             <skill id="Crossbow" value="0"/>
-            <skill id="Throwing" value="115"/>
+            <skill id="Throwing" value="100"/>
         </skills>
         <Equipments>
             <EquipmentRoster>

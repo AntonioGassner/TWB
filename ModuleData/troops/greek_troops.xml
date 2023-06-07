@@ -5,8 +5,2739 @@
     <!-- Makedon Troops -->
     <!-- Epirus Troops -->
     <!-- #Generic Greek -->
+	<!-- #Cyrenica Greek -->
     <!-- Greek Faction List End -->
-    <!-- Syracuse Troops -->
+
+	<!-- Greek Rural Troops -->
+	<NPCCharacter id="greek_regular_1"
+			  default_group="Infantry"
+			  level="6"
+			  name="{=Hellenoi Hoplitai I}Hellenoi Hoplitai I"
+			  occupation="Soldier"
+			  is_basic_troop="true"
+			  culture="Culture.greek">
+		<face>
+			<face_key_template value="BodyProperty.fighter_empire"/>
+		</face>
+		<skills>
+			<skill id="Athletics" value="90"/>
+			<skill id="Riding" value="25"/>
+			<skill id="OneHanded" value="50"/>
+			<skill id="TwoHanded" value="25"/>
+			<skill id="Polearm" value="50"/>
+			<skill id="Bow" value="40"/>
+			<skill id="Crossbow" value="40"/>
+			<skill id="Throwing" value="40"/>
+		</skills>
+		<upgrade_targets>
+			<upgrade_target id="NPCCharacter.greek_regular_2"/>
+			<upgrade_target id="NPCCharacter.greek_peltast_2"/>
+		</upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.pelta_twb_shield_2"/>
+				<equipment slot="Head" id="Item.petasos_1"/>
+				<equipment slot="Body" id="Item.chiton_girdle_1_1"/>
+				<equipment slot="Leg" id="Item.sandals_1"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.round_wood_pelta_3"/>
+				<equipment slot="Head" id="Item.petasos_1"/>
+				<equipment slot="Body" id="Item.exomis_1_2"/>
+				<equipment slot="Leg" id="Item.sandals_1"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.hoplon_b_worn"/>
+				<equipment slot="Body" id="Item.chiton_no_sleeves_1_1"/>
+				<equipment slot="Leg" id="Item.sandals_1"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.pelta_twb_shield_2"/>
+				<equipment slot="Body" id="Item.perizoma_1_1"/>
+				<equipment slot="Leg" id="Item.sandals_1"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+				<equipment slot="Item2" id="Item.throwing_stone"/>
+				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="greek_regular_2"
+			  default_group="Infantry"
+			  level="11"
+			  name="{=Hellenoi Hoplitai II}Hellenoi Hoplitai II"
+			  occupation="Soldier"
+			  culture="Culture.greek">
+		<face>
+			<face_key_template value="BodyProperty.fighter_empire"/>
+		</face>
+		<skills>
+			<skill id="Athletics" value="130"/>
+			<skill id="Riding" value="25"/>
+			<skill id="OneHanded" value="90"/>
+			<skill id="TwoHanded" value="25"/>
+			<skill id="Polearm" value="90"/>
+			<skill id="Bow" value="25"/>
+			<skill id="Crossbow" value="25"/>
+			<skill id="Throwing" value="25"/>
+		</skills>
+		<upgrade_targets>
+			<upgrade_target id="NPCCharacter.greek_regular_3"/>
+		</upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.hoplon_b_worn"/>
+				<equipment slot="Head" id="Item.pilos_1"/>
+				<equipment slot="Body" id="Item.round_plate_tunic"/>
+				<equipment slot="Leg" id="Item.bronze_greaves_1_left"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.hoplon_b_worn"/>
+				<equipment slot="Head" id="Item.petasos_1"/>
+				<equipment slot="Body" id="Item.round_plate_tunic"/>
+				<equipment slot="Leg" id="Item.sandals_1"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.round_wood_pelta_3"/>
+				<equipment slot="Head" id="Item.petasos_2"/>
+				<equipment slot="Body" id="Item.round_plate_tunic"/>
+				<equipment slot="Leg" id="Item.bronze_greaves_1_left"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.round_wood_pelta_3"/>
+				<equipment slot="Head" id="Item.pilos_1"/>
+				<equipment slot="Body" id="Item.round_plate_tunic"/>
+				<equipment slot="Leg" id="Item.sandals_1"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+				<equipment slot="Item2" id="Item.throwing_stone"/>
+				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="greek_regular_3"
+			  default_group="Infantry"
+			  level="16"
+			  name="{=Hellenoi Hoplitai III}Hellenoi Hoplitai III"
+			  occupation="Soldier"
+			  culture="Culture.greek">
+		<face>
+			<face_key_template value="BodyProperty.fighter_empire"/>
+		</face>
+		<skills>
+			<skill id="Athletics" value="100"/>
+			<skill id="Riding" value="25"/>
+			<skill id="OneHanded" value="130"/>
+			<skill id="TwoHanded" value="25"/>
+			<skill id="Polearm" value="130"/>
+			<skill id="Bow" value="25"/>
+			<skill id="Crossbow" value="25"/>
+			<skill id="Throwing" value="25"/>
+		</skills>
+
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.hoplon_twb_6"/>
+				<equipment slot="Head" id="Item.boeotian_1"/>
+				<equipment slot="Body" id="Item.hayster_lino_7"/>
+				<equipment slot="Leg" id="Item.sandals_1_bronze_greaves_left"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.hoplon_twb_6"/>
+				<equipment slot="Head" id="Item.pilos_3_guarded"/>
+				<equipment slot="Body" id="Item.hayster_lino_5"/>
+				<equipment slot="Leg" id="Item.sandals_1_bronze_greaves_left"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.hoplon_twb_6"/>
+				<equipment slot="Head" id="Item.chalcidian_1"/>
+				<equipment slot="Body" id="Item.hayster_lino_3"/>
+				<equipment slot="Leg" id="Item.sandals_1_bronze_greaves_left"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.hoplon_twb_6"/>
+				<equipment slot="Head" id="Item.corinthian_4_plain"/>
+				<equipment slot="Body" id="Item.hayster_lino_2"/>
+				<equipment slot="Leg" id="Item.sandals_1_bronze_greaves_left"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+				<equipment slot="Item2" id="Item.throwing_stone"/>
+				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="greek_peltast_2"
+			  default_group="Ranged"
+			  level="11"
+			  name="{=Hellenoi Akontistes II}Hellenoi Akontistes II"
+			  occupation="Soldier"
+			  culture="Culture.greek">
+		<face>
+			<face_key_template value="BodyProperty.fighter_empire"/>
+		</face>
+		<skills>
+			<skill id="Athletics" value="150"/>
+			<skill id="Riding" value="25"/>
+			<skill id="OneHanded" value="90"/>
+			<skill id="TwoHanded" value="25"/>
+			<skill id="Polearm" value="90"/>
+			<skill id="Bow" value="25"/>
+			<skill id="Crossbow" value="25"/>
+			<skill id="Throwing" value="90"/>
+		</skills>
+		<upgrade_targets>
+			<upgrade_target id="NPCCharacter.greek_peltast_3"/>
+			<upgrade_target id="NPCCharacter.greek_slinger_3"/>
+		</upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.gladius_b"/>
+				<equipment slot="Item1" id="Item.pelta_a"/>
+				<equipment slot="Item2" id="Item.western_javelin_1_t2"/>
+				<equipment slot="Head" id="Item.petasos_1"/>
+				<equipment slot="Body" id="Item.chiton_no_sleeves_1_1"/>
+				<equipment slot="Leg" id="Item.sandals_1"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
+				<equipment slot="Item1" id="Item.pelta_b"/>
+				<equipment slot="Item2" id="Item.western_javelin_1_t2"/>
+				<equipment slot="Head" id="Item.AR_battania_helmet_w2"/>
+				<equipment slot="Cape" id="Item.round_chestpiece"/>
+				<equipment slot="Body" id="Item.chiton_girdle_1_2"/>
+				<equipment slot="Leg" id="Item.sandals_1"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.battania_mace_1_t2"/>
+				<equipment slot="Item1" id="Item.battania_targe_b"/>
+				<equipment slot="Item2" id="Item.western_javelin_1_t2"/>
+				<equipment slot="Head" id="Item.phrygian_cap_3_tail"/>
+				<equipment slot="Body" id="Item.battania_light_armor_e"/>
+				<equipment slot="Leg" id="Item.sandals_1"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.imperial_spear_t2"/>
+				<equipment slot="Item1" id="Item.pelta_b"/>
+				<equipment slot="Item2" id="Item.western_javelin_1_t2"/>
+				<equipment slot="Head" id="Item.pilos_1"/>
+				<equipment slot="Body" id="Item.linothorax_3_no_pteryges"/>
+				<equipment slot="Gloves" id="Item.linothorax_chiton_ua"/>
+				<equipment slot="Leg" id="Item.sandals_1"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Body" id="Item.chiton_sleeves_1"/>
+				<equipment slot="Leg" id="Item.sandals_1"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="greek_peltast_3"
+		  default_group="Ranged"
+		  level="16"
+		  name="{=Hellenoi Akontistes III}Hellenoi Akontistes III"
+		  occupation="Soldier"
+		  culture="Culture.greek">
+		<face>
+			<face_key_template value="BodyProperty.fighter_empire"/>
+		</face>
+		<skills>
+			<skill id="Athletics" value="150"/>
+			<skill id="Riding" value="25"/>
+			<skill id="OneHanded" value="140"/>
+			<skill id="TwoHanded" value="25"/>
+			<skill id="Polearm" value="140"/>
+			<skill id="Bow" value="25"/>
+			<skill id="Crossbow" value="25"/>
+			<skill id="Throwing" value="140"/>
+		</skills>
+
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.gladius_b"/>
+				<equipment slot="Item1" id="Item.pelta_a"/>
+				<equipment slot="Item2" id="Item.western_javelin_1_t2"/>
+				<equipment slot="Head" id="Item.petasos_1"/>
+				<equipment slot="Body" id="Item.round_plate_tunic"/>
+				<equipment slot="Leg" id="Item.sandals_1"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
+				<equipment slot="Item1" id="Item.pelta_b"/>
+				<equipment slot="Item2" id="Item.western_javelin_1_t2"/>
+				<equipment slot="Head" id="Item.AR_battania_helmet_w2"/>
+				<equipment slot="Body" id="Item.round_plate_tunic"/>
+				<equipment slot="Leg" id="Item.sandals_1"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.battania_mace_1_t2"/>
+				<equipment slot="Item1" id="Item.battania_targe_b"/>
+				<equipment slot="Item2" id="Item.western_javelin_1_t2"/>
+				<equipment slot="Head" id="Item.phrygian_cap_3_tail"/>
+				<equipment slot="Body" id="Item.round_plate_tunic"/>
+				<equipment slot="Leg" id="Item.sandals_1"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.imperial_spear_t2"/>
+				<equipment slot="Item1" id="Item.pelta_b"/>
+				<equipment slot="Item2" id="Item.western_javelin_1_t2"/>
+				<equipment slot="Head" id="Item.pilos_1"/>
+				<equipment slot="Body" id="Item.round_plate_tunic"/>
+				<equipment slot="Gloves" id="Item.linothorax_chiton_ua"/>
+				<equipment slot="Leg" id="Item.sandals_1"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Body" id="Item.chiton_sleeves_1"/>
+				<equipment slot="Leg" id="Item.sandals_1"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="greek_slinger_3"
+                  default_group="Ranged"
+                  level="16"
+                  name="{=Hellenoi Sphendonitai III}Hellenoi Sphendonitai III"
+                  occupation="Soldier"
+                  culture="Culture.greek">
+		<face>
+			<face_key_template value="BodyProperty.fighter_empire"/>
+		</face>
+		<skills>
+			<skill id="Athletics" value="150"/>
+			<skill id="Riding" value="25"/>
+			<skill id="OneHanded" value="130"/>
+			<skill id="TwoHanded" value="25"/>
+			<skill id="Polearm" value="25"/>
+			<skill id="Bow" value="25"/>
+			<skill id="Crossbow" value="130"/>
+			<skill id="Throwing" value="25"/>
+		</skills>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.AR_sling_b"/>
+				<equipment slot="Item1" id="Item.AR_sling_bullets_b"/>
+				<equipment slot="Item2" id="Item.xiphos_a"/>
+				<equipment slot="Item3" id="Item.battania_targe_b"/>
+				<equipment slot="Head" id="Item.pilos_1"/>
+				<equipment slot="Body" id="Item.round_plate_tunic"/>
+				<equipment slot="Leg" id="Item.sandals_1"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.AR_sling_b"/>
+				<equipment slot="Item1" id="Item.AR_sling_bullets_b"/>
+				<equipment slot="Item2" id="Item.xiphos_a"/>
+				<equipment slot="Item3" id="Item.battania_targe_b"/>
+				<equipment slot="Head" id="Item.petasos_1"/>
+				<equipment slot="Body" id="Item.round_plate_tunic"/>
+				<equipment slot="Leg" id="Item.sandals_1"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.AR_sling_b"/>
+				<equipment slot="Item1" id="Item.AR_sling_bullets_b"/>
+				<equipment slot="Item2" id="Item.xiphos_a"/>
+				<equipment slot="Item3" id="Item.battania_targe_b"/>
+				<equipment slot="Head" id="Item.petasos_1"/>
+				<equipment slot="Body" id="Item.round_plate_tunic"/>
+				<equipment slot="Leg" id="Item.sandals_1"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.AR_sling_b"/>
+				<equipment slot="Item1" id="Item.AR_sling_bullets_b"/>
+				<equipment slot="Item2" id="Item.xiphos_a"/>
+				<equipment slot="Item3" id="Item.battania_targe_b"/>
+				<equipment slot="Head" id="Item.pilos_1"/>
+				<equipment slot="Body" id="Item.round_plate_tunic"/>
+				<equipment slot="Leg" id="Item.sandals_1"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+				<equipment slot="Item2" id="Item.throwing_stone"/>
+				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+
+	<!-- Greek Rural Elite Troops -->
+
+	<NPCCharacter id="greek_cavalry_1"
+			  default_group="Cavalry"
+			  level="16"
+			  name="{=Hellenoi Hipeis I}Hellenoi Hipeis I"
+			  occupation="Soldier"
+			  culture="Culture.greek">
+		<face>
+			<face_key_template value="BodyProperty.fighter_empire"/>
+		</face>
+		<skills>
+			<skill id="Athletics" value="90"/>
+			<skill id="Riding" value="120"/>
+			<skill id="OneHanded" value="120"/>
+			<skill id="TwoHanded" value="50"/>
+			<skill id="Polearm" value="110"/>
+			<skill id="Bow" value="50"/>
+			<skill id="Crossbow" value="50"/>
+			<skill id="Throwing" value="50"/>
+		</skills>
+		<upgrade_targets>
+			<upgrade_target id="NPCCharacter.greek_cavalry_2"/>
+		</upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.hoplon_b_worn"/>
+				<equipment slot="Head" id="Item.attic_helm_1"/>
+				<equipment slot="Body" id="Item.linothorax_sleeved"/>
+				<equipment slot="Leg" id="Item.bronze_greaves_1_right"/>
+				<equipment slot="Horse" id="Item.empire_horse_tournament"/>
+				<equipment slot="HorseHarness" id="Item.saddle_of_aeneas"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.hoplon_b"/>
+				<equipment slot="Head" id="Item.pilos_4_crested_guarded"/>
+				<equipment slot="Body" id="Item.hayster_lino_2"/>
+				<equipment slot="Horse" id="Item.empire_horse_tournament"/>
+				<equipment slot="HorseHarness" id="Item.saddle_of_aeneas"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.hoplon_d"/>
+				<equipment slot="Head" id="Item.boeotian_3"/>
+				<equipment slot="Body" id="Item.linothorax_sleeved"/>
+				<equipment slot="Leg" id="Item.armoured_legs_1_7_greaves"/>
+				<equipment slot="Horse" id="Item.empire_horse_tournament"/>
+				<equipment slot="HorseHarness" id="Item.saddle_of_aeneas"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.hoplon_e"/>
+				<equipment slot="Head" id="Item.boeotian_4_1_argosi"/>
+				<equipment slot="Body" id="Item.hayster_lino_5"/>
+				<equipment slot="Leg" id="Item.bronze_greaves_1_right"/>
+				<equipment slot="Horse" id="Item.empire_horse_tournament"/>
+				<equipment slot="HorseHarness" id="Item.saddle_of_aeneas"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+				<equipment slot="Item2" id="Item.throwing_stone"/>
+				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="greek_cavalry_2"
+			  default_group="Cavalry"
+			  level="21"
+			  name="{=Hellenoi Hipeis II}Hellenoi Hipeis II"
+			  occupation="Soldier"
+			  culture="Culture.greek">
+		<face>
+			<face_key_template value="BodyProperty.fighter_empire"/>
+		</face>
+		<skills>
+			<skill id="Athletics" value="90"/>
+			<skill id="Riding" value="120"/>
+			<skill id="OneHanded" value="170"/>
+			<skill id="TwoHanded" value="50"/>
+			<skill id="Polearm" value="160"/>
+			<skill id="Bow" value="50"/>
+			<skill id="Crossbow" value="50"/>
+			<skill id="Throwing" value="50"/>
+		</skills>
+		<upgrade_targets>
+			<upgrade_target id="NPCCharacter.greek_cavalry_3"/>
+		</upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.hoplon_b_worn"/>
+				<equipment slot="Head" id="Item.attic_helm_1"/>
+				<equipment slot="Body" id="Item.linothorax_sleeved"/>
+				<equipment slot="Leg" id="Item.bronze_greaves_1"/>
+				<equipment slot="Horse" id="Item.empire_horse_tournament"/>
+				<equipment slot="HorseHarness" id="Item.saddle_of_aeneas"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.hoplon_b"/>
+				<equipment slot="Head" id="Item.pilos_4_crested_guarded"/>
+				<equipment slot="Body" id="Item.hayster_lino_7"/>
+				<equipment slot="Leg" id="Item.sandals_1_bronze_greaves_dual"/>
+				<equipment slot="Horse" id="Item.empire_horse_tournament"/>
+				<equipment slot="HorseHarness" id="Item.saddle_of_aeneas"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.hoplon_d"/>
+				<equipment slot="Head" id="Item.boeotian_3"/>
+				<equipment slot="Body" id="Item.linothorax_sleeved"/>
+				<equipment slot="Leg" id="Item.bronze_greaves_1"/>
+				<equipment slot="Horse" id="Item.empire_horse_tournament"/>
+				<equipment slot="HorseHarness" id="Item.saddle_of_aeneas"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.hoplon_e"/>
+				<equipment slot="Head" id="Item.boeotian_4_1_argosi"/>
+				<equipment slot="Body" id="Item.hayster_lino_5"/>
+				<equipment slot="Leg" id="Item.sandals_1_bronze_greaves_dual"/>
+				<equipment slot="Horse" id="Item.empire_horse_tournament"/>
+				<equipment slot="HorseHarness" id="Item.saddle_of_aeneas"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+				<equipment slot="Item2" id="Item.throwing_stone"/>
+				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="greek_cavalry_3"
+			  default_group="Cavalry"
+			  level="26"
+			  name="{=Hellenoi Hipeis III}Hellenoi Hipeis III"
+			  occupation="Soldier"
+			  culture="Culture.greek">
+		<face>
+			<face_key_template value="BodyProperty.fighter_empire"/>
+		</face>
+		<skills>
+			<skill id="Athletics" value="90"/>
+			<skill id="Riding" value="120"/>
+			<skill id="OneHanded" value="210"/>
+			<skill id="TwoHanded" value="50"/>
+			<skill id="Polearm" value="200"/>
+			<skill id="Bow" value="50"/>
+			<skill id="Crossbow" value="50"/>
+			<skill id="Throwing" value="50"/>
+		</skills>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.hoplon_b_worn"/>
+				<equipment slot="Head" id="Item.attic_helm_1"/>
+				<equipment slot="Body" id="Item.linothorax_sleeved"/>
+				<equipment slot="Leg" id="Item.sandals_1_bronze_greaves_dual"/>
+				<equipment slot="Horse" id="Item.empire_horse_tournament"/>
+				<equipment slot="HorseHarness" id="Item.saddle_of_aeneas"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.hoplon_b"/>
+				<equipment slot="Head" id="Item.pilos_4_crested_guarded"/>
+				<equipment slot="Body" id="Item.hayster_lino_7"/>
+				<equipment slot="Leg" id="Item.sandals_1_bronze_greaves_dual"/>
+				<equipment slot="Horse" id="Item.empire_horse_tournament"/>
+				<equipment slot="HorseHarness" id="Item.saddle_of_aeneas"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.hoplon_d"/>
+				<equipment slot="Head" id="Item.boeotian_3"/>
+				<equipment slot="Body" id="Item.linothorax_sleeved"/>
+				<equipment slot="Leg" id="Item.sandals_1_bronze_greaves_dual"/>
+				<equipment slot="Horse" id="Item.empire_horse_tournament"/>
+				<equipment slot="HorseHarness" id="Item.saddle_of_aeneas"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.hoplon_e"/>
+				<equipment slot="Head" id="Item.boeotian_4_1_argosi"/>
+				<equipment slot="Body" id="Item.hayster_lino_5"/>
+				<equipment slot="Leg" id="Item.sandals_1_bronze_greaves_dual"/>
+				<equipment slot="Horse" id="Item.empire_horse_tournament"/>
+				<equipment slot="HorseHarness" id="Item.saddle_of_aeneas"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+				<equipment slot="Item2" id="Item.throwing_stone"/>
+				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+
+
+	<!-- Massalia Rural Troops -->
+	
+	
+	<NPCCharacter id="massaloi_peltasts_1"
+		default_group="Infantry"
+		level="6"
+		name="{=Massaloi Peltasts I}Massaloi Peltasts I"
+		occupation="Soldier"
+		is_basic_troop="true"
+		culture="Culture.massilia">
+		<face>
+			<face_key_template value="BodyProperty.villager_massilia"/>
+		</face>
+		<skills >
+			<skill id="Athletics" value="140"/>
+			<skill id="Riding" value="0"/>
+			<skill id="OneHanded" value="30"/>
+			<skill id="TwoHanded" value="0"/>
+			<skill id="Polearm" value="50"/>
+			<skill id="Bow" value="0"/>
+			<skill id="Crossbow" value="0"/>
+			<skill id="Throwing" value="50"/>
+		</skills>
+		<upgrade_targets>
+			<upgrade_target id="NPCCharacter.massaloi_slinger_1"/>
+			<upgrade_target id="NPCCharacter.massaloi_peltasts_2"/>
+		</upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.twb_celtic_spear_4"/>
+				<equipment slot="Item1" id="Item.AR_crude_javelin"/>
+				<equipment slot="Item2" id="Item.AR_crude_javelin"/>
+				<equipment slot="Item3" id="Item.pelta_a"/>
+				<equipment slot="Head" id="Item.petasos_1"/>
+				<equipment slot="Cape" id="Item.a_battania_cloak_a"/>
+				<equipment slot="Body" id="Item.battania_civil_a"/>
+				<equipment slot="Leg" id="Item.posthumus_1"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.twb_celtic_spear_4"/>
+				<equipment slot="Item1" id="Item.AR_crude_javelin"/>
+				<equipment slot="Item2" id="Item.AR_crude_javelin"/>
+				<equipment slot="Item3" id="Item.pelta_b"/>
+				<equipment slot="Head" id="Item.petasos_2"/>
+				<equipment slot="Body" id="Item.chiton_sleeves_1"/>
+				<equipment slot="Leg" id="Item.posthumus_1"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.twb_celtic_spear_4"/>
+				<equipment slot="Item1" id="Item.AR_crude_javelin"/>
+				<equipment slot="Item2" id="Item.AR_crude_javelin"/>
+				<equipment slot="Item3" id="Item.pelta_a"/>
+				<equipment slot="Head" id="Item.petasos_1"/>
+				<equipment slot="Cape" id="Item.ao_generic_short_cape"/>
+				<equipment slot="Body" id="Item.battania_civil_a"/>
+				<equipment slot="Leg" id="Item.posthumus_1"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.twb_celtic_spear_4"/>
+				<equipment slot="Item1" id="Item.AR_crude_javelin"/>
+				<equipment slot="Item2" id="Item.AR_crude_javelin"/>
+				<equipment slot="Item3" id="Item.pelta_b"/>
+				<equipment slot="Head" id="Item.petasos_2"/>
+				<equipment slot="Body" id="Item.chiton_sleeves_1"/>
+				<equipment slot="Leg" id="Item.posthumus_1"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+				<equipment slot="Item2" id="Item.throwing_stone"/>
+				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="massaloi_slinger_1"
+		default_group="Ranged"
+		level="11"
+		name="{=Massaloi Slingers I}Massaloi Slingers I"
+		occupation="Soldier"
+		culture="Culture.massilia">
+		<face>
+			<face_key_template value="BodyProperty.villager_massilia"/>
+		</face>
+		<skills >
+			<skill id="Athletics" value="140"/>
+			<skill id="Riding" value="0"/>
+			<skill id="OneHanded" value="90"/>
+			<skill id="TwoHanded" value="0"/>
+			<skill id="Polearm" value="70"/>
+			<skill id="Bow" value="0"/>
+			<skill id="Crossbow" value="90"/>
+			<skill id="Throwing" value="0"/>
+		</skills>
+		<upgrade_targets>
+			<upgrade_target id="NPCCharacter.massaloi_slinger_2"/>
+		</upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.kopis_a"/>
+				<equipment slot="Item1" id="Item.AR_sling_b"/>
+				<equipment slot="Item2" id="Item.AR_sling_bullets_b2"/>
+				<equipment slot="Head" id="Item.petasos_1"/>
+				<equipment slot="Cape" id="Item.a_battania_cloak_a"/>
+				<equipment slot="Body" id="Item.battania_civil_a"/>
+				<equipment slot="Leg" id="Item.posthumus_1"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.hans_celtic_sword"/>
+				<equipment slot="Item1" id="Item.AR_sling_b"/>
+				<equipment slot="Item2" id="Item.AR_sling_bullets_b2"/>
+				<equipment slot="Head" id="Item.petasos_2"/>
+				<equipment slot="Body" id="Item.chiton_sleeves_1"/>
+				<equipment slot="Leg" id="Item.posthumus_1"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.kopis_a"/>
+				<equipment slot="Item1" id="Item.AR_sling_b"/>
+				<equipment slot="Item2" id="Item.AR_sling_bullets_b2"/>
+				<equipment slot="Head" id="Item.petasos_1"/>
+				<equipment slot="Cape" id="Item.ao_generic_short_cape"/>
+				<equipment slot="Body" id="Item.battania_civil_a"/>
+				<equipment slot="Leg" id="Item.posthumus_1"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.hans_celtic_sword"/>
+				<equipment slot="Item1" id="Item.AR_sling_b"/>
+				<equipment slot="Item2" id="Item.AR_sling_bullets_b2"/>
+				<equipment slot="Head" id="Item.petasos_2"/>
+				<equipment slot="Body" id="Item.chiton_sleeves_1"/>
+				<equipment slot="Leg" id="Item.posthumus_1"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+				<equipment slot="Item2" id="Item.throwing_stone"/>
+				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="massaloi_peltasts_2"
+		default_group="Infantry"
+		level="11"
+		name="{=Massaloi Peltasts II}Massaloi Peltasts II"
+		occupation="Soldier"
+		culture="Culture.massilia">
+		<face>
+			<face_key_template value="BodyProperty.villager_massilia"/>
+		</face>
+		<skills >
+			<skill id="Athletics" value="140"/>
+			<skill id="Riding" value="0"/>
+			<skill id="OneHanded" value="70"/>
+			<skill id="TwoHanded" value="0"/>
+			<skill id="Polearm" value="90"/>
+			<skill id="Bow" value="0"/>
+			<skill id="Crossbow" value="0"/>
+			<skill id="Throwing" value="90"/>
+		</skills>
+		<upgrade_targets>
+			<upgrade_target id="NPCCharacter.massaloi_peltasts_3"/>
+		</upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.twb_celtic_spear_3"/>
+				<equipment slot="Item1" id="Item.AR_crude_javelin"/>
+				<equipment slot="Item2" id="Item.celtic_javelin"/>
+				<equipment slot="Item3" id="Item.pelta_a"/>
+				<equipment slot="Head" id="Item.petasos_1"/>
+				<equipment slot="Cape" id="Item.a_battania_cloak_a"/>
+				<equipment slot="Body" id="Item.celtic_round_plate_1"/>
+				<equipment slot="Leg" id="Item.posthumus_1"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.twb_celtic_spear_3"/>
+				<equipment slot="Item1" id="Item.AR_crude_javelin"/>
+				<equipment slot="Item2" id="Item.celtic_javelin"/>
+				<equipment slot="Item3" id="Item.pelta_b"/>
+				<equipment slot="Head" id="Item.petasos_2"/>
+				<equipment slot="Body" id="Item.round_plate_tunic"/>
+				<equipment slot="Leg" id="Item.posthumus_1"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.twb_celtic_spear_3"/>
+				<equipment slot="Item1" id="Item.AR_crude_javelin"/>
+				<equipment slot="Item2" id="Item.celtic_javelin"/>
+				<equipment slot="Item3" id="Item.pelta_a"/>
+				<equipment slot="Head" id="Item.petasos_1"/>
+				<equipment slot="Cape" id="Item.ao_generic_short_cape"/>
+				<equipment slot="Body" id="Item.celtic_round_plate_1"/>
+				<equipment slot="Leg" id="Item.posthumus_1"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.twb_celtic_spear_3"/>
+				<equipment slot="Item1" id="Item.AR_crude_javelin"/>
+				<equipment slot="Item2" id="Item.celtic_javelin"/>
+				<equipment slot="Item3" id="Item.pelta_b"/>
+				<equipment slot="Head" id="Item.petasos_2"/>
+				<equipment slot="Body" id="Item.round_plate_tunic"/>
+				<equipment slot="Leg" id="Item.posthumus_1"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+				<equipment slot="Item2" id="Item.throwing_stone"/>
+				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="massaloi_peltasts_3"
+		default_group="Infantry"
+		level="16"
+		name="{=Massaloi Peltasts III}Massaloi Peltasts III"
+		occupation="Soldier"
+		culture="Culture.massilia">
+		<face>
+			<face_key_template value="BodyProperty.villager_massilia"/>
+		</face>
+		<skills >
+			<skill id="Athletics" value="140"/>
+			<skill id="Riding" value="0"/>
+			<skill id="OneHanded" value="110"/>
+			<skill id="TwoHanded" value="0"/>
+			<skill id="Polearm" value="130"/>
+			<skill id="Bow" value="0"/>
+			<skill id="Crossbow" value="0"/>
+			<skill id="Throwing" value="130"/>
+		</skills>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.twb_celtic_spear_3"/>
+				<equipment slot="Item1" id="Item.AR_crude_javelin"/>
+				<equipment slot="Item2" id="Item.celtic_javelin"/>
+				<equipment slot="Item3" id="Item.pelta_a"/>
+				<equipment slot="Head" id="Item.battania_earmuff_helmet_b_brnz"/>
+				<equipment slot="Cape" id="Item.a_battania_cloak_a"/>
+				<equipment slot="Body" id="Item.celtic_round_plate_1"/>
+				<equipment slot="Leg" id="Item.posthumus_1"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.twb_celtic_spear_3"/>
+				<equipment slot="Item1" id="Item.AR_crude_javelin"/>
+				<equipment slot="Item2" id="Item.celtic_javelin"/>
+				<equipment slot="Item3" id="Item.pelta_b"/>
+				<equipment slot="Head" id="Item.chalcidian_1"/>
+				<equipment slot="Body" id="Item.round_plate_tunic"/>
+				<equipment slot="Leg" id="Item.posthumus_1"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.twb_celtic_spear_3"/>
+				<equipment slot="Item1" id="Item.AR_crude_javelin"/>
+				<equipment slot="Item2" id="Item.celtic_javelin"/>
+				<equipment slot="Item3" id="Item.pelta_a"/>
+				<equipment slot="Head" id="Item.battania_earmuff_helmet_b_brnz"/>
+				<equipment slot="Cape" id="Item.ao_generic_short_cape"/>
+				<equipment slot="Body" id="Item.celtic_round_plate_1"/>
+				<equipment slot="Leg" id="Item.posthumus_1"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.twb_celtic_spear_3"/>
+				<equipment slot="Item1" id="Item.AR_crude_javelin"/>
+				<equipment slot="Item2" id="Item.celtic_javelin"/>
+				<equipment slot="Item3" id="Item.pelta_b"/>
+				<equipment slot="Head" id="Item.chalcidian_1"/>
+				<equipment slot="Body" id="Item.round_plate_tunic"/>
+				<equipment slot="Leg" id="Item.posthumus_1"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+				<equipment slot="Item2" id="Item.throwing_stone"/>
+				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="massaloi_slinger_2"
+		default_group="Ranged"
+		level="16"
+		name="{=Massaloi Slinger II}Massaloi Slinger II"
+		occupation="Soldier"
+		culture="Culture.massilia">
+		<face>
+			<face_key_template value="BodyProperty.villager_massilia"/>
+		</face>
+		<skills >
+			<skill id="Athletics" value="140"/>
+			<skill id="Riding" value="0"/>
+			<skill id="OneHanded" value="130"/>
+			<skill id="TwoHanded" value="0"/>
+			<skill id="Polearm" value="110"/>
+			<skill id="Bow" value="0"/>
+			<skill id="Crossbow" value="130"/>
+			<skill id="Throwing" value="0"/>
+		</skills>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.kopis_a"/>
+				<equipment slot="Item1" id="Item.AR_sling_b"/>
+				<equipment slot="Item2" id="Item.AR_sling_bullets_b2"/>
+				<equipment slot="Head" id="Item.petasos_1"/>
+				<equipment slot="Cape" id="Item.a_battania_cloak_a"/>
+				<equipment slot="Body" id="Item.celtic_round_plate_1"/>
+				<equipment slot="Leg" id="Item.posthumus_1"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.hans_celtic_sword"/>
+				<equipment slot="Item1" id="Item.AR_sling_b"/>
+				<equipment slot="Item2" id="Item.AR_sling_bullets_b2"/>
+				<equipment slot="Head" id="Item.petasos_2"/>
+				<equipment slot="Body" id="Item.round_plate_tunic"/>
+				<equipment slot="Leg" id="Item.posthumus_1"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.kopis_a"/>
+				<equipment slot="Item1" id="Item.AR_sling_b"/>
+				<equipment slot="Item2" id="Item.AR_sling_bullets_b2"/>
+				<equipment slot="Head" id="Item.petasos_1"/>
+				<equipment slot="Cape" id="Item.ao_generic_short_cape"/>
+				<equipment slot="Body" id="Item.celtic_round_plate_1"/>
+				<equipment slot="Leg" id="Item.posthumus_1"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.hans_celtic_sword"/>
+				<equipment slot="Item1" id="Item.AR_sling_b"/>
+				<equipment slot="Item2" id="Item.AR_sling_bullets_b2"/>
+				<equipment slot="Head" id="Item.petasos_2"/>
+				<equipment slot="Body" id="Item.round_plate_tunic"/>
+				<equipment slot="Leg" id="Item.posthumus_1"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+				<equipment slot="Item2" id="Item.throwing_stone"/>
+				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+
+
+	<!-- Massalia Rural Elite Troops -->
+
+	<NPCCharacter id="massaloi_galoxiphophoroi_1"
+		occupation="Soldier"
+		default_group="Infantry"
+		level="16"
+		name="{=Massaloi Galoxiphophoroi I}Massaloi Galoxiphophoroi I"
+		is_basic_troop="true"
+		culture="Culture.massilia">
+		<face>
+			<face_key_template value="BodyProperty.villager_massilia"/>
+		</face>
+		<skills >
+			<skill id="Athletics" value="100"/>
+			<skill id="Riding" value="50"/>
+			<skill id="OneHanded" value="120"/>
+			<skill id="TwoHanded" value="50"/>
+			<skill id="Polearm" value="140"/>
+			<skill id="Bow" value="40"/>
+			<skill id="Crossbow" value="40"/>
+			<skill id="Throwing" value="130"/>
+		</skills>
+		<upgrade_targets>
+			<upgrade_target id="NPCCharacter.massaloi_galoxiphophoroi_2"/>
+		</upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.hans_noble_celtic_sword"/>
+				<equipment slot="Item1" id="Item.battania_large_shield_a"/>
+				<equipment slot="Item2" id="Item.soliferrum_javelin"/>
+				<equipment slot="Head" id="Item.TV_battania_helmet_f"/>
+				<equipment slot="Cape" id="Item.battania_scarf_a"/>
+				<equipment slot="Body" id="Item.linothorax_5_eastern_1_complete"/>
+				<equipment slot="Gloves" id="Item.highland_gloves"/>
+				<equipment slot="Leg" id="Item.sandals_1_bronze_greaves_left"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.kopis_a"/>
+				<equipment slot="Item1" id="Item.battania_large_shield_a"/>
+				<equipment slot="Item2" id="Item.soliferrum_javelin"/>
+				<equipment slot="Head" id="Item.chalcidian_1"/>
+				<equipment slot="Cape" id="Item.battania_scarf_a"/>
+				<equipment slot="Body" id="Item.linothorax_5_eastern_1_complete"/>
+				<equipment slot="Gloves" id="Item.highland_gloves"/>
+				<equipment slot="Leg" id="Item.sandals_1_bronze_greaves_left"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.hans_noble_celtic_sword"/>
+				<equipment slot="Item1" id="Item.battania_large_shield_a"/>
+				<equipment slot="Item2" id="Item.soliferrum_javelin"/>
+				<equipment slot="Head" id="Item.TV_battania_helmet_f"/>
+				<equipment slot="Cape" id="Item.battania_scarf_a"/>
+				<equipment slot="Body" id="Item.linothorax_5_eastern_1_complete"/>
+				<equipment slot="Gloves" id="Item.highland_gloves"/>
+				<equipment slot="Leg" id="Item.sandals_1_bronze_greaves_left"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.kopis_a"/>
+				<equipment slot="Item1" id="Item.battania_large_shield_a"/>
+				<equipment slot="Item2" id="Item.soliferrum_javelin"/>
+				<equipment slot="Head" id="Item.chalcidian_1"/>
+				<equipment slot="Cape" id="Item.battania_scarf_a"/>
+				<equipment slot="Body" id="Item.linothorax_5_eastern_1_complete"/>
+				<equipment slot="Gloves" id="Item.highland_gloves"/>
+				<equipment slot="Leg" id="Item.sandals_1_bronze_greaves_left"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+				<equipment slot="Item2" id="Item.throwing_stone"/>
+				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="massaloi_galoxiphophoroi_2"
+		default_group="Infantry"
+		level="21"
+		name="{=Massaloi Galoxiphophoroi II}Massaloi Galoxiphophoroi II"
+		occupation="Soldier"
+		culture="Culture.massilia">
+		<face>
+			<face_key_template value="BodyProperty.villager_massilia"/>
+		</face>
+		<skills >
+			<skill id="Athletics" value="100"/>
+			<skill id="Riding" value="50"/>
+			<skill id="OneHanded" value="180"/>
+			<skill id="TwoHanded" value="50"/>
+			<skill id="Polearm" value="180"/>
+			<skill id="Bow" value="50"/>
+			<skill id="Crossbow" value="50"/>
+			<skill id="Throwing" value="120"/>
+		</skills>
+		<upgrade_targets>
+			<upgrade_target id="NPCCharacter.massaloi_galoxiphophoroi_3"/>
+		</upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.kopis_a"/>
+				<equipment slot="Item1" id="Item.celtic_oval_shield_2"/>
+				<equipment slot="Item2" id="Item.soliferrum_javelin"/>
+				<equipment slot="Head" id="Item.TV_battania_helmet_f"/>
+				<equipment slot="Cape" id="Item.battania_scarf_a"/>
+				<equipment slot="Body" id="Item.linothorax_5_eastern_1_complete"/>
+				<equipment slot="Gloves" id="Item.highland_gloves"/>
+				<equipment slot="Leg" id="Item.sandals_1_bronze_greaves_left"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.hans_noble_celtic_sword"/>
+				<equipment slot="Item1" id="Item.celtic_oval_shield"/>
+				<equipment slot="Item2" id="Item.soliferrum_javelin"/>
+				<equipment slot="Head" id="Item.chalcidian_1"/>
+				<equipment slot="Cape" id="Item.battania_scarf_a"/>
+				<equipment slot="Body" id="Item.linothorax_5_eastern_1_complete"/>
+				<equipment slot="Gloves" id="Item.highland_gloves"/>
+				<equipment slot="Leg" id="Item.sandals_1_bronze_greaves_left"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.kopis_a"/>
+				<equipment slot="Item1" id="Item.celtic_oval_shield_2"/>
+				<equipment slot="Item2" id="Item.soliferrum_javelin"/>
+				<equipment slot="Head" id="Item.TV_battania_helmet_f"/>
+				<equipment slot="Cape" id="Item.battania_scarf_a"/>
+				<equipment slot="Body" id="Item.linothorax_5_eastern_1_complete"/>
+				<equipment slot="Gloves" id="Item.highland_gloves"/>
+				<equipment slot="Leg" id="Item.sandals_1_bronze_greaves_left"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.hans_noble_celtic_sword"/>
+				<equipment slot="Item1" id="Item.celtic_oval_shield"/>
+				<equipment slot="Item2" id="Item.soliferrum_javelin"/>
+				<equipment slot="Head" id="Item.chalcidian_1"/>
+				<equipment slot="Cape" id="Item.battania_scarf_a"/>
+				<equipment slot="Body" id="Item.linothorax_5_eastern_1_complete"/>
+				<equipment slot="Gloves" id="Item.highland_gloves"/>
+				<equipment slot="Leg" id="Item.sandals_1_bronze_greaves_left"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+				<equipment slot="Item2" id="Item.throwing_stone"/>
+				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="massaloi_galoxiphophoroi_3"
+		default_group="Infantry"
+		level="26"
+		name="{=Massaloi Galoxiphophoroi III}Massaloi Galoxiphophoroi III"
+		occupation="Soldier"
+		culture="Culture.massilia">
+		<face>
+			<face_key_template value="BodyProperty.villager_massilia"/>
+		</face>
+		<skills >
+			<skill id="Athletics" value="100"/>
+			<skill id="Riding" value="50"/>
+			<skill id="OneHanded" value="200"/>
+			<skill id="TwoHanded" value="50"/>
+			<skill id="Polearm" value="220"/>
+			<skill id="Bow" value="50"/>
+			<skill id="Crossbow" value="50"/>
+			<skill id="Throwing" value="200"/>
+		</skills>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.kopis_a"/>
+				<equipment slot="Item1" id="Item.celtic_oval_shield_2"/>
+				<equipment slot="Item2" id="Item.soliferrum_javelin"/>
+				<equipment slot="Head" id="Item.TV_battania_helmet_f"/>
+				<equipment slot="Cape" id="Item.battania_scarf_a"/>
+				<equipment slot="Body" id="Item.linothorax_5_eastern_1_complete"/>
+				<equipment slot="Gloves" id="Item.highland_gloves"/>
+				<equipment slot="Leg" id="Item.sandals_1_bronze_greaves_left"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.hans_noble_celtic_sword"/>
+				<equipment slot="Item1" id="Item.celtic_oval_shield"/>
+				<equipment slot="Item2" id="Item.soliferrum_javelin"/>
+				<equipment slot="Head" id="Item.cla_carthage_helm_thracian_konos_paint_3"/>
+				<equipment slot="Cape" id="Item.battania_scarf_a"/>
+				<equipment slot="Body" id="Item.linothorax_5_eastern_1_complete"/>
+				<equipment slot="Gloves" id="Item.highland_gloves"/>
+				<equipment slot="Leg" id="Item.sandals_1_bronze_greaves_left"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.kopis_a"/>
+				<equipment slot="Item1" id="Item.celtic_oval_shield_2"/>
+				<equipment slot="Item2" id="Item.soliferrum_javelin"/>
+				<equipment slot="Head" id="Item.TV_battania_helmet_f"/>
+				<equipment slot="Cape" id="Item.battania_scarf_a"/>
+				<equipment slot="Body" id="Item.linothorax_5_eastern_1_complete"/>
+				<equipment slot="Gloves" id="Item.highland_gloves"/>
+				<equipment slot="Leg" id="Item.sandals_1_bronze_greaves_left"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.hans_noble_celtic_sword"/>
+				<equipment slot="Item1" id="Item.celtic_oval_shield"/>
+				<equipment slot="Item2" id="Item.soliferrum_javelin"/>
+				<equipment slot="Head" id="Item.cla_carthage_helm_thracian_konos_paint_3"/>
+				<equipment slot="Cape" id="Item.battania_scarf_a"/>
+				<equipment slot="Body" id="Item.linothorax_5_eastern_1_complete"/>
+				<equipment slot="Gloves" id="Item.highland_gloves"/>
+				<equipment slot="Leg" id="Item.sandals_1_bronze_greaves_left"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+				<equipment slot="Item2" id="Item.throwing_stone"/>
+				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+
+
+	<!-- Macedonia Rural/Urban Troops -->
+
+	
+	<NPCCharacter id="makedon_pike_1"
+			  default_group="Infantry"
+			  level="6"
+			  name="{=Makedonikoi Epistratoi}Makedonikoi Epistratoi I"
+			  occupation="Soldier"
+			  is_basic_troop="true"
+			  culture="Culture.byzantine">
+		<face>
+			<face_key_template value="BodyProperty.fighter_empire"/>
+		</face>
+		<skills>
+			<skill id="Athletics" value="90"/>
+			<skill id="Riding" value="20"/>
+			<skill id="OneHanded" value="50"/>
+			<skill id="TwoHanded" value="0"/>
+			<skill id="Polearm" value="60"/>
+			<skill id="Bow" value="15"/>
+			<skill id="Crossbow" value="15"/>
+			<skill id="Throwing" value="10"/>
+		</skills>
+		<upgrade_targets>
+			<upgrade_target id="NPCCharacter.makedon_pike_2"/>
+			<upgrade_target id="NPCCharacter.makedon_ranged_2"/>
+		</upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.sarissa_a" />
+				<equipment slot="Head" id="Item.phrygian_cap_3_tail" />
+				<equipment slot="Body" id="Item.exomis_1_2" />
+			</EquipmentRoster>
+
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.sarissa_a" />
+				<equipment slot="Head" id="Item.phrygian_cap_3_tail" />
+				<equipment slot="Body" id="Item.chiton_no_sleeves_1_1" />
+			</EquipmentRoster>
+
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.sarissa_a" />
+				<equipment slot="Head" id="Item.phrygian_cap_3_tail" />
+				<equipment slot="Body" id="Item.chiton_sleeves_1" />
+			</EquipmentRoster>
+
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.sarissa_a" />
+				<equipment slot="Head" id="Item.pilos_1" />
+				<equipment slot="Body" id="Item.exomis_1_2" />
+			</EquipmentRoster>
+
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.sarissa_a" />
+				<equipment slot="Head" id="Item.phrygian_helm_1" />
+				<equipment slot="Body" id="Item.chiton_no_sleeves_1_1" />
+				<equipment slot="Leg" id="Item.sandals_1" />
+			</EquipmentRoster>
+			
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+				<equipment slot="Item2" id="Item.throwing_stone"/>
+				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="makedon_pike_2"
+                  default_group="Infantry"
+                  level="11"
+                  name="{=Makedonikoi Pezetairoi II}Makedonikoi Pezetairoi II"
+                  occupation="Soldier"
+                  culture="Culture.byzantine">
+		<face>
+			<face_key_template value="BodyProperty.fighter_empire"/>
+		</face>
+		<skills>
+			<skill id="Athletics" value="130"/>
+			<skill id="Riding" value="50"/>
+			<skill id="OneHanded" value="90"/>
+			<skill id="TwoHanded" value="40"/>
+			<skill id="Polearm" value="100"/>
+			<skill id="Bow" value="30"/>
+			<skill id="Crossbow" value="30"/>
+			<skill id="Throwing" value="30"/>
+		</skills>
+		<upgrade_targets>
+			<upgrade_target id="NPCCharacter.makedon_pike_3"/>
+		</upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.sarissa_a" />
+				<equipment slot="Head" id="Item.phrygian_helm_1" />
+				<equipment slot="Body" id="Item.chiton_no_sleeves_1_1" />
+				<equipment slot="Leg" id="Item.sandals_1" />
+			</EquipmentRoster>
+
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.sarissa_a" />
+				<equipment slot="Item1" id="Item.pelta_twb_shield_1" />
+				<equipment slot="Head" id="Item.pilo_crest_2" />
+				<equipment slot="Body" id="Item.exomis_1_2" />
+				<equipment slot="Leg" id="Item.sandals_1" />
+			</EquipmentRoster>
+
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.sarissa_a" />
+				<equipment slot="Item1" id="Item.pelta_twb_shield_1" />
+				<equipment slot="Head" id="Item.cla_carthage_helm_thracian_konos" />
+				<equipment slot="Body" id="Item.chiton_sleeves_1" />
+				<equipment slot="Leg" id="Item.sandals_1" />
+			</EquipmentRoster>
+
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.sarissa_a" />
+				<equipment slot="Item1" id="Item.pelta_twb_shield_1" />
+				<equipment slot="Head" id="Item.cla_carthage_helm_thracian_konos_paint_3" />
+				<equipment slot="Body" id="Item.chiton_no_sleeves_1_1" />
+				<equipment slot="Leg" id="Item.sandals_1" />
+			</EquipmentRoster>
+
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.sarissa_a" />
+				<equipment slot="Item1" id="Item.pelta_twb_shield_1" />
+				<equipment slot="Head" id="Item.cla_carthage_helm_standard" />
+				<equipment slot="Body" id="Item.cla_carthage_linothorax_simple_sleeveless_4" />
+				<equipment slot="Leg" id="Item.sandals_1" />
+			</EquipmentRoster>
+
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.sarissa_a" />
+				<equipment slot="Head" id="Item.phrygian_helm_1" />
+				<equipment slot="Body" id="Item.thick_exomis_1_2" />
+				<equipment slot="Leg" id="Item.bronze_greaves_1_left" />
+			</EquipmentRoster>
+			
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+				<equipment slot="Item2" id="Item.throwing_stone"/>
+				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+
+		</Equipments>
+	</NPCCharacter>
+	
+	<NPCCharacter id="makedon_pike_3"
+                  default_group="Infantry"
+                  level="16"
+                  name="{=Makedonikoi Pezetairoi III}Makedonikoi Pezetairoi III"
+                  occupation="Soldier"
+                  culture="Culture.byzantine">
+		<face>
+			<face_key_template value="BodyProperty.fighter_empire"/>
+		</face>
+		<skills>
+			<skill id="Athletics" value="100"/>
+			<skill id="Riding" value="70"/>
+			<skill id="OneHanded" value="130"/>
+			<skill id="TwoHanded" value="40"/>
+			<skill id="Polearm" value="140"/>
+			<skill id="Bow" value="40"/>
+			<skill id="Crossbow" value="40"/>
+			<skill id="Throwing" value="40"/>
+		</skills>
+		<upgrade_targets>
+			<upgrade_target id="NPCCharacter.makedon_pike_4"/>
+		</upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.sarissa_a" />
+				<equipment slot="Item1" id="Item.pelta_twb_shield_1" />
+				<equipment slot="Head" id="Item.cla_carthage_helm_thracian_konos_paint_3" />
+				<equipment slot="Body" id="Item.cla_carthage_linothorax_simple_2" />
+				<equipment slot="Leg" id="Item.sandals_1" />
+			</EquipmentRoster>
+
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.sarissa_a" />
+				<equipment slot="Item1" id="Item.pelta_twb_shield_1" />
+				<equipment slot="Head" id="Item.phrygian_helm_2" />
+				<equipment slot="Body" id="Item.cla_carthage_linothorax_simple_sleeveless_6" />
+				<equipment slot="Leg" id="Item.sandals_1" />
+			</EquipmentRoster>
+
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.sarissa_a" />
+				<equipment slot="Item1" id="Item.pelta_twb_shield_1" />
+				<equipment slot="Head" id="Item.cla_carthage_helm_phrygian_simple" />
+				<equipment slot="Body" id="Item.cla_carthage_body_linothorax_light_2" />
+				<equipment slot="Leg" id="Item.sandals_1" />
+			</EquipmentRoster>
+
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.sarissa_a" />
+				<equipment slot="Item1" id="Item.pelta_twb_shield_1" />
+				<equipment slot="Head" id="Item.cla_carthage_helm_phrygian_simple_paint_1" />
+				<equipment slot="Body" id="Item.cla_carthage_body_linothorax_light_2" />
+				<equipment slot="Leg" id="Item.sandals_1_bronze_greaves_left" />
+			</EquipmentRoster>
+
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.sarissa_a" />
+				<equipment slot="Item1" id="Item.pelta_twb_shield_1" />
+				<equipment slot="Head" id="Item.cla_carthage_helm_phrygian_simple_paint_4" />
+				<equipment slot="Body" id="Item.cla_carthage_body_linothorax_light_1" />
+				<equipment slot="Leg" id="Item.sandals_1_bronze_greaves_left" />
+			</EquipmentRoster>
+
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.sarissa_a" />
+				<equipment slot="Item1" id="Item.pelta_twb_shield_1" />
+				<equipment slot="Head" id="Item.cla_carthage_helm_phrygian_simple_paint_3" />
+				<equipment slot="Body" id="Item.cla_carthage_linothorax_simple_2" />
+				<equipment slot="Leg" id="Item.cla_carthage_legs_greaves_single_5" />
+			</EquipmentRoster>
+
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.sarissa_a" />
+				<equipment slot="Item1" id="Item.pelta_twb_shield_1" />
+				<equipment slot="Head" id="Item.cla_carthage_helm_standard_high" />
+				<equipment slot="Body" id="Item.cla_carthage_linothorax_simple_2" />
+				<equipment slot="Leg" id="Item.cla_carthage_legs_greaves_single_5" />
+			</EquipmentRoster>
+			
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+				<equipment slot="Item2" id="Item.throwing_stone"/>
+				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="makedon_pike_4"
+			  default_group="Infantry"
+			  level="21"
+			  name="{=Makedonikoi Pezetairoi IIII}Makedonikoi Pezetairoi IIII"
+			  occupation="Soldier"
+			  culture="Culture.byzantine">
+		<face>
+			<face_key_template value="BodyProperty.fighter_empire"/>
+		</face>
+		<skills>
+			<skill id="Athletics" value="100"/>
+			<skill id="Riding" value="60"/>
+			<skill id="OneHanded" value="170"/>
+			<skill id="TwoHanded" value="80"/>
+			<skill id="Polearm" value="180"/>
+			<skill id="Bow" value="50"/>
+			<skill id="Crossbow" value="40"/>
+			<skill id="Throwing" value="50"/>
+		</skills>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.sarissa_a" />
+				<equipment slot="Item1" id="Item.pelta_twb_shield_1" />
+				<equipment slot="Head" id="Item.cla_carthage_helm_phrygian_beard_paint_1" />
+				<equipment slot="Body" id="Item.linothorax_sleeved" />
+				<equipment slot="Leg" id="Item.cla_carthage_legs_greaves_single_5" />
+			</EquipmentRoster>
+
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.sarissa_a" />
+				<equipment slot="Item1" id="Item.pelta_twb_shield_1" />
+				<equipment slot="Head" id="Item.cla_carthage_helm_phrygian_simple_paint_3" />
+				<equipment slot="Body" id="Item.linothorax_sleeved" />
+				<equipment slot="Leg" id="Item.cla_carthage_legs_greaves_single_5" />
+			</EquipmentRoster>
+
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.sarissa_a" />
+				<equipment slot="Item1" id="Item.pelta_twb_shield_1" />
+				<equipment slot="Head" id="Item.cla_carthage_helm_phrygian_beard" />
+				<equipment slot="Body" id="Item.cla_carthage_body_linothorax_light_2" />
+				<equipment slot="Leg" id="Item.sandals_1_bronze_greaves_dual" />
+			</EquipmentRoster>
+
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.sarissa_a" />
+				<equipment slot="Item1" id="Item.pelta_twb_shield_1" />
+				<equipment slot="Head" id="Item.cla_carthage_helm_standard_crest" />
+				<equipment slot="Body" id="Item.cla_carthage_body_linothorax_light_2" />
+				<equipment slot="Leg" id="Item.sandals_1_bronze_greaves_left" />
+			</EquipmentRoster>
+
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.sarissa_a" />
+				<equipment slot="Item1" id="Item.pelta_twb_shield_1" />
+				<equipment slot="Head" id="Item.cla_carthage_helm_thracian_simple" />
+				<equipment slot="Body" id="Item.cla_carthage_body_linothorax_light_1" />
+				<equipment slot="Leg" id="Item.sandals_1_bronze_greaves_left" />
+			</EquipmentRoster>
+
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.sarissa_a" />
+				<equipment slot="Item1" id="Item.pelta_twb_shield_1" />
+				<equipment slot="Head" id="Item.cla_carthage_helm_standard_high_paint_1" />
+				<equipment slot="Body" id="Item.cla_carthage_body_musculata_bronze_5" />
+				<equipment slot="Leg" id="Item.sandals_1_bronze_greaves_left" />
+			</EquipmentRoster>
+
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.sarissa_a" />
+				<equipment slot="Item1" id="Item.pelta_twb_shield_1" />
+				<equipment slot="Head" id="Item.cla_carthage_helm_phrygian_beard_paint_4" />
+				<equipment slot="Body" id="Item.cla_carthage_body_musculata_bronze_4" />
+				<equipment slot="Leg" id="Item.sandals_1_bronze_greaves_left" />
+			</EquipmentRoster>
+
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.sarissa_a" />
+				<equipment slot="Item1" id="Item.pelta_twb_shield_1" />
+				<equipment slot="Head" id="Item.cla_carthage_helm_phrygian_beard_paint_1" />
+				<equipment slot="Body" id="Item.cla_carthage_body_musculata_bronze_4" />
+				<equipment slot="Leg" id="Item.sandals_1_bronze_greaves_left" />
+			</EquipmentRoster>
+
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.sarissa_a" />
+				<equipment slot="Item1" id="Item.pelta_twb_shield_1" />
+				<equipment slot="Head" id="Item.cla_carthage_helm_thracian_beard_paint_1" />
+				<equipment slot="Body" id="Item.cla_carthage_body_linothorax_light_2" />
+				<equipment slot="Leg" id="Item.sandals_1_bronze_greaves_left" />
+			</EquipmentRoster>
+			
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+				<equipment slot="Item2" id="Item.throwing_stone"/>
+				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="makedon_ranged_2"
+			  default_group="Ranged"
+			  level="11"
+			  name="{=Makedon Toxotae II}Makedon Toxotae II"
+			  occupation="Soldier"
+			  culture="Culture.byzantine">
+		<face>
+			<face_key_template value="BodyProperty.fighter_empire"/>
+		</face>
+		<skills>
+			<skill id="Athletics" value="150"/>
+			<skill id="Riding" value="50"/>
+			<skill id="OneHanded" value="80"/>
+			<skill id="TwoHanded" value="30"/>
+			<skill id="Polearm" value="30"/>
+			<skill id="Bow" value="90"/>
+			<skill id="Crossbow" value="30"/>
+			<skill id="Throwing" value="30"/>
+		</skills>
+		<upgrade_targets>
+			<upgrade_target id="NPCCharacter.makedon_ranged_3"/>
+		</upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.mountain_hunting_bow"/>
+				<equipment slot="Item1" id="Item.default_arrows"/>
+				<equipment slot="Item2" id="Item.gladius_b"/>
+				<equipment slot="Head" id="Item.petasos_1"/>
+				<equipment slot="Body" id="Item.exomis_1_1"/>
+				<equipment slot="Leg" id="Item.sandals_1"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+				<equipment slot="Item2" id="Item.throwing_stone"/>
+				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+
+		</Equipments>
+	</NPCCharacter>
+	
+	<NPCCharacter id="makedon_ranged_3"
+                  default_group="Ranged"
+                  level="16"
+                  name="{=Makedon Toxotae III}Makedon Toxotae III"
+                  occupation="Soldier"
+                  culture="Culture.byzantine">
+		<face>
+			<face_key_template value="BodyProperty.fighter_empire"/>
+		</face>
+		<skills>
+			<skill id="Athletics" value="150"/>
+			<skill id="Riding" value="50"/>
+			<skill id="OneHanded" value="120"/>
+			<skill id="TwoHanded" value="50"/>
+			<skill id="Polearm" value="40"/>
+			<skill id="Bow" value="130"/>
+			<skill id="Crossbow" value="30"/>
+			<skill id="Throwing" value="80"/>
+		</skills>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.mountain_hunting_bow"/>
+				<equipment slot="Item1" id="Item.default_arrows"/>
+				<equipment slot="Item2" id="Item.gladius_b"/>
+				<equipment slot="Head" id="Item.petasos_1"/>
+				<equipment slot="Body" id="Item.exomis_1_1"/>
+				<equipment slot="Leg" id="Item.sandals_1"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.mountain_hunting_bow"/>
+				<equipment slot="Item1" id="Item.default_arrows"/>
+				<equipment slot="Item2" id="Item.gladius_b"/>
+				<equipment slot="Head" id="Item.petasos_1"/>
+				<equipment slot="Body" id="Item.exomis_1_1"/>
+				<equipment slot="Leg" id="Item.sandals_1"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.mountain_hunting_bow"/>
+				<equipment slot="Item1" id="Item.default_arrows"/>
+				<equipment slot="Item2" id="Item.gladius_b"/>
+				<equipment slot="Head" id="Item.petasos_1"/>
+				<equipment slot="Body" id="Item.exomis_1_1"/>
+				<equipment slot="Leg" id="Item.sandals_1"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.mountain_hunting_bow"/>
+				<equipment slot="Item1" id="Item.default_arrows"/>
+				<equipment slot="Item2" id="Item.gladius_b"/>
+				<equipment slot="Head" id="Item.petasos_1"/>
+				<equipment slot="Body" id="Item.exomis_1_1"/>
+				<equipment slot="Leg" id="Item.sandals_1"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+				<equipment slot="Item2" id="Item.throwing_stone"/>
+				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+
+		</Equipments>
+	</NPCCharacter>
+
+
+	<!-- Macedonia Rural Elite Troops -->
+	
+	
+	<NPCCharacter id="makedon_hypaspistai_1"
+			  default_group="Infantry"
+			  level="16"
+			  name="{=Makedonikoi Hypaspistai I}Makedonikoi Hypaspistai I"
+			  occupation="Soldier"
+			  is_basic_troop="true"
+			  culture="Culture.byzantine">
+		<face>
+			<face_key_template value="BodyProperty.fighter_empire"/>
+		</face>
+		<skills>
+			<skill id="Athletics" value="100"/>
+			<skill id="Riding" value="50"/>
+			<skill id="OneHanded" value="130"/>
+			<skill id="TwoHanded" value="50"/>
+			<skill id="Polearm" value="150"/>
+			<skill id="Bow" value="40"/>
+			<skill id="Crossbow" value="30"/>
+			<skill id="Throwing" value="80"/>
+		</skills>
+		<upgrade_targets>
+			<upgrade_target id="NPCCharacter.makedon_hypaspistai_2"/>
+		</upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.hoplon_star"/>
+				<equipment slot="Item2" id="Item.generic_javelin_1_t3"/>
+				<equipment slot="Head" id="Item.attic_helm_1"/>
+				<equipment slot="Body" id="Item.cla_carthage_body_linothorax_light_5"/>
+				<equipment slot="Leg" id="Item.sandals_1_bronze_greaves_dual"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.hoplon_star"/>
+				<equipment slot="Item2" id="Item.northern_javelin_3_t4"/>
+				<equipment slot="Head" id="Item.boeotian_1"/>
+				<equipment slot="Body" id="Item.cla_carthage_body_linothorax_light_2"/>
+				<equipment slot="Leg" id="Item.sandals_1_bronze_greaves_left"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.hoplon_star"/>
+				<equipment slot="Head" id="Item.pilos_2_crested"/>
+				<equipment slot="Body" id="Item.cla_carthage_body_linothorax_light_5"/>
+				<equipment slot="Leg" id="Item.armoured_legs_1_1_left"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.hoplon_star"/>
+				<equipment slot="Head" id="Item.phrygian_helm_1"/>
+				<equipment slot="Body" id="Item.cla_carthage_body_linothorax_light_2"/>
+				<equipment slot="Leg" id="Item.armoured_legs_1_3"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+				<equipment slot="Item2" id="Item.throwing_stone"/>
+				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="makedon_hypaspistai_2"
+			  default_group="Infantry"
+			  level="21"
+			  name="{=Makedonikoi Hypaspistai II}Makedonikoi Hypaspistai II"
+			  occupation="Soldier"
+			  is_basic_troop="true"
+			  culture="Culture.byzantine">
+		<face>
+			<face_key_template value="BodyProperty.fighter_empire"/>
+		</face>
+		<skills>
+			<skill id="Athletics" value="100"/>
+			<skill id="Riding" value="80"/>
+			<skill id="OneHanded" value="180"/>
+			<skill id="TwoHanded" value="80"/>
+			<skill id="Polearm" value="190"/>
+			<skill id="Bow" value="70"/>
+			<skill id="Crossbow" value="60"/>
+			<skill id="Throwing" value="70"/>
+		</skills>
+		<upgrade_targets>
+			<upgrade_target id="NPCCharacter.makedon_hypaspistai_3"/>
+		</upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item1" id="Item.doru_a"/>
+				<equipment slot="Item2" id="Item.hoplon_star"/>
+				<equipment slot="Head" id="Item.pilos_4_crested_guarded"/>
+				<equipment slot="Body" id="Item.cla_carthage_body_linothorax_light_5"/>
+				<equipment slot="Gloves" id="Item.arm_guard_1_1_bracer"/>
+				<equipment slot="Leg" id="Item.armoured_legs_1_1_left"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item1" id="Item.doru_a"/>
+				<equipment slot="Item2" id="Item.hoplon_star"/>
+				<equipment slot="Head" id="Item.phrygian_helm_1"/>
+				<equipment slot="Body" id="Item.cla_carthage_body_linothorax_light_2"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item1" id="Item.doru_a"/>
+				<equipment slot="Item2" id="Item.hoplon_star"/>
+				<equipment slot="Head" id="Item.boeotian_2"/>
+				<equipment slot="Body" id="Item.cla_carthage_body_linothorax_light_2"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item1" id="Item.doru_a"/>
+				<equipment slot="Item2" id="Item.hoplon_star"/>
+				<equipment slot="Head" id="Item.boeotian_4_1_argosi"/>
+				<equipment slot="Body" id="Item.cla_carthage_body_linothorax_light_5"/>
+				<equipment slot="Gloves" id="Item.arm_guard_1_1_bracer"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+				<equipment slot="Item2" id="Item.throwing_stone"/>
+				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="makedon_hypaspistai_3"
+			  default_group="Infantry"
+			  level="26"
+			  name="{=Makedonikoi Hypaspistai III}Makedonikoi Hypaspistai III"
+			  occupation="Soldier"
+			  culture="Culture.byzantine">
+		<face>
+			<face_key_template value="BodyProperty.fighter_empire"/>
+		</face>
+		<skills>
+			<skill id="Athletics" value="100"/>
+			<skill id="Riding" value="100"/>
+			<skill id="OneHanded" value="220"/>
+			<skill id="TwoHanded" value="100"/>
+			<skill id="Polearm" value="230"/>
+			<skill id="Bow" value="90"/>
+			<skill id="Crossbow" value="80"/>
+			<skill id="Throwing" value="80"/>
+		</skills>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.hoplon_star"/>
+				<equipment slot="Head" id="Item.cla_carthage_helm_phrygian_beard_paint_4"/>
+				<equipment slot="Body" id="Item.cla_carthage_body_musculata_iron_noble_1"/>
+				<equipment slot="Gloves" id="Item.arm_guard_1_1_bracer"/>
+				<equipment slot="Leg" id="Item.armoured_legs_1_1_left"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.hoplon_star"/>
+				<equipment slot="Head" id="Item.cla_carthage_helm_standard_high_paint_4_black"/>
+				<equipment slot="Body" id="Item.cla_carthage_body_musculata_iron_noble_1"/>
+				<equipment slot="Gloves" id="Item.arm_guard_1_1_bracer"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.hoplon_star"/>
+				<equipment slot="Head" id="Item.cla_carthage_helm_thracian_beard_paint_red_white_1"/>
+				<equipment slot="Body" id="Item.cla_carthage_body_musculata_iron_noble_1"/>
+				<equipment slot="Gloves" id="Item.arm_guard_1_1_bracer"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.hoplon_star"/>
+				<equipment slot="Head" id="Item.boeotian_4_1_argosi"/>
+				<equipment slot="Body" id="Item.cla_carthage_body_musculata_iron_noble_1"/>
+				<equipment slot="Gloves" id="Item.arm_guard_1_1_bracer"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+				<equipment slot="Item2" id="Item.throwing_stone"/>
+				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+
+
+	<!-- Makedon Urban Elite Troops -->
+
+	<NPCCharacter id="makedon_companion_cav_1"
+		  default_group="Cavalry"
+		  level="21"
+		  name="{=Makedonikoi Hetairoi I}Makedonikoi Hetairoi I"
+		  occupation="Soldier"
+		  is_basic_troop="true"  
+		  culture="Culture.byzantine">
+		<face>
+			<face_key_template value="BodyProperty.fighter_empire"/>
+		</face>
+		<skills>
+			<skill id="Athletics" value="90"/>
+			<skill id="Riding" value="130"/>
+			<skill id="OneHanded" value="170"/>
+			<skill id="TwoHanded" value="100"/>
+			<skill id="Polearm" value="170"/>
+			<skill id="Bow" value="90"/>
+			<skill id="Crossbow" value="80"/>
+			<skill id="Throwing" value="80"/>
+		</skills>
+		<upgrade_targets>
+			<upgrade_target id="NPCCharacter.makedon_companion_cav_2"/>
+		</upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item1" id="Item.xyston_a" />
+				<equipment slot="Item2" id="Item.kopis_a" />
+				<equipment slot="Head" id="Item.boeotian_3" />
+				<equipment slot="Cape" id="Item.TV_vlandia_shoulders_h" />
+				<equipment slot="Body" id="Item.cla_carthage_body_linothorax_light_4" />
+				<equipment slot="Gloves" id="Item.arm_guard_1_1_bracer" />
+				<equipment slot="Leg" id="Item.cla_carthage_legs_greaves_basic_5" />
+				<equipment slot="Horse" id="Item.t2_empire_horse"/>
+				<equipment slot="HorseHarness" id="Item.light_harness"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item1" id="Item.xyston_a" />
+				<equipment slot="Item2" id="Item.kopis_a" />
+				<equipment slot="Head" id="Item.boeotian_3" />
+				<equipment slot="Cape" id="Item.TV_vlandia_shoulders_h" />
+				<equipment slot="Body" id="Item.cla_carthage_body_linothorax_light_5" />
+				<equipment slot="Gloves" id="Item.arm_guard_1_1_bracer" />
+				<equipment slot="Leg" id="Item.cla_carthage_legs_greaves_basic_5" />
+				<equipment slot="Horse" id="Item.t2_empire_horse"/>
+				<equipment slot="HorseHarness" id="Item.light_harness"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item1" id="Item.xyston_a" />
+				<equipment slot="Item2" id="Item.kopis_a" />
+				<equipment slot="Head" id="Item.boeotian_2" />
+				<equipment slot="Cape" id="Item.TV_vlandia_shoulders_h" />
+				<equipment slot="Body" id="Item.cla_carthage_body_linothorax_light_5" />
+				<equipment slot="Leg" id="Item.cla_carthage_legs_greaves_basic_5" />
+				<equipment slot="Horse" id="Item.t2_empire_horse"/>
+				<equipment slot="HorseHarness" id="Item.light_harness"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item1" id="Item.xyston_a" />
+				<equipment slot="Item2" id="Item.kopis_a" />
+				<equipment slot="Head" id="Item.cla_carthage_helm_phrygian_simple_paint_1" />
+				<equipment slot="Cape" id="Item.TV_vlandia_shoulders_h" />
+				<equipment slot="Body" id="Item.cla_carthage_body_linothorax_light_5" />
+				<equipment slot="Leg" id="Item.cla_carthage_legs_greaves_basic_5" />
+				<equipment slot="Horse" id="Item.t2_empire_horse"/>
+				<equipment slot="HorseHarness" id="Item.light_harness"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+				<equipment slot="Item2" id="Item.throwing_stone"/>
+				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+	
+	<NPCCharacter id="makedon_companion_cav_2"
+			  default_group="Cavalry"
+			  level="26"
+			  name="{=Makedonikoi Hetairoi II}Makedonikoi Hetairoi II"
+			  upgrade_requires="ItemCategory.war_horse"
+			  occupation="Soldier"
+			  culture="Culture.byzantine">
+		<face>
+			<face_key_template value="BodyProperty.fighter_empire"/>
+		</face>
+		<skills>
+			<skill id="Athletics" value="90"/>
+			<skill id="Riding" value="145"/>
+			<skill id="OneHanded" value="210"/>
+			<skill id="TwoHanded" value="100"/>
+			<skill id="Polearm" value="200"/>
+			<skill id="Bow" value="90"/>
+			<skill id="Crossbow" value="80"/>
+			<skill id="Throwing" value="80"/>
+		</skills>
+		<upgrade_targets>
+			<upgrade_target id="NPCCharacter.makedon_companion_cav_3"/>
+		</upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item1" id="Item.xyston_a" />
+				<equipment slot="Item2" id="Item.kopis_a" />
+				<equipment slot="Head" id="Item.boeotian_3" />
+				<equipment slot="Cape" id="Item.TV_vlandia_shoulders_h" />
+				<equipment slot="Body" id="Item.cla_carthage_body_musculata_bronze_5" />
+				<equipment slot="Gloves" id="Item.arm_guard_1_1_bracer" />
+				<equipment slot="Leg" id="Item.cla_carthage_legs_greaves_basic_5" />
+				<equipment slot="Horse" id="Item.t2_empire_horse"/>
+				<equipment slot="HorseHarness" id="Item.light_harness"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item1" id="Item.xyston_a" />
+				<equipment slot="Item2" id="Item.kopis_a" />
+				<equipment slot="Head" id="Item.boeotian_2" />
+				<equipment slot="Cape" id="Item.TV_vlandia_shoulders_h" />
+				<equipment slot="Body" id="Item.cla_carthage_body_linothorax_light_5" />
+				<equipment slot="Gloves" id="Item.arm_guard_1_1_bracer" />
+				<equipment slot="Leg" id="Item.cla_carthage_legs_greaves_basic_5" />
+				<equipment slot="Horse" id="Item.t2_empire_horse"/>
+				<equipment slot="HorseHarness" id="Item.light_harness"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item1" id="Item.xyston_a" />
+				<equipment slot="Item2" id="Item.kopis_a" />
+				<equipment slot="Head" id="Item.boeotian_2" />
+				<equipment slot="Cape" id="Item.TV_vlandia_shoulders_h" />
+				<equipment slot="Body" id="Item.cla_carthage_body_musculata_bronze_5" />
+				<equipment slot="Gloves" id="Item.arm_guard_1_1_bracer" />
+				<equipment slot="Leg" id="Item.cla_carthage_legs_greaves_basic_5" />
+				<equipment slot="Horse" id="Item.t2_empire_horse"/>
+				<equipment slot="HorseHarness" id="Item.light_harness"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item1" id="Item.xyston_a" />
+				<equipment slot="Item2" id="Item.kopis_a" />
+				<equipment slot="Head" id="Item.cla_carthage_helm_phrygian_simple_paint_1" />
+				<equipment slot="Cape" id="Item.TV_vlandia_shoulders_h" />
+				<equipment slot="Body" id="Item.cla_carthage_body_linothorax_light_5" />
+				<equipment slot="Leg" id="Item.cla_carthage_legs_greaves_basic_5" />
+				<equipment slot="Horse" id="Item.t2_empire_horse"/>
+				<equipment slot="HorseHarness" id="Item.light_harness"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+				<equipment slot="Item2" id="Item.throwing_stone"/>
+				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="makedon_companion_cav_3"
+			  default_group="Cavalry"
+			  level="31"
+			  name="{=Makedonikoi Hetairoi III}Makedonikoi Hetairoi III"
+			  occupation="Soldier"
+			  culture="Culture.byzantine">
+		<face>
+			<face_key_template value="BodyProperty.fighter_empire"/>
+		</face>
+		<skills>
+			<skill id="Athletics" value="90"/>
+			<skill id="Riding" value="180"/>
+			<skill id="OneHanded" value="260"/>
+			<skill id="TwoHanded" value="150"/>
+			<skill id="Polearm" value="270"/>
+			<skill id="Bow" value="120"/>
+			<skill id="Crossbow" value="100"/>
+			<skill id="Throwing" value="120"/>
+		</skills>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item1" id="Item.xyston_a" />
+				<equipment slot="Item2" id="Item.kopis_a" />
+				<equipment slot="Head" id="Item.boeotian_3" />
+				<equipment slot="Cape" id="Item.TV_vlandia_shoulders_h" />
+				<equipment slot="Body" id="Item.cla_carthage_body_musculata_iron_noble_1" />
+				<equipment slot="Gloves" id="Item.arm_guard_1_1_bracer" />
+				<equipment slot="Leg" id="Item.cla_carthage_legs_greaves_basic_5" />
+				<equipment slot="Horse" id="Item.t2_empire_horse"/>
+				<equipment slot="HorseHarness" id="Item.light_harness"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item1" id="Item.xyston_a" />
+				<equipment slot="Item2" id="Item.kopis_a" />
+				<equipment slot="Head" id="Item.boeotian_2" />
+				<equipment slot="Cape" id="Item.TV_vlandia_shoulders_h" />
+				<equipment slot="Body" id="Item.cla_carthage_body_musculata_bronze_5" />
+				<equipment slot="Gloves" id="Item.arm_guard_1_1_bracer" />
+				<equipment slot="Leg" id="Item.cla_carthage_legs_greaves_basic_5" />
+				<equipment slot="Horse" id="Item.t2_empire_horse"/>
+				<equipment slot="HorseHarness" id="Item.light_harness"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item1" id="Item.xyston_a" />
+				<equipment slot="Item2" id="Item.kopis_a" />
+				<equipment slot="Head" id="Item.cla_carthage_helm_thracian_simple_paint_4_blue_white" />
+				<equipment slot="Cape" id="Item.TV_vlandia_shoulders_h" />
+				<equipment slot="Body" id="Item.cla_carthage_body_musculata_iron_noble_1" />
+				<equipment slot="Gloves" id="Item.arm_guard_1_1_bracer" />
+				<equipment slot="Leg" id="Item.cla_carthage_legs_greaves_basic_5" />
+				<equipment slot="Horse" id="Item.t2_empire_horse"/>
+				<equipment slot="HorseHarness" id="Item.light_harness"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item1" id="Item.xyston_a" />
+				<equipment slot="Item2" id="Item.kopis_a" />
+				<equipment slot="Head" id="Item.boeotian_2" />
+				<equipment slot="Cape" id="Item.TV_vlandia_shoulders_h" />
+				<equipment slot="Body" id="Item.cla_carthage_body_musculata_iron_noble_1" />
+				<equipment slot="Gloves" id="Item.arm_guard_1_1_bracer" />
+				<equipment slot="Leg" id="Item.cla_carthage_legs_greaves_basic_5" />
+				<equipment slot="Horse" id="Item.t2_empire_horse"/>
+				<equipment slot="HorseHarness" id="Item.light_harness"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+				<equipment slot="Item2" id="Item.throwing_stone"/>
+				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+	
+	
+	<!-- Sparta Urban Troops -->
+	
+	
+	<NPCCharacter id="homoioi_hoplitai_1"
+	default_group="Infantry"
+	level="11"
+	name="{=Homoioi Hoplitai I}Homoioi Hoplitai I"
+	occupation="Soldier"
+	is_basic_troop="true"
+	culture="Culture.spartan">
+		<face>
+			<face_key_template value="BodyProperty.fighter_spartan"/>
+		</face>
+		<skills >
+			<skill id="Athletics" value="110"/>
+			<skill id="Riding" value="0"/>
+			<skill id="OneHanded" value="95"/>
+			<skill id="TwoHanded" value="0"/>
+			<skill id="Polearm" value="90"/>
+			<skill id="Bow" value="0"/>
+			<skill id="Crossbow" value="0"/>
+			<skill id="Throwing" value="0"/>
+		</skills>
+		<upgrade_targets>
+			<upgrade_target id="NPCCharacter.homoioi_hoplitai_2"/>
+		</upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.aspis_1"/>
+				<equipment slot="Head" id="Item.pilos_1"/>
+				<equipment slot="Body" id="Item.exomis_4"/>
+				<equipment slot="Leg" id="Item.sandals_1_bronze_greaves_left"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.aspis_5"/>
+				<equipment slot="Head" id="Item.pilos_1"/>
+				<equipment slot="Body" id="Item.exomis_3"/>
+				<equipment slot="Leg" id="Item.sandals_1_bronze_greaves_right"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.aspis_1"/>
+				<equipment slot="Head" id="Item.pilos_1"/>
+				<equipment slot="Body" id="Item.exomis_4"/>
+				<equipment slot="Leg" id="Item.sandals_1_bronze_greaves_left"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.aspis_5"/>
+				<equipment slot="Head" id="Item.pilos_1"/>
+				<equipment slot="Body" id="Item.exomis_3"/>
+				<equipment slot="Leg" id="Item.sandals_1_bronze_greaves_right"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+				<equipment slot="Item2" id="Item.throwing_stone"/>
+				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+	
+	<NPCCharacter id="homoioi_hoplitai_2"
+		default_group="Infantry"
+		level="16"
+		name="{=Homoioi Hoplitai II}Homoioi Hoplitai II"
+		occupation="Soldier"
+		culture="Culture.spartan">
+		<face>
+			<face_key_template value="BodyProperty.fighter_spartan"/>
+		</face>
+		<skills >
+			<skill id="Athletics" value="110"/>
+			<skill id="Riding" value="0"/>
+			<skill id="OneHanded" value="115"/>
+			<skill id="TwoHanded" value="0"/>
+			<skill id="Polearm" value="130"/>
+			<skill id="Bow" value="0"/>
+			<skill id="Crossbow" value="0"/>
+			<skill id="Throwing" value="0"/>
+		</skills>
+		<upgrade_targets>
+			<upgrade_target id="NPCCharacter.homoioi_hoplitai_3"/>
+		</upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.aspis_1"/>
+				<equipment slot="Head" id="Item.pilos_3_guarded"/>
+				<equipment slot="Body" id="Item.hayster_lino_2"/>
+				<equipment slot="Leg" id="Item.sandals_1_bronze_greaves_dual"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.aspis_5"/>
+				<equipment slot="Head" id="Item.pilos_1"/>
+				<equipment slot="Body" id="Item.exomis_3"/>
+				<equipment slot="Leg" id="Item.sandals_1_bronze_greaves_right"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.aspis_1"/>
+				<equipment slot="Head" id="Item.pilos_3_guarded"/>
+				<equipment slot="Body" id="Item.hayster_lino_2"/>
+				<equipment slot="Leg" id="Item.sandals_1_bronze_greaves_left"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.aspis_5"/>
+				<equipment slot="Head" id="Item.pilos_1"/>
+				<equipment slot="Body" id="Item.hayster_lino_1"/>
+				<equipment slot="Leg" id="Item.armoured_legs_2_7_greaves"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+				<equipment slot="Item2" id="Item.throwing_stone"/>
+				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+	
+	<NPCCharacter id="homoioi_hoplitai_3"
+		default_group="Infantry"
+		level="21"
+		name="{=Homoioi Hoplitai III}Homoioi Hoplitai III"
+		occupation="Soldier"
+		culture="Culture.spartan">
+		<face>
+			<face_key_template value="BodyProperty.fighter_spartan"/>
+		</face>
+		<skills >
+			<skill id="Athletics" value="110"/>
+			<skill id="Riding" value="0"/>
+			<skill id="OneHanded" value="165"/>
+			<skill id="TwoHanded" value="0"/>
+			<skill id="Polearm" value="170"/>
+			<skill id="Bow" value="0"/>
+			<skill id="Crossbow" value="0"/>
+			<skill id="Throwing" value="0"/>
+		</skills>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.aspis_1"/>
+				<equipment slot="Head" id="Item.pilos_4_crested_guarded"/>
+				<equipment slot="Body" id="Item.hayster_lino_2"/>
+				<equipment slot="Leg" id="Item.sandals_1_bronze_greaves_dual"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.aspis_5"/>
+				<equipment slot="Head" id="Item.pilos_noble_crest"/>
+				<equipment slot="Body" id="Item.hayster_lino_1"/>
+				<equipment slot="Leg" id="Item.armoured_legs_2_7_greaves"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.aspis_1"/>
+				<equipment slot="Head" id="Item.pilos_4_crested_guarded"/>
+				<equipment slot="Body" id="Item.hayster_lino_2"/>
+				<equipment slot="Leg" id="Item.sandals_1_bronze_greaves_dual"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.aspis_5"/>
+				<equipment slot="Head" id="Item.pilos_noble_crest"/>
+				<equipment slot="Body" id="Item.hayster_lino_1"/>
+				<equipment slot="Leg" id="Item.armoured_legs_2_7_greaves"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+				<equipment slot="Item2" id="Item.throwing_stone"/>
+				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+
+
+	<!-- Sparta Urban Elite Troops -->
+
+
+	<NPCCharacter id="spartan_hippeis_1"
+	default_group="Infantry"
+	level="21"
+	name="{=Spartan Hippeis I}Spartan Hippeis I"
+	occupation="Soldier"
+	is_basic_troop="true"
+	culture="Culture.spartan">
+		<face>
+			<face_key_template value="BodyProperty.fighter_spartan"/>
+		</face>
+		<skills >
+			<skill id="Athletics" value="110"/>
+			<skill id="Riding" value="0"/>
+			<skill id="OneHanded" value="175"/>
+			<skill id="TwoHanded" value="0"/>
+			<skill id="Polearm" value="180"/>
+			<skill id="Bow" value="0"/>
+			<skill id="Crossbow" value="0"/>
+			<skill id="Throwing" value="0"/>
+		</skills>
+		<upgrade_targets>
+			<upgrade_target id="NPCCharacter.spartan_hippeis_2"/>
+		</upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.hoplon_lahmda"/>
+				<equipment slot="Head" id="Item.corinthian_4_plain"/>
+				<equipment slot="Body" id="Item.hayster_lino_1"/>
+				<equipment slot="Leg" id="Item.armoured_legs_2_7_greaves"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.hoplon_d"/>
+				<equipment slot="Head" id="Item.300_mod_corinthian_helmet"/>
+				<equipment slot="Body" id="Item.hayster_lino_1"/>
+				<equipment slot="Leg" id="Item.sandals_1_bronze_greaves_dual"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.hoplon_lahmda"/>
+				<equipment slot="Head" id="Item.corinthian_4_plain"/>
+				<equipment slot="Body" id="Item.hayster_lino_1"/>
+				<equipment slot="Leg" id="Item.armoured_legs_2_7_greaves"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.hoplon_d"/>
+				<equipment slot="Head" id="Item.300_mod_corinthian_helmet"/>
+				<equipment slot="Body" id="Item.hayster_lino_1"/>
+				<equipment slot="Leg" id="Item.sandals_1_bronze_greaves_dual"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+				<equipment slot="Item2" id="Item.throwing_stone"/>
+				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+	
+	<NPCCharacter id="spartan_hippeis_2"
+		default_group="Infantry"
+		level="26"
+		name="{=Spartan Hippeis II}Spartan Hippeis II"
+		occupation="Soldier"
+		culture="Culture.spartan">
+		<face>
+			<face_key_template value="BodyProperty.fighter_spartan"/>
+		</face>
+		<skills >
+			<skill id="Athletics" value="110"/>
+			<skill id="Riding" value="0"/>
+			<skill id="OneHanded" value="210"/>
+			<skill id="TwoHanded" value="0"/>
+			<skill id="Polearm" value="220"/>
+			<skill id="Bow" value="0"/>
+			<skill id="Crossbow" value="0"/>
+			<skill id="Throwing" value="0"/>
+		</skills>
+		<upgrade_targets>
+			<upgrade_target id="NPCCharacter.spartan_hippeis_3"/>
+		</upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.hoplon_lahmda"/>
+				<equipment slot="Head" id="Item.corinthian_4_plain"/>
+				<equipment slot="Body" id="Item.hayster_lino_1"/>
+				<equipment slot="Leg" id="Item.armoured_legs_2_7_greaves"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.hoplon_d"/>
+				<equipment slot="Head" id="Item.300_mod_corinthian_helmet"/>
+				<equipment slot="Body" id="Item.hayster_lino_1"/>
+				<equipment slot="Leg" id="Item.sandals_1_bronze_greaves_dual"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.hoplon_lahmda"/>
+				<equipment slot="Head" id="Item.corinthian_4_plain"/>
+				<equipment slot="Body" id="Item.hayster_lino_1"/>
+				<equipment slot="Leg" id="Item.armoured_legs_2_7_greaves"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.hoplon_d"/>
+				<equipment slot="Head" id="Item.300_mod_corinthian_helmet"/>
+				<equipment slot="Body" id="Item.hayster_lino_1"/>
+				<equipment slot="Leg" id="Item.sandals_1_bronze_greaves_dual"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+				<equipment slot="Item2" id="Item.throwing_stone"/>
+				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+	
+	<NPCCharacter id="spartan_hippeis_3"
+		default_group="Infantry"
+		level="31"
+		name="{=Spartan Hippeis III}Spartan Hippeis III"
+		occupation="Soldier"
+        is_basic_troop="true"
+		culture="Culture.spartan">
+		<face>
+			<face_key_template value="BodyProperty.fighter_spartan"/>
+		</face>
+		<skills >
+			<skill id="Athletics" value="110"/>
+			<skill id="Riding" value="0"/>
+			<skill id="OneHanded" value="250"/>
+			<skill id="TwoHanded" value="0"/>
+			<skill id="Polearm" value="260"/>
+			<skill id="Bow" value="0"/>
+			<skill id="Crossbow" value="0"/>
+			<skill id="Throwing" value="0"/>
+		</skills>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.hoplon_lahmda"/>
+				<equipment slot="Head" id="Item.corinthian_1"/>
+				<equipment slot="Body" id="Item.cla_carthage_body_musculata_bronze_3"/>
+				<equipment slot="Leg" id="Item.armoured_legs_2_7_greaves"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.hoplon_d"/>
+				<equipment slot="Head" id="Item.corinthian_3_tailed"/>
+				<equipment slot="Body" id="Item.cla_carthage_body_musculata_bronze_3"/>
+				<equipment slot="Leg" id="Item.sandals_1_bronze_greaves_dual"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.hoplon_lahmda"/>
+				<equipment slot="Head" id="Item.corinthian_2"/>
+				<equipment slot="Body" id="Item.cla_carthage_body_musculata_bronze_3"/>
+				<equipment slot="Leg" id="Item.armoured_legs_2_7_greaves"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.hoplon_d"/>
+				<equipment slot="Head" id="Item.corinthian_3_tailed"/>
+				<equipment slot="Body" id="Item.cla_carthage_body_musculata_bronze_3"/>
+				<equipment slot="Leg" id="Item.sandals_1_bronze_greaves_dual"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+				<equipment slot="Item2" id="Item.throwing_stone"/>
+				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+
+
+	<!-- Massilia Rural Troops -->
+
+	<!-- Massalia Urban Regular Troops -->
+
+	<NPCCharacter id="keltohellenokoi_hoplitai_1"
+		default_group="Infantry"
+		level="11"
+		name="{=Keltohellenikoi Hoplitai I}Keltohellenikoi Hoplitai I"
+		occupation="Soldier"
+		is_basic_troop="true"
+		culture="Culture.massilia">
+		<face>
+			<face_key_template value="BodyProperty.villager_massilia"/>
+		</face>
+		<skills >
+			<skill id="Athletics" value="130"/>
+			<skill id="Riding" value="25"/>
+			<skill id="OneHanded" value="70"/>
+			<skill id="TwoHanded" value="25"/>
+			<skill id="Polearm" value="90"/>
+			<skill id="Bow" value="25"/>
+			<skill id="Crossbow" value="25"/>
+			<skill id="Throwing" value="25"/>
+		</skills>
+		<upgrade_targets>
+			<upgrade_target id="NPCCharacter.keltohellenokoi_hoplitai_2"/>
+		</upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.hoplon_d"/>
+				<equipment slot="Head" id="Item.battania_earmuff_helmet_b_brnz"/>
+				<equipment slot="Body" id="Item.celtic_round_plate_1"/>
+				<equipment slot="Leg" id="Item.sandals_1"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.hoplon_d"/>
+				<equipment slot="Head" id="Item.chalcidian_1"/>
+				<equipment slot="Body" id="Item.round_plate_tunic"/>
+				<equipment slot="Leg" id="Item.sandals_1"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.hoplon_d"/>
+				<equipment slot="Head" id="Item.battania_earmuff_helmet_b_brnz"/>
+				<equipment slot="Body" id="Item.celtic_round_plate_1"/>
+				<equipment slot="Leg" id="Item.sandals_1"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.hoplon_d"/>
+				<equipment slot="Head" id="Item.chalcidian_1"/>
+				<equipment slot="Body" id="Item.round_plate_tunic"/>
+				<equipment slot="Leg" id="Item.sandals_1"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+				<equipment slot="Item2" id="Item.throwing_stone"/>
+				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="keltohellenokoi_hoplitai_2"
+		default_group="Infantry"
+		level="16"
+		name="{=Keltohellenikoi II}Keltohellenikoi II"
+		occupation="Soldier"
+		culture="Culture.massilia">
+		<face>
+			<face_key_template value="BodyProperty.villager_massilia"/>
+		</face>
+		<skills >
+			<skill id="Athletics" value="100"/>
+			<skill id="Riding" value="25"/>
+			<skill id="OneHanded" value="70"/>
+			<skill id="TwoHanded" value="25"/>
+			<skill id="Polearm" value="90"/>
+			<skill id="Bow" value="25"/>
+			<skill id="Crossbow" value="25"/>
+			<skill id="Throwing" value="25"/>
+		</skills>
+		<upgrade_targets>
+			<upgrade_target id="NPCCharacter.keltohellenokoi_hoplitai_3"/>
+		</upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.hoplon_d"/>
+				<equipment slot="Head" id="Item.TV_battania_helmet_s2"/>
+				<equipment slot="Cape" id="Item.battania_cloak_furr"/>
+				<equipment slot="Body" id="Item.hayster_lino_5"/>
+				<equipment slot="Leg" id="Item.sandals_1_bronze_greaves_left"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.hoplon_d"/>
+				<equipment slot="Head" id="Item.chalcidian_1"/>
+				<equipment slot="Cape" id="Item.battania_cloak_furr"/>
+				<equipment slot="Body" id="Item.hayster_lino_3"/>
+				<equipment slot="Leg" id="Item.sandals_1_bronze_greaves_right"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.hoplon_d"/>
+				<equipment slot="Head" id="Item.TV_battania_helmet_s2"/>
+				<equipment slot="Cape" id="Item.battania_cloak_furr"/>
+				<equipment slot="Body" id="Item.hayster_lino_5"/>
+				<equipment slot="Leg" id="Item.sandals_1_bronze_greaves_left"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.hoplon_d"/>
+				<equipment slot="Head" id="Item.chalcidian_1"/>
+				<equipment slot="Cape" id="Item.battania_cloak_furr"/>
+				<equipment slot="Body" id="Item.hayster_lino_3"/>
+				<equipment slot="Leg" id="Item.sandals_1_bronze_greaves_right"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+				<equipment slot="Item2" id="Item.throwing_stone"/>
+				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="keltohellenokoi_hoplitai_3"
+		default_group="Infantry"
+		level="21"
+		name="{=Keltohellenikoi III}Keltohellenikoi III"
+		occupation="Soldier"
+		culture="Culture.massilia">
+		<face>
+			<face_key_template value="BodyProperty.villager_massilia"/>
+		</face>
+		<skills >
+			<skill id="Athletics" value="100"/>
+			<skill id="Riding" value="25"/>
+			<skill id="OneHanded" value="110"/>
+			<skill id="TwoHanded" value="25"/>
+			<skill id="Polearm" value="130"/>
+			<skill id="Bow" value="25"/>
+			<skill id="Crossbow" value="25"/>
+			<skill id="Throwing" value="25"/>
+		</skills>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.hoplon_d"/>
+				<equipment slot="Head" id="Item.TV_battania_helmet_s2"/>
+				<equipment slot="Cape" id="Item.battania_cloak_furr"/>
+				<equipment slot="Body" id="Item.punic_linothorax_chain_eastern_no_faction"/>
+				<equipment slot="Leg" id="Item.sandals_1_bronze_greaves_left"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.hoplon_d"/>
+				<equipment slot="Head" id="Item.chalcidian_1"/>
+				<equipment slot="Cape" id="Item.battania_cloak_furr"/>
+				<equipment slot="Body" id="Item.punic_linothorax_chain_eastern_no_faction"/>
+				<equipment slot="Leg" id="Item.sandals_1_bronze_greaves_right"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.hoplon_d"/>
+				<equipment slot="Head" id="Item.TV_battania_helmet_s2"/>
+				<equipment slot="Cape" id="Item.battania_cloak_furr"/>
+				<equipment slot="Body" id="Item.punic_linothorax_chain_eastern_no_faction"/>
+				<equipment slot="Leg" id="Item.sandals_1_bronze_greaves_left"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.hoplon_d"/>
+				<equipment slot="Head" id="Item.chalcidian_1"/>
+				<equipment slot="Cape" id="Item.battania_cloak_furr"/>
+				<equipment slot="Body" id="Item.punic_linothorax_chain_eastern_no_faction"/>
+				<equipment slot="Leg" id="Item.sandals_1_bronze_greaves_right"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+				<equipment slot="Item2" id="Item.throwing_stone"/>
+				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+
+
+	<!-- Massalia Urban Elite Troops -->
+
+	<NPCCharacter id="massaloi_hoplitai_1"
+		default_group="Infantry"
+		level="21"
+		name="{=Massaloi Hoplitai I}Massaloi Hoplitai I"
+		occupation="Soldier"
+		is_basic_troop="true"
+		culture="Culture.massilia">
+		<face>
+			<face_key_template value="BodyProperty.villager_massilia"/>
+		</face>
+		<skills >
+			<skill id="Athletics" value="110"/>
+			<skill id="Riding" value="50"/>
+			<skill id="OneHanded" value="180"/>
+			<skill id="TwoHanded" value="50"/>
+			<skill id="Polearm" value="180"/>
+			<skill id="Bow" value="50"/>
+			<skill id="Crossbow" value="50"/>
+			<skill id="Throwing" value="50"/>
+		</skills>
+		<upgrade_targets>
+			<upgrade_target id="NPCCharacter.massaloi_hoplitai_2"/>
+		</upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.hoplon_d"/>
+				<equipment slot="Head" id="Item.TV_battania_helmet_d"/>
+				<equipment slot="Body" id="Item.hayster_lino_9"/>
+				<equipment slot="Leg" id="Item.sandals_1_bronze_greaves_left"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.hoplon_d"/>
+				<equipment slot="Head" id="Item.crested_chalcidian"/>
+				<equipment slot="Body" id="Item.hayster_lino_8"/>
+				<equipment slot="Leg" id="Item.sandals_1_bronze_greaves_left"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.hoplon_d"/>
+				<equipment slot="Head" id="Item.TV_battania_helmet_d"/>
+				<equipment slot="Body" id="Item.hayster_lino_9"/>
+				<equipment slot="Leg" id="Item.sandals_1_bronze_greaves_left"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.hoplon_d"/>
+				<equipment slot="Head" id="Item.crested_chalcidian"/>
+				<equipment slot="Body" id="Item.hayster_lino_8"/>
+				<equipment slot="Leg" id="Item.sandals_1_bronze_greaves_left"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+				<equipment slot="Item2" id="Item.throwing_stone"/>
+				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="massaloi_hoplitai_2"
+		default_group="Infantry"
+		level="26"
+		name="{=Massaloi Hoplitai II}Massaloi Hoplitai II"
+		occupation="Soldier"
+		culture="Culture.massilia">
+		<face>
+			<face_key_template value="BodyProperty.villager_massilia"/>
+		</face>
+		<skills >
+			<skill id="Athletics" value="100"/>
+			<skill id="Riding" value="50"/>
+			<skill id="OneHanded" value="200"/>
+			<skill id="TwoHanded" value="50"/>
+			<skill id="Polearm" value="220"/>
+			<skill id="Bow" value="50"/>
+			<skill id="Crossbow" value="50"/>
+			<skill id="Throwing" value="50"/>
+		</skills>
+		<upgrade_targets>
+			<upgrade_target id="NPCCharacter.massaloi_hoplitai_3"/>
+		</upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.hoplon_d"/>
+				<equipment slot="Head" id="Item.AR_battania_helmet_v2"/>
+				<equipment slot="Cape" id="Item.battania_scarf_a"/>
+				<equipment slot="Body" id="Item.musculata_pteruges"/>
+				<equipment slot="Gloves" id="Item.arm_guard_1_5_complete"/>
+				<equipment slot="Leg" id="Item.armoured_legs_1_5_thighs"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.hoplon_d"/>
+				<equipment slot="Head" id="Item.AR_battania_helmet_v2"/>
+				<equipment slot="Cape" id="Item.battania_scarf_a"/>
+				<equipment slot="Body" id="Item.musculata_pteruges"/>
+				<equipment slot="Gloves" id="Item.arm_guard_1_5_complete"/>
+				<equipment slot="Leg" id="Item.armoured_legs_1_5_thighs"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.hoplon_d"/>
+				<equipment slot="Head" id="Item.AR_battania_helmet_v2"/>
+				<equipment slot="Cape" id="Item.battania_scarf_a"/>
+				<equipment slot="Body" id="Item.musculata_pteruges"/>
+				<equipment slot="Gloves" id="Item.arm_guard_1_5_complete"/>
+				<equipment slot="Leg" id="Item.armoured_legs_1_5_thighs"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.hoplon_d"/>
+				<equipment slot="Head" id="Item.AR_battania_helmet_v2"/>
+				<equipment slot="Cape" id="Item.battania_scarf_a"/>
+				<equipment slot="Body" id="Item.musculata_pteruges"/>
+				<equipment slot="Gloves" id="Item.arm_guard_1_5_complete"/>
+				<equipment slot="Leg" id="Item.armoured_legs_1_5_thighs"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+				<equipment slot="Item2" id="Item.throwing_stone"/>
+				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="massaloi_hoplitai_3"
+		default_group="Infantry"
+		level="31"
+		name="{=Massaloi Hoplitai III}Massaloi Hoplitai III"
+		occupation="Soldier"
+		culture="Culture.massilia">
+		<face>
+			<face_key_template value="BodyProperty.villager_massilia"/>
+		</face>
+		<skills >
+			<skill id="Athletics" value="100"/>
+			<skill id="Riding" value="50"/>
+			<skill id="OneHanded" value="240"/>
+			<skill id="TwoHanded" value="50"/>
+			<skill id="Polearm" value="260"/>
+			<skill id="Bow" value="50"/>
+			<skill id="Crossbow" value="50"/>
+			<skill id="Throwing" value="50"/>
+		</skills>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.hoplon_d"/>
+				<equipment slot="Head" id="Item.phrygian_helm_2"/>
+				<equipment slot="Cape" id="Item.battania_scarf_a"/>
+				<equipment slot="Body" id="Item.musculata_pteruges"/>
+				<equipment slot="Gloves" id="Item.arm_guard_1_5_complete"/>
+				<equipment slot="Leg" id="Item.armoured_legs_1_5_thighs"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.hoplon_d"/>
+				<equipment slot="Head" id="Item.cla_carthage_helm_thracian_beard_paint_red_white_1"/>
+				<equipment slot="Cape" id="Item.battania_scarf_a"/>
+				<equipment slot="Body" id="Item.cla_carthage_body_musculata_bronze_4"/>
+				<equipment slot="Gloves" id="Item.arm_guard_1_5_complete"/>
+				<equipment slot="Leg" id="Item.armoured_legs_1_5_thighs"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.hoplon_d"/>
+				<equipment slot="Head" id="Item.phrygian_helm_2"/>
+				<equipment slot="Cape" id="Item.battania_scarf_a"/>
+				<equipment slot="Body" id="Item.musculata_pteruges"/>
+				<equipment slot="Gloves" id="Item.arm_guard_1_5_complete"/>
+				<equipment slot="Leg" id="Item.armoured_legs_1_5_thighs"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.hoplon_d"/>
+				<equipment slot="Head" id="Item.cla_carthage_helm_thracian_beard_paint_red_white_2"/>
+				<equipment slot="Cape" id="Item.battania_scarf_a"/>
+				<equipment slot="Body" id="Item.cla_carthage_body_musculata_bronze_3"/>
+				<equipment slot="Gloves" id="Item.arm_guard_1_5_complete"/>
+				<equipment slot="Leg" id="Item.armoured_legs_1_5_thighs"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+				<equipment slot="Item2" id="Item.throwing_stone"/>
+				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+	
+	
+    <!-- Old Troops -->
     <NPCCharacter id="Syracuse_Levy"
                   default_group="Infantry"
                   level="6"
@@ -352,7 +3083,7 @@
             <EquipmentRoster>
                 <equipment slot="Item0" id="Item.doru_a"/>
                 <equipment slot="Item1" id="Item.AR_shield_infantry_zc"/>
-                <equipment slot="Head" id="Item.empire_battle_crown_north"/>
+                <equipment slot="Head" id="Item.crested_chalcidian"/>
                 <equipment slot="Cape" id="Item.leopard_pelt"/>
                 <equipment slot="Body" id="Item.AO_aserai_armor_a"/>
                 <equipment slot="Gloves" id="Item.arm_guard_1_1_bracer"/>
@@ -1850,7 +4581,8 @@
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
-
+ 
+	
     <!-- Makedon Troops -->
     <NPCCharacter id="Makedon_Recruit"
                   default_group="Infantry"
@@ -1858,7 +4590,7 @@
                   name="{=Makedonikoi Epistratoi}Makedonikoi Recruits"
                   occupation="Soldier"
                   is_basic_troop="true"
-                  culture="Culture.khuzait">
+                  culture="Culture.byzantine">
         <face>
             <face_key_template value="BodyProperty.fighter_empire"/>
         </face>
@@ -1918,7 +4650,7 @@
                   level="11"
                   name="{=Makedonikoi Hoplitai}Makedonikoi Hoplitai"
                   occupation="Soldier"
-                  culture="Culture.khuzait">
+                  culture="Culture.byzantine">
         <face>
             <face_key_template value="BodyProperty.fighter_empire"/>
         </face>
@@ -1980,7 +4712,7 @@
                   level="11"
                   name="{=Makedon Toxotae}Makedon Toxotae"
                   occupation="Soldier"
-                  culture="Culture.khuzait">
+                  culture="Culture.byzantine">
         <face>
             <face_key_template value="BodyProperty.fighter_empire"/>
         </face>
@@ -2017,7 +4749,7 @@
                   level="16"
                   name="{=Makedonikoi Phalangitai}Makedonikoi Phalangitai"
                   occupation="Soldier"
-                  culture="Culture.khuzait">
+                  culture="Culture.byzantine">
         <face>
             <face_key_template value="BodyProperty.fighter_empire"/>
         </face>
@@ -2077,7 +4809,7 @@
                   level="16"
                   name="{=Makedonikoi Hypaspistai}Makedonikoi Hypaspistai"
                   occupation="Soldier"
-                  culture="Culture.khuzait">
+                  culture="Culture.byzantine">
         <face>
             <face_key_template value="BodyProperty.fighter_empire"/>
         </face>
@@ -2140,7 +4872,7 @@
                   level="21"
                   name="{=Makedon Veteran Phangangite}Makedonikoi Veteran Phalangitai"
                   occupation="Soldier"
-                  culture="Culture.khuzait">
+                  culture="Culture.byzantine">
         <face>
             <face_key_template value="BodyProperty.fighter_empire"/>
         </face>
@@ -2202,7 +4934,7 @@
                   name="{=Makedonikoi Eugeneis}Makedonikoi Noble"
                   occupation="Soldier"
                   is_basic_troop="true"
-                  culture="Culture.khuzait">
+                  culture="Culture.byzantine">
         <face>
             <face_key_template value="BodyProperty.fighter_empire"/>
         </face>
@@ -2260,13 +4992,14 @@
 
         </Equipments>
     </NPCCharacter>
+	
     <NPCCharacter id="Makedon_Noble_Cavalry_01"
                   default_group="Cavalry"
                   level="26"
                   name="{=Makedonikoi Hetairoi}Makedonikoi Hetairoi"
                   upgrade_requires="ItemCategory.war_horse"
                   occupation="Soldier"
-                  culture="Culture.khuzait">
+                  culture="Culture.byzantine">
         <face>
             <face_key_template value="BodyProperty.fighter_empire"/>
         </face>
@@ -2336,7 +5069,7 @@
                   level="26"
                   name="{=Makedonikoi Agema}Makedonikoi Agema"
                   occupation="Soldier"
-                  culture="Culture.khuzait">
+                  culture="Culture.byzantine">
         <face>
             <face_key_template value="BodyProperty.fighter_empire"/>
         </face>
@@ -2394,7 +5127,7 @@
                   level="26"
                   name="{=Makedonikoi Silver Shield}Makedonikoi Silver Shield"
                   occupation="Soldier"
-                  culture="Culture.khuzait">
+                  culture="Culture.byzantine">
         <face>
             <face_key_template value="BodyProperty.fighter_empire"/>
         </face>
@@ -2455,7 +5188,7 @@
                   level="31"
                   name="{=Makedonikoi Hetairoi Agema}Makedonikoi Hetairoi Agema"
                   occupation="Soldier"
-                  culture="Culture.khuzait">
+                  culture="Culture.byzantine">
         <face>
             <face_key_template value="BodyProperty.fighter_empire"/>
         </face>
@@ -4791,4 +7524,545 @@
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
+
+	<!-- #Cyrenica Greek -->
+	<NPCCharacter id="Doúlos_Spearmen_1"
+                  default_group="Infantry"
+                  level="11"
+                  name="{=Doúlos Levy Spearmen}Doúlos Spearmen I"
+                  occupation="Soldier"
+                  is_basic_troop="true"
+                  culture="Culture.cyrenian">
+		<face>
+			<face_key_template value="BodyProperty.slave_african"/>
+		</face>
+		<skills>
+			<skill id="Athletics" value="90"/>
+			<skill id="Riding" value="25"/>
+			<skill id="OneHanded" value="40"/>
+			<skill id="TwoHanded" value="25"/>
+			<skill id="Polearm" value="50"/>
+			<skill id="Bow" value="25"/>
+			<skill id="Crossbow" value="25"/>
+			<skill id="Throwing" value="40"/>
+		</skills>
+		<upgrade_targets>
+			<upgrade_target id="NPCCharacter.Doúlos_Peltasts_2"/>
+			<upgrade_target id="NPCCharacter.Doúlos_Spearmen_2"/>
+		</upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.AR_shield_infantry_zk"/>
+				<equipment slot="Head" id="Item.petasos_1"/>
+				<equipment slot="Cape" id="Item.leopard_pelt"/>
+				<equipment slot="Body" id="Item.thick_exomis_1_2"/>
+				<equipment slot="Leg" id="Item.sandals_1"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.AR_shield_infantry_zl"/>
+				<equipment slot="Head" id="Item.petasos_2"/>
+				<equipment slot="Body" id="Item.chiton_no_sleeves_t3_1_2"/>
+				<equipment slot="Leg" id="Item.sandals_1"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.AR_shield_infantry_zk"/>
+				<equipment slot="Head" id="Item.petasos_1"/>
+				<equipment slot="Cape" id="Item.AR_aserai_shoulder_q"/>
+				<equipment slot="Body" id="Item.thick_exomis_1_2"/>
+				<equipment slot="Leg" id="Item.sandals_1"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.AR_shield_infantry_zl"/>
+				<equipment slot="Head" id="Item.petasos_2"/>
+				<equipment slot="Body" id="Item.chiton_no_sleeves_t3_1_2"/>
+				<equipment slot="Leg" id="Item.sandals_1"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Body" id="Item.chiton_sleeves_1"/>
+				<equipment slot="Leg" id="Item.sandals_1"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="Doúlos_Peltasts_2"
+                  default_group="Infantry"
+                  level="16"
+                  name="{=Doúlos Levy Peltasts}Doúlos Peltasts II"
+                  occupation="Soldier"
+                  culture="Culture.cyrenian">
+		<face>
+			<face_key_template value="BodyProperty.slave_african"/>
+		</face>
+		<skills>
+			<skill id="Athletics" value="150"/>
+			<skill id="Riding" value="25"/>
+			<skill id="OneHanded" value="90"/>
+			<skill id="TwoHanded" value="25"/>
+			<skill id="Polearm" value="40"/>
+			<skill id="Bow" value="25"/>
+			<skill id="Crossbow" value="25"/>
+			<skill id="Throwing" value="60"/>
+		</skills>
+		<upgrade_targets>
+			<upgrade_target id="NPCCharacter.Doúlos_Peltasts_3"/>
+		</upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.libyan_short_sword_a"/>
+				<equipment slot="Item1" id="Item.AR_shield_infantry_zk"/>
+				<equipment slot="Item2" id="Item.libyan_tribal_dart_a"/>
+				<equipment slot="Head" id="Item.petasos_1"/>
+				<equipment slot="Cape" id="Item.leopard_pelt"/>
+				<equipment slot="Body" id="Item.round_plate_tunic"/>
+				<equipment slot="Leg" id="Item.sandals_1"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.kopis_a"/>
+				<equipment slot="Item1" id="Item.AR_shield_infantry_zl"/>
+				<equipment slot="Item2" id="Item.libyan_tribal_dart_a"/>
+				<equipment slot="Head" id="Item.petasos_2"/>
+				<equipment slot="Body" id="Item.round_plate_tunic"/>
+				<equipment slot="Leg" id="Item.sandals_1"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.libyan_short_sword_a"/>
+				<equipment slot="Item1" id="Item.AR_shield_infantry_zk"/>
+				<equipment slot="Item2" id="Item.libyan_tribal_dart_a"/>
+				<equipment slot="Head" id="Item.petasos_1"/>
+				<equipment slot="Cape" id="Item.AR_aserai_shoulder_q"/>
+				<equipment slot="Body" id="Item.round_plate_tunic"/>
+				<equipment slot="Leg" id="Item.sandals_1"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.kopis_a"/>
+				<equipment slot="Item1" id="Item.AR_shield_infantry_zl"/>
+				<equipment slot="Item2" id="Item.libyan_tribal_dart_a"/>
+				<equipment slot="Head" id="Item.petasos_2"/>
+				<equipment slot="Body" id="Item.round_plate_tunic"/>
+				<equipment slot="Leg" id="Item.sandals_1"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Body" id="Item.chiton_sleeves_1"/>
+				<equipment slot="Leg" id="Item.sandals_1"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="Doúlos_Spearmen_2"
+                  default_group="Infantry"
+                  level="16"
+                  name="{=Doúlos Spearmen}Doúlos Spearmen II"
+                  occupation="Soldier"
+                  culture="Culture.cyrenian">
+		<face>
+			<face_key_template value="BodyProperty.slave_african"/>
+		</face>
+		<skills>
+			<skill id="Athletics" value="130"/>
+			<skill id="Riding" value="25"/>
+			<skill id="OneHanded" value="80"/>
+			<skill id="TwoHanded" value="25"/>
+			<skill id="Polearm" value="90"/>
+			<skill id="Bow" value="25"/>
+			<skill id="Crossbow" value="25"/>
+			<skill id="Throwing" value="40"/>
+		</skills>
+		<upgrade_targets>
+			<upgrade_target id="NPCCharacter.Doúlos_Spearmen_3"/>
+		</upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.AR_shield_infantry_zk"/>
+				<equipment slot="Head" id="Item.petasos_1"/>
+				<equipment slot="Cape" id="Item.leopard_pelt"/>
+				<equipment slot="Body" id="Item.round_plate_tunic"/>
+				<equipment slot="Leg" id="Item.sandals_1"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.AR_shield_infantry_zl"/>
+				<equipment slot="Head" id="Item.petasos_1"/>
+				<equipment slot="Body" id="Item.round_plate_tunic"/>
+				<equipment slot="Leg" id="Item.sandals_1"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.AR_shield_infantry_zk"/>
+				<equipment slot="Head" id="Item.petasos_1"/>
+				<equipment slot="Cape" id="Item.AR_aserai_shoulder_q"/>
+				<equipment slot="Body" id="Item.round_plate_tunic"/>
+				<equipment slot="Leg" id="Item.sandals_1"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.AR_shield_infantry_zl"/>
+				<equipment slot="Head" id="Item.petasos_1"/>
+				<equipment slot="Body" id="Item.round_plate_tunic"/>
+				<equipment slot="Leg" id="Item.sandals_1"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Body" id="Item.chiton_sleeves_1"/>
+				<equipment slot="Leg" id="Item.sandals_1"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="Doúlos_Spearmen_3"
+                  default_group="Infantry"
+                  level="21"
+                  name="{=Freed Doúlos Spearmen}Doúlos Spearmen III"
+                  occupation="Soldier"
+                  culture="Culture.cyrenian">
+		<face>
+			<face_key_template value="BodyProperty.slave_african"/>
+		</face>
+		<skills>
+			<skill id="Athletics" value="100"/>
+			<skill id="Riding" value="25"/>
+			<skill id="OneHanded" value="120"/>
+			<skill id="TwoHanded" value="25"/>
+			<skill id="Polearm" value="130"/>
+			<skill id="Bow" value="25"/>
+			<skill id="Crossbow" value="25"/>
+			<skill id="Throwing" value="40"/>
+		</skills>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.AR_shield_infantry_zk"/>
+				<equipment slot="Head" id="Item.punic_helm_plain"/>
+				<equipment slot="Cape" id="Item.leopard_pelt"/>
+				<equipment slot="Body" id="Item.hayster_lino_3"/>
+				<equipment slot="Leg" id="Item.sandals_1_bronze_greaves_right"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.AR_shield_infantry_zl"/>
+				<equipment slot="Head" id="Item.bronze_conical_helm"/>
+				<equipment slot="Body" id="Item.hayster_lino_5"/>
+				<equipment slot="Leg" id="Item.sandals_1_bronze_greaves_left"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.AR_shield_infantry_zk"/>
+				<equipment slot="Head" id="Item.bronze_conical_helm"/>
+				<equipment slot="Cape" id="Item.AR_aserai_shoulder_q"/>
+				<equipment slot="Body" id="Item.hayster_lino_3"/>
+				<equipment slot="Leg" id="Item.sandals_1_bronze_greaves_right"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.AR_shield_infantry_zl"/>
+				<equipment slot="Head" id="Item.bronze_conical_helm"/>
+				<equipment slot="Body" id="Item.hayster_lino_5"/>
+				<equipment slot="Leg" id="Item.sandals_1_bronze_greaves_left"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Body" id="Item.chiton_sleeves_1"/>
+				<equipment slot="Leg" id="Item.sandals_1"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="Doúlos_Peltasts_3"
+                  default_group="Infantry"
+                  level="21"
+                  name="{=Freed Doúlos Peltasts}Doúlos Peltasts III"
+                  occupation="Soldier"
+                  culture="Culture.cyrenian">
+		<face>
+			<face_key_template value="BodyProperty.slave_african"/>
+		</face>
+		<skills>
+			<skill id="Athletics" value="150"/>
+			<skill id="Riding" value="25"/>
+			<skill id="OneHanded" value="130"/>
+			<skill id="TwoHanded" value="25"/>
+			<skill id="Polearm" value="120"/>
+			<skill id="Bow" value="25"/>
+			<skill id="Crossbow" value="25"/>
+			<skill id="Throwing" value="130"/>
+		</skills>
+		<upgrade_targets>
+
+		</upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.libyan_short_sword_a"/>
+				<equipment slot="Item1" id="Item.AR_shield_infantry_zk"/>
+				<equipment slot="Item2" id="Item.libyan_javelin_1_t2"/>
+				<equipment slot="Head" id="Item.punic_helm_plain"/>
+				<equipment slot="Cape" id="Item.leopard_pelt"/>
+				<equipment slot="Body" id="Item.round_plate_tunic"/>
+				<equipment slot="Leg" id="Item.sandals_1"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.kopis_a"/>
+				<equipment slot="Item1" id="Item.AR_shield_infantry_zl"/>
+				<equipment slot="Item2" id="Item.libyan_javelin_1_t2"/>
+				<equipment slot="Head" id="Item.pilos_1"/>
+				<equipment slot="Body" id="Item.round_plate_tunic"/>
+				<equipment slot="Leg" id="Item.sandals_1"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.libyan_short_sword_a"/>
+				<equipment slot="Item1" id="Item.AR_shield_infantry_zk"/>
+				<equipment slot="Item2" id="Item.libyan_javelin_1_t2"/>
+				<equipment slot="Head" id="Item.bronze_conical_helm"/>
+				<equipment slot="Cape" id="Item.AR_aserai_shoulder_q"/>
+				<equipment slot="Body" id="Item.round_plate_tunic"/>
+				<equipment slot="Leg" id="Item.sandals_1"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.kopis_a"/>
+				<equipment slot="Item1" id="Item.AR_shield_infantry_zl"/>
+				<equipment slot="Item2" id="Item.libyan_javelin_1_t2"/>
+				<equipment slot="Head" id="Item.pilos_1"/>
+				<equipment slot="Body" id="Item.round_plate_tunic"/>
+				<equipment slot="Leg" id="Item.sandals_1"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Body" id="Item.chiton_sleeves_1"/>
+				<equipment slot="Leg" id="Item.sandals_1"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+	<!-- Cyrenica Nobles -->
+
+	<NPCCharacter id="cyrene_noble_1"
+                  default_group="Infantry"
+                  level="21"
+                  name="{=Kyrenica Citizen Hoplite}Kyrenica Citizen Hoplite I"
+                  occupation="Soldier"
+			      is_basic_troop="true"
+                  culture="Culture.cyrenian">
+		<face>
+			<face_key_template value="BodyProperty.fighter_dorian_cyrenica"/>
+		</face>
+		<skills>
+			<skill id="Athletics" value="100"/>
+			<skill id="Riding" value="25"/>
+			<skill id="OneHanded" value="170"/>
+			<skill id="TwoHanded" value="25"/>
+			<skill id="Polearm" value="180"/>
+			<skill id="Bow" value="25"/>
+			<skill id="Crossbow" value="25"/>
+			<skill id="Throwing" value="25"/>
+		</skills>
+		<upgrade_targets>
+			<upgrade_target id="NPCCharacter.cyrene_noble_2"/>
+			<upgrade_target id="NPCCharacter.cyrene_noble_horse_2"/>
+		</upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.hoplon_d"/>
+				<equipment slot="Head" id="Item.pilos_3_guarded"/>
+				<equipment slot="Body" id="Item.hayster_lino_2"/>
+				<equipment slot="Leg" id="Item.armoured_legs_1_1_left"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.xiphos_a"/>
+				<equipment slot="Item1" id="Item.hoplon_sphinx"/>
+				<equipment slot="Head" id="Item.pilos_3_guarded"/>
+				<equipment slot="Body" id="Item.hayster_lino_2"/>
+				<equipment slot="Leg" id="Item.armoured_legs_1_2_right"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.xiphos_a"/>
+				<equipment slot="Item1" id="Item.hoplon_scorpion"/>
+				<equipment slot="Head" id="Item.pilos_3_guarded"/>
+				<equipment slot="Body" id="Item.hayster_lino_2"/>
+				<equipment slot="Leg" id="Item.armoured_legs_1_3"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.hoplon_bird"/>
+				<equipment slot="Head" id="Item.pilos_3_guarded"/>
+				<equipment slot="Body" id="Item.hayster_lino_2"/>
+				<equipment slot="Leg" id="Item.armoured_legs_1_7_greaves"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Body" id="Item.chiton_sleeves_1"/>
+				<equipment slot="Leg" id="Item.sandals_1"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="cyrene_noble_2"
+                  default_group="Infantry"
+                  level="26"
+                  name="{=Kyrenica Hoplitai}Kyrenica Citizen Hoplite II"
+                  occupation="Soldier"
+                  culture="Culture.cyrenian">
+		<face>
+			<face_key_template value="BodyProperty.fighter_dorian_cyrenica"/>
+		</face>
+		<skills>
+			<skill id="Athletics" value="100"/>
+			<skill id="Riding" value="25"/>
+			<skill id="OneHanded" value="210"/>
+			<skill id="TwoHanded" value="25"/>
+			<skill id="Polearm" value="220"/>
+			<skill id="Bow" value="25"/>
+			<skill id="Crossbow" value="25"/>
+			<skill id="Throwing" value="25"/>
+		</skills>
+		<upgrade_targets>
+			<upgrade_target id="NPCCharacter.cyrene_noble_3"/>
+		</upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.hoplon_bird"/>
+				<equipment slot="Head" id="Item.pilos_4_crested_guarded"/>
+				<equipment slot="Body" id="Item.hayster_lino_1"/>
+				<equipment slot="Leg" id="Item.armoured_legs_2_1_left"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.hoplon_scorpion"/>
+				<equipment slot="Head" id="Item.pilos_4_crested_guarded"/>
+				<equipment slot="Body" id="Item.hayster_lino_1"/>
+				<equipment slot="Leg" id="Item.armoured_legs_2_1_left"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.hoplon_sphinx"/>
+				<equipment slot="Head" id="Item.pilos_4_crested_guarded"/>
+				<equipment slot="Body" id="Item.hayster_lino_1"/>
+				<equipment slot="Leg" id="Item.armoured_legs_2_1_left"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.hoplon_twb_4"/>
+				<equipment slot="Head" id="Item.pilos_4_crested_guarded"/>
+				<equipment slot="Body" id="Item.hayster_lino_1"/>
+				<equipment slot="Leg" id="Item.armoured_legs_2_1_left"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Body" id="Item.chiton_sleeves_1"/>
+				<equipment slot="Leg" id="Item.sandals_1"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="cyrene_noble_horse_2"
+                  default_group="Cavalry"
+                  level="26"
+                  name="{=Kyrenica Levy Cavalry}Kyrenica Hippeis II"
+                  occupation="Soldier"
+                  culture="Culture.cyrenian">
+		<face>
+			<face_key_template value="BodyProperty.fighter_dorian_cyrenica"/>
+		</face>
+		<skills>
+			<skill id="Athletics" value="100"/>
+			<skill id="Riding" value="25"/>
+			<skill id="OneHanded" value="220"/>
+			<skill id="TwoHanded" value="25"/>
+			<skill id="Polearm" value="220"/>
+			<skill id="Bow" value="25"/>
+			<skill id="Crossbow" value="25"/>
+			<skill id="Throwing" value="200"/>
+		</skills>
+		<upgrade_targets>
+
+		</upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.xyston_a"/>
+				<equipment slot="Head" id="Item.pilos_1"/>
+				<equipment slot="Body" id="Item.hayster_lino_2"/>
+				<equipment slot="Leg" id="Item.armoured_legs_2_1_left"/>
+				<equipment slot="Horse" id="Item.aserai_horse"/>
+				<equipment slot="HorseHarness" id="Item.desert_cloth_harness"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.xyston_a"/>
+				<equipment slot="Head" id="Item.pilos_1"/>
+				<equipment slot="Body" id="Item.hayster_lino_2"/>
+				<equipment slot="Leg" id="Item.armoured_legs_2_7_greaves"/>
+				<equipment slot="Horse" id="Item.aserai_horse"/>
+				<equipment slot="HorseHarness" id="Item.desert_cloth_harness"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.xyston_a"/>
+				<equipment slot="Head" id="Item.pilos_1"/>
+				<equipment slot="Body" id="Item.hayster_lino_2"/>
+				<equipment slot="Leg" id="Item.sandals_1_bronze_greaves_dual"/>
+				<equipment slot="Horse" id="Item.aserai_horse"/>
+				<equipment slot="HorseHarness" id="Item.desert_cloth_harness"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.xyston_a"/>
+				<equipment slot="Head" id="Item.pilos_1"/>
+				<equipment slot="Body" id="Item.hayster_lino_2"/>
+				<equipment slot="Leg" id="Item.armoured_legs_1_5_thighs"/>
+				<equipment slot="Horse" id="Item.aserai_horse"/>
+				<equipment slot="HorseHarness" id="Item.desert_cloth_harness"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Body" id="Item.chiton_sleeves_1"/>
+				<equipment slot="Leg" id="Item.sandals_1"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="cyrene_noble_3"
+                  default_group="Infantry"
+                  level="31"
+                  name="{=Kyrenica Royal Hoplite}Kyrenica Citizen Hoplite III"
+                  occupation="Soldier"
+                  culture="Culture.cyrenian">
+		<face>
+			<face_key_template value="BodyProperty.fighter_dorian_cyrenica"/>
+		</face>
+		<skills>
+			<skill id="Athletics" value="100"/>
+			<skill id="Riding" value="25"/>
+			<skill id="OneHanded" value="250"/>
+			<skill id="TwoHanded" value="25"/>
+			<skill id="Polearm" value="260"/>
+			<skill id="Bow" value="25"/>
+			<skill id="Crossbow" value="25"/>
+			<skill id="Throwing" value="220"/>
+		</skills>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.hoplon_twb_5"/>
+				<equipment slot="Head" id="Item.pilos_noble_crest"/>
+				<equipment slot="Cape" id="Item.leopard_pelt"/>
+				<equipment slot="Body" id="Item.hayster_lino_10"/>
+				<equipment slot="Leg" id="Item.armoured_legs_2_3"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.hoplon_twb_5"/>
+				<equipment slot="Head" id="Item.pilos_4_crested_guarded"/>
+				<equipment slot="Cape" id="Item.AR_aserai_shoulder_q"/>
+				<equipment slot="Body" id="Item.hayster_lino_11"/>
+				<equipment slot="Leg" id="Item.armoured_legs_2_3"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.hoplon_twb_5"/>
+				<equipment slot="Head" id="Item.pilos_noble_crest"/>
+				<equipment slot="Cape" id="Item.AR_aserai_shoulder_i"/>
+				<equipment slot="Body" id="Item.hayster_lino_10"/>
+				<equipment slot="Leg" id="Item.armoured_legs_2_3"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.doru_a"/>
+				<equipment slot="Item1" id="Item.hoplon_twb_5"/>
+				<equipment slot="Head" id="Item.pilos_4_crested_guarded"/>
+				<equipment slot="Cape" id="Item.AR_aserai_shoulder_p"/>
+				<equipment slot="Body" id="Item.hayster_lino_11"/>
+				<equipment slot="Leg" id="Item.armoured_legs_2_3"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Body" id="Item.chiton_sleeves_1"/>
+				<equipment slot="Leg" id="Item.sandals_1"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
 </NPCCharacters>
